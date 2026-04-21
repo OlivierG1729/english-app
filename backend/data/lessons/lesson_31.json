@@ -1,0 +1,295 @@
+{
+  "id": "31",
+  "unit": 4,
+  "unit_title": "Advanced Discourse & Argumentation",
+  "title": "The City of the Future",
+  "level": "C1",
+  "type": "story",
+  "theme": "Urban Planning, Technology & Public Space",
+  "reading_time": "6 min",
+  "content": {
+    "paragraphs": [
+      {
+        "en": "Cities have always been experiments. The ancient grid of Miletus, the revolutionary boulevard system of Haussmann's Paris, the tower blocks of the post-war welfare state — each represented not just an architectural choice but a theory about how human beings should live together, and what a good society looked like from above. We build our assumptions into concrete and steel and then spend generations discovering whether we were right.",
+        "fr": "Les villes ont toujours été des expériences. La grille antique de Milet, le système révolutionnaire de boulevards du Paris d'Haussmann, les tours du welfare state d'après-guerre — chacun représentait non seulement un choix architectural mais une théorie sur la façon dont les êtres humains devraient vivre ensemble, et à quoi ressemblait une bonne société vue de haut. Nous construisons nos suppositions dans le béton et l'acier et passons ensuite des générations à découvrir si nous avions raison."
+      },
+      {
+        "en": "The current moment is no exception. Across the world, cities are being reshaped by a confluence of forces: the data revolution, the climate emergency, demographic change, and the lingering effects of a pandemic that made many people question both where and how they want to live. The decisions being made now — about transport, housing density, public space, energy infrastructure — will define urban life for the next fifty years.",
+        "fr": "Le moment actuel ne fait pas exception. Dans le monde entier, les villes sont remodelées par une confluence de forces : la révolution des données, l'urgence climatique, le changement démographique et les effets persistants d'une pandémie qui a amené beaucoup de personnes à questionner à la fois où et comment elles veulent vivre. Les décisions prises maintenant — sur les transports, la densité du logement, l'espace public, l'infrastructure énergétique — définiront la vie urbaine pour les cinquante prochaines années."
+      },
+      {
+        "en": "One vision, prominent in technology circles, is the 'smart city': an urban environment saturated with sensors, cameras and data collection infrastructure, capable of managing traffic flows, energy usage, waste and crime with an efficiency that no human bureaucracy could match. Singapore has built significant elements of this model. Songdo, in South Korea, was designed from scratch as a smart city and has been held up as a template. The appeal is real: optimisation is genuinely valuable. The question is what is being optimised for, and who decides.",
+        "fr": "Une vision, proéminente dans les cercles technologiques, est la « ville intelligente » : un environnement urbain saturé de capteurs, de caméras et d'infrastructures de collecte de données, capable de gérer les flux de circulation, la consommation d'énergie, les déchets et la criminalité avec une efficacité qu'aucune bureaucratie humaine ne pourrait égaler. Singapour a construit des éléments importants de ce modèle. Songdo, en Corée du Sud, a été conçue à partir de zéro comme une ville intelligente et a été présentée comme un modèle. L'attrait est réel : l'optimisation est vraiment précieuse. La question est de savoir ce pour quoi on optimise, et qui décide."
+      },
+      {
+        "en": "The cities that have been most consistently liveable — Copenhagen, Vienna, Amsterdam, Zurich — have not been the most technologically sophisticated. They have been the ones that invested most heavily in the unglamorous infrastructure of everyday life: reliable public transport, plentiful affordable housing, well-maintained public space, and institutions of civic governance that are genuinely accountable to residents. These things are not technologically complex. They are politically complex — they require sustained investment, difficult trade-offs, and the capacity to resist short-term pressures.",
+        "fr": "Les villes qui ont été le plus constamment habitables — Copenhague, Vienne, Amsterdam, Zurich — n'ont pas été les plus sophistiquées technologiquement. Ce sont celles qui ont le plus investi dans l'infrastructure sans glamour de la vie quotidienne : transports publics fiables, logements abordables en abondance, espace public bien entretenu et institutions de gouvernance civique véritablement responsables envers les résidents. Ces choses ne sont pas technologiquement complexes. Elles sont politiquement complexes — elles nécessitent un investissement soutenu, des compromis difficiles et la capacité de résister aux pressions à court terme."
+      },
+      {
+        "en": "There is a risk, in the enthusiasm for technological solutions, of what we might call 'solutionism': the belief that every human problem has a technical fix, and that the right algorithm can substitute for the political will to make difficult choices. The city's traffic problem is not fundamentally an optimisation problem; it is a problem of how many cars we decide to allow, which is a political and values question that no sensor network can resolve. The housing crisis is not a data problem; it is a problem of who benefits from high property values and who pays the cost of them.",
+        "fr": "Il y a un risque, dans l'enthousiasme pour les solutions technologiques, de ce qu'on pourrait appeler le « solutionnisme » : la croyance que chaque problème humain a une solution technique, et que le bon algorithme peut se substituer à la volonté politique de faire des choix difficiles. Le problème de circulation de la ville n'est pas fondamentalement un problème d'optimisation ; c'est un problème du nombre de voitures que nous décidons d'autoriser, ce qui est une question politique et de valeurs qu'aucun réseau de capteurs ne peut résoudre. La crise du logement n'est pas un problème de données ; c'est un problème de qui bénéficie de la hausse des valeurs immobilières et qui en paie le coût."
+      },
+      {
+        "en": "The most important question about the future city is not 'what technologies will it use?' but 'who is it for?' Technology is a powerful tool for building whatever vision has been decided. It is a poor substitute for deciding what to build. The cities that will be genuinely good places to live in fifty years will be the ones that answer that question — through democratic processes, with sustained commitment, with a willingness to distribute both the costs and the benefits — before they reach for the sensors.",
+        "fr": "La question la plus importante sur la ville future n'est pas « quelles technologies utilisera-t-elle ? » mais « pour qui est-elle ? » La technologie est un outil puissant pour construire quelle que soit la vision qui a été décidée. C'est un mauvais substitut pour décider quoi construire. Les villes qui seront de vrais bons endroits où vivre dans cinquante ans seront celles qui répondront à cette question — à travers des processus démocratiques, avec un engagement soutenu, avec la volonté de distribuer à la fois les coûts et les bénéfices — avant de tendre la main vers les capteurs."
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "confluence",
+        "phonetic": "/ˈkɒnfluəns/",
+        "type": "noun",
+        "definition_en": "un rassemblement de plusieurs choses qui se produisent simultanément",
+        "definition_fr": "confluence, convergence",
+        "example": "A confluence of economic, technological and political forces is reshaping cities.",
+        "level": "C1"
+      },
+      {
+        "word": "smart city",
+        "phonetic": "/smɑːrt ˈsɪti/",
+        "type": "noun (tech/urban planning)",
+        "definition_en": "un environnement urbain utilisant la collecte de données et la technologie numérique pour gérer les infrastructures et les services",
+        "definition_fr": "ville intelligente",
+        "example": "Smart city projects promise efficiency but raise questions about data privacy.",
+        "level": "B2"
+      },
+      {
+        "word": "solutionism",
+        "phonetic": "/ˈsɒluːʃənɪzəm/",
+        "type": "noun",
+        "definition_en": "la croyance que chaque problème peut être résolu par une solution technique ou algorithmique",
+        "definition_fr": "solutionnisme (techno)",
+        "example": "Solutionism ignores the political dimensions of problems that resist technical fixes.",
+        "level": "C1"
+      },
+      {
+        "word": "liveable",
+        "phonetic": "/ˈlɪvəbl/",
+        "type": "adjective",
+        "definition_en": "agréable et adapté pour y vivre ; offrant une bonne qualité de vie",
+        "definition_fr": "vivable, agréable à vivre",
+        "example": "The most liveable cities consistently invest in public transport and affordable housing.",
+        "level": "B2"
+      },
+      {
+        "word": "unglamorous",
+        "phonetic": "/ʌnˈɡlæmərəs/",
+        "type": "adjective",
+        "definition_en": "qui manque d'attrait ou de prestige ; ordinaire et peu impressionnant",
+        "definition_fr": "sans glamour, peu attrayant, ordinaire",
+        "example": "Good urban governance often depends on unglamorous things: sewage, pavements, maintenance.",
+        "level": "B2"
+      },
+      {
+        "word": "civic governance",
+        "phonetic": "/ˈsɪvɪk ˈɡʌvənəns/",
+        "type": "noun (political science)",
+        "definition_en": "le système par lequel une ville ou une communauté est gérée et administrée",
+        "definition_fr": "gouvernance civique",
+        "example": "Strong civic governance requires accountable institutions and meaningful public participation.",
+        "level": "C1"
+      },
+      {
+        "word": "demographic",
+        "phonetic": "/ˌdemɒˈɡræfɪk/",
+        "type": "adjective / noun",
+        "definition_en": "relatif à la structure des populations — âge, taille, densité, etc.",
+        "definition_fr": "démographique",
+        "example": "Demographic change — ageing populations, shrinking households — challenges traditional urban planning models.",
+        "level": "B2"
+      },
+      {
+        "word": "to saturate",
+        "phonetic": "/ˈsætʃəreɪt/",
+        "type": "verb",
+        "definition_en": "remplir complètement ; imprégner entièrement de quelque chose",
+        "definition_fr": "saturer",
+        "example": "The city is saturated with surveillance cameras and environmental sensors.",
+        "level": "B2"
+      },
+      {
+        "word": "trade-off",
+        "phonetic": "/ˈtreɪd ɒf/",
+        "type": "noun",
+        "definition_en": "un équilibre entre deux résultats souhaitables mais incompatibles",
+        "definition_fr": "compromis, arbitrage",
+        "example": "Density vs. space is a classic urban planning trade-off.",
+        "level": "B2"
+      },
+      {
+        "word": "template",
+        "phonetic": "/ˈtemplɪt/",
+        "type": "noun",
+        "definition_en": "un modèle ou patron utilisé comme guide pour créer quelque chose d'autre",
+        "definition_fr": "modèle, gabarit, template",
+        "example": "Songdo has been held up as a template for future smart cities.",
+        "level": "B2"
+      }
+    ],
+    "grammar_points": [
+      {
+        "title": "'The question is not X but Y' — reframing technical as political",
+        "explanation": "Cette structure sert à **remettre en question un cadrage courant** d'un problème. Elle révèle que ce qui ressemble à une question technique est en réalité une question de valeurs ou politique — ce qui déplace entièrement le débat.",
+        "examples": [
+          "'The question is **not** what technologies to use, **but** who the city is for.'",
+          "'The problem is **not** an optimisation question — it is **a political question** about values.'",
+          "'The challenge is **not** data collection; it is **how we decide** what to build.'",
+          "This move exposes 'technological solutionism' and recentres the political dimension."
+        ]
+      },
+      {
+        "title": "Appositive noun phrases: 'the unglamorous infrastructure of everyday life: reliable public transport, plentiful housing...'",
+        "explanation": "Un **deux-points suivi d'une liste** est l'une des structures les plus efficaces dans l'écriture analytique. Elle nomme un concept, puis le développe concrètement. Le contraste entre l'abstrait et le concret rend l'abstrait tangible.",
+        "examples": [
+          "'The unglamorous infrastructure: **reliable public transport**, **affordable housing**, **well-maintained public space**.'",
+          "'The necessary conditions for democracy: **free press**, **independent courts**, **active civil society**.'",
+          "Tip: the abstract noun before the colon should be vivid in itself; the list should feel concrete and unmistakeable."
+        ]
+      },
+      {
+        "title": "'Before they reach for the sensors' — ending with an unexpected concrete image",
+        "explanation": "Terminer un passage analytique par une image concrète et spécifique (plutôt qu'une autre abstraction) crée un effet mémorable et ancrant. Le lecteur arrive à quelque chose de tangible après un argument dense.",
+        "examples": [
+          "'...with a willingness to distribute both costs and benefits — **before they reach for the sensors**.'",
+          "'...through democratic processes, sustained commitment — **before they open the app**.'",
+          "This is a literary technique applied to analytic writing: the final image should do the work of the preceding argument."
+        ]
+      }
+    ],
+    "expressions": [
+      {
+        "expression": "held up as a template",
+        "meaning_fr": "présenté comme un modèle, cité en exemple",
+        "example": "Songdo has been held up as a template for the smart city of the future.",
+        "register": "neutral / analytical",
+        "note": "« Held up » comme exemple signifie activement présenté aux autres comme digne d'être imité. Notez la voix passive — elle suggère que ce sont d'autres qui font la présentation."
+      },
+      {
+        "expression": "optimisation is genuinely valuable — but what is being optimised for?",
+        "meaning_fr": "l'optimisation est vraiment précieuse — mais pour quoi optimise-t-on ?",
+        "example": "The smart city appeal is real. But the question is: what is being optimised for, and who decides?",
+        "register": "analytical / critical",
+        "note": "Un mouvement classique dans la critique technologique : accepter la valeur d'un outil tout en questionnant sa direction. Très applicable à l'IA, au big data et à l'urbanisme."
+      },
+      {
+        "expression": "political will",
+        "meaning_fr": "volonté politique",
+        "example": "No algorithm can substitute for the political will to make difficult choices.",
+        "register": "formal / political",
+        "note": "L'une des expressions les plus importantes en analyse politique. Son absence explique de nombreux échecs de politiques publiques."
+      },
+      {
+        "expression": "sustained commitment",
+        "meaning_fr": "engagement soutenu, constance dans l'engagement",
+        "example": "Good cities require sustained commitment over decades, not quick fixes.",
+        "register": "formal / analytical",
+        "note": "Implique que l'engagement est maintenu dans le temps malgré les circonstances politiques changeantes. Contraste avec les « victoires rapides » ou les « solutions faciles »."
+      },
+      {
+        "expression": "designing from scratch",
+        "meaning_fr": "concevoir de zéro, créer à partir de rien",
+        "example": "Songdo was designed from scratch as a smart city rather than growing organically.",
+        "register": "neutral",
+        "note": "« From scratch » signifie depuis le tout début, sans utiliser quoi que ce soit d'existant. Implique une page blanche."
+      }
+    ]
+  },
+  "exercises": {
+    "written": [
+      {
+        "id": "w1",
+        "type": "multiple_choice",
+        "question": "What does the author identify as the key characteristic of the most consistently liveable cities?",
+        "options": [
+          "Investment in advanced technology and smart infrastructure.",
+          "Favourable climate and geography.",
+          "Investment in ordinary infrastructure and accountable civic governance.",
+          "High GDP and significant corporate investment."
+        ],
+        "answer": 2,
+        "explanation": "The text says these cities 'invested most heavily in the unglamorous infrastructure of everyday life: reliable public transport, plentiful affordable housing, well-maintained public space, and institutions of civic governance that are genuinely accountable.'"
+      },
+      {
+        "id": "w2",
+        "type": "multiple_choice",
+        "question": "What does the author mean by 'solutionism'?",
+        "options": [
+          "The approach of solving every problem immediately.",
+          "The belief that technical or algorithmic solutions can substitute for political decision-making.",
+          "The strategy of finding multiple solutions to the same problem.",
+          "The practice of optimising city management through data."
+        ],
+        "answer": 1,
+        "explanation": "'Solutionism': the belief that every human problem has a technical fix, and that the right algorithm can substitute for the political will to make difficult choices."
+      },
+      {
+        "id": "w3",
+        "type": "fill_blank",
+        "sentence": "The traffic problem is not an optimisation challenge — it is a ________ question about how many cars to allow.",
+        "answer": "political / values",
+        "hint": "A qualifier indicating that the question involves values, not just efficiency."
+      },
+      {
+        "id": "w4",
+        "type": "fill_blank",
+        "sentence": "The new district was designed ________ ________ ________ rather than developing organically.",
+        "answer": "from scratch",
+        "hint": "An expression meaning 'from the very beginning, with nothing pre-existing'."
+      },
+      {
+        "id": "w5",
+        "type": "fill_blank",
+        "sentence": "Good cities require ________ ________ over decades, not short-term fixes.",
+        "answer": "sustained commitment",
+        "hint": "A noun phrase meaning 'long-term dedication maintained over time'."
+      },
+      {
+        "id": "w6",
+        "type": "translation",
+        "french": "La question la plus importante sur la ville future n'est pas quelles technologies elle utilisera, mais pour qui elle sera construite.",
+        "suggested_answer": "The most important question about the future city is not what technologies it will use, but who it is being built for.",
+        "key_vocabulary": ["most important question", "not... but who it is built for"]
+      },
+      {
+        "id": "w7",
+        "type": "translation",
+        "french": "Les villes les plus habitables ont investi dans l'infrastructure sans glamour de la vie quotidienne plutôt que dans des solutions technologiques sophistiquées.",
+        "suggested_answer": "The most liveable cities have invested in the unglamorous infrastructure of everyday life rather than in sophisticated technological solutions.",
+        "key_vocabulary": ["most liveable cities", "unglamorous infrastructure", "rather than"]
+      },
+      {
+        "id": "w8",
+        "type": "translation",
+        "french": "La crise du logement n'est pas un problème de données ; c'est un problème politique de qui bénéficie de la hausse des prix.",
+        "suggested_answer": "The housing crisis is not a data problem; it is a political problem of who benefits from rising prices.",
+        "key_vocabulary": ["not a data problem", "a political problem of who benefits from"]
+      }
+    ],
+    "oral": [
+      {
+        "id": "o1",
+        "type": "read_aloud",
+        "instruction": "Read the final paragraph. This is the conclusion of a sustained argument — authoritative and slightly visionary. The final image 'before they reach for the sensors' should land with quiet force.",
+        "text": "The most important question about the future city is not 'what technologies will it use?' but 'who is it for?' Technology is a powerful tool for building whatever vision has been decided. It is a poor substitute for deciding what to build. The cities that will be genuinely good places to live in fifty years will be the ones that answer that question — through democratic processes, with sustained commitment, with a willingness to distribute both the costs and the benefits — before they reach for the sensors.",
+        "focus": "The three parallel phrases — 'through democratic processes', 'with sustained commitment', 'with a willingness' — should build rhythmically. The final clause is the payoff.",
+        "phonetic_tips": ["substitute: /ˈsʌbstɪtjuːt/", "sustained: /səˈsteɪnd/", "distribute: /dɪˈstrɪbjuːt/"]
+      },
+      {
+        "id": "o2",
+        "type": "answer_question",
+        "question": "Should cities prioritise livability for current residents, or sustainability for future generations? Are these goals compatible?",
+        "suggested_answer": "I think they are broadly compatible, but there are genuine short-term tensions. Making a city more sustainable — reducing car use, increasing density, building more affordable housing — often involves costs for current residents: less parking, changed neighbourhoods, disrupted habits. The political challenge is persuading people who are already there that the changes being proposed will improve rather than damage their lives. I think the most compelling argument is that the cities that have done this well — Copenhagen's cycling infrastructure, Vienna's social housing — are among the most desirable places to live. Sustainability and livability can be mutually reinforcing rather than competing. The challenge is making the long-term gains visible during the short-term disruption.",
+        "vocabulary_hints": ["short-term tensions", "mutually reinforcing", "making long-term gains visible", "short-term disruption"],
+        "duration_seconds": 90
+      },
+      {
+        "id": "o3",
+        "type": "answer_question",
+        "question": "Is urban surveillance — cameras, smart sensors, data collection — compatible with a free society? Where should the limits be?",
+        "suggested_answer": "I think it can be compatible, but it requires clear and enforceable limits. The basic principle I'd apply is purpose limitation: data collected for traffic management should not be available for law enforcement, and data collected for environmental monitoring should not be used for individual profiling. The problem with many smart city implementations is that these limitations are not built in at the architecture level — data is collected for one purpose and then repurposed. The cities I'd find most concerning are those where data collection infrastructure is deployed before privacy frameworks have been designed, which is a lot of them. The question isn't whether sensors are inherently dangerous; it's whether the governance framework around them is robust enough to prevent scope creep and ensure democratic accountability.",
+        "vocabulary_hints": ["purpose limitation", "individual profiling", "scope creep", "democratic accountability", "architecture level"],
+        "duration_seconds": 90
+      }
+    ]
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "id": "a1_08",
+  "unit": 6,
+  "unit_title": "First Steps",
+  "title": "The Weather Today",
+  "level": "A1",
+  "type": "dialogue",
+  "theme": "Weather & Seasons",
+  "reading_time": "2 min",
+  "content": {
+    "paragraphs": [
+      {
+        "en": "Good morning, Anna! What's the weather like today?",
+        "fr": "Bonjour, Anna ! Quel temps fait-il aujourd'hui ?",
+        "speaker": "Max"
+      },
+      {
+        "en": "Good morning, Max! It's sunny today. The sky is blue and it's very hot.",
+        "fr": "Bonjour, Max ! Il fait beau aujourd'hui. Le ciel est bleu et il fait tres chaud.",
+        "speaker": "Anna"
+      },
+      {
+        "en": "That's great! I don't need my coat today. But look at the clouds! Maybe it will be rainy later.",
+        "fr": "Super ! Je n'ai pas besoin de mon manteau aujourd'hui. Mais regarde les nuages ! Peut-etre qu'il va pleuvoir plus tard.",
+        "speaker": "Max"
+      },
+      {
+        "en": "You're right. I have my umbrella in my bag. When it's cold, I always wear my coat. When it's rainy, I take my umbrella.",
+        "fr": "Tu as raison. J'ai mon parapluie dans mon sac. Quand il fait froid, je porte toujours mon manteau. Quand il pleut, je prends mon parapluie.",
+        "speaker": "Anna"
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "sunny",
+        "phonetic": "/ˈsʌni/",
+        "type": "adjective",
+        "definition_en": "quand le soleil brille et le ciel est degage",
+        "definition_fr": "ensoleille",
+        "example": "It's a sunny day today.",
+        "level": "A1"
+      },
+      {
+        "word": "rainy",
+        "phonetic": "/ˈreɪni/",
+        "type": "adjective",
+        "definition_en": "quand l'eau tombe du ciel",
+        "definition_fr": "pluvieux",
+        "example": "It's rainy today. Take your umbrella!",
+        "level": "A1"
+      },
+      {
+        "word": "cold",
+        "phonetic": "/koʊld/",
+        "type": "adjective",
+        "definition_en": "qui a une temperature basse",
+        "definition_fr": "froid",
+        "example": "It's very cold in winter.",
+        "level": "A1"
+      },
+      {
+        "word": "hot",
+        "phonetic": "/hɒt/",
+        "type": "adjective",
+        "definition_en": "qui a une temperature elevee",
+        "definition_fr": "chaud",
+        "example": "It's hot in summer.",
+        "level": "A1"
+      },
+      {
+        "word": "umbrella",
+        "phonetic": "/ʌmˈbrɛlə/",
+        "type": "noun",
+        "definition_en": "un objet que l'on tient au-dessus de sa tete pour rester au sec sous la pluie",
+        "definition_fr": "parapluie",
+        "example": "I always take my umbrella when it's rainy.",
+        "level": "A1"
+      },
+      {
+        "word": "coat",
+        "phonetic": "/koʊt/",
+        "type": "noun",
+        "definition_en": "un vetement chaud que l'on porte dehors",
+        "definition_fr": "manteau",
+        "example": "Wear your coat. It's cold outside!",
+        "level": "A1"
+      }
+    ],
+    "grammar_points": [
+      {
+        "title": "\"It is + adjective\" for weather",
+        "explanation": "En anglais, on décrit la météo avec **\"It is\" (ou \"It's\") + adjectif**. En français, on dit 'Il fait chaud', mais en anglais on dit **'It is hot'**. Le sujet est toujours 'it' pour la météo.",
+        "examples": [
+          "It's sunny today. = Il fait beau aujourd'hui.",
+          "It's cold. = Il fait froid.",
+          "It's hot in summer. = Il fait chaud en ete.",
+          "It's rainy. = Il pleut. / C'est pluvieux."
+        ]
+      }
+    ],
+    "expressions": [
+      {
+        "expression": "What's the weather like?",
+        "meaning_fr": "Quel temps fait-il ?",
+        "example": "What's the weather like today? It's sunny!",
+        "register": "neutral",
+        "note": "La façon standard de demander quel temps il fait. On peut aussi dire 'What's the weather like in Paris?'"
+      },
+      {
+        "expression": "It's sunny today",
+        "meaning_fr": "Il fait beau aujourd'hui",
+        "example": "It's sunny today. Let's go to the park!",
+        "register": "neutral",
+        "note": "On peut remplacer 'sunny' par d'autres mots de météo : 'It's rainy today', 'It's cold today', 'It's hot today'."
+      }
+    ]
+  },
+  "exercises": {
+    "written": [
+      {
+        "id": "w1",
+        "type": "multiple_choice",
+        "question": "How do you say 'Quel temps fait-il ?' in English?",
+        "options": [
+          "How is the weather?",
+          "What's the weather like?",
+          "Where is the weather?"
+        ],
+        "answer": 1,
+        "explanation": "The standard phrase is 'What's the weather like?' to ask about the weather."
+      },
+      {
+        "id": "w2",
+        "type": "multiple_choice",
+        "question": "It's raining. What do you take?",
+        "options": [
+          "a coat",
+          "a lamp",
+          "an umbrella"
+        ],
+        "answer": 2,
+        "explanation": "When it rains, you take an umbrella (parapluie) to stay dry."
+      },
+      {
+        "id": "w3",
+        "type": "fill_blank",
+        "sentence": "It's very ________ in summer. I drink a lot of water.",
+        "answer": "hot",
+        "hint": "The English word for 'chaud'."
+      },
+      {
+        "id": "w4",
+        "type": "fill_blank",
+        "sentence": "It's ________ today. The sun is shining!",
+        "answer": "sunny",
+        "hint": "The adjective from 'sun' that means 'ensoleille'."
+      },
+      {
+        "id": "w5",
+        "type": "translation",
+        "french": "Il fait froid aujourd'hui. Je porte mon manteau.",
+        "suggested_answer": "It's cold today. I wear my coat.",
+        "key_vocabulary": ["it's cold", "today", "I wear", "coat"]
+      }
+    ],
+    "oral": [
+      {
+        "id": "o1",
+        "type": "read_aloud",
+        "instruction": "Read these sentences aloud slowly and clearly.",
+        "text": "It's sunny today. The sky is blue and it's very hot.",
+        "focus": "Practice the contraction 'It's' (= It is). Make sure to pronounce 'sunny' and 'hot' clearly.",
+        "phonetic_tips": ["sunny: /ˈsʌni/", "it's: /ɪts/", "hot: /hɒt/"]
+      },
+      {
+        "id": "o2",
+        "type": "answer_question",
+        "question": "What's the weather like today where you live? What do you wear?",
+        "suggested_answer": "Today, it's sunny and hot. I don't need my coat. But when it's rainy, I take my umbrella.",
+        "vocabulary_hints": ["It's sunny/rainy/cold/hot", "I wear my coat", "I take my umbrella"],
+        "duration_seconds": 30
+      }
+    ]
+  }
+}

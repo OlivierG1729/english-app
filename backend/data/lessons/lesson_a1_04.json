@@ -1,0 +1,202 @@
+{
+  "id": "a1_04",
+  "unit": 6,
+  "unit_title": "First Steps",
+  "title": "At the Coffee Shop",
+  "level": "A1",
+  "type": "dialogue",
+  "theme": "Ordering Food & Drinks",
+  "reading_time": "2 min",
+  "content": {
+    "paragraphs": [
+      {
+        "en": "Hello! Welcome to the coffee shop. What can I get for you?",
+        "fr": "Bonjour ! Bienvenue au cafe. Qu'est-ce que je peux vous servir ?",
+        "speaker": "Server"
+      },
+      {
+        "en": "Hello! Can I have a cup of coffee, please?",
+        "fr": "Bonjour ! Est-ce que je peux avoir une tasse de cafe, s'il vous plait ?",
+        "speaker": "Customer"
+      },
+      {
+        "en": "Of course! Would you also like a piece of cake?",
+        "fr": "Bien sur ! Voulez-vous aussi un morceau de gateau ?",
+        "speaker": "Server"
+      },
+      {
+        "en": "Yes, please! How much is it?",
+        "fr": "Oui, s'il vous plait ! Combien ca coute ?",
+        "speaker": "Customer"
+      },
+      {
+        "en": "The coffee is two pounds and the cake is three pounds. That is five pounds, please.",
+        "fr": "Le cafe coute deux livres et le gateau coute trois livres. Ca fait cinq livres, s'il vous plait.",
+        "speaker": "Server"
+      },
+      {
+        "en": "Here you are. Thank you very much!",
+        "fr": "Voila. Merci beaucoup !",
+        "speaker": "Customer"
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "coffee",
+        "phonetic": "/ˈkɒfi/",
+        "type": "noun",
+        "definition_en": "une boisson chaude et brune faite a partir de grains de cafe",
+        "definition_fr": "cafe (la boisson)",
+        "example": "I drink coffee every morning.",
+        "level": "A1"
+      },
+      {
+        "word": "water",
+        "phonetic": "/ˈwɔːtər/",
+        "type": "noun",
+        "definition_en": "un liquide transparent que l'on boit",
+        "definition_fr": "eau",
+        "example": "Can I have a glass of water, please?",
+        "level": "A1"
+      },
+      {
+        "word": "cake",
+        "phonetic": "/keɪk/",
+        "type": "noun",
+        "definition_en": "un aliment sucre fait avec de la farine, du sucre et des oeufs",
+        "definition_fr": "gateau",
+        "example": "The chocolate cake is delicious.",
+        "level": "A1"
+      },
+      {
+        "word": "please",
+        "phonetic": "/pliːz/",
+        "type": "adverb",
+        "definition_en": "un mot poli utilise quand on demande quelque chose",
+        "definition_fr": "s'il vous plait",
+        "example": "A coffee, please.",
+        "level": "A1"
+      },
+      {
+        "word": "much",
+        "phonetic": "/mʌtʃ/",
+        "type": "adverb",
+        "definition_en": "une grande quantite (utilise dans 'how much' = combien)",
+        "definition_fr": "beaucoup, combien",
+        "example": "How much is this?",
+        "level": "A1"
+      },
+      {
+        "word": "cup",
+        "phonetic": "/kʌp/",
+        "type": "noun",
+        "definition_en": "un petit recipient utilise pour boire",
+        "definition_fr": "tasse",
+        "example": "A cup of tea, please.",
+        "level": "A1"
+      }
+    ],
+    "grammar_points": [
+      {
+        "title": "\"Can I have...?\" / \"How much is...?\"",
+        "explanation": "Utilisez **\"Can I have...?\"** pour demander poliment quelque chose (en français : \"Est-ce que je peux avoir...?\"). Utilisez **\"How much is...?\"** pour demander le prix (en français : \"Combien coûte...?\"). Ces expressions sont très utiles dans les magasins et les restaurants.",
+        "examples": [
+          "Can I have a coffee, please? = Est-ce que je peux avoir un cafe, s'il vous plait ?",
+          "Can I have a glass of water? = Est-ce que je peux avoir un verre d'eau ?",
+          "How much is the cake? = Combien coute le gateau ?",
+          "How much is it? = Combien ca coute ?"
+        ]
+      }
+    ],
+    "expressions": [
+      {
+        "expression": "Can I have...?",
+        "meaning_fr": "Est-ce que je peux avoir... ?",
+        "example": "Can I have a cup of coffee, please?",
+        "register": "neutral / polite",
+        "note": "La façon la plus courante de commander quelque chose en anglais. Ajoutez toujours 'please' pour être poli."
+      },
+      {
+        "expression": "Here you are",
+        "meaning_fr": "Voila, tenez",
+        "example": "Here you are. Five pounds, please.",
+        "register": "neutral",
+        "note": "S'utilise quand on donne quelque chose à quelqu'un. Similaire à 'voilà' en français."
+      },
+      {
+        "expression": "How much is it?",
+        "meaning_fr": "Combien ca coute ?",
+        "example": "I like this cake. How much is it?",
+        "register": "neutral",
+        "note": "S'utilise pour demander le prix de quelque chose."
+      }
+    ]
+  },
+  "exercises": {
+    "written": [
+      {
+        "id": "w1",
+        "type": "multiple_choice",
+        "question": "How do you politely order a coffee in English?",
+        "options": [
+          "Give me a coffee.",
+          "Can I have a coffee, please?",
+          "I want coffee now."
+        ],
+        "answer": 1,
+        "explanation": "'Can I have... please?' is the polite way to order in English."
+      },
+      {
+        "id": "w2",
+        "type": "multiple_choice",
+        "question": "What does 'How much is it?' mean in French?",
+        "options": [
+          "Combien ca coute ?",
+          "Comment ca va ?",
+          "Qu'est-ce que c'est ?"
+        ],
+        "answer": 0,
+        "explanation": "'How much is it?' means 'Combien ca coute ?'. It is used to ask the price."
+      },
+      {
+        "id": "w3",
+        "type": "fill_blank",
+        "sentence": "Can I ________ a cup of tea, please?",
+        "answer": "have",
+        "hint": "The verb 'avoir' in English."
+      },
+      {
+        "id": "w4",
+        "type": "fill_blank",
+        "sentence": "How ________ is the cake?",
+        "answer": "much",
+        "hint": "The word used to ask about price: 'How _____ is it?'"
+      },
+      {
+        "id": "w5",
+        "type": "translation",
+        "french": "Est-ce que je peux avoir un verre d'eau, s'il vous plait ?",
+        "suggested_answer": "Can I have a glass of water, please?",
+        "key_vocabulary": ["can I have", "glass of water", "please"]
+      }
+    ],
+    "oral": [
+      {
+        "id": "o1",
+        "type": "read_aloud",
+        "instruction": "Read these sentences aloud as if you are in a coffee shop.",
+        "text": "Hello! Can I have a cup of coffee, please? How much is it?",
+        "focus": "Be polite and speak clearly. Stress the word 'please' at the end.",
+        "phonetic_tips": ["coffee: /ˈkɒfi/", "please: /pliːz/", "much: /mʌtʃ/"]
+      },
+      {
+        "id": "o2",
+        "type": "answer_question",
+        "question": "You are at a coffee shop. Order a drink and a snack.",
+        "suggested_answer": "Hello! Can I have a cup of coffee and a piece of cake, please? How much is it?",
+        "vocabulary_hints": ["Can I have...", "please", "How much is it?"],
+        "duration_seconds": 30
+      }
+    ]
+  }
+}

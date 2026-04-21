@@ -1,0 +1,279 @@
+/* ExercisesStep.css */
+.exercises-step { max-width: 75vw; margin: 0 auto; }
+.exercises-header { margin-bottom: 1.25rem; }
+.exercises-header h2 { margin-bottom: 0.3rem; }
+.exercises-subtitle { font-size: 1.35rem; color: var(--text-secondary); }
+
+/* Score banner */
+.score-banner {
+  display: flex;
+  align-items: center;
+  gap: 1.25rem;
+  padding: 1rem 1.5rem;
+  border-radius: var(--radius-lg);
+  margin-bottom: 1.5rem;
+  border: 1px solid;
+}
+.score-banner.success {
+  background: var(--success-bg);
+  border-color: rgba(76,175,125,0.3);
+}
+.score-banner.warning {
+  background: rgba(201,168,76,0.08);
+  border-color: rgba(201,168,76,0.3);
+}
+
+.score-value {
+  font-family: var(--font-display);
+  font-size: 3.6rem;
+  font-weight: 700;
+  color: var(--success);
+  line-height: 1;
+  flex-shrink: 0;
+}
+.score-banner.warning .score-value { color: var(--accent-gold); }
+
+.score-message { font-size: 1.425rem; color: var(--text-secondary); }
+
+/* Onglets */
+.ex-tabs {
+  display: flex;
+  gap: 0.5rem;
+  margin-bottom: 1.5rem;
+  background: var(--bg-secondary);
+  padding: 0.4rem;
+  border-radius: var(--radius-lg);
+  border: 1px solid var(--border);
+}
+
+/* ─── Cartes d'exercice ──────────────────────────────────── */
+.written-list { display: flex; flex-direction: column; gap: 0.875rem; }
+
+.ex-card { padding: 1.25rem; transition: border-color var(--transition); }
+.ex-card.ex-correct { border-color: rgba(76,175,125,0.4); }
+.ex-card.ex-wrong   { border-color: rgba(224,112,112,0.3); }
+.ex-card.ex-revealed{ border-color: rgba(201,168,76,0.3); }
+
+.ex-num {
+  font-family: var(--font-mono);
+  font-size: 1.02rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--text-muted);
+  margin-bottom: 0.75rem;
+}
+
+.ex-question {
+  font-size: 1.47rem;
+  font-weight: 600;
+  color: var(--text-primary);
+  margin-bottom: 0.875rem;
+  line-height: 1.5;
+}
+
+.ex-hint {
+  font-size: 1.23rem;
+  color: var(--text-muted);
+  font-style: italic;
+  margin-bottom: 0.6rem;
+}
+
+/* QCM */
+.mcq-options {
+  display: flex;
+  flex-direction: column;
+  gap: 0.45rem;
+}
+
+.mcq-opt {
+  display: flex;
+  align-items: center;
+  gap: 0.7rem;
+  padding: 0.65rem 0.9rem;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-md);
+  background: var(--bg-elevated);
+  text-align: left;
+  cursor: pointer;
+  font-family: var(--font-body);
+  font-size: 1.35rem;
+  color: var(--text-primary);
+  transition: all var(--transition);
+}
+
+.mcq-opt:hover:not(:disabled) {
+  border-color: var(--accent-violet);
+  background: rgba(124,111,208,0.08);
+}
+
+.mcq-opt:disabled { cursor: default; }
+
+.mcq-opt.correct {
+  border-color: var(--success);
+  background: var(--success-bg);
+  color: var(--success);
+}
+
+.mcq-opt.wrong {
+  border-color: var(--error);
+  background: var(--error-bg);
+  color: var(--error);
+}
+
+.mcq-opt.dimmed { opacity: 0.4; }
+
+.mcq-letter {
+  width: 24px; height: 24px;
+  border-radius: 50%;
+  border: 1px solid currentColor;
+  display: flex; align-items: center; justify-content: center;
+  font-size: 1.08rem;
+  font-family: var(--font-mono);
+  font-weight: 700;
+  flex-shrink: 0;
+  opacity: 0.7;
+}
+
+/* Feedback */
+.ex-explanation {
+  display: flex;
+  gap: 0.5rem;
+  font-size: 1.275rem;
+  color: var(--text-secondary);
+  background: var(--bg-elevated);
+  padding: 0.6rem 0.8rem;
+  border-radius: var(--radius-sm);
+  margin-top: 0.75rem;
+  line-height: 1.5;
+}
+
+/* Fill blank */
+.fill-blank {}
+.fill-input-row { display: flex; gap: 0.75rem; margin-bottom: 0.75rem; }
+
+.fill-input {
+  flex: 1;
+  padding: 0.55rem 0.9rem;
+  background: var(--bg-input);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-md);
+  color: var(--text-primary);
+  font-family: var(--font-body);
+  font-size: 1.425rem;
+  outline: none;
+  transition: border-color var(--transition);
+}
+.fill-input:focus    { border-color: var(--accent-violet); }
+.fill-input.correct  { border-color: var(--success); background: var(--success-bg); }
+.fill-input.wrong    { border-color: var(--error);   background: var(--error-bg); }
+.fill-input:disabled { opacity: 0.7; }
+
+.ex-feedback { margin-top: 0.5rem; font-size: 1.32rem; }
+
+/* Traduction */
+.transl-fr-sentence {
+  display: flex;
+  align-items: baseline;
+  gap: 0.6rem;
+  font-size: 1.5rem;
+  padding: 0.75rem;
+  background: var(--bg-elevated);
+  border-radius: var(--radius-md);
+  margin-bottom: 0.75rem;
+  border-left: 3px solid var(--accent-gold);
+}
+
+.transl-input {
+  width: 100%;
+  padding: 0.7rem 0.9rem;
+  background: var(--bg-input);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-md);
+  color: var(--text-primary);
+  font-family: var(--font-body);
+  font-size: 1.425rem;
+  resize: vertical;
+  margin-bottom: 0.75rem;
+  outline: none;
+  transition: border-color var(--transition);
+}
+.transl-input:focus   { border-color: var(--accent-violet); }
+.transl-input:disabled{ opacity: 0.7; }
+
+.transl-key-vocab {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  flex-wrap: wrap;
+  margin-bottom: 0.75rem;
+}
+
+.suggested-label {
+  font-size: 1.08rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--accent-gold);
+  font-family: var(--font-mono);
+  display: block;
+  margin-bottom: 0.4rem;
+}
+
+/* Bouton submit */
+.ex-submit-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1.25rem;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.ex-submit-count {
+  font-family: var(--font-mono);
+  font-size: 1.23rem;
+  color: var(--text-muted);
+}
+
+/* Rappel exercices oraux */
+.oral-reminder { }
+.oral-reminder-text {
+  font-size: 1.38rem;
+  color: var(--text-secondary);
+  margin-bottom: 1.25rem;
+  padding: 1rem;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-md);
+}
+
+.oral-ex-preview { display: flex; flex-direction: column; gap: 0.6rem; }
+.oral-preview-card { padding: 0.9rem 1.1rem; }
+.oral-q-text-sm { font-size: 1.35rem; color: var(--text-secondary); font-style: italic; margin-top: 0.3rem; }
+
+/* Classes partagées importées d'autres composants */
+.hint-tag {
+  background: var(--bg-elevated);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  padding: 0.15rem 0.5rem;
+  font-size: 1.17rem;
+  color: var(--text-secondary);
+}
+.tips-mini-label {
+  font-size: 1.08rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--text-muted);
+  font-family: var(--font-mono);
+  white-space: nowrap;
+}
+
+@media (max-width: 768px) {
+  .exercises-step { max-width: 95vw; }
+  .mcq-options { flex-direction: column; }
+  .fill-input-row { flex-direction: column; gap: 0.5rem; }
+  .transl-input { font-size: 1rem; }
+}

@@ -1,0 +1,297 @@
+{
+  "id": "15",
+  "unit": 2,
+  "unit_title": "Culture, Arts & Media",
+  "title": "Into the Wild",
+  "level": "B2+",
+  "type": "story",
+  "theme": "Travel, Nature & Solitude",
+  "reading_time": "5 min",
+  "content": {
+    "paragraphs": [
+      {
+        "en": "On the third day, the rain finally stopped. Tom had been walking for six hours when the clouds broke, and the light that came through was the specific gold of late autumn in the Scottish Highlands — slanted, brief, almost apologetic. He sat on a rock above the loch and ate a handful of oatcakes and said nothing to nobody, and it was one of the finest moments of his adult life.",
+        "fr": "Le troisième jour, la pluie s'arrêta enfin. Tom marchait depuis six heures quand les nuages se déchirèrent, et la lumière qui apparut était l'or spécifique de la fin de l'automne dans les Highlands écossais — inclinée, brève, presque comme des excuses. Il s'assit sur un rocher au-dessus du loch et mangea une poignée d'oatcakes et ne dit rien à personne, et ce fut l'un des plus beaux moments de sa vie d'adulte."
+      },
+      {
+        "en": "He had been warned that walking the West Highland Way alone in late October was inadvisable. His colleagues thought he was going through something. His mother had sent him a list of emergency numbers. What none of them seemed to grasp was that he wasn't running away from anything — he was walking towards something that he didn't have a word for yet.",
+        "fr": "On l'avait prévenu que parcourir seul la West Highland Way en fin octobre était déconseillé. Ses collègues pensaient qu'il traversait quelque chose de difficile. Sa mère lui avait envoyé une liste de numéros d'urgence. Ce qu'aucun d'eux ne semblait saisir, c'est qu'il ne fuyait pas quelque chose — il marchait vers quelque chose pour lequel il n'avait pas encore de mot."
+      },
+      {
+        "en": "There is a particular quality to solitude in wild landscape that has no urban equivalent. Not loneliness — loneliness is the awareness of absence; this was something closer to fullness. The effort of walking all day left no space for the usual background noise of the mind — the rehearsed anxieties, the circular thoughts. He found himself simply present, which was, he realised, extraordinarily rare.",
+        "fr": "Il y a une qualité particulière à la solitude dans un paysage sauvage qui n'a pas d'équivalent urbain. Pas la solitude comme sentiment — la solitude est la conscience d'une absence ; c'était quelque chose de plus proche de la plénitude. L'effort de marcher toute la journée ne laissait aucune place au bruit de fond habituel de l'esprit — les angoisses répétées, les pensées circulaires. Il se retrouva simplement présent, ce qui était, réalisa-t-il, extraordinairement rare."
+      },
+      {
+        "en": "By day five, he had begun to notice things with a precision that surprised him. The way a particular reed bed bent in the wind and then recovered — not all at once, but in a wave that moved from one end to the other. The different textures of grey in the sky. The sound difference between a stream running over gravel and one running over rock. He had looked at this landscape before, many times, from a car window or on a screen. He had never seen it.",
+        "fr": "Au cinquième jour, il avait commencé à remarquer les choses avec une précision qui le surprit. La façon dont un champ de roseaux particulier se courbait dans le vent puis se redressait — pas d'un coup, mais en une vague qui se déplaçait d'un bout à l'autre. Les différentes textures du gris dans le ciel. La différence sonore entre un ruisseau coulant sur du gravier et un autre coulant sur de la roche. Il avait regardé ce paysage avant, de nombreuses fois, par une vitre de voiture ou sur un écran. Il ne l'avait jamais vu."
+      },
+      {
+        "en": "He wrote in a notebook each evening — not descriptions of where he'd walked, but observations: small things noticed, questions without answers, fragments of thought that would disappear in the morning if he didn't catch them. He had never kept a journal before. Reading it back now, years later, it reads like dispatches from someone who had temporarily become someone else.",
+        "fr": "Il écrivait dans un carnet chaque soir — non pas des descriptions de l'endroit où il avait marché, mais des observations : de petites choses remarquées, des questions sans réponses, des fragments de pensée qui disparaîtraient le matin s'il ne les attrapait pas. Il n'avait jamais tenu de journal auparavant. En le relisant maintenant, des années plus tard, on dirait des dépêches de quelqu'un qui était temporairement devenu quelqu'un d'autre."
+      },
+      {
+        "en": "He came home on a Sunday evening and found everything exactly as he had left it. Same flat, same inbox, same life. But something had shifted — the thing he had been walking towards, that he still had no name for. The closest he could get was this: for eight days, he had been a body in a landscape rather than a mind in a room. He wasn't sure how to carry that back. But he was certain that he had to try.",
+        "fr": "Il rentra chez lui un dimanche soir et trouva tout exactement comme il l'avait laissé. Même appartement, même boîte de réception, même vie. Mais quelque chose avait changé — la chose vers laquelle il marchait, à laquelle il n'avait toujours pas de nom. Le plus près qu'il pouvait s'en approcher était ceci : pendant huit jours, il avait été un corps dans un paysage plutôt qu'un esprit dans une pièce. Il ne savait pas comment ramener ça avec lui. Mais il était certain qu'il devait essayer."
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "slanted",
+        "phonetic": "/ˈslɑːntɪd/",
+        "type": "adjective",
+        "definition_en": "Ni vertical ni horizontal ; en biais ; (pour la lumière) arrivant selon un angle oblique",
+        "definition_fr": "incliné, oblique, en biais (lumière rasante)",
+        "example": "The slanted winter light made long shadows across the field.",
+        "level": "B2"
+      },
+      {
+        "word": "inadvisable",
+        "phonetic": "/ˌɪnədˈvaɪzəbl/",
+        "type": "adjective",
+        "definition_en": "Déconseillé ; susceptible d'entraîner des problèmes",
+        "definition_fr": "déconseillé, imprudent, peu recommandable",
+        "example": "Travelling alone at night in that area is inadvisable.",
+        "level": "B2"
+      },
+      {
+        "word": "solitude",
+        "phonetic": "/ˈsɒlɪtjuːd/",
+        "type": "noun",
+        "definition_en": "L'état d'être seul, souvent choisi et paisible (distinct de la solitude subie)",
+        "definition_fr": "solitude (choisie, positive) — à distinguer de la solitude soufferte",
+        "example": "She valued her morning solitude — an hour before the house woke up.",
+        "level": "B2"
+      },
+      {
+        "word": "equivalent",
+        "phonetic": "/ɪˈkwɪvələnt/",
+        "type": "noun/adjective",
+        "definition_en": "Quelque chose d'égal en valeur, en fonction ou en signification",
+        "definition_fr": "équivalent",
+        "example": "There is no urban equivalent of this kind of silence.",
+        "level": "B2"
+      },
+      {
+        "word": "circular (thoughts)",
+        "phonetic": "/ˈsɜːrkjʊlər/",
+        "type": "adjective",
+        "definition_en": "Qui tourne en rond et revient au même point ; sans résolution ni progression",
+        "definition_fr": "circulaire (pensées qui tournent en rond)",
+        "example": "She was trapped in circular thoughts that led nowhere.",
+        "level": "B2"
+      },
+      {
+        "word": "precision",
+        "phonetic": "/prɪˈsɪʒn/",
+        "type": "noun",
+        "definition_en": "La qualité d'être exact et précis",
+        "definition_fr": "précision",
+        "example": "He described the landscape with extraordinary precision.",
+        "level": "B2"
+      },
+      {
+        "word": "to recover",
+        "phonetic": "/rɪˈkʌvər/",
+        "type": "verb",
+        "definition_en": "Revenir à un état normal après avoir été perturbé",
+        "definition_fr": "se redresser, reprendre sa forme, récupérer",
+        "example": "The reeds bent in the storm, then slowly recovered.",
+        "level": "B2"
+      },
+      {
+        "word": "dispatches",
+        "phonetic": "/ˈdɪspætʃɪz/",
+        "type": "noun (plural)",
+        "definition_en": "Messages ou rapports envoyés depuis un lieu, en particulier par un journaliste ou un voyageur",
+        "definition_fr": "dépêches, rapports de terrain",
+        "example": "His journal entries read like dispatches from a foreign country.",
+        "level": "C1"
+      },
+      {
+        "word": "present (adjective)",
+        "phonetic": "/ˈpreznt/",
+        "type": "adjective (psychological)",
+        "definition_en": "Pleinement attentif et conscient du moment présent ; non distrait",
+        "definition_fr": "présent (mentalement), dans l'instant",
+        "example": "Mindfulness is the practice of being fully present in each moment.",
+        "level": "B2"
+      },
+      {
+        "word": "to grasp",
+        "phonetic": "/ɡrɑːsp/",
+        "type": "verb (figurative)",
+        "definition_en": "Comprendre quelque chose pleinement ; saisir le sens de",
+        "definition_fr": "saisir, comprendre, appréhender",
+        "example": "She struggled to grasp the complexity of the situation.",
+        "level": "B2"
+      }
+    ],
+    "grammar_points": [
+      {
+        "title": "Distinction between 'loneliness' and 'solitude' — precision in abstract vocabulary",
+        "explanation": "L'une des marques du niveau C1 en anglais est l'utilisation de mots apparentés avec **précision** — en comprenant les distinctions subtiles entre quasi-synonymes. L'histoire enseigne explicitement cette distinction, qui reflète une compétence rédactionnelle de niveau B2+.",
+        "examples": [
+          "'Not loneliness — loneliness is the awareness of **absence**; this was something closer to **fullness**.'",
+          "**Loneliness** = unwanted aloneness, awareness of what's missing",
+          "**Solitude** = chosen aloneness, often enriching",
+          "Similar pairs to master: 'sympathy' vs 'empathy'; 'confidence' vs 'arrogance'; 'discipline' vs 'punishment'"
+        ]
+      },
+      {
+        "title": "'He had been walking' — past perfect continuous for duration up to a moment",
+        "explanation": "Le **past perfect continuous** (had been + -ing) décrit une action qui était en cours sur une période menant à un moment passé précis. Il met l'accent à la fois sur la durée et sur le processus.",
+        "examples": [
+          "'Tom **had been walking** for six hours when the clouds broke.'",
+          "'She **had been waiting** for two hours before he arrived.'",
+          "'**He had been trying** to find the word for it since he set off.'",
+          "Compare with past perfect simple: 'He **had walked** five miles' (completed) vs 'He **had been walking** for hours' (ongoing process up to a moment)"
+        ]
+      },
+      {
+        "title": "'Rather than' — expressing preference or contrast between two roles",
+        "explanation": "**'Rather than'** est utilisé pour opposer deux alternatives, montrant que l'une est choisie plutôt que l'autre. Suivi d'un nom ou d'un gérondif, c'est plus élégant que « instead of ».",
+        "examples": [
+          "'A body in a landscape **rather than** a mind in a room.'",
+          "'He had looked at the view, **rather than** seeing it.'",
+          "'She wanted to understand, **rather than** simply to know.'",
+          "'Use examples **rather than** just assertions.' (formal academic writing advice)"
+        ]
+      }
+    ],
+    "expressions": [
+      {
+        "expression": "going through something",
+        "meaning_fr": "traverser une période difficile, aller pas très bien",
+        "example": "His colleagues assumed he was going through something.",
+        "register": "informal / empathetic",
+        "note": "Une façon discrète de dire que quelqu'un traverse des difficultés émotionnelles ou personnelles. « Are you okay? You seem like you're going through something. »"
+      },
+      {
+        "expression": "to run away from / walk towards",
+        "meaning_fr": "fuir (quelque chose) / aller vers (quelque chose)",
+        "example": "He wasn't running away from anything — he was walking towards something.",
+        "register": "neutral / metaphorical",
+        "note": "Un contraste existentiel classique. « Running away » implique l'évitement ; « walking towards » implique un but actif."
+      },
+      {
+        "expression": "background noise (of the mind)",
+        "meaning_fr": "bruit de fond (de l'esprit), pensées parasites",
+        "example": "Walking cleared out the background noise of the mind.",
+        "register": "literary / psychological",
+        "note": "Une métaphore de l'acoustique — « background noise » désigne un son continu de faible niveau. Appliqué à l'esprit, il décrit une anxiété persistante de faible intensité ou un bavardage mental."
+      },
+      {
+        "expression": "to read like (something)",
+        "meaning_fr": "ressembler à, avoir l'aspect de (à la lecture)",
+        "example": "Reading it back, it reads like dispatches from someone else.",
+        "register": "neutral / literary",
+        "note": "« This text reads like a thriller » = en termes de ton et de rythme, il ressemble à un thriller. Utilisé pour décrire l'impression que donne quelque chose à la lecture."
+      },
+      {
+        "expression": "extraordinarily rare",
+        "meaning_fr": "extraordinairement rare, très peu commun",
+        "example": "Being simply present was, he realised, extraordinarily rare.",
+        "register": "formal / literary",
+        "note": "Une collocation intensifiante courante. Aussi : « extraordinarily beautiful », « extraordinarily difficult ». « Extraordinary » peut intensifier des adjectifs positifs et négatifs."
+      }
+    ]
+  },
+  "exercises": {
+    "written": [
+      {
+        "id": "w1",
+        "type": "multiple_choice",
+        "question": "Why did Tom's friends and family worry about his solo walk?",
+        "options": [
+          "They thought it was too physically dangerous.",
+          "They assumed he was going through some kind of personal difficulty.",
+          "They disagreed with his decision to take time off work.",
+          "They felt excluded because he didn't invite them."
+        ],
+        "answer": 1,
+        "explanation": "His colleagues 'thought he was going through something' and his mother sent emergency numbers — the assumption was that this was a reaction to emotional difficulty."
+      },
+      {
+        "id": "w2",
+        "type": "multiple_choice",
+        "question": "How does the story distinguish between 'loneliness' and 'solitude'?",
+        "options": [
+          "Loneliness is for older people; solitude is for the young.",
+          "Loneliness is about being alone in a city; solitude is about being alone in nature.",
+          "Loneliness is the awareness of absence; solitude, as Tom experienced it, felt closer to fullness.",
+          "Loneliness is painful; solitude is pleasant."
+        ],
+        "answer": 2,
+        "explanation": "The text defines it precisely: 'loneliness is the awareness of absence; this was something closer to fullness.' The distinction is internal, not about location."
+      },
+      {
+        "id": "w3",
+        "type": "fill_blank",
+        "sentence": "She ________ ________ ________ for three years when she finally published the novel.",
+        "answer": "had been writing",
+        "hint": "Past perfect continuous — an action ongoing over a period leading up to a past moment."
+      },
+      {
+        "id": "w4",
+        "type": "fill_blank",
+        "sentence": "He wanted to understand the situation ________ ________ simply accepting someone else's interpretation.",
+        "answer": "rather than",
+        "hint": "A connector expressing preference between two alternatives."
+      },
+      {
+        "id": "w5",
+        "type": "fill_blank",
+        "sentence": "She failed to ________ the significance of what was happening around her.",
+        "answer": "grasp",
+        "hint": "A verb meaning 'to understand fully'."
+      },
+      {
+        "id": "w6",
+        "type": "translation",
+        "french": "Il marchait depuis six heures quand la pluie s'arrêta enfin.",
+        "suggested_answer": "He had been walking for six hours when the rain finally stopped.",
+        "key_vocabulary": ["had been walking", "finally stopped", "past perfect continuous"]
+      },
+      {
+        "id": "w7",
+        "type": "translation",
+        "french": "Ce n'était pas de la fuite — c'était une marche vers quelque chose qu'il ne savait pas encore nommer.",
+        "suggested_answer": "It wasn't running away — it was walking towards something he didn't yet have a name for.",
+        "key_vocabulary": ["running away", "walking towards", "didn't yet have a name for"]
+      },
+      {
+        "id": "w8",
+        "type": "translation",
+        "french": "Pendant huit jours, il avait été un corps dans un paysage plutôt qu'un esprit dans une pièce.",
+        "suggested_answer": "For eight days, he had been a body in a landscape rather than a mind in a room.",
+        "key_vocabulary": ["a body in a landscape", "rather than", "a mind in a room"]
+      }
+    ],
+    "oral": [
+      {
+        "id": "o1",
+        "type": "read_aloud",
+        "instruction": "Read the paragraph about solitude. The tone is contemplative and precise. Allow yourself to slow down — this text rewards patience.",
+        "text": "There is a particular quality to solitude in wild landscape that has no urban equivalent. Not loneliness — loneliness is the awareness of absence; this was something closer to fullness. The effort of walking all day left no space for the usual background noise of the mind — the rehearsed anxieties, the circular thoughts.",
+        "focus": "The semicolon in the middle marks a pivot — from what it isn't to what it is. Give slightly more weight to 'fullness'. The list at the end should feel accumulative.",
+        "phonetic_tips": ["solitude: /ˈsɒlɪtjuːd/", "equivalent: /ɪˈkwɪvələnt/", "rehearsed: /rɪˈhɜːrst/"]
+      },
+      {
+        "id": "o2",
+        "type": "answer_question",
+        "question": "Have you ever experienced a moment of genuine solitude — not loneliness, but the kind of fullness Tom describes? What was it like?",
+        "suggested_answer": "I had something like that on a camping trip a few years ago. I was alone for a day while my friend drove to get supplies, and for the first time in months I had no phone signal, no one to respond to, nowhere to be. Initially it felt uncomfortable — I kept reaching for my phone out of habit. But after a few hours, something settled. I started noticing things: the specific quality of light on the water, a bird I didn't recognise, the smell of pine. It felt closer to fullness than to absence. I understood then why some people deliberately seek out that kind of solitude.",
+        "vocabulary_hints": ["out of habit", "something settled", "specific quality of light", "closer to fullness than to absence", "deliberately seek out"],
+        "duration_seconds": 90
+      },
+      {
+        "id": "o3",
+        "type": "answer_question",
+        "question": "Do you think spending time alone in nature genuinely changes people, or is it just a temporary feeling that fades when you return to normal life?",
+        "suggested_answer": "I think it can genuinely change people, but it requires a certain kind of sustained exposure — a long weekend probably isn't enough. The change Tom describes isn't just a nice feeling; it's a shift in perception, a recalibration of attention. The question is whether you can carry that back. I suspect most people can't, entirely. The conditions that produced the experience — the physical effort, the absence of noise, the time — aren't available in everyday life. But I think even a partial residue can be valuable: a slightly greater capacity to notice things, a slightly lower threshold for being present. That seems worth the discomfort of six days in the Scottish rain.",
+        "vocabulary_hints": ["sustained exposure", "shift in perception", "recalibration of attention", "carry that back", "partial residue", "threshold for being present"],
+        "duration_seconds": 90
+      }
+    ]
+  }
+}

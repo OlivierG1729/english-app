@@ -1,0 +1,479 @@
+/* index.css — Thème sombre académique */
+/* ======================================
+   Palette : Deep Navy + Ivory + Accent Gold/Violet
+   Inspiration : design de librairie / académique de luxe
+   Fonts : Playfair Display (titres) + Source Serif 4 (corps) + JetBrains Mono (code/phonétique)
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400&family=Source+Serif+4:ital,opsz,wght@0,8..60,300;0,8..60,400;0,8..60,600;1,8..60,400&family=JetBrains+Mono:wght@400;500&display=swap');
+
+/* ─── Variables CSS ───────────────────────────────────────── */
+:root {
+  /* Couleurs de fond */
+  --bg-primary:   #0e1117;
+  --bg-secondary: #141821;
+  --bg-card:      #1a1f2e;
+  --bg-card-hover:#1f2537;
+  --bg-elevated:  #252b3b;
+  --bg-input:     #1c2130;
+
+  /* Bordures */
+  --border:        #2a3045;
+  --border-light:  #323a52;
+
+  /* Texte */
+  --text-primary:  #e8edf5;
+  --text-secondary:#9ba8c2;
+  --text-muted:    #5c6882;
+  --text-accent:   #c9a84c;  /* or/doré pour les accents */
+
+  /* Couleurs d'accent */
+  --accent-gold:   #c9a84c;
+  --accent-violet: #7c6fd0;
+  --accent-teal:   #3bb8a0;
+  --accent-rose:   #e07070;
+  --accent-amber:  #e09050;
+
+  /* Niveau A1/B2/C1 */
+  --level-a1:      #4ecdc4;
+  --level-b2:      #3bb8a0;
+  --level-b2plus:  #7c6fd0;
+  --level-c1:      #e07070;
+  --level-c1plus:  #c9a84c;
+
+  /* Type story/dialogue */
+  --type-story:    #7c6fd0;
+  --type-dialogue: #3bb8a0;
+
+  /* Feedback exercices */
+  --success:    #4caf7d;
+  --success-bg: #1a2e22;
+  --error:      #e07070;
+  --error-bg:   #2e1a1a;
+  --warning:    #e09050;
+
+  /* Dimensions */
+  --radius-sm:  6px;
+  --radius-md:  10px;
+  --radius-lg:  16px;
+  --radius-xl:  24px;
+
+  /* Typographie */
+  --font-display: 'Playfair Display', Georgia, serif;
+  --font-body:    'Source Serif 4', Georgia, serif;
+  --font-mono:    'JetBrains Mono', 'Courier New', monospace;
+
+  /* Transitions */
+  --transition: 220ms ease;
+}
+
+/* ─── Thème Élégant (pastel / crème / raffiné) ───────────── */
+[data-theme="elegant"] {
+  /* Fonds */
+  --bg-primary:    #faf7f2;
+  --bg-secondary:  #f3ede4;
+  --bg-card:       #ffffff;
+  --bg-card-hover: #fefcf8;
+  --bg-elevated:   #f0ebe2;
+  --bg-input:      #faf7f2;
+
+  /* Bordures */
+  --border:        #e0d5c4;
+  --border-light:  #d4c7b0;
+
+  /* Texte */
+  --text-primary:  #2c1810;
+  --text-secondary:#6b5a4e;
+  --text-muted:    #9a8b7a;
+  --text-accent:   #b8964e;
+
+  /* Accents */
+  --accent-gold:   #b8964e;
+  --accent-violet: #8b7ec8;
+  --accent-teal:   #4a9e8e;
+  --accent-rose:   #c76a6a;
+  --accent-amber:  #c88040;
+
+  /* Niveaux */
+  --level-a1:      #4a9e8e;
+  --level-b2:      #4a9e8e;
+  --level-b2plus:  #8b7ec8;
+  --level-c1:      #c76a6a;
+  --level-c1plus:  #b8964e;
+
+  /* Types */
+  --type-story:    #8b7ec8;
+  --type-dialogue: #4a9e8e;
+
+  /* Feedback */
+  --success:    #5a9e6f;
+  --success-bg: #edf7f0;
+  --error:      #c76a6a;
+  --error-bg:   #fdf0f0;
+  --warning:    #c88040;
+}
+
+[data-theme="elegant"] body {
+  background-image: none;
+  background-color: var(--bg-primary);
+}
+
+[data-theme="elegant"] .app-header {
+  background: rgba(250, 247, 242, 0.95);
+  border-bottom: 1px solid var(--border);
+}
+
+[data-theme="elegant"] .card,
+[data-theme="elegant"] .lesson-card,
+[data-theme="elegant"] .vocab-card,
+[data-theme="elegant"] .grammar-card,
+[data-theme="elegant"] .expr-card,
+[data-theme="elegant"] .ex-card {
+  box-shadow: 0 2px 12px rgba(44, 24, 16, 0.06);
+}
+
+[data-theme="elegant"] .lesson-card:hover:not(:disabled) {
+  box-shadow: 0 6px 24px rgba(44, 24, 16, 0.1);
+}
+
+[data-theme="elegant"] .lesson-card.completed {
+  border-color: rgba(90, 158, 111, 0.3);
+  background: rgba(90, 158, 111, 0.04);
+}
+
+[data-theme="elegant"] .lesson-card.in-progress {
+  border-color: rgba(139, 126, 200, 0.3);
+  background: rgba(139, 126, 200, 0.04);
+}
+
+[data-theme="elegant"] .level-a1 {
+  background: rgba(74, 158, 142, 0.12);
+  color: var(--level-a1);
+}
+
+[data-theme="elegant"] .level-b2 {
+  background: rgba(74, 158, 142, 0.12);
+  color: var(--level-b2);
+}
+
+[data-theme="elegant"] .level-tab.active {
+  border-color: var(--accent-violet);
+  background: rgba(139, 126, 200, 0.06);
+  box-shadow: 0 4px 16px rgba(139, 126, 200, 0.12);
+}
+
+[data-theme="elegant"] .header-progress-fill {
+  background: linear-gradient(90deg, var(--accent-violet), var(--accent-teal));
+}
+
+[data-theme="elegant"] .step-nav {
+  background: var(--bg-secondary);
+}
+
+[data-theme="elegant"] .word-tooltip {
+  box-shadow: 0 8px 28px rgba(44, 24, 16, 0.12);
+}
+
+/* ─── Reset ───────────────────────────────────────────────── */
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 32px;
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--font-body);
+  background: var(--bg-primary);
+  color: var(--text-primary);
+  line-height: 1.7;
+  min-height: 100vh;
+  /* Texture de fond subtile */
+  background-image: radial-gradient(ellipse at 20% 0%, rgba(124,111,208,0.06) 0%, transparent 50%),
+                    radial-gradient(ellipse at 80% 100%, rgba(59,184,160,0.04) 0%, transparent 50%);
+}
+
+#root {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+/* ─── Typographie ─────────────────────────────────────────── */
+h1, h2, h3 {
+  font-family: var(--font-display);
+  line-height: 1.25;
+  color: var(--text-primary);
+}
+
+h1 { font-size: 2.2rem; font-weight: 700; }
+h2 { font-size: 1.6rem; font-weight: 600; }
+h3 { font-size: 1.2rem; font-weight: 600; }
+
+p { margin-bottom: 0.5rem; }
+
+a {
+  color: var(--accent-violet);
+  text-decoration: none;
+  transition: color var(--transition);
+}
+a:hover { color: var(--accent-gold); }
+
+/* ─── Utilitaires ─────────────────────────────────────────── */
+.card {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  padding: 1.5rem;
+}
+
+.card:hover {
+  background: var(--bg-card-hover);
+  border-color: var(--border-light);
+  transition: background var(--transition), border-color var(--transition);
+}
+
+.btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.6rem 1.25rem;
+  border-radius: var(--radius-md);
+  border: 1px solid transparent;
+  font-family: var(--font-body);
+  font-size: 0.95rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all var(--transition);
+  white-space: nowrap;
+}
+
+.btn-primary {
+  background: var(--accent-violet);
+  color: #fff;
+  border-color: var(--accent-violet);
+}
+.btn-primary:hover {
+  background: #9085e0;
+  border-color: #9085e0;
+  transform: translateY(-1px);
+}
+
+.btn-gold {
+  background: var(--accent-gold);
+  color: #0e1117;
+  border-color: var(--accent-gold);
+}
+.btn-gold:hover {
+  background: #d8b85a;
+  transform: translateY(-1px);
+}
+
+.btn-teal {
+  background: var(--accent-teal);
+  color: #0e1117;
+  border-color: var(--accent-teal);
+}
+.btn-teal:hover {
+  background: #4ecdb5;
+  transform: translateY(-1px);
+}
+
+.btn-ghost {
+  background: transparent;
+  color: var(--text-secondary);
+  border-color: var(--border);
+}
+.btn-ghost:hover {
+  background: var(--bg-elevated);
+  color: var(--text-primary);
+  border-color: var(--border-light);
+}
+
+.btn-danger {
+  background: transparent;
+  color: var(--error);
+  border-color: var(--error);
+}
+.btn-danger:hover {
+  background: var(--error-bg);
+}
+
+.btn:disabled {
+  opacity: 0.4;
+  cursor: not-allowed;
+  transform: none !important;
+}
+
+/* Badge de niveau */
+.level-badge {
+  display: inline-block;
+  padding: 0.2rem 0.6rem;
+  border-radius: var(--radius-sm);
+  font-family: var(--font-mono);
+  font-size: 0.75rem;
+  font-weight: 500;
+  letter-spacing: 0.05em;
+}
+
+.level-a1   { background: rgba(78,205,196,0.15);  color: var(--level-a1); }
+.level-b2   { background: rgba(59,184,160,0.15);  color: var(--level-b2); }
+.level-b2p  { background: rgba(124,111,208,0.15); color: var(--level-b2plus); }
+.level-c1   { background: rgba(224,112,112,0.15); color: var(--level-c1); }
+.level-c1p  { background: rgba(201,168,76,0.15);  color: var(--level-c1plus); }
+
+/* Badge story/dialogue */
+.type-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  padding: 0.15rem 0.5rem;
+  border-radius: var(--radius-sm);
+  font-size: 1.08rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+}
+.type-story    { background: rgba(124,111,208,0.15); color: var(--type-story); }
+.type-dialogue { background: rgba(59,184,160,0.15);  color: var(--type-dialogue); }
+
+/* ─── Layout principal ────────────────────────────────────── */
+.app-layout {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.main-content {
+  flex: 1;
+  width: 100%;
+  max-width: 2400px;
+  margin: 0 auto;
+  padding: 2rem 3rem;
+}
+
+/* ─── Scrollbar ───────────────────────────────────────────── */
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-track { background: var(--bg-primary); }
+::-webkit-scrollbar-thumb { background: var(--border-light); border-radius: 3px; }
+::-webkit-scrollbar-thumb:hover { background: var(--text-muted); }
+
+/* ─── Sélection de texte ──────────────────────────────────── */
+::selection {
+  background: rgba(124,111,208,0.4);
+  color: var(--text-primary);
+}
+
+/* ─── Animations utilitaires ─────────────────────────────── */
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(8px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes pulse {
+  0%, 100% { opacity: 1; }
+  50%       { opacity: 0.5; }
+}
+
+@keyframes spin {
+  from { transform: rotate(0deg); }
+  to   { transform: rotate(360deg); }
+}
+
+.animate-in {
+  animation: fadeIn 0.35s ease forwards;
+}
+
+.animate-pulse {
+  animation: pulse 1.5s ease infinite;
+}
+
+/* ─── Prose anglaise (leçons) ─────────────────────────────── */
+.lesson-text {
+  font-size: 1.62rem;
+  line-height: 1.85;
+  color: var(--text-primary);
+}
+
+.lesson-text-fr {
+  font-size: 1.5rem;
+  line-height: 1.8;
+  color: var(--text-secondary);
+  font-style: italic;
+  border-left: 3px solid var(--accent-gold);
+  padding-left: 1rem;
+  margin-top: 0.5rem;
+}
+
+/* Speaker label pour les dialogues */
+.speaker-label {
+  font-family: var(--font-mono);
+  font-size: 0.78rem;
+  font-weight: 500;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--accent-gold);
+  margin-bottom: 0.2rem;
+}
+
+/* ─── Phonétique ──────────────────────────────────────────── */
+.phonetic {
+  font-family: var(--font-mono);
+  font-size: 0.85rem;
+  color: var(--accent-teal);
+  opacity: 0.85;
+}
+
+/* ─── Tags de registre ────────────────────────────────────── */
+.register-tag {
+  display: inline-block;
+  padding: 0.1rem 0.45rem;
+  border-radius: 4px;
+  font-size: 0.7rem;
+  font-family: var(--font-mono);
+  background: var(--bg-elevated);
+  color: var(--text-muted);
+  border: 1px solid var(--border);
+}
+
+/* ─── Score / feedback ────────────────────────────────────── */
+.feedback-correct {
+  background: var(--success-bg);
+  border: 1px solid rgba(76,175,125,0.3);
+  color: var(--success);
+  padding: 0.75rem 1rem;
+  border-radius: var(--radius-md);
+}
+
+.feedback-wrong {
+  background: var(--error-bg);
+  border: 1px solid rgba(224,112,112,0.3);
+  color: var(--error);
+  padding: 0.75rem 1rem;
+  border-radius: var(--radius-md);
+}
+
+/* ─── Responsive ──────────────────────────────────────────── */
+
+/* Tablettes */
+@media (max-width: 1024px) {
+  html { font-size: 24px; }
+}
+
+/* Smartphones */
+@media (max-width: 768px) {
+  html { font-size: 18px; }
+  h1 { font-size: 1.7rem; }
+  h2 { font-size: 1.3rem; }
+  .main-content { padding: 1rem; }
+}
+
+/* Petits smartphones */
+@media (max-width: 480px) {
+  html { font-size: 16px; }
+  .main-content { padding: 0.75rem; }
+}

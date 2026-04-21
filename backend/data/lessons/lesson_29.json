@@ -1,0 +1,309 @@
+{
+  "id": "29",
+  "unit": 4,
+  "unit_title": "Advanced Discourse & Argumentation",
+  "title": "Art for Whose Sake?",
+  "level": "C1",
+  "type": "dialogue",
+  "theme": "Art Theory, Public Funding & Society",
+  "reading_time": "6 min",
+  "content": {
+    "speakers": ["Chair", "Dr Miriam Osei (Art Historian)", "Tom Hartley (Journalist & Culture Critic)"],
+    "paragraphs": [
+      {
+        "speaker": "Chair",
+        "en": "The question of whether governments should fund the arts has become increasingly contested. Dr Osei, you've argued that public arts funding is not a luxury but a necessity. Make your case.",
+        "fr": "La question de savoir si les gouvernements devraient financer les arts est devenue de plus en plus contestée. Docteure Osei, vous avez soutenu que le financement public des arts n'est pas un luxe mais une nécessité. Défendez votre position."
+      },
+      {
+        "speaker": "Dr Miriam Osei",
+        "en": "The case rests on three pillars. First, there are forms of cultural production — experimental theatre, contemporary classical composition, archives and restoration — that serve vital long-term social functions but cannot be sustained by the market because their audiences are too small or too dispersed to generate sufficient commercial revenue. If the state doesn't fund them, they disappear. Second, public funding corrects for market failure: art produced solely for commercial audiences tends towards the median taste, which means it tends to exclude the innovative, the challenging, and the minority culture. Third, and most fundamentally, the arts contribute to the quality of collective life in ways that are genuinely difficult to price but genuinely real.",
+        "fr": "L'argument repose sur trois piliers. Premièrement, il existe des formes de production culturelle — théâtre expérimental, composition classique contemporaine, archives et restauration — qui remplissent des fonctions sociales vitales à long terme mais qui ne peuvent pas être soutenues par le marché parce que leurs publics sont trop petits ou trop dispersés pour générer suffisamment de recettes commerciales. Si l'État ne les finance pas, elles disparaissent. Deuxièmement, le financement public corrige les défaillances du marché : l'art produit uniquement pour les publics commerciaux tend vers le goût médian, ce qui signifie qu'il tend à exclure l'innovant, le difficile et la culture minoritaire. Troisièmement, et le plus fondamentalement, les arts contribuent à la qualité de la vie collective d'une façon qui est vraiment difficile à chiffrer mais vraiment réelle."
+      },
+      {
+        "speaker": "Tom Hartley",
+        "en": "I'd challenge all three pillars, but let me start with the framing. When we say 'the arts', we're talking about a very heterogeneous category — from community choirs to major opera houses. The case for public funding is much stronger for some parts of that category than others, and the debate is weakened by treating them as a single thing. Nobody serious argues that commercial popular music needs a state subsidy. The question is what criteria determine which arts receive public money and why.",
+        "fr": "Je remettrais en question les trois piliers, mais laissez-moi commencer par le cadrage. Quand nous disons « les arts », nous parlons d'une catégorie très hétérogène — des chœurs communautaires aux grands opéras. L'argument pour le financement public est beaucoup plus solide pour certaines parties de cette catégorie que pour d'autres, et le débat est affaibli par leur traitement comme une chose unique. Personne de sérieux ne soutient que la musique populaire commerciale a besoin d'une subvention d'État. La question est de savoir quels critères déterminent quels arts reçoivent de l'argent public et pourquoi."
+      },
+      {
+        "speaker": "Dr Miriam Osei",
+        "en": "That's a reasonable challenge, and I'd partly concede it. The criteria question is genuinely difficult. But the answer to 'the criteria are hard to define' is not 'therefore fund nothing'. It is 'therefore develop better criteria'. The fact that a task is difficult doesn't justify abandonment.",
+        "fr": "C'est un défi raisonnable, et j'y céderais en partie. La question des critères est vraiment difficile. Mais la réponse à « les critères sont difficiles à définir » n'est pas « donc ne rien financer ». C'est « donc développer de meilleurs critères ». Le fait qu'une tâche soit difficile ne justifie pas l'abandon."
+      },
+      {
+        "speaker": "Tom Hartley",
+        "en": "Where I'd go further is on the democracy question. Who decides what deserves funding is not a neutral process. It tends to reproduce the aesthetic preferences of the educated professional class — which, unsurprisingly, are heavily represented in funding bodies. This means public money flows disproportionately to forms of art that already command significant cultural capital, and rather less to forms of art that reflect the actual cultural lives of the majority of the population.",
+        "fr": "Là où j'irais plus loin, c'est sur la question de la démocratie. Qui décide de ce qui mérite un financement n'est pas un processus neutre. Il tend à reproduire les préférences esthétiques de la classe professionnelle éduquée — qui, ce n'est guère surprenant, est largement représentée dans les organismes de financement. Cela signifie que l'argent public afflue de façon disproportionnée vers des formes d'art qui bénéficient déjà d'un capital culturel significatif, et beaucoup moins vers des formes d'art qui reflètent la vie culturelle réelle de la majorité de la population."
+      },
+      {
+        "speaker": "Dr Miriam Osei",
+        "en": "That is a genuine problem with how arts funding works in practice, and I don't dispute it. But notice what you're actually arguing: not that public arts funding is wrong in principle, but that it needs to be more democratically accountable in practice. That's a different argument — and one I largely agree with.",
+        "fr": "C'est un vrai problème avec la façon dont le financement des arts fonctionne en pratique, et je ne le conteste pas. Mais remarquez ce que vous êtes en train d'argumenter : non pas que le financement public des arts est mauvais en principe, mais qu'il doit être plus démocratiquement responsable en pratique. C'est un argument différent — et l'un avec lequel je suis largement d'accord."
+      },
+      {
+        "speaker": "Tom Hartley",
+        "en": "Fair point. I suppose my instinct is more sceptical than yours about the capacity of public institutions to distribute cultural funding in ways that don't ultimately reproduce existing hierarchies. But you're right that this is an empirical argument about institutional design, not a principled argument against funding the arts at all.",
+        "fr": "C'est juste. Je suppose que mon instinct est plus sceptique que le vôtre quant à la capacité des institutions publiques à distribuer des fonds culturels d'une façon qui ne reproduit pas en définitive les hiérarchies existantes. Mais vous avez raison que c'est un argument empirique sur la conception institutionnelle, pas un argument de principe contre le financement des arts."
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "heterogeneous",
+        "phonetic": "/ˌhetərəˈdʒiːniəs/",
+        "type": "adjective",
+        "definition_en": "Composé d'éléments divers ou variés ; non uniforme",
+        "definition_fr": "hétérogène, varié, divers",
+        "example": "The arts represent a heterogeneous category ranging from opera to street art.",
+        "level": "C1"
+      },
+      {
+        "word": "market failure",
+        "phonetic": "/ˈmɑːrkɪt ˈfeɪljər/",
+        "type": "noun (economics)",
+        "definition_en": "Une situation dans laquelle le marché ne parvient pas à allouer les ressources de manière efficace ou équitable",
+        "definition_fr": "défaillance du marché",
+        "example": "Public goods and merit goods are classic examples of market failure.",
+        "level": "C1"
+      },
+      {
+        "word": "cultural capital",
+        "phonetic": "/ˈkʌltʃərəl ˈkæpɪtl/",
+        "type": "noun (sociology, Bourdieu)",
+        "definition_en": "Les atouts sociaux — savoir, éducation, goûts — qui confèrent un avantage social",
+        "definition_fr": "capital culturel",
+        "example": "Opera commands significant cultural capital among educated professional classes.",
+        "level": "C1"
+      },
+      {
+        "word": "democratically accountable",
+        "phonetic": "/dɪˌmɒkrætɪkli əˈkaʊntəbl/",
+        "type": "adjective phrase",
+        "definition_en": "Redevable envers le public à travers les processus démocratiques",
+        "definition_fr": "démocratiquement responsable, redevable",
+        "example": "Funding bodies should be democratically accountable for how they distribute public money.",
+        "level": "C1"
+      },
+      {
+        "word": "to concede",
+        "phonetic": "/kənˈsiːd/",
+        "type": "verb",
+        "definition_en": "Admettre que quelque chose est vrai ou valide, souvent dans un débat",
+        "definition_fr": "concéder, admettre (un point à l'adversaire)",
+        "example": "I'd partly concede that point — the criteria question is genuinely difficult.",
+        "level": "B2"
+      },
+      {
+        "word": "pillar",
+        "phonetic": "/ˈpɪlər/",
+        "type": "noun (literal and figurative)",
+        "definition_en": "Une colonne de soutien ; (au figuré) une partie fondamentale d'un argument ou d'un système",
+        "definition_fr": "pilier (au sens propre et figuré)",
+        "example": "The argument rests on three pillars — each must be challenged separately.",
+        "level": "B2"
+      },
+      {
+        "word": "subsidy",
+        "phonetic": "/ˈsʌbsɪdi/",
+        "type": "noun",
+        "definition_en": "Une somme d'argent versée par l'État ou une organisation pour soutenir une industrie ou une activité",
+        "definition_fr": "subvention",
+        "example": "State subsidies for opera are controversial in a period of budget constraints.",
+        "level": "B2"
+      },
+      {
+        "word": "empirical",
+        "phonetic": "/ɪmˈpɪrɪkl/",
+        "type": "adjective",
+        "definition_en": "Basé sur l'observation et les preuves plutôt que sur la théorie ou les principes",
+        "definition_fr": "empirique, basé sur l'observation",
+        "example": "Whether the policy achieves its goals is an empirical question, not a philosophical one.",
+        "level": "C1"
+      },
+      {
+        "word": "disproportionately",
+        "phonetic": "/ˌdɪsprəˈpɔːʃənɪtli/",
+        "type": "adverb",
+        "definition_en": "Dans une mesure trop grande ou trop petite par rapport à ce qui est approprié",
+        "definition_fr": "de façon disproportionnée",
+        "example": "Funding flows disproportionately to forms of art with existing cultural prestige.",
+        "level": "B2"
+      },
+      {
+        "word": "to reproduce hierarchies",
+        "phonetic": "/ˌriːprəˈdjuːs ˈhaɪərɑːrkiz/",
+        "type": "verb phrase (sociology)",
+        "definition_en": "Perpétuer les inégalités sociales existantes à travers les pratiques institutionnelles",
+        "definition_fr": "reproduire les hiérarchies (sociales)",
+        "example": "Funding bodies that reflect elite taste tend to reproduce existing cultural hierarchies.",
+        "level": "C1"
+      }
+    ],
+    "grammar_points": [
+      {
+        "title": "'The fact that X doesn't justify Y' — dismantling false arguments",
+        "explanation": "Cette structure est utilisée pour bloquer un mouvement logique courant mais erroné : utiliser la difficulté d'une tâche comme raison de l'abandonner. C'est un outil de précision pour démonter un certain type d'esquive.",
+        "examples": [
+          "'**The fact that** the criteria are hard to define **doesn't justify** abandoning funding.'",
+          "'**The fact that** change is difficult **doesn't mean** it's impossible.'",
+          "'**Difficulty** is not a sufficient reason for abandonment.'",
+          "This is especially useful in debates about policy and reform."
+        ]
+      },
+      {
+        "title": "'Notice what you're actually arguing' — meta-commentary in debate",
+        "explanation": "Parfois le mouvement le plus puissant dans un argument est de **clarifier ce que l'adversaire dit réellement** — montrer que son argument prouve moins (ou autre chose) que ce qu'il pense.",
+        "examples": [
+          "'**Notice what you're actually arguing**: not that funding is wrong in principle, but that it needs better governance.'",
+          "'**What this amounts to is** an argument for reform, not abolition.'",
+          "'**If I understand you correctly**, you're not opposing X, but Y.'",
+          "This move is collegial and powerful — it advances the debate rather than just defending a position."
+        ]
+      },
+      {
+        "title": "'An empirical argument about X, not a principled argument against Y'",
+        "explanation": "Distinguer les arguments **empiriques** (basés sur les preuves) des arguments **de principe** (basés sur les valeurs ou les premiers principes) est un mouvement fondamental dans les débats philosophiques et politiques. Catégoriser correctement un argument montre une précision analytique.",
+        "examples": [
+          "'This is an **empirical** argument about institutional design, not a **principled** argument against arts funding.'",
+          "'The objection is **practical**, not **philosophical**.'",
+          "'Whether this policy works is an **empirical** question. Whether we should try it is a **normative** one.'",
+          "Key pairs: empirical/principled, practical/philosophical, empirical/normative."
+        ]
+      }
+    ],
+    "expressions": [
+      {
+        "expression": "rests on three pillars",
+        "meaning_fr": "repose sur trois piliers",
+        "example": "The argument for public arts funding rests on three pillars.",
+        "register": "formal / rhetorical",
+        "note": "Une structure argumentative classique en trois parties. Annoncer trois piliers crée de la structure, gère les attentes et rend l'argument plus facile à suivre et à contester."
+      },
+      {
+        "expression": "to correct for market failure",
+        "meaning_fr": "corriger les défaillances du marché",
+        "example": "Public funding corrects for market failure when commercial incentives exclude valuable but unprofitable art.",
+        "register": "economic / formal",
+        "note": "Justification économique standard pour l'intervention de l'État. 'Correcting for' implique que le marché est la référence, et l'intervention est la correction."
+      },
+      {
+        "expression": "a different argument — one I largely agree with",
+        "meaning_fr": "un argument différent — avec lequel je suis largement d'accord",
+        "example": "You're not arguing against arts funding, but for better governance — a different argument, and one I largely agree with.",
+        "register": "debate / collegial",
+        "note": "Un mouvement sophistiqué : distinguer entre deux arguments et accepter celui qui a été réellement avancé. Montre de la précision et de la bonne foi."
+      },
+      {
+        "expression": "to go further",
+        "meaning_fr": "aller plus loin, pousser l'argument plus avant",
+        "example": "Where I'd go further is on the democracy question.",
+        "register": "formal / debate",
+        "note": "Signale que vous êtes sur le point d'ajouter un argument qui prolonge ou radicalise votre propos au-delà de ce qui a été dit."
+      },
+      {
+        "expression": "the median taste",
+        "meaning_fr": "le goût médian, les préférences du plus grand nombre",
+        "example": "Art produced purely for commercial audiences tends towards the median taste.",
+        "register": "analytical / cultural",
+        "note": "Désigne les goûts du milieu statistique du marché — pas les plus aventureux ou expérimentaux, mais les plus sûrs et les plus largement attractifs."
+      }
+    ]
+  },
+  "exercises": {
+    "written": [
+      {
+        "id": "w1",
+        "type": "multiple_choice",
+        "question": "What is Dr Osei's second argument for public arts funding?",
+        "options": [
+          "Art is a fundamental human right.",
+          "The market cannot sustain small or dispersed audiences.",
+          "Public funding corrects for market failure by supporting art the market would exclude.",
+          "Arts contribute to national pride and soft power."
+        ],
+        "answer": 2,
+        "explanation": "Her second pillar: 'public funding corrects for market failure: art produced solely for commercial audiences tends towards the median taste, which means it tends to exclude the innovative, the challenging, and the minority culture.'"
+      },
+      {
+        "id": "w2",
+        "type": "multiple_choice",
+        "question": "What does Dr Osei identify as the significance of Tom's final concession?",
+        "options": [
+          "He has admitted that the arts don't need public funding.",
+          "He has shown that his real argument is about institutional design, not the principle of arts funding.",
+          "He has agreed that opera should receive more funding.",
+          "He has conceded that all art forms deserve equal treatment."
+        ],
+        "answer": 1,
+        "explanation": "Dr Osei says: 'you're actually arguing: not that public arts funding is wrong in principle, but that it needs to be more democratically accountable in practice. That's a different argument.'"
+      },
+      {
+        "id": "w3",
+        "type": "fill_blank",
+        "sentence": "The ________ that defining eligibility criteria is difficult ________ abandoning the policy.",
+        "answer": "fact / doesn't justify",
+        "hint": "A formula for blocking the 'it's too hard' objection."
+      },
+      {
+        "id": "w4",
+        "type": "fill_blank",
+        "sentence": "This is an ________ question about implementation, not a ________ argument against the policy.",
+        "answer": "empirical / principled",
+        "hint": "The two contrasting types of argument in philosophical and policy debate."
+      },
+      {
+        "id": "w5",
+        "type": "fill_blank",
+        "sentence": "Funding tends to flow ________ to art forms that already command significant cultural prestige.",
+        "answer": "disproportionately",
+        "hint": "An adverb meaning 'to an extent greater than is proportionate'."
+      },
+      {
+        "id": "w6",
+        "type": "translation",
+        "french": "L'argument repose sur trois piliers, chacun devant être examiné séparément.",
+        "suggested_answer": "The argument rests on three pillars, each of which must be examined separately.",
+        "key_vocabulary": ["rests on three pillars", "each of which must be examined"]
+      },
+      {
+        "id": "w7",
+        "type": "translation",
+        "french": "Remarquez ce que vous êtes en train d'arguer : non pas que le principe est mauvais, mais que la pratique a besoin d'être réformée.",
+        "suggested_answer": "Notice what you're actually arguing: not that the principle is wrong, but that the practice needs to be reformed.",
+        "key_vocabulary": ["Notice what you're actually arguing", "not that... but that..."]
+      },
+      {
+        "id": "w8",
+        "type": "translation",
+        "french": "Le financement public corrige les défaillances du marché en soutenant des formes d'art que les incitations commerciales excluraient.",
+        "suggested_answer": "Public funding corrects for market failure by supporting forms of art that commercial incentives would exclude.",
+        "key_vocabulary": ["corrects for market failure", "commercial incentives would exclude"]
+      }
+    ],
+    "oral": [
+      {
+        "id": "o1",
+        "type": "read_aloud",
+        "instruction": "Read Dr Osei's three-pillar speech. Structure is everything here — make each pillar distinct. Use slight pauses between 'First...', 'Second...', 'Third...'",
+        "text": "The case rests on three pillars. First, there are forms of cultural production that serve vital long-term social functions but cannot be sustained by the market. Second, public funding corrects for market failure: art produced solely for commercial audiences tends towards the median taste. Third, and most fundamentally, the arts contribute to the quality of collective life in ways that are genuinely difficult to price but genuinely real.",
+        "focus": "The repetition of 'genuinely' at the end is deliberate — stress both instances. It adds emotional conviction to the final analytical point.",
+        "phonetic_tips": ["cultural: /ˈkʌltʃərəl/", "sustain: /səˈsteɪn/", "genuinely: /ˈdʒenjuɪnli/"]
+      },
+      {
+        "id": "o2",
+        "type": "answer_question",
+        "question": "Should governments fund the arts? Make a structured argument using at least two distinct reasons.",
+        "suggested_answer": "I believe they should, though the case needs to be made carefully. My first argument is about market failure: there are art forms — archival work, experimental performance, endangered folk traditions — that serve demonstrable social and cultural functions but cannot generate sufficient commercial revenue. Without public support they disappear, and once lost they are irreplaceable. My second argument is about the kind of culture a society creates if it relies entirely on commercial logic. Markets tend to optimise for the median preference, which means they tend to crowd out the challenging, the minority, and the genuinely new. Public funding creates space for work that the market would rationally exclude but that a society may benefit from having. Neither argument requires believing that all publicly funded art is good — only that some of it is, and that we won't get it without public support.",
+        "vocabulary_hints": ["market failure", "demonstrable social functions", "once lost they are irreplaceable", "optimise for the median", "neither argument requires"],
+        "duration_seconds": 90
+      },
+      {
+        "id": "o3",
+        "type": "answer_question",
+        "question": "Is all art equally worthy of public support, or should some forms receive more funding than others? How would you decide?",
+        "suggested_answer": "I'd argue for differentiated support based on a combination of need and social function. Need: forms of art that genuinely cannot survive without public support have a stronger claim than those that can. Social function: art that builds shared culture, preserves heritage, or creates access for communities underserved by the commercial market has a stronger claim than art that primarily serves already-privileged audiences. The hardest cases are innovative or experimental work that has no immediate audience — but I'd argue this is precisely where the public good argument is strongest. Commercial markets are excellent at identifying current preferences; they are poor at nurturing work that will define future preferences. That's the space where public funding matters most.",
+        "vocabulary_hints": ["differentiated support", "stronger claim", "underserved communities", "current preferences vs future preferences", "nurturing"],
+        "duration_seconds": 90
+      }
+    ]
+  }
+}

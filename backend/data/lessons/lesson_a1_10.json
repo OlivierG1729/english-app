@@ -1,0 +1,269 @@
+{
+  "id": "a1_10",
+  "unit": 7,
+  "unit_title": "Everyday Life",
+  "title": "At the Supermarket",
+  "level": "A1",
+  "type": "dialogue",
+  "theme": "Shopping & Quantities",
+  "reading_time": "3 min",
+  "content": {
+    "paragraphs": [
+      {
+        "en": "Anna goes to the supermarket every Saturday morning. Today, she needs to buy food for the week. She takes a basket and walks inside the shop.",
+        "fr": "Anna va au supermarche tous les samedis matin. Aujourd'hui, elle doit acheter de la nourriture pour la semaine. Elle prend un panier et entre dans le magasin."
+      },
+      {
+        "en": "Can I help you?",
+        "fr": "Est-ce que je peux vous aider ?",
+        "speaker": "Shop assistant"
+      },
+      {
+        "en": "Yes, please. I need some bread and some milk. How much is the bread?",
+        "fr": "Oui, s'il vous plait. J'ai besoin de pain et de lait. Combien coute le pain ?",
+        "speaker": "Anna"
+      },
+      {
+        "en": "The bread is one pound fifty. And the milk is ninety pence.",
+        "fr": "Le pain coute une livre cinquante. Et le lait coute quatre-vingt-dix pence.",
+        "speaker": "Shop assistant"
+      },
+      {
+        "en": "Good, that's not expensive. I also need some apples. How much are the apples?",
+        "fr": "Bien, ce n'est pas cher. J'ai aussi besoin de pommes. Combien coutent les pommes ?",
+        "speaker": "Anna"
+      },
+      {
+        "en": "The apples are two pounds a kilo. How many kilos do you want?",
+        "fr": "Les pommes coutent deux livres le kilo. Combien de kilos voulez-vous ?",
+        "speaker": "Shop assistant"
+      },
+      {
+        "en": "One kilo, please. And six eggs. How much is that in total?",
+        "fr": "Un kilo, s'il vous plait. Et six oeufs. Combien ca fait en tout ?",
+        "speaker": "Anna"
+      },
+      {
+        "en": "That's five pounds forty, please.",
+        "fr": "Ca fait cinq livres quarante, s'il vous plait.",
+        "speaker": "Shop assistant"
+      },
+      {
+        "en": "Here you are. Thank you very much!",
+        "fr": "Voila. Merci beaucoup !",
+        "speaker": "Anna"
+      },
+      {
+        "en": "Anna puts everything in her basket. She is happy because the food is cheap today. She walks home with a big smile.",
+        "fr": "Anna met tout dans son panier. Elle est contente parce que la nourriture n'est pas chere aujourd'hui. Elle rentre chez elle avec un grand sourire."
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "bread",
+        "phonetic": "/bred/",
+        "type": "noun",
+        "definition_en": "un aliment courant fait a partir de farine et d'eau",
+        "definition_fr": "pain",
+        "example": "I eat bread every morning for breakfast.",
+        "level": "A1"
+      },
+      {
+        "word": "milk",
+        "phonetic": "/mɪlk/",
+        "type": "noun",
+        "definition_en": "un liquide blanc provenant des vaches que les gens boivent",
+        "definition_fr": "lait",
+        "example": "I like milk in my tea.",
+        "level": "A1"
+      },
+      {
+        "word": "apple",
+        "phonetic": "/ˈæpl/",
+        "type": "noun",
+        "definition_en": "un fruit rond qui est rouge, vert ou jaune",
+        "definition_fr": "pomme",
+        "example": "I eat an apple every day after lunch.",
+        "level": "A1"
+      },
+      {
+        "word": "kilo",
+        "phonetic": "/ˈkiːloʊ/",
+        "type": "noun",
+        "definition_en": "une unite de poids egale a 1 000 grammes",
+        "definition_fr": "kilo, kilogramme",
+        "example": "I need two kilos of oranges, please.",
+        "level": "A1"
+      },
+      {
+        "word": "basket",
+        "phonetic": "/ˈbɑːskɪt/",
+        "type": "noun",
+        "definition_en": "un recipient utilise pour transporter des choses en faisant les courses",
+        "definition_fr": "panier",
+        "example": "She puts the fruit in the basket.",
+        "level": "A1"
+      },
+      {
+        "word": "cheap",
+        "phonetic": "/tʃiːp/",
+        "type": "adjective",
+        "definition_en": "qui coute peu d'argent, pas cher",
+        "definition_fr": "bon marche, pas cher",
+        "example": "This shirt is very cheap — only five pounds!",
+        "level": "A1"
+      },
+      {
+        "word": "expensive",
+        "phonetic": "/ɪkˈspensɪv/",
+        "type": "adjective",
+        "definition_en": "qui coute beaucoup d'argent",
+        "definition_fr": "cher, couteux",
+        "example": "That bag is too expensive. I can't buy it.",
+        "level": "A1"
+      },
+      {
+        "word": "to buy",
+        "phonetic": "/baɪ/",
+        "type": "verb",
+        "definition_en": "obtenir quelque chose en payant de l'argent",
+        "definition_fr": "acheter",
+        "example": "I want to buy some oranges at the shop.",
+        "level": "A1"
+      }
+    ],
+    "grammar_points": [
+      {
+        "title": "'How much...?' vs. 'How many...?'",
+        "explanation": "On utilise **'How much'** avec les choses que l'on ne peut pas compter (noms indenombrables comme bread, milk, water). On utilise **'How many'** avec les choses que l'on peut compter (noms denombrables comme apples, eggs, kilos). 'How much' s'utilise aussi pour demander le prix.",
+        "examples": [
+          "How much is the bread? (= price)",
+          "How much milk do you need? (= uncountable)",
+          "How many apples do you want? (= countable)",
+          "How many kilos do you need? (= countable)"
+        ]
+      },
+      {
+        "title": "Countable vs. Uncountable Nouns",
+        "explanation": "Les **noms denombrables** (countable nouns) ont une forme singuliere et plurielle : one apple, two apples. Les **noms indenombrables** (uncountable nouns) n'ont pas de forme plurielle : bread (PAS breads), milk (PAS milks). On utilise **'some'** avec les deux : 'some apples' (denombrable) et 'some bread' (indenombrable).",
+        "examples": [
+          "Countable: an apple → three apples, an egg → six eggs",
+          "Uncountable: some bread, some milk, some water",
+          "I need some apples. (countable + some)",
+          "I need some bread. (uncountable + some)"
+        ]
+      }
+    ],
+    "expressions": [
+      {
+        "expression": "How much is it?",
+        "meaning_fr": "Combien ca coute ?",
+        "example": "How much is this bag? — It's ten pounds.",
+        "register": "neutral",
+        "note": "La facon la plus courante de demander le prix de quelque chose. Utilisez 'How much are they?' pour les articles au pluriel."
+      },
+      {
+        "expression": "I need some...",
+        "meaning_fr": "J'ai besoin de...",
+        "example": "I need some milk and some eggs for the cake.",
+        "register": "neutral",
+        "note": "Utilisez 'some' dans les phrases affirmatives pour parler d'une quantite non precisee."
+      },
+      {
+        "expression": "That's too expensive!",
+        "meaning_fr": "C'est trop cher !",
+        "example": "Twenty pounds for a sandwich? That's too expensive!",
+        "register": "informal",
+        "note": "'Too' signifie 'plus que ce qui est acceptable'. Il a un sens negatif."
+      },
+      {
+        "expression": "Here you are.",
+        "meaning_fr": "Voila. / Tenez.",
+        "example": "Here you are — five pounds change.",
+        "register": "neutral",
+        "note": "Se dit quand on donne quelque chose a quelqu'un. Tres courant dans les magasins."
+      }
+    ]
+  },
+  "exercises": {
+    "written": [
+      {
+        "id": "w1",
+        "type": "multiple_choice",
+        "question": "How much does Anna pay in total?",
+        "options": [
+          "Four pounds fifty",
+          "Five pounds forty",
+          "Six pounds",
+          "Three pounds ninety"
+        ],
+        "answer": 1,
+        "explanation": "The shop assistant says 'That's five pounds forty, please.'"
+      },
+      {
+        "id": "w2",
+        "type": "multiple_choice",
+        "question": "Complete: '________ eggs do you want?'",
+        "options": [
+          "How much",
+          "How many",
+          "How"
+        ],
+        "answer": 1,
+        "explanation": "'Eggs' is a countable noun, so we use 'How many'."
+      },
+      {
+        "id": "w3",
+        "type": "multiple_choice",
+        "question": "Which of these is an uncountable noun?",
+        "options": [
+          "apple",
+          "egg",
+          "bread",
+          "kilo"
+        ],
+        "answer": 2,
+        "explanation": "'Bread' is uncountable. We say 'some bread', not 'a bread' or 'two breads'."
+      },
+      {
+        "id": "w4",
+        "type": "fill_blank",
+        "sentence": "How ________ is the milk? — It's ninety pence.",
+        "answer": "much",
+        "hint": "We ask about price with 'How much...?'"
+      },
+      {
+        "id": "w5",
+        "type": "fill_blank",
+        "sentence": "I need ________ (some/any) bread and ________ (some/any) apples.",
+        "answer": "some / some",
+        "hint": "In positive sentences, we use 'some' with both countable and uncountable nouns."
+      },
+      {
+        "id": "w6",
+        "type": "translation",
+        "french": "Combien coutent les pommes ? — Elles coutent deux livres le kilo.",
+        "suggested_answer": "How much are the apples? — They are two pounds a kilo.",
+        "key_vocabulary": ["How much", "apples", "pounds", "kilo"]
+      }
+    ],
+    "oral": [
+      {
+        "id": "o1",
+        "type": "read_aloud",
+        "instruction": "Read this dialogue aloud. Try to use different voices for Anna and the shop assistant.",
+        "text": "Anna: I need some bread and some milk. How much is the bread?\nShop assistant: The bread is one pound fifty. And the milk is ninety pence.\nAnna: Good, that's not expensive.",
+        "focus": "Practise the rising intonation on questions ('How much is the bread?') and falling intonation on statements.",
+        "phonetic_tips": ["bread: /bred/ (short 'e' sound)", "expensive: /ɪkˈspensɪv/", "pence: /pens/"]
+      },
+      {
+        "id": "o2",
+        "type": "answer_question",
+        "question": "You are at the supermarket. Ask the price of three things and say if they are cheap or expensive.",
+        "suggested_answer": "How much is the bread? It's one pound. That's very cheap. How much are the oranges? They are three pounds a kilo. That's not too expensive. How much is the cheese? It's eight pounds. That's too expensive!",
+        "vocabulary_hints": ["How much is...?", "How much are...?", "cheap", "expensive", "too expensive"],
+        "duration_seconds": 40
+      }
+    ]
+  }
+}

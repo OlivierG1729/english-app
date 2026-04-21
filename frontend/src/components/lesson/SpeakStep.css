@@ -1,0 +1,227 @@
+/* SpeakStep.css */
+.speak-step { max-width: 75vw; margin: 0 auto; }
+.speak-header { margin-bottom: 1.5rem; }
+.speak-header h2 { margin-bottom: 0.3rem; }
+.speak-subtitle { color: var(--text-secondary); font-size: 1.35rem; }
+
+/* Sélecteur de mode */
+.speak-modes {
+  display: flex;
+  gap: 0.5rem;
+  margin-bottom: 1.5rem;
+  background: var(--bg-secondary);
+  padding: 0.4rem;
+  border-radius: var(--radius-lg);
+  border: 1px solid var(--border);
+}
+
+.mode-btn {
+  flex: 1;
+  padding: 0.55rem 1rem;
+  border: none;
+  background: transparent;
+  border-radius: var(--radius-md);
+  font-family: var(--font-body);
+  font-size: 1.35rem;
+  font-weight: 600;
+  color: var(--text-secondary);
+  cursor: pointer;
+  transition: all var(--transition);
+}
+.mode-btn:hover { background: var(--bg-card); color: var(--text-primary); }
+.mode-btn.active {
+  background: var(--bg-card);
+  color: var(--accent-violet);
+  box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+}
+
+/* Sélecteur de paragraphe */
+.para-selector {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin-bottom: 1rem;
+  flex-wrap: wrap;
+}
+.para-selector-label { font-size: 1.275rem; color: var(--text-secondary); }
+.para-selector-btns { display: flex; gap: 0.3rem; flex-wrap: wrap; }
+
+.para-sel-btn {
+  width: 32px; height: 32px;
+  border-radius: 50%;
+  border: 1px solid var(--border);
+  background: var(--bg-elevated);
+  color: var(--text-secondary);
+  font-size: 1.2rem;
+  font-family: var(--font-mono);
+  cursor: pointer;
+  transition: all var(--transition);
+  display: flex; align-items: center; justify-content: center;
+}
+.para-sel-btn:hover  { border-color: var(--border-light); color: var(--text-primary); }
+.para-sel-btn.active { border-color: var(--accent-violet); color: var(--accent-violet); background: rgba(124,111,208,0.12); }
+
+/* Texte à lire */
+.speak-text-card { margin-bottom: 1rem; }
+.speak-text { font-size: 1.65rem; line-height: 1.9; }
+
+/* Conseils phonétiques */
+.tips-toggle { margin-bottom: 0.75rem; font-size: 1.275rem; }
+
+.phono-tips { margin-bottom: 1rem; }
+.tips-title { font-size: 1.5rem; margin-bottom: 0.75rem; color: var(--accent-teal); }
+.tips-list {
+  padding-left: 1.25rem;
+  display: flex; flex-direction: column; gap: 0.4rem;
+}
+.tips-list li { font-size: 1.32rem; color: var(--text-secondary); line-height: 1.55; }
+
+/* ─── Enregistreur ─────────────────────────────────────────── */
+.recorder-panel {
+  padding: 1.25rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+.recorder-status {
+  text-align: center;
+  font-size: 1.32rem;
+}
+
+.rec-state { font-family: var(--font-mono); font-size: 1.23rem; }
+.rec-state.idle      { color: var(--text-muted); }
+.rec-state.recording { color: var(--error); font-weight: 700; }
+.rec-state.recorded  { color: var(--success); }
+.rec-state.playing   { color: var(--accent-violet); }
+.rec-state.error     { color: var(--error); }
+
+.recorder-btns {
+  display: flex;
+  gap: 0.75rem;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.rec-btn { padding: 0.6rem 1.5rem; font-size: 1.5rem; }
+
+/* Navigation paragraphes */
+.para-nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 1rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--border);
+}
+.para-nav-count {
+  font-family: var(--font-mono);
+  font-size: 1.2rem;
+  color: var(--text-muted);
+}
+
+/* ─── Exercices oraux guidés ───────────────────────────────── */
+.oral-exercises { margin-bottom: 1.5rem; }
+
+.oral-ex-progress {
+  display: flex;
+  gap: 0.4rem;
+  margin-bottom: 1rem;
+  justify-content: center;
+}
+
+.oral-dot {
+  width: 10px; height: 10px;
+  border-radius: 50%;
+  background: var(--border);
+  cursor: pointer;
+  transition: all var(--transition);
+}
+.oral-dot.active { background: var(--accent-violet); transform: scale(1.3); }
+.oral-dot.done   { background: var(--success); }
+
+.oral-ex-card { padding: 1.25rem; }
+
+.oral-ex-type {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-weight: 600;
+  color: var(--accent-violet);
+  margin-bottom: 1rem;
+  font-size: 1.38rem;
+}
+
+.oral-ex-num {
+  font-family: var(--font-mono);
+  font-size: 1.125rem;
+  color: var(--text-muted);
+}
+
+.oral-ex-text {
+  margin-bottom: 1rem;
+  background: var(--bg-elevated);
+}
+.oral-ex-instruction {
+  font-size: 1.23rem;
+  color: var(--text-muted);
+  font-style: italic;
+  margin-bottom: 0.5rem;
+}
+.oral-ex-focus {
+  font-size: 1.23rem;
+  color: var(--accent-gold);
+  margin-top: 0.5rem;
+}
+
+.oral-ex-question { margin-bottom: 1rem; }
+.oral-q-label { font-size: 1.125rem; text-transform: uppercase; letter-spacing: 0.06em; color: var(--text-muted); font-family: var(--font-mono); margin-bottom: 0.4rem; }
+.oral-q-text { font-family: var(--font-display); font-size: 1.65rem; font-style: italic; color: var(--accent-gold); line-height: 1.5; }
+.oral-q-duration { font-size: 1.2rem; color: var(--text-muted); margin-top: 0.4rem; }
+
+.oral-phonetic-tips { display: flex; align-items: center; gap: 0.5rem; flex-wrap: wrap; margin-bottom: 0.75rem; }
+.oral-vocab-hints   { display: flex; align-items: flex-start; gap: 0.5rem; flex-wrap: wrap; margin-bottom: 0.75rem; }
+
+.tips-mini-label {
+  font-size: 1.08rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--text-muted);
+  font-family: var(--font-mono);
+  white-space: nowrap;
+}
+
+.hint-tags { display: flex; flex-wrap: wrap; gap: 0.35rem; }
+.hint-tag {
+  background: var(--bg-elevated);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  padding: 0.15rem 0.5rem;
+  font-size: 1.17rem;
+  color: var(--text-secondary);
+}
+
+.oral-suggested { margin-top: 1rem; }
+.suggested-btn  { font-size: 1.275rem; margin-bottom: 0.75rem; }
+.suggested-answer { padding: 1rem; }
+.suggested-label {
+  font-size: 1.08rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--accent-gold);
+  font-family: var(--font-mono);
+  margin-bottom: 0.5rem;
+}
+
+.oral-ex-nav {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 1rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--border);
+}
+
+@media (max-width: 768px) {
+  .speak-step { max-width: 95vw; }
+}

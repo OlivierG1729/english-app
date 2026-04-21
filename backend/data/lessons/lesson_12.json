@@ -1,0 +1,298 @@
+{
+  "id": "12",
+  "unit": 2,
+  "unit_title": "Culture, Arts & Media",
+  "title": "The Food of Memory",
+  "level": "B2+",
+  "type": "story",
+  "theme": "Food, Memory & Cultural Identity",
+  "reading_time": "5 min",
+  "content": {
+    "paragraphs": [
+      {
+        "en": "My grandmother made soup in a way that nobody else has ever been able to replicate. I've tried. My mother tried. We have the recipe, written in her careful handwriting on a piece of paper that smells faintly of her kitchen — a combination of cumin and something I can't name. The soup we make is good. It is not her soup.",
+        "fr": "Ma grand-mère faisait la soupe d'une façon que personne d'autre n'a jamais pu reproduire. J'ai essayé. Ma mère a essayé. Nous avons la recette, écrite de sa belle écriture soignée sur un morceau de papier qui sent légèrement sa cuisine — une combinaison de cumin et de quelque chose que je n'arrive pas à nommer. La soupe que nous faisons est bonne. Ce n'est pas sa soupe."
+      },
+      {
+        "en": "Food is the most direct path to memory I know. Not photographs or music — though those come close — but taste and smell, which bypass whatever conscious filtering the mind applies and deliver you, without warning, into a specific moment in the past. The technical term is 'involuntary memory'. Proust, famously, found it in a madeleine. Most of us find it in something less literary: a brand of biscuit, a particular sauce, the specific smell of a grandparent's house.",
+        "fr": "La nourriture est le chemin le plus direct vers la mémoire que je connaisse. Pas les photographies ou la musique — bien que celles-ci s'en approchent — mais le goût et l'odorat, qui contournent ce que le conscient filtre et vous déposent, sans avertissement, dans un moment précis du passé. Le terme technique est « mémoire involontaire ». Proust, c'est connu, l'a trouvée dans une madeleine. La plupart d'entre nous la trouvent dans quelque chose de moins littéraire : une marque de biscuit, une sauce particulière, l'odeur spécifique de la maison d'un grand-parent."
+      },
+      {
+        "en": "What interests me is the cultural weight that food carries. When first-generation immigrants talk about food, they often describe it in terms that go well beyond nutrition or pleasure. It becomes a form of cultural preservation — a practice that keeps something alive when everything else is changing. For many families, the kitchen is the last place a language is spoken, the last repository of a way of life that no longer exists anywhere else.",
+        "fr": "Ce qui m'intéresse, c'est le poids culturel que porte la nourriture. Quand les immigrants de première génération parlent de nourriture, ils la décrivent souvent en des termes qui vont bien au-delà de la nutrition ou du plaisir. Elle devient une forme de préservation culturelle — une pratique qui maintient quelque chose en vie alors que tout le reste change. Pour beaucoup de familles, la cuisine est le dernier endroit où une langue est parlée, le dernier dépôt d'une façon de vivre qui n'existe plus nulle part ailleurs."
+      },
+      {
+        "en": "At the same time, food evolves. It absorbs. The curry that arrived in Britain in the 1960s is not the curry eaten in Bangladesh; it has been adapted, simplified, intensified to suit local tastes, and become, in the process, something new and distinctly British. Whether this constitutes enrichment or erasure — or both — depends rather a lot on who you ask and what they've lost.",
+        "fr": "En même temps, la nourriture évolue. Elle absorbe. Le curry arrivé en Grande-Bretagne dans les années 1960 n'est pas le curry mangé au Bangladesh ; il a été adapté, simplifié, intensifié pour correspondre aux goûts locaux, et est devenu, dans le processus, quelque chose de nouveau et distinctement britannique. Que cela constitue un enrichissement ou un effacement — ou les deux — dépend beaucoup de qui vous posez la question et de ce qu'ils ont perdu."
+      },
+      {
+        "en": "My grandmother's soup resists categorisation. She had learned it from her own mother, who had learned it from hers, in a village that no longer exists under that name. Each generation had adjusted it slightly — a different proportion of spice, a different cut of meat. By the time it reached me, the recipe was a palimpsest: layer upon layer of hands and kitchens and countries, none of them mine.",
+        "fr": "La soupe de ma grand-mère résiste à la catégorisation. Elle l'avait apprise de sa propre mère, qui l'avait apprise de la sienne, dans un village qui n'existe plus sous ce nom. Chaque génération l'avait légèrement ajustée — une proportion différente d'épices, une coupe de viande différente. Au moment où elle me parvint, la recette était un palimpseste : couche après couche de mains, de cuisines et de pays, aucun des miens."
+      },
+      {
+        "en": "I still try to make it. The soup I produce is not her soup and never will be. But the act of trying — of following her handwriting, of measuring with cups rather than scales as she did, of filling the kitchen with that smell — is itself something. Not preservation, exactly. More like conversation.",
+        "fr": "J'essaie encore de la faire. La soupe que je produis n'est pas sa soupe et ne le sera jamais. Mais l'acte d'essayer — de suivre son écriture, de mesurer avec des tasses plutôt que des balances comme elle le faisait, de remplir la cuisine de cette odeur — est en soi quelque chose. Pas tout à fait une préservation. Plutôt une conversation."
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "to replicate",
+        "phonetic": "/ˈreplɪkeɪt/",
+        "type": "verb",
+        "definition_en": "Faire une copie exacte de quelque chose ; reproduire avec précision",
+        "definition_fr": "reproduire, répliquer, recréer fidèlement",
+        "example": "Scientists tried to replicate the results of the original experiment.",
+        "level": "B2"
+      },
+      {
+        "word": "to bypass",
+        "phonetic": "/ˈbaɪpɑːs/",
+        "type": "verb",
+        "definition_en": "Contourner ou éviter quelque chose ; court-circuiter un processus",
+        "definition_fr": "contourner, court-circuiter",
+        "example": "Emotional appeals can bypass rational analysis and go straight to the gut.",
+        "level": "B2"
+      },
+      {
+        "word": "involuntary memory",
+        "phonetic": "/ɪnˈvɒləntri ˈmeməri/",
+        "type": "noun (compound, psychology/literature)",
+        "definition_en": "Un souvenir déclenché spontanément par une expérience sensorielle, sans effort conscient (concept associé à Proust)",
+        "definition_fr": "mémoire involontaire (concept proustien)",
+        "example": "The smell of sunscreen triggered an involuntary memory of childhood holidays.",
+        "level": "C1"
+      },
+      {
+        "word": "repository",
+        "phonetic": "/rɪˈpɒzɪtəri/",
+        "type": "noun",
+        "definition_en": "Un lieu où des choses sont conservées ou peuvent être trouvées ; un gardien de quelque chose",
+        "definition_fr": "répertoire, dépôt, conservatoire (au sens figuré)",
+        "example": "The village elder was the repository of the community's oral history.",
+        "level": "C1"
+      },
+      {
+        "word": "erasure",
+        "phonetic": "/ɪˈreɪʒər/",
+        "type": "noun",
+        "definition_en": "L'acte de supprimer ou détruire quelque chose complètement ; la disparition d'une culture, d'une langue ou d'une tradition",
+        "definition_fr": "effacement, disparition (d'une culture, d'une langue)",
+        "example": "Cultural erasure occurs when minority languages and traditions are marginalised.",
+        "level": "C1"
+      },
+      {
+        "word": "palimpsest",
+        "phonetic": "/ˈpælɪmpsest/",
+        "type": "noun",
+        "definition_en": "Un manuscrit dont l'écriture antérieure a été effacée et réécrite par-dessus ; (figuré) quelque chose qui montre les traces de formes antérieures",
+        "definition_fr": "palimpseste (texte réécrit par-dessus un ancien) ; (figuré) quelque chose qui porte les traces de ses versions antérieures",
+        "example": "The city is a palimpsest — every era has built over the last, leaving traces.",
+        "level": "C1"
+      },
+      {
+        "word": "to constitute",
+        "phonetic": "/ˈkɒnstɪtjuːt/",
+        "type": "verb",
+        "definition_en": "Être ou représenter quelque chose ; composer ou former",
+        "definition_fr": "constituer, représenter, former",
+        "example": "Whether this constitutes a crime depends on the interpretation of the law.",
+        "level": "B2"
+      },
+      {
+        "word": "to intensify",
+        "phonetic": "/ɪnˈtensɪfaɪ/",
+        "type": "verb",
+        "definition_en": "Augmenter en force, en degré ou en concentration",
+        "definition_fr": "intensifier, renforcer, concentrer",
+        "example": "The flavours intensify when the dish is left to rest overnight.",
+        "level": "B2"
+      },
+      {
+        "word": "categorisation",
+        "phonetic": "/ˌkætɪɡəraɪˈzeɪʃn/",
+        "type": "noun",
+        "definition_en": "Le processus de classement des choses en catégories ou en groupes",
+        "definition_fr": "catégorisation, classification",
+        "example": "Some artists deliberately resist easy categorisation.",
+        "level": "B2"
+      },
+      {
+        "word": "to adjust",
+        "phonetic": "/əˈdʒʌst/",
+        "type": "verb",
+        "definition_en": "Modifier légèrement pour mieux adapter quelque chose à une situation",
+        "definition_fr": "ajuster, adapter, modifier légèrement",
+        "example": "Each generation adjusted the recipe to match available ingredients.",
+        "level": "B2"
+      }
+    ],
+    "grammar_points": [
+      {
+        "title": "'Which' as a connector: 'bypass whatever filtering the mind applies, and deliver you...'",
+        "explanation": "Les propositions relatives non restrictives avec **'which'** peuvent relier deux actions parallèles effectuées par le même sujet. En prose sophistiquée, cela évite de répéter le sujet et crée des phrases fluides et riches.",
+        "examples": [
+          "'Taste and smell, **which** bypass filtering and deliver you into the past.'",
+          "'She wrote a letter, **which** she posted without re-reading.'",
+          "'The market collapsed, **which** triggered a wave of redundancies.'",
+          "Tip: 'which' here refers to the whole previous clause or both verbs, not just one word."
+        ]
+      },
+      {
+        "title": "Concession and qualification: 'Whether X constitutes Y depends rather a lot on who you ask'",
+        "explanation": "Cette structure est utilisée pour reconnaître qu'une question n'a pas de réponse unique — cela dépend de la perspective, de l'expérience ou de l'intérêt. **'Depends on'** + 'who/what/how' est essentiel pour une écriture académique et critique nuancée.",
+        "examples": [
+          "'Whether this **constitutes** enrichment or erasure **depends** on who you ask.'",
+          "'How serious the situation is **depends** on which figures you use.'",
+          "'**Whether** it was a success or a failure is a matter of perspective.'",
+          "Also useful: 'That depends entirely on...', 'It's a question of...', 'That's open to debate.'"
+        ]
+      },
+      {
+        "title": "Layer upon layer: repeated prepositions for emphasis",
+        "explanation": "Les **structures parallèles répétées** — 'layer upon layer', 'day by day', 'step by step' — sont utilisées pour des effets cumulatifs ou progressifs. En prose littéraire, elles imitent le sentiment d'accumulation.",
+        "examples": [
+          "'**Layer upon layer** of hands and kitchens and countries.'",
+          "'**Year by year**, the language was slowly forgotten.'",
+          "'**Word for word**, she translated the entire document.'",
+          "'**One by one**, the old buildings disappeared.' → gradual process",
+          "These structures can also be used in academic writing: 'point by point', 'case by case'."
+        ]
+      }
+    ],
+    "expressions": [
+      {
+        "expression": "to go well beyond",
+        "meaning_fr": "aller bien au-delà de, dépasser largement",
+        "example": "The cultural significance of food goes well beyond nutrition.",
+        "register": "neutral / formal",
+        "note": "Plus emphatique que « to go beyond ». Signale que l'ampleur dépasse significativement le point de référence."
+      },
+      {
+        "expression": "in the process",
+        "meaning_fr": "ce faisant, dans le processus, au cours de cette transformation",
+        "example": "The dish was adapted and became, in the process, something distinctly British.",
+        "register": "neutral",
+        "note": "Utilisé pour décrire quelque chose qui se produit comme un sous-produit ou un résultat d'une autre action."
+      },
+      {
+        "expression": "to resist categorisation",
+        "meaning_fr": "résister à la catégorisation, difficile à classer",
+        "example": "Her music resists easy categorisation — it draws on jazz, folk and electronics simultaneously.",
+        "register": "formal / critical",
+        "note": "Une expression utile dans les arts, l'analyse culturelle et les critiques."
+      },
+      {
+        "expression": "layer upon layer",
+        "meaning_fr": "couche après couche, strate après strate",
+        "example": "The recipe was a palimpsest — layer upon layer of influences.",
+        "register": "literary / formal",
+        "note": "Utilisé pour décrire une complexité ou une profondeur accumulée, souvent de manière métaphorique."
+      },
+      {
+        "expression": "more like X than Y",
+        "meaning_fr": "plutôt X que Y, davantage X que Y",
+        "example": "Not preservation, exactly. More like conversation.",
+        "register": "neutral / reflective",
+        "note": "Une correction douce ou un recadrage d'un concept. Très efficace dans les essais personnels et l'écriture réflexive."
+      }
+    ]
+  },
+  "exercises": {
+    "written": [
+      {
+        "id": "w1",
+        "type": "multiple_choice",
+        "question": "Why can't the narrator replicate her grandmother's soup exactly?",
+        "options": [
+          "The original recipe has been lost.",
+          "They lack the right equipment.",
+          "Some things about a dish — its emotional and contextual dimensions — cannot be written down.",
+          "She has never tried to make the soup herself."
+        ],
+        "answer": 2,
+        "explanation": "The narrator has the recipe, but the soup is still not the same. The text implies that food carries memories and emotional weight that transcend ingredients."
+      },
+      {
+        "id": "w2",
+        "type": "multiple_choice",
+        "question": "What does the narrator mean by calling the recipe a 'palimpsest'?",
+        "options": [
+          "The recipe is written in a language she doesn't fully understand.",
+          "The recipe contains layers of modifications from generations of cooks.",
+          "The original recipe has been erased and replaced by a new one.",
+          "The recipe is incomplete and requires improvisation."
+        ],
+        "answer": 1,
+        "explanation": "A palimpsest is a text written over previous texts. Here, it means the recipe has been layered with modifications by each generation."
+      },
+      {
+        "id": "w3",
+        "type": "fill_blank",
+        "sentence": "The smell of fresh bread ________ whatever rational thought I had and took me straight back to childhood.",
+        "answer": "bypassed",
+        "hint": "A verb meaning 'to go around or avoid, to circumvent'."
+      },
+      {
+        "id": "w4",
+        "type": "fill_blank",
+        "sentence": "Whether this approach ________ good practice ________ on the context.",
+        "answer": "constitutes / depends",
+        "hint": "Two verbs: one meaning 'to represent' and one for expressing conditionality."
+      },
+      {
+        "id": "w5",
+        "type": "fill_blank",
+        "sentence": "Her novels resist easy ________ — they combine thriller, romance and political commentary.",
+        "answer": "categorisation / categorization",
+        "hint": "A noun meaning 'the process of placing into categories'."
+      },
+      {
+        "id": "w6",
+        "type": "translation",
+        "french": "La langue fut adaptée au fil des générations et devint, au cours de ce processus, quelque chose de nouveau.",
+        "suggested_answer": "The language was adapted over the generations and became, in the process, something new.",
+        "key_vocabulary": ["adapted over the generations", "in the process", "became something new"]
+      },
+      {
+        "id": "w7",
+        "type": "translation",
+        "french": "Ce n'était pas de la nostalgie à proprement parler. Plutôt une façon de maintenir une conversation avec le passé.",
+        "suggested_answer": "It wasn't nostalgia, exactly. More like a way of keeping a conversation with the past.",
+        "key_vocabulary": ["not... exactly", "more like", "keeping a conversation with"]
+      },
+      {
+        "id": "w8",
+        "type": "translation",
+        "french": "Que cela constitue un enrichissement ou un appauvrissement culturel dépend beaucoup de qui vous posez la question.",
+        "suggested_answer": "Whether this constitutes cultural enrichment or impoverishment depends rather a lot on who you ask.",
+        "key_vocabulary": ["Whether this constitutes", "cultural enrichment or impoverishment", "depends rather a lot on who"]
+      }
+    ],
+    "oral": [
+      {
+        "id": "o1",
+        "type": "read_aloud",
+        "instruction": "Read the final paragraph. The tone is reflective, accepting, and quietly hopeful. This is personal essay writing — let the rhythm breathe.",
+        "text": "I still try to make it. The soup I produce is not her soup and never will be. But the act of trying — of following her handwriting, of measuring with cups rather than scales as she did, of filling the kitchen with that smell — is itself something. Not preservation, exactly. More like conversation.",
+        "focus": "The list inside the dashes should feel accumulative and tender. The final two short sentences — each a fragment — land as separate, quiet thoughts.",
+        "phonetic_tips": ["preservation: /ˌprezəˈveɪʃn/", "measuring: /ˈmeʒərɪŋ/", "conversation: stress on 'SAY'"]
+      },
+      {
+        "id": "o2",
+        "type": "answer_question",
+        "question": "Is there a food, smell or taste that takes you back to a specific memory? Describe it.",
+        "suggested_answer": "There's a particular type of almond cake that my aunt used to make for family gatherings. I haven't had it in years, but once in a while I smell something similar — in a bakery, or at a friend's house — and I'm immediately back in her kitchen, around a table with people I rarely see anymore. It bypasses everything and just takes me there. I've tried to recreate the cake but I can never quite get it right. I think part of what I'm trying to replicate isn't just the flavour — it's the whole context, the people, the time of year, all of it wrapped up in a single taste.",
+        "vocabulary_hints": ["takes me back to", "bypasses everything", "tried to recreate", "the whole context", "wrapped up in"],
+        "duration_seconds": 75
+      },
+      {
+        "id": "o3",
+        "type": "answer_question",
+        "question": "When a dish from one culture is adapted by another — like 'British curry' — is that enrichment, cultural appropriation, or just natural evolution? What do you think?",
+        "suggested_answer": "I think it can be all three, depending on the conditions. When adaptation happens through genuine exchange and mutual respect — when both cultures benefit and the original community is credited — it tends towards enrichment. When it happens through exploitation or erasure of the original culture — when a cuisine becomes fashionable in one country while the people who created it face discrimination in that same country — that feels closer to appropriation. Natural evolution is probably the most honest framing for most cases: food has always migrated, mixed and changed. The question is whether the people at the origin of that food benefit from it, or are left behind.",
+        "vocabulary_hints": ["genuine exchange", "mutual respect", "tends towards", "closer to appropriation", "the people at the origin"],
+        "duration_seconds": 90
+      }
+    ]
+  }
+}

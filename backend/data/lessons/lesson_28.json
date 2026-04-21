@@ -1,0 +1,297 @@
+{
+  "id": "28",
+  "unit": 4,
+  "unit_title": "Advanced Discourse & Argumentation",
+  "title": "When Markets Crash",
+  "level": "C1",
+  "type": "story",
+  "theme": "Financial Crises, Economics & Human Behaviour",
+  "reading_time": "6 min",
+  "content": {
+    "paragraphs": [
+      {
+        "en": "Every major financial crisis in history has been followed, almost immediately, by a period of collective bewilderment: how did nobody see this coming? The answer, almost invariably, is that many people did see it coming. They wrote papers, gave speeches, resigned from firms, issued public warnings. The warnings were ignored — or, more accurately, they were heard and then overridden by the logic of the moment.",
+        "fr": "Chaque grande crise financière de l'histoire a été suivie, presque immédiatement, d'une période de perplexité collective : comment personne n'a-t-il vu ça venir ? La réponse, presque invariablement, est que beaucoup de gens l'ont vu venir. Ils ont rédigé des articles, donné des discours, démissionné de leurs entreprises, émis des avertissements publics. Les avertissements ont été ignorés — ou, plus précisément, ils ont été entendus et puis surmontés par la logique du moment."
+      },
+      {
+        "en": "The logic of the moment is a peculiarly powerful force. In the years before the 2008 financial crisis, the evidence of systemic risk was available: the proliferation of complex derivative instruments that nobody fully understood, the ratings agencies giving AAA ratings to assets they hadn't rigorously assessed, the housing price rises that every historical precedent suggested were unsustainable. Yet the dominant logic held that risk had been distributed and diversified away — that the system was more stable than ever before.",
+        "fr": "La logique du moment est une force particulièrement puissante. Dans les années précédant la crise financière de 2008, les preuves du risque systémique étaient disponibles : la prolifération d'instruments dérivés complexes que personne ne comprenait entièrement, les agences de notation donnant des notes AAA à des actifs qu'elles n'avaient pas rigoureusement évalués, les hausses de prix de l'immobilier que tout précédent historique suggérait être insoutenables. Pourtant, la logique dominante soutenait que le risque avait été distribué et diversifié — que le système était plus stable que jamais auparavant."
+      },
+      {
+        "en": "Why do intelligent people, acting in their own apparent self-interest, collectively produce outcomes that are catastrophic for everyone, including themselves? This is not merely an economic question. It is a question about the limits of rationality, the power of incentive structures, and the particular vulnerability of human reasoning to the social pressure to conform.",
+        "fr": "Pourquoi des personnes intelligentes, agissant dans leur propre intérêt apparent, produisent-elles collectivement des résultats catastrophiques pour tout le monde, y compris elles-mêmes ? Ce n'est pas simplement une question économique. C'est une question sur les limites de la rationalité, le pouvoir des structures d'incitation et la vulnérabilité particulière du raisonnement humain à la pression sociale de se conformer."
+      },
+      {
+        "en": "Part of the answer lies in what economists call 'rational herding'. If everyone around you is making money by doing X, the rational individual response — given your uncertainty about whether X is sustainable — may well be to do X too. Not because you believe it will last, but because the cost of being wrong while following the herd is lower than the cost of being wrong while diverging from it. A fund manager who avoids the bubble and turns out to be right is merely prudent. A fund manager who avoids the bubble and turns out to be wrong has bet against a wave that everyone else was riding and lost. The asymmetry of career risk shapes behaviour in ways that have little to do with first-order assessments of value.",
+        "fr": "Une partie de la réponse réside dans ce que les économistes appellent le « troupeau rationnel ». Si tout le monde autour de vous gagne de l'argent en faisant X, la réponse individuelle rationnelle — compte tenu de votre incertitude sur la durabilité de X — peut bien être de faire X aussi. Non pas parce que vous croyez que ça va durer, mais parce que le coût d'avoir tort en suivant le troupeau est inférieur au coût d'avoir tort en s'en écartant. Un gestionnaire de fonds qui évite la bulle et s'avère avoir raison est simplement prudent. Un gestionnaire de fonds qui évite la bulle et s'avère avoir tort a parié contre une vague que tout le monde chevauchait et a perdu. L'asymétrie du risque de carrière façonne le comportement d'une façon qui a peu à voir avec des évaluations de premier ordre de la valeur."
+      },
+      {
+        "en": "This analysis suggests that the standard policy response — better regulation, more transparency, stricter capital requirements — addresses only part of the problem. You can change the rules. You cannot easily change the underlying logic of competitive environments, which tends to punish those who act on long-term thinking when short-term thinking is what the incentive structures reward.",
+        "fr": "Cette analyse suggère que la réponse politique standard — meilleure réglementation, plus de transparence, exigences de capital plus strictes — ne traite qu'une partie du problème. On peut changer les règles. On ne peut pas facilement changer la logique sous-jacente des environnements compétitifs, qui tend à punir ceux qui agissent sur la pensée à long terme quand la pensée à court terme est ce que les structures d'incitation récompensent."
+      },
+      {
+        "en": "The deeper lesson of financial crises, perhaps, is not about finance at all. It is about the gap between individual rationality and collective outcomes — about the ease with which intelligent systems can produce collectively catastrophic results when the incentives facing individual actors within those systems are misaligned with the outcomes that the systems collectively require to function. This problem is not unique to markets. It appears wherever individual reward is disconnected from collective consequences.",
+        "fr": "La leçon plus profonde des crises financières est peut-être qu'il ne s'agit pas de finance du tout. Il s'agit de l'écart entre rationalité individuelle et résultats collectifs — de la facilité avec laquelle des systèmes intelligents peuvent produire des résultats collectivement catastrophiques quand les incitations auxquelles font face les acteurs individuels au sein de ces systèmes sont mal alignées avec les résultats que ces systèmes nécessitent collectivement pour fonctionner. Ce problème n'est pas unique aux marchés. Il apparaît partout où la récompense individuelle est déconnectée des conséquences collectives."
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "collective bewilderment",
+        "phonetic": "/kəˈlektɪv bɪˈwɪldərmənt/",
+        "type": "noun phrase",
+        "definition_en": "Un état partagé de confusion ou d'incrédulité vécu par un groupe",
+        "definition_fr": "perplexité collective, stupeur partagée",
+        "example": "The collapse was followed by collective bewilderment — nobody claimed to have seen it coming.",
+        "level": "C1"
+      },
+      {
+        "word": "systemic risk",
+        "phonetic": "/sɪˈstemɪk rɪsk/",
+        "type": "noun phrase (finance)",
+        "definition_en": "Risque qui affecte l'ensemble du système financier plutôt que des institutions individuelles",
+        "definition_fr": "risque systémique",
+        "example": "Systemic risk had been building for years before the 2008 collapse.",
+        "level": "C1"
+      },
+      {
+        "word": "proliferation",
+        "phonetic": "/prəˌlɪfəˈreɪʃn/",
+        "type": "noun",
+        "definition_en": "Augmentation ou propagation rapide de quelque chose, souvent préoccupante",
+        "definition_fr": "prolifération",
+        "example": "The proliferation of unregulated financial instruments contributed to the crisis.",
+        "level": "C1"
+      },
+      {
+        "word": "derivative",
+        "phonetic": "/dɪˈrɪvətɪv/",
+        "type": "noun (finance)",
+        "definition_en": "Un instrument financier dont la valeur est dérivée d'un actif sous-jacent",
+        "definition_fr": "instrument dérivé",
+        "example": "Complex derivatives were at the heart of the 2008 financial crisis.",
+        "level": "C1"
+      },
+      {
+        "word": "rational herding",
+        "phonetic": "/ˈræʃnəl ˈhɜːrdɪŋ/",
+        "type": "noun phrase (economics/behavioural)",
+        "definition_en": "La tendance économiquement rationnelle mais collectivement néfaste à suivre le comportement de la foule en situation d'incertitude",
+        "definition_fr": "comportement grégaire rationnel",
+        "example": "Rational herding explains why fund managers pile into assets they know are overvalued.",
+        "level": "C1"
+      },
+      {
+        "word": "asymmetry",
+        "phonetic": "/eɪˈsɪmɪtri/",
+        "type": "noun",
+        "definition_en": "Absence d'égalité ou d'équivalence entre deux choses ; déséquilibre",
+        "definition_fr": "asymétrie",
+        "example": "The asymmetry of career risk — worse to be wrong alone than wrong with the crowd — shapes dangerous incentives.",
+        "level": "C1"
+      },
+      {
+        "word": "capital requirements",
+        "phonetic": "/ˈkæpɪtl rɪˈkwaɪərмənts/",
+        "type": "noun phrase (finance/regulation)",
+        "definition_en": "Le montant de capital qu'une banque doit détenir comme tampon contre les pertes, fixé par les régulateurs",
+        "definition_fr": "exigences en capital, ratio de fonds propres",
+        "example": "Stricter capital requirements force banks to hold more reserves against potential losses.",
+        "level": "C1"
+      },
+      {
+        "word": "misaligned",
+        "phonetic": "/ˌmɪsəˈlaɪnd/",
+        "type": "adjective",
+        "definition_en": "Mal aligné ; dans le contexte des incitations, orienté dans la mauvaise direction par rapport aux résultats souhaités",
+        "definition_fr": "mal aligné, désaligné",
+        "example": "When individual incentives are misaligned with collective wellbeing, markets can fail catastrophically.",
+        "level": "C1"
+      },
+      {
+        "word": "prudent",
+        "phonetic": "/ˈpruːdnt/",
+        "type": "adjective",
+        "definition_en": "Qui agit avec soin et réflexion pour l'avenir ; sage avec prudence",
+        "definition_fr": "prudent, avisé",
+        "example": "A prudent investor diversifies rather than concentrating all assets in one sector.",
+        "level": "B2"
+      },
+      {
+        "word": "precedent",
+        "phonetic": "/ˈpresɪdənt/",
+        "type": "noun",
+        "definition_en": "Un événement ou une action antérieure qui sert d'exemple ou de guide",
+        "definition_fr": "précédent",
+        "example": "Historical precedents suggested the asset price rises were unsustainable.",
+        "level": "B2"
+      }
+    ],
+    "grammar_points": [
+      {
+        "title": "The abstract subject: 'The deeper lesson... is not about X. It is about Y.'",
+        "explanation": "Au niveau C1, les noms abstraits deviennent sujets — 'the lesson', 'the implication', 'the irony'. Cela permet aux idées plutôt qu'aux personnes ou aux événements de porter le poids de la phrase, ce qui est une caractéristique de l'écriture analytique formelle.",
+        "examples": [
+          "'**The deeper lesson** of financial crises is not about finance.'",
+          "'**The real question** is not about regulation — it is about incentive structures.'",
+          "'**The implication** of this argument is uncomfortable.'",
+          "'**The irony** is that risk-avoidance can itself become risky.'"
+        ]
+      },
+      {
+        "title": "Concessive relative clauses: 'a fund manager who... turns out to be right is merely prudent'",
+        "explanation": "Utiliser des **propositions relatives pour présenter des cas parallèles** (celui qui fait X et a raison vs. celui qui fait X et a tort) est un moyen puissant d'illustrer l'asymétrie ou l'injustice dans un système.",
+        "examples": [
+          "'A fund manager **who avoids the bubble and turns out to be right** is merely prudent.'",
+          "'A fund manager **who avoids the bubble and turns out to be wrong** has lost.'",
+          "'The whistleblower **who is vindicated** is called a hero. The one **who is not** is called a troublemaker.'",
+          "This structure makes abstract systemic problems feel concrete and human."
+        ]
+      },
+      {
+        "title": "'This problem is not unique to X. It appears wherever Y.' — generalising from a specific case",
+        "explanation": "Le passage d'un cas spécifique à un principe général est une compétence clé dans l'écriture argumentative. **'Not unique to'** signale que le problème transcende son contexte, et **'wherever'** étend le principe à tous les cas pertinents.",
+        "examples": [
+          "'This problem is **not unique to** markets. It appears **wherever** individual reward is disconnected from collective consequences.'",
+          "'This dynamic is **not confined to** politics. It occurs **in any** competitive environment.'",
+          "'This is **not a problem** specific to social media — it predates it.'",
+          "The pattern: specific case → 'not unique to' → generalisation."
+        ]
+      }
+    ],
+    "expressions": [
+      {
+        "expression": "the logic of the moment",
+        "meaning_fr": "la logique du moment, la dynamique ambiante",
+        "example": "Warnings were heard but overridden by the logic of the moment.",
+        "register": "analytical / journalistic",
+        "note": "Décrit la logique sociale et économique puissante qui rend certains comportements rationnels dans un contexte donné, même s'ils ne le sont pas à long terme."
+      },
+      {
+        "expression": "acting in one's apparent self-interest",
+        "meaning_fr": "agissant dans son intérêt apparent",
+        "example": "Intelligent people acting in their apparent self-interest collectively produced catastrophe.",
+        "register": "analytical / economic",
+        "note": "'Apparent' est un qualificatif crucial — il signale que ce qui semble être l'intérêt personnel ne sert peut-être pas réellement les intérêts à long terme de la personne."
+      },
+      {
+        "expression": "to bet against the tide / the wave",
+        "meaning_fr": "parier contre le courant / la vague",
+        "example": "A fund manager who bets against the wave and loses is punished, not praised.",
+        "register": "figurative / financial",
+        "note": "'Bet against the tide' signifie prendre une position contraire au sentiment dominant du marché. Très risqué : si vous avez raison, vous êtes un héros ; si vous avez tort, vous êtes un idiot."
+      },
+      {
+        "expression": "misaligned incentives",
+        "meaning_fr": "incitations mal alignées, mauvaises incitations",
+        "example": "Misaligned incentives explain why individually rational behaviour produces collectively catastrophic outcomes.",
+        "register": "economic / analytical",
+        "note": "Un des concepts les plus importants en économie et en politique publique. Quand les récompenses et les punitions ne correspondent pas au comportement souhaité, les systèmes échouent."
+      },
+      {
+        "expression": "first-order assessment",
+        "meaning_fr": "évaluation de premier ordre, analyse directe",
+        "example": "Career risk shapes behaviour in ways that have little to do with first-order assessments of value.",
+        "register": "formal / technical",
+        "note": "Une évaluation 'first-order' est basée directement sur la question sous-jacente (cet actif vaut-il la peine d'être acheté ?), par opposition à la réflexion de second ordre sur la façon dont les autres vont se comporter."
+      }
+    ]
+  },
+  "exercises": {
+    "written": [
+      {
+        "id": "w1",
+        "type": "multiple_choice",
+        "question": "According to the author, why were warnings about the 2008 crisis ignored?",
+        "options": [
+          "Because the warnings were insufficiently publicised.",
+          "Because regulators were corrupt.",
+          "Because the dominant logic of the moment held that risk had been diversified away.",
+          "Because most economists had not understood the complexity of derivatives."
+        ],
+        "answer": 2,
+        "explanation": "The text says warnings were 'overridden by the logic of the moment' — the dominant narrative that risk had been distributed and the system was more stable than ever."
+      },
+      {
+        "id": "w2",
+        "type": "multiple_choice",
+        "question": "What is 'rational herding' as described in the text?",
+        "options": [
+          "The tendency of markets to correct themselves automatically.",
+          "The rational decision to follow crowd behaviour when diverging from it carries greater personal risk.",
+          "The tendency for investors to act irrationally under stress.",
+          "The strategy of following professional advice rather than acting independently."
+        ],
+        "answer": 1,
+        "explanation": "The text explains: 'the cost of being wrong while following the herd is lower than the cost of being wrong while diverging from it' — making herding individually rational even when collectively disastrous."
+      },
+      {
+        "id": "w3",
+        "type": "fill_blank",
+        "sentence": "This problem is not ________ ________ financial markets — it appears in any competitive system.",
+        "answer": "unique to",
+        "hint": "A phrase meaning 'exclusive to, not found only in'."
+      },
+      {
+        "id": "w4",
+        "type": "fill_blank",
+        "sentence": "The crisis was preceded by a ________ of complex financial instruments that few people fully understood.",
+        "answer": "proliferation",
+        "hint": "A noun meaning 'rapid increase or spread of something'."
+      },
+      {
+        "id": "w5",
+        "type": "fill_blank",
+        "sentence": "When individual rewards are ________ from collective consequences, systems tend to fail.",
+        "answer": "disconnected / misaligned",
+        "hint": "A past participle indicating that two things are not in the proper relationship."
+      },
+      {
+        "id": "w6",
+        "type": "translation",
+        "french": "Les avertissements ont été entendus, mais surmontés par la logique du moment.",
+        "suggested_answer": "The warnings were heard, but overridden by the logic of the moment.",
+        "key_vocabulary": ["warnings were heard", "overridden by", "logic of the moment"]
+      },
+      {
+        "id": "w7",
+        "type": "translation",
+        "french": "L'asymétrie du risque de carrière façonne le comportement d'une façon qui a peu à voir avec les évaluations de premier ordre de la valeur.",
+        "suggested_answer": "The asymmetry of career risk shapes behaviour in ways that have little to do with first-order assessments of value.",
+        "key_vocabulary": ["asymmetry of career risk", "shapes behaviour", "first-order assessments of value"]
+      },
+      {
+        "id": "w8",
+        "type": "translation",
+        "french": "La leçon plus profonde est qu'il ne s'agit pas de marchés financiers — il s'agit du fossé entre rationalité individuelle et résultats collectifs.",
+        "suggested_answer": "The deeper lesson is not about financial markets — it is about the gap between individual rationality and collective outcomes.",
+        "key_vocabulary": ["deeper lesson", "not about... but about", "individual rationality vs collective outcomes"]
+      }
+    ],
+    "oral": [
+      {
+        "id": "o1",
+        "type": "read_aloud",
+        "instruction": "Read the 'rational herding' paragraph. The tone is analytical but slightly ironic — the author is describing something absurd but logically consistent.",
+        "text": "A fund manager who avoids the bubble and turns out to be right is merely prudent. A fund manager who avoids the bubble and turns out to be wrong has bet against a wave that everyone else was riding and lost. The asymmetry of career risk shapes behaviour in ways that have little to do with first-order assessments of value.",
+        "focus": "The parallel sentences — same structure, opposite outcome — should feel deliberate. 'Merely prudent' is quietly devastating. The final analytical sentence should land with authority.",
+        "phonetic_tips": ["asymmetry: /eɪˈsɪmɪtri/", "assessments: /əˈsesmənts/", "prudent: /ˈpruːdnt/"]
+      },
+      {
+        "id": "o2",
+        "type": "answer_question",
+        "question": "Does understanding the causes of financial crises make us better at preventing them? Or do they keep happening regardless?",
+        "suggested_answer": "Understanding helps, but probably not enough. The mechanisms behind the 2008 crisis — leverage, opacity, misaligned incentives, rational herding — were fairly well understood by some economists even before it happened. The problem is that the people who need to act on that understanding are themselves embedded in the systems that the analysis describes. Knowing that rational herding is dangerous doesn't make it irrational to herd when your career depends on it. So I think regulation helps at the margin — stricter capital requirements do reduce risk — but the deeper problem of misaligned incentives requires structural change that is very hard to achieve when the beneficiaries of the current structure are the ones writing the rules.",
+        "vocabulary_hints": ["helps, but probably not enough", "embedded in the systems", "doesn't make it irrational to", "at the margin", "beneficiaries of the current structure"],
+        "duration_seconds": 90
+      },
+      {
+        "id": "o3",
+        "type": "answer_question",
+        "question": "Are markets fundamentally rational, or are they primarily driven by human psychology? What evidence would you draw on?",
+        "suggested_answer": "I think the honest answer is both, in different proportions at different times. In normal conditions, markets do a reasonable job of aggregating information and pricing assets approximately correctly. The problem arises in periods of stress or euphoria, where psychological dynamics — fear, greed, FOMO, herd behaviour — take over from rational calculation. The evidence for this is extensive: the dot-com bubble, the 2008 housing market, cryptocurrency volatility. In each case, assets were priced in ways that retrospective analysis cannot justify on fundamentals. The efficient market hypothesis — that prices always reflect all available information — is a useful theoretical baseline, but it requires ignoring a lot of evidence. I'd say markets are imperfect information aggregators that work well until they don't, and the 'until they don't' moments tend to be the ones that matter most.",
+        "vocabulary_hints": ["in different proportions at different times", "aggregating information", "psychological dynamics", "efficient market hypothesis", "imperfect information aggregators"],
+        "duration_seconds": 120
+      }
+    ]
+  }
+}

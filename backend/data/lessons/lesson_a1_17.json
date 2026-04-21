@@ -1,0 +1,266 @@
+{
+  "id": "a1_17",
+  "unit": 8,
+  "unit_title": "Getting Confident",
+  "title": "My Holiday Last Summer",
+  "level": "A1",
+  "type": "story",
+  "theme": "Past Tense Intro",
+  "reading_time": "3 min",
+  "content": {
+    "paragraphs": [
+      {
+        "en": "Last summer, I went on holiday with my family. We travelled to Spain because my mum loves the beach. We packed our suitcases the night before and woke up very early in the morning.",
+        "fr": "L'ete dernier, je suis parti(e) en vacances avec ma famille. Nous avons voyage en Espagne parce que ma mere adore la plage. Nous avons fait nos valises la veille au soir et nous nous sommes reveilles tres tot le matin."
+      },
+      {
+        "en": "The hotel was beautiful. It was near the sea and there was a big swimming pool. My sister and I were very excited. We stayed there for one week.",
+        "fr": "L'hotel etait magnifique. Il etait pres de la mer et il y avait une grande piscine. Ma soeur et moi etions tres enthousiastes. Nous sommes restes la-bas pendant une semaine."
+      },
+      {
+        "en": "Every day, we played on the beach and swam in the sea. The water was warm and blue. I visited a small village with my dad. We walked through the streets and looked at the old buildings.",
+        "fr": "Chaque jour, nous jouions sur la plage et nous nagions dans la mer. L'eau etait chaude et bleue. J'ai visite un petit village avec mon papa. Nous avons marche dans les rues et regarde les vieux batiments."
+      },
+      {
+        "en": "On the last day, I bought postcards for my friends. I wrote 'I wish you were here!' on each one. The holiday was amazing and I was sad to go home.",
+        "fr": "Le dernier jour, j'ai achete des cartes postales pour mes amis. J'ai ecrit 'J'aurais aime que tu sois la !' sur chacune. Les vacances etaient formidables et j'etais triste de rentrer a la maison."
+      },
+      {
+        "en": "Now I look at my photos and I remember that exciting trip. I hope we go back next summer!",
+        "fr": "Maintenant, je regarde mes photos et je me souviens de ce voyage passionnant. J'espere que nous y retournerons l'ete prochain !"
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "holiday",
+        "phonetic": "/ˈhɒlɪdeɪ/",
+        "type": "noun",
+        "definition_en": "une periode ou l'on voyage et se repose loin de chez soi",
+        "definition_fr": "vacances",
+        "example": "We went on holiday to Spain last summer.",
+        "level": "A1"
+      },
+      {
+        "word": "beach",
+        "phonetic": "/biːtʃ/",
+        "type": "noun",
+        "definition_en": "une zone de sable ou de petits cailloux pres de la mer",
+        "definition_fr": "plage",
+        "example": "We played on the beach every day.",
+        "level": "A1"
+      },
+      {
+        "word": "to swim",
+        "phonetic": "/swɪm/",
+        "type": "verb",
+        "definition_en": "se deplacer dans l'eau en utilisant ses bras et ses jambes",
+        "definition_fr": "nager",
+        "example": "I swam in the sea with my sister.",
+        "level": "A1"
+      },
+      {
+        "word": "visited",
+        "phonetic": "/ˈvɪzɪtɪd/",
+        "type": "verb (past)",
+        "definition_en": "passe de 'visit' — aller voir un lieu ou une personne",
+        "definition_fr": "a visite",
+        "example": "We visited a small village near the coast.",
+        "level": "A1"
+      },
+      {
+        "word": "stayed",
+        "phonetic": "/steɪd/",
+        "type": "verb (past)",
+        "definition_en": "passe de 'stay' — rester dans un endroit",
+        "definition_fr": "est reste(e)",
+        "example": "We stayed at a beautiful hotel for one week.",
+        "level": "A1"
+      },
+      {
+        "word": "hotel",
+        "phonetic": "/hoʊˈtɛl/",
+        "type": "noun",
+        "definition_en": "un batiment ou l'on paye pour dormir quand on voyage",
+        "definition_fr": "hotel",
+        "example": "The hotel was near the beach.",
+        "level": "A1"
+      },
+      {
+        "word": "suitcase",
+        "phonetic": "/ˈsuːtkeɪs/",
+        "type": "noun",
+        "definition_en": "un sac avec une poignee utilise pour transporter des vetements en voyage",
+        "definition_fr": "valise",
+        "example": "I packed my suitcase the night before.",
+        "level": "A1"
+      },
+      {
+        "word": "exciting",
+        "phonetic": "/ɪkˈsaɪtɪŋ/",
+        "type": "adjective",
+        "definition_en": "qui rend tres heureux et enthousiaste",
+        "definition_fr": "passionnant, excitant",
+        "example": "The trip was very exciting!",
+        "level": "A1"
+      },
+      {
+        "word": "postcard",
+        "phonetic": "/ˈpoʊstkɑːrd/",
+        "type": "noun",
+        "definition_en": "une carte avec une image que l'on envoie a quelqu'un par la poste",
+        "definition_fr": "carte postale",
+        "example": "I bought postcards for my friends.",
+        "level": "A1"
+      }
+    ],
+    "grammar_points": [
+      {
+        "title": "Simple past of 'be': was / were",
+        "explanation": "En anglais, le verbe **'to be'** a deux formes au passe : **'was'** (pour I, he, she, it) et **'were'** (pour you, we, they). En francais, cela correspond a 'etais/etait/etions/etaient'.",
+        "examples": [
+          "The hotel was beautiful. = L'hotel etait magnifique.",
+          "We were very excited. = Nous etions tres enthousiastes.",
+          "I was sad to go home. = J'etais triste de rentrer.",
+          "Was it warm? = Est-ce qu'il faisait chaud ? / Were they happy? = Etaient-ils contents ?"
+        ]
+      },
+      {
+        "title": "Simple past: regular verbs with -ed",
+        "explanation": "Pour parler du passe en anglais, on ajoute **-ed** aux verbes reguliers. Si le verbe se termine par -e, on ajoute simplement -d. S'il se termine par consonne + y, on change le y en i et on ajoute -ed. La prononciation peut etre /t/, /d/ ou /ɪd/.",
+        "examples": [
+          "visit → visited: I visited a village. = J'ai visite un village.",
+          "stay → stayed: We stayed at a hotel. = Nous sommes restes a l'hotel.",
+          "play → played: They played on the beach. = Ils ont joue sur la plage.",
+          "walk → walked: We walked through the streets. = Nous avons marche dans les rues."
+        ]
+      }
+    ],
+    "expressions": [
+      {
+        "expression": "Last summer, I...",
+        "meaning_fr": "L'ete dernier, j'ai...",
+        "example": "Last summer, I went on holiday with my family.",
+        "register": "neutral",
+        "note": "S'utilise pour commencer a parler de quelque chose qui s'est passe l'ete precedent. On peut aussi dire 'Last week', 'Last year', etc."
+      },
+      {
+        "expression": "It was amazing",
+        "meaning_fr": "C'etait formidable / incroyable",
+        "example": "The holiday was amazing — I loved every day!",
+        "register": "informal",
+        "note": "Une facon tres courante de decrire une experience passee positive. 'Amazing' est plus fort que 'nice' ou 'good'."
+      },
+      {
+        "expression": "We stayed at...",
+        "meaning_fr": "Nous sommes restes a... / Nous avons loge a...",
+        "example": "We stayed at a hotel near the beach.",
+        "register": "neutral",
+        "note": "S'utilise pour dire ou l'on a dormi ou loge pendant un voyage."
+      }
+    ]
+  },
+  "exercises": {
+    "written": [
+      {
+        "id": "w1",
+        "type": "multiple_choice",
+        "question": "Where did the family go on holiday?",
+        "options": [
+          "They went to France.",
+          "They went to Spain.",
+          "They went to Italy.",
+          "They went to England."
+        ],
+        "answer": 1,
+        "explanation": "The story says 'We travelled to Spain because my mum loves the beach.'"
+      },
+      {
+        "id": "w2",
+        "type": "multiple_choice",
+        "question": "Which sentence is correct in the past tense?",
+        "options": [
+          "The hotel were beautiful.",
+          "The hotel was beautiful.",
+          "The hotel is beautiful.",
+          "The hotel are beautiful."
+        ],
+        "answer": 1,
+        "explanation": "'Hotel' is singular (it), so we use 'was' for the past tense of 'be'."
+      },
+      {
+        "id": "w3",
+        "type": "multiple_choice",
+        "question": "What is the past tense of 'visit'?",
+        "options": [
+          "visitted",
+          "visiten",
+          "visited",
+          "visiting"
+        ],
+        "answer": 2,
+        "explanation": "'Visit' is a regular verb. We add -ed to make the past tense: visited."
+      },
+      {
+        "id": "w4",
+        "type": "fill_blank",
+        "sentence": "Last summer, we ________ (stay) at a hotel near the sea.",
+        "answer": "stayed",
+        "hint": "Add -ed to the verb 'stay'."
+      },
+      {
+        "id": "w5",
+        "type": "fill_blank",
+        "sentence": "The water ________ (be) warm and blue.",
+        "answer": "was",
+        "hint": "'Water' is singular, so use the singular past form of 'be'."
+      },
+      {
+        "id": "w6",
+        "type": "fill_blank",
+        "sentence": "My sister and I ________ (be) very excited about the trip.",
+        "answer": "were",
+        "hint": "'My sister and I' = 'we', so use the plural past form of 'be'."
+      },
+      {
+        "id": "w7",
+        "type": "translation",
+        "french": "L'ete dernier, nous avons voyage en Espagne.",
+        "suggested_answer": "Last summer, we travelled to Spain.",
+        "key_vocabulary": ["last summer", "travelled"]
+      },
+      {
+        "id": "w8",
+        "type": "translation",
+        "french": "L'hotel etait magnifique et nous sommes restes une semaine.",
+        "suggested_answer": "The hotel was beautiful and we stayed for one week.",
+        "key_vocabulary": ["was", "stayed", "for one week"]
+      }
+    ],
+    "oral": [
+      {
+        "id": "o1",
+        "type": "read_aloud",
+        "instruction": "Read these sentences aloud. Focus on the past tense endings.",
+        "text": "Last summer, I went on holiday with my family. We visited a small village and walked through the streets. The hotel was beautiful and we stayed there for one week.",
+        "focus": "Pay attention to the -ed endings: 'visited' /ˈvɪzɪtɪd/, 'walked' /wɔːkt/, 'stayed' /steɪd/. Each -ed sounds different!",
+        "phonetic_tips": ["visited: /ˈvɪzɪtɪd/ — three syllables", "walked: /wɔːkt/ — the -ed sounds like /t/", "stayed: /steɪd/ — the -ed sounds like /d/"]
+      },
+      {
+        "id": "o2",
+        "type": "answer_question",
+        "question": "Where did you go on your last holiday? What did you do there?",
+        "suggested_answer": "Last summer, I went to the mountains with my parents. We walked in the forest and visited a lake. It was very beautiful. We stayed at a small hotel for five days.",
+        "vocabulary_hints": ["Last summer / Last year", "I went to...", "We visited...", "It was..."],
+        "duration_seconds": 45
+      },
+      {
+        "id": "o3",
+        "type": "answer_question",
+        "question": "Was your last holiday exciting or boring? Why?",
+        "suggested_answer": "My last holiday was exciting because we visited many new places. The beach was amazing and the food was delicious. I was very happy!",
+        "vocabulary_hints": ["It was exciting / boring", "because...", "amazing", "I was happy / sad"],
+        "duration_seconds": 45
+      }
+    ]
+  }
+}

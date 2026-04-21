@@ -1,0 +1,181 @@
+{
+  "id": "a1_02",
+  "unit": 6,
+  "unit_title": "First Steps",
+  "title": "My Family",
+  "level": "A1",
+  "type": "story",
+  "theme": "Family Members",
+  "reading_time": "2 min",
+  "content": {
+    "paragraphs": [
+      {
+        "en": "My name is Emma. I have a big family. There are six people in my family.",
+        "fr": "Je m'appelle Emma. J'ai une grande famille. Il y a six personnes dans ma famille."
+      },
+      {
+        "en": "This is my mother. Her name is Sophie. This is my father. His name is David.",
+        "fr": "Voici ma mere. Elle s'appelle Sophie. Voici mon pere. Il s'appelle David."
+      },
+      {
+        "en": "I have a brother. His name is Lucas. He is ten years old. I also have a little sister. Her name is Chloe.",
+        "fr": "J'ai un frere. Il s'appelle Lucas. Il a dix ans. J'ai aussi une petite soeur. Elle s'appelle Chloe."
+      },
+      {
+        "en": "And we have a baby! The baby is very small. I love my family very much.",
+        "fr": "Et nous avons un bebe ! Le bebe est tres petit. J'aime beaucoup ma famille."
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "mother",
+        "phonetic": "/ˈmʌðər/",
+        "type": "noun",
+        "definition_en": "un parent de sexe feminin",
+        "definition_fr": "mere, maman",
+        "example": "My mother is very kind.",
+        "level": "A1"
+      },
+      {
+        "word": "father",
+        "phonetic": "/ˈfɑːðər/",
+        "type": "noun",
+        "definition_en": "un parent de sexe masculin",
+        "definition_fr": "pere, papa",
+        "example": "My father works in an office.",
+        "level": "A1"
+      },
+      {
+        "word": "brother",
+        "phonetic": "/ˈbrʌðər/",
+        "type": "noun",
+        "definition_en": "un membre de la famille du meme sexe masculin, ne des memes parents",
+        "definition_fr": "frere",
+        "example": "I have one brother.",
+        "level": "A1"
+      },
+      {
+        "word": "sister",
+        "phonetic": "/ˈsɪstər/",
+        "type": "noun",
+        "definition_en": "un membre de la famille de sexe feminin, nee des memes parents",
+        "definition_fr": "soeur",
+        "example": "My sister is five years old.",
+        "level": "A1"
+      },
+      {
+        "word": "family",
+        "phonetic": "/ˈfæmɪli/",
+        "type": "noun",
+        "definition_en": "un groupe de personnes liees entre elles",
+        "definition_fr": "famille",
+        "example": "I love my family.",
+        "level": "A1"
+      },
+      {
+        "word": "baby",
+        "phonetic": "/ˈbeɪbi/",
+        "type": "noun",
+        "definition_en": "un tres jeune enfant",
+        "definition_fr": "bebe",
+        "example": "The baby is sleeping.",
+        "level": "A1"
+      }
+    ],
+    "grammar_points": [
+      {
+        "title": "\"I have...\" / \"This is my...\"",
+        "explanation": "Utilisez **\"I have\"** pour exprimer la possession (en français : \"J'ai\"). Utilisez **\"This is my...\"** pour présenter quelqu'un ou quelque chose (en français : \"Voici mon/ma...\"). Remarque : en anglais, 'my' ne change pas au masculin ou au féminin.",
+        "examples": [
+          "I have a brother. = J'ai un frere.",
+          "I have a big family. = J'ai une grande famille.",
+          "This is my mother. = Voici ma mere.",
+          "This is my father. = Voici mon pere."
+        ]
+      }
+    ],
+    "expressions": [
+      {
+        "expression": "This is my...",
+        "meaning_fr": "Voici mon/ma..., C'est mon/ma...",
+        "example": "This is my sister. Her name is Chloe.",
+        "register": "neutral",
+        "note": "S'utilise pour présenter une personne. 'This is my mother', 'This is my friend Tom'."
+      },
+      {
+        "expression": "I have a...",
+        "meaning_fr": "J'ai un/une...",
+        "example": "I have a brother and a sister.",
+        "register": "neutral",
+        "note": "On utilise 'a' devant un nom singulier. 'I have a dog', 'I have a big house'."
+      }
+    ]
+  },
+  "exercises": {
+    "written": [
+      {
+        "id": "w1",
+        "type": "multiple_choice",
+        "question": "How do you say 'J'ai un frere' in English?",
+        "options": [
+          "I am a brother.",
+          "I have a brother.",
+          "I has a brother."
+        ],
+        "answer": 1,
+        "explanation": "We use 'I have' (not 'I has' or 'I am') to express possession with 'I'."
+      },
+      {
+        "id": "w2",
+        "type": "multiple_choice",
+        "question": "What is the English word for 'soeur'?",
+        "options": [
+          "brother",
+          "mother",
+          "sister"
+        ],
+        "answer": 2,
+        "explanation": "'Sister' means 'soeur'. 'Brother' means 'frere' and 'mother' means 'mere'."
+      },
+      {
+        "id": "w3",
+        "type": "fill_blank",
+        "sentence": "This is my ________. Her name is Sophie.",
+        "answer": "mother",
+        "hint": "The word for 'mere' in English."
+      },
+      {
+        "id": "w4",
+        "type": "fill_blank",
+        "sentence": "I ________ a big family.",
+        "answer": "have",
+        "hint": "The verb 'avoir' with 'I' in English."
+      },
+      {
+        "id": "w5",
+        "type": "translation",
+        "french": "Voici mon pere. Il s'appelle David.",
+        "suggested_answer": "This is my father. His name is David.",
+        "key_vocabulary": ["this is my", "father", "his name is"]
+      }
+    ],
+    "oral": [
+      {
+        "id": "o1",
+        "type": "read_aloud",
+        "instruction": "Read these sentences aloud slowly and clearly.",
+        "text": "This is my mother. Her name is Sophie. I have a brother and a sister.",
+        "focus": "Pay attention to the 'th' sound in 'this' and 'mother'. Put your tongue between your teeth.",
+        "phonetic_tips": ["mother: /ˈmʌðər/", "brother: /ˈbrʌðər/", "sister: /ˈsɪstər/"]
+      },
+      {
+        "id": "o2",
+        "type": "answer_question",
+        "question": "Do you have a brother or a sister? Tell me about your family.",
+        "suggested_answer": "I have a brother. His name is [name]. I have a mother and a father.",
+        "vocabulary_hints": ["I have...", "His/Her name is...", "my family"],
+        "duration_seconds": 30
+      }
+    ]
+  }
+}

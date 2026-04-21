@@ -1,0 +1,181 @@
+{
+  "id": "a1_03",
+  "unit": 6,
+  "unit_title": "First Steps",
+  "title": "What's in My Bag?",
+  "level": "A1",
+  "type": "story",
+  "theme": "Objects & Colours",
+  "reading_time": "2 min",
+  "content": {
+    "paragraphs": [
+      {
+        "en": "Today is my first day of school. I have a new bag. It is big and blue.",
+        "fr": "Aujourd'hui, c'est mon premier jour d'ecole. J'ai un nouveau sac. Il est grand et bleu."
+      },
+      {
+        "en": "What is in my bag? There is a book. The book is red. There is also a pen. The pen is green.",
+        "fr": "Qu'y a-t-il dans mon sac ? Il y a un livre. Le livre est rouge. Il y a aussi un stylo. Le stylo est vert."
+      },
+      {
+        "en": "I also have a pencil case. It is yellow. Inside, there are two pencils and a ruler.",
+        "fr": "J'ai aussi une trousse. Elle est jaune. A l'interieur, il y a deux crayons et une regle."
+      },
+      {
+        "en": "My bag is heavy! But I am happy. I like school.",
+        "fr": "Mon sac est lourd ! Mais je suis content(e). J'aime l'ecole."
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "bag",
+        "phonetic": "/bæɡ/",
+        "type": "noun",
+        "definition_en": "un contenant utilise pour transporter des choses",
+        "definition_fr": "sac",
+        "example": "My bag is blue.",
+        "level": "A1"
+      },
+      {
+        "word": "book",
+        "phonetic": "/bʊk/",
+        "type": "noun",
+        "definition_en": "des pages avec des mots que l'on lit",
+        "definition_fr": "livre",
+        "example": "I have a red book.",
+        "level": "A1"
+      },
+      {
+        "word": "pen",
+        "phonetic": "/pɛn/",
+        "type": "noun",
+        "definition_en": "un outil utilise pour ecrire avec de l'encre",
+        "definition_fr": "stylo",
+        "example": "Can I borrow your pen?",
+        "level": "A1"
+      },
+      {
+        "word": "red",
+        "phonetic": "/rɛd/",
+        "type": "adjective",
+        "definition_en": "la couleur d'une tomate ou d'un camion de pompiers",
+        "definition_fr": "rouge",
+        "example": "The book is red.",
+        "level": "A1"
+      },
+      {
+        "word": "blue",
+        "phonetic": "/bluː/",
+        "type": "adjective",
+        "definition_en": "la couleur du ciel par temps clair",
+        "definition_fr": "bleu",
+        "example": "The bag is blue.",
+        "level": "A1"
+      },
+      {
+        "word": "green",
+        "phonetic": "/ɡriːn/",
+        "type": "adjective",
+        "definition_en": "la couleur de l'herbe et des feuilles",
+        "definition_fr": "vert",
+        "example": "The pen is green.",
+        "level": "A1"
+      }
+    ],
+    "grammar_points": [
+      {
+        "title": "\"It is...\" / \"There is...\"",
+        "explanation": "Utilisez **\"It is\"** (ou **\"It's\"**) pour décrire quelque chose (en français : \"C'est\" ou \"Il/Elle est\"). Utilisez **\"There is\"** pour dire que quelque chose existe dans un endroit (en français : \"Il y a\"). 'There is' s'utilise pour une seule chose, 'there are' pour deux choses ou plus.",
+        "examples": [
+          "It is a book. = C'est un livre.",
+          "It is red. = Il est rouge.",
+          "There is a pen in my bag. = Il y a un stylo dans mon sac.",
+          "There are two pencils. = Il y a deux crayons."
+        ]
+      }
+    ],
+    "expressions": [
+      {
+        "expression": "What is this?",
+        "meaning_fr": "Qu'est-ce que c'est ?",
+        "example": "What is this? It is a book.",
+        "register": "neutral",
+        "note": "S'utilise pour poser une question sur un objet. On peut aussi dire 'What's this?' (forme courte)."
+      },
+      {
+        "expression": "It is a...",
+        "meaning_fr": "C'est un/une...",
+        "example": "What is this? It is a pen.",
+        "register": "neutral",
+        "note": "S'utilise pour identifier ou décrire un objet. 'It's a...' est la forme courte."
+      }
+    ]
+  },
+  "exercises": {
+    "written": [
+      {
+        "id": "w1",
+        "type": "multiple_choice",
+        "question": "How do you say 'Il y a un livre dans mon sac' in English?",
+        "options": [
+          "It is a book in my bag.",
+          "There is a book in my bag.",
+          "A book is there in my bag."
+        ],
+        "answer": 1,
+        "explanation": "We use 'There is' to say that something exists in a place (= Il y a)."
+      },
+      {
+        "id": "w2",
+        "type": "multiple_choice",
+        "question": "What colour is the sky?",
+        "options": [
+          "red",
+          "green",
+          "blue"
+        ],
+        "answer": 2,
+        "explanation": "The sky is blue. 'Blue' = bleu."
+      },
+      {
+        "id": "w3",
+        "type": "fill_blank",
+        "sentence": "The pen is ________. (vert)",
+        "answer": "green",
+        "hint": "The English word for the colour 'vert'."
+      },
+      {
+        "id": "w4",
+        "type": "fill_blank",
+        "sentence": "________ is a book on the table.",
+        "answer": "There",
+        "hint": "'Il y a' in English starts with this word."
+      },
+      {
+        "id": "w5",
+        "type": "translation",
+        "french": "Qu'est-ce que c'est ? C'est un stylo rouge.",
+        "suggested_answer": "What is this? It is a red pen.",
+        "key_vocabulary": ["what is this", "it is", "red", "pen"]
+      }
+    ],
+    "oral": [
+      {
+        "id": "o1",
+        "type": "read_aloud",
+        "instruction": "Read these sentences aloud slowly and clearly.",
+        "text": "There is a book in my bag. It is red. There is also a green pen.",
+        "focus": "Pay attention to the 'th' sound in 'there'. Practice the colour words clearly.",
+        "phonetic_tips": ["there: /ðɛr/", "book: /bʊk/", "green: /ɡriːn/"]
+      },
+      {
+        "id": "o2",
+        "type": "answer_question",
+        "question": "What is in your bag? Tell me two things and their colour.",
+        "suggested_answer": "There is a book in my bag. It is blue. There is also a pen. It is red.",
+        "vocabulary_hints": ["There is...", "It is...", "red", "blue", "green"],
+        "duration_seconds": 30
+      }
+    ]
+  }
+}

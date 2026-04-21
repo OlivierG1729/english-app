@@ -1,0 +1,310 @@
+{
+  "id": "25",
+  "unit": 4,
+  "unit_title": "Advanced Discourse & Argumentation",
+  "title": "The Debate Stage",
+  "level": "C1",
+  "type": "dialogue",
+  "theme": "Political Debate, Rhetoric & Persuasion",
+  "reading_time": "6 min",
+  "content": {
+    "speakers": ["Chair", "Olivia (Proposing the motion)", "Reza (Opposing the motion)"],
+    "paragraphs": [
+      {
+        "speaker": "Chair",
+        "en": "The motion before us tonight is: 'This house believes that social media has done more harm than good to democracy.' Olivia, you are proposing the motion. You have the floor.",
+        "fr": "La motion ce soir est : « Cette assemblée estime que les réseaux sociaux ont fait plus de mal que de bien à la démocratie. » Olivia, vous proposez la motion. La parole est à vous."
+      },
+      {
+        "speaker": "Olivia",
+        "en": "Thank you, Chair. I want to begin by resisting the temptation to argue in abstractions, because the evidence is now concrete and alarming. In country after country — the United States, Hungary, Brazil, India — we have watched social media platforms function not as a public square but as an accelerant. They have amplified extremist content, facilitated coordinated disinformation campaigns, and created information environments so fractured that citizens can no longer agree on basic facts, let alone policy. A democracy that cannot sustain shared reality is a democracy in serious trouble.",
+        "fr": "Merci, Présidente. Je souhaite commencer par résister à la tentation d'argumenter en abstractions, car les preuves sont désormais concrètes et alarmantes. Dans pays après pays — les États-Unis, la Hongrie, le Brésil, l'Inde — nous avons vu des plateformes de réseaux sociaux fonctionner non comme une place publique mais comme un accélérateur. Elles ont amplifié le contenu extrémiste, facilité des campagnes de désinformation coordonnées, et créé des environnements informationnels si fragmentés que les citoyens ne peuvent plus se mettre d'accord sur des faits de base, sans parler des politiques. Une démocratie qui ne peut pas maintenir une réalité partagée est une démocratie en sérieux danger."
+      },
+      {
+        "speaker": "Reza",
+        "en": "Chair, before I make my substantive case, I want to observe something about my opponent's framing. She has listed four countries in which democracy is indeed under stress, and attributed that stress to social media. But correlation is not causation. Those same countries have experienced economic shocks, institutional decay, and deep pre-existing social divisions. Social media is a tool — and like all tools, it amplifies what is already there. To attribute the disease to the thermometer that measures its temperature is a category error.",
+        "fr": "Présidente, avant de présenter mes arguments substantiels, je veux observer quelque chose sur le cadrage de mon adversaire. Elle a listé quatre pays dans lesquels la démocratie est effectivement sous pression, et a attribué cette pression aux réseaux sociaux. Mais la corrélation n'est pas la causalité. Ces mêmes pays ont connu des chocs économiques, une dégradation institutionnelle et de profondes divisions sociales préexistantes. Les réseaux sociaux sont un outil — et comme tous les outils, ils amplifient ce qui est déjà là. Attribuer la maladie au thermomètre qui mesure sa température est une erreur de catégorie."
+      },
+      {
+        "speaker": "Olivia",
+        "en": "The thermometer metaphor is elegant but evasive. We now have substantial internal evidence — from whistleblowers, from leaked documents, from the platforms' own research — that these companies knew their algorithms were amplifying anger, outrage and divisive content because those emotional states maximise engagement. They made a choice to optimise for engagement over civic health. That is not a passive thermometer. That is an active agent.",
+        "fr": "La métaphore du thermomètre est élégante mais évasive. Nous disposons maintenant de preuves internes substantielles — de lanceurs d'alerte, de documents divulgués, des propres recherches des plateformes — que ces entreprises savaient que leurs algorithmes amplifiaient la colère, l'indignation et le contenu clivant parce que ces états émotionnels maximisent l'engagement. Elles ont fait le choix d'optimiser l'engagement au détriment de la santé civique. Ce n'est pas un thermomètre passif. C'est un agent actif."
+      },
+      {
+        "speaker": "Reza",
+        "en": "I don't dispute that the platforms have made choices that are, at minimum, ethically questionable. What I dispute is the 'more harm than good' framing. Social media has also connected civil society organisations across borders, mobilised protesters during the Arab Spring and Hong Kong, allowed marginalised voices to bypass legacy gatekeepers, and provided platforms for political education that simply did not exist twenty years ago. Any honest accounting must include both sides of the ledger.",
+        "fr": "Je ne conteste pas que les plateformes aient fait des choix qui sont, au minimum, éthiquement discutables. Ce que je conteste, c'est le cadrage « plus de mal que de bien ». Les réseaux sociaux ont aussi connecté des organisations de la société civile à travers les frontières, mobilisé des manifestants lors du Printemps arabe et à Hong Kong, permis à des voix marginalisées de contourner les gardiens traditionnels, et fourni des plateformes pour l'éducation politique qui n'existaient tout simplement pas il y a vingt ans. Tout bilan honnête doit inclure les deux côtés de la balance."
+      },
+      {
+        "speaker": "Olivia",
+        "en": "I accept that the ledger has two sides. My argument is about the balance. The Arab Spring, which Reza cites as a success, produced — in most cases — not stable democracies but civil wars, military coups and prolonged instability. Facebook was widely credited with helping to coordinate the initial uprisings; it has been less widely discussed that the same infrastructure was used by authoritarian governments to identify and arrest protesters. The tool does not discriminate.",
+        "fr": "J'accepte que la balance ait deux côtés. Mon argument porte sur l'équilibre. Le Printemps arabe, que Reza cite comme un succès, a produit — dans la plupart des cas — non pas des démocraties stables mais des guerres civiles, des coups d'État militaires et une instabilité prolongée. Facebook a largement été crédité d'avoir aidé à coordonner les soulèvements initiaux ; on a moins largement discuté le fait que la même infrastructure a été utilisée par des gouvernements autoritaires pour identifier et arrêter des manifestants. L'outil ne discrimine pas."
+      },
+      {
+        "speaker": "Reza",
+        "en": "And there is the heart of the disagreement. Olivia believes the harm is intrinsic to the technology — that the design of these platforms is fundamentally incompatible with democratic health. I believe the harm is contingent — that it results from specific design choices that could, in principle, be made differently. That is not a trivial distinction. It is the difference between banning a technology and regulating it.",
+        "fr": "Et voilà le cœur du désaccord. Olivia croit que le préjudice est intrinsèque à la technologie — que la conception de ces plateformes est fondamentalement incompatible avec la santé démocratique. Je crois que le préjudice est contingent — qu'il résulte de choix de conception spécifiques qui pourraient, en principe, être faits différemment. Ce n'est pas une distinction triviale. C'est la différence entre interdire une technologie et la réguler."
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "to propose the motion",
+        "phonetic": "/prəˈpəʊz ðə ˈməʊʃn/",
+        "type": "verb phrase (debate format)",
+        "definition_en": "Dans un débat formel, argumenter en faveur de la proposition énoncée",
+        "definition_fr": "proposer la motion, défendre la proposition",
+        "example": "She was asked to propose the motion that compulsory voting should be introduced.",
+        "level": "C1"
+      },
+      {
+        "word": "accelerant",
+        "phonetic": "/əkˈselərənt/",
+        "type": "noun",
+        "definition_en": "Une substance ou une force qui accélère un processus, en particulier un processus déjà en cours",
+        "definition_fr": "accélérateur (de processus)",
+        "example": "Social media acts as an accelerant, making existing trends move faster.",
+        "level": "C1"
+      },
+      {
+        "word": "disinformation",
+        "phonetic": "/ˌdɪsɪnfəˈmeɪʃn/",
+        "type": "noun",
+        "definition_en": "Information délibérément fausse destinée à tromper (plus fort que 'misinformation', qui peut être accidentelle)",
+        "definition_fr": "désinformation (intentionnelle)",
+        "example": "State-sponsored disinformation campaigns have targeted multiple elections.",
+        "level": "B2"
+      },
+      {
+        "word": "category error",
+        "phonetic": "/ˈkætɪɡri ˈerər/",
+        "type": "noun (philosophy/logic)",
+        "definition_en": "Une erreur qui survient quand on traite quelque chose comme s'il appartenait à une catégorie à laquelle il n'appartient pas",
+        "definition_fr": "erreur de catégorie (confondre cause et symptôme)",
+        "example": "Blaming violence on video games is a category error — correlation is not causation.",
+        "level": "C1"
+      },
+      {
+        "word": "whistleblower",
+        "phonetic": "/ˈwɪslbləʊər/",
+        "type": "noun",
+        "definition_en": "Une personne qui dénonce des actes répréhensibles au sein d'une organisation, souvent au prix d'un risque personnel",
+        "definition_fr": "lanceur d'alerte",
+        "example": "The whistleblower revealed that the platform's own research showed the harm it was causing.",
+        "level": "B2"
+      },
+      {
+        "word": "to maximise engagement",
+        "phonetic": "/ˈmæksɪmaɪz ɪnˈɡeɪdʒmənt/",
+        "type": "verb phrase (tech/business)",
+        "definition_en": "Concevoir des systèmes pour que les utilisateurs interagissent le plus longtemps et le plus intensément possible",
+        "definition_fr": "maximiser l'engagement (des utilisateurs)",
+        "example": "The algorithm is designed to maximise engagement, not to inform or connect.",
+        "level": "C1"
+      },
+      {
+        "word": "ledger",
+        "phonetic": "/ˈledʒər/",
+        "type": "noun (literal and figurative)",
+        "definition_en": "Un grand livre de comptes ; (au figuré) un bilan des avantages et des inconvénients",
+        "definition_fr": "grand livre de comptes ; (figuré) bilan, balance des avantages et inconvénients",
+        "example": "Any honest accounting must include both sides of the ledger.",
+        "level": "B2"
+      },
+      {
+        "word": "intrinsic / contingent",
+        "phonetic": "/ɪnˈtrɪnsɪk / kənˈtɪndʒənt/",
+        "type": "adjective pair (philosophy)",
+        "definition_en": "Intrinsèque = qui appartient à la nature essentielle de quelque chose ; contingent = qui dépend d'autres circonstances, pas nécessaire",
+        "definition_fr": "intrinsèque (inhérent à la nature) / contingent (dépendant des circonstances)",
+        "example": "Is the harm intrinsic to the technology, or contingent on how it is designed and governed?",
+        "level": "C1"
+      },
+      {
+        "word": "to attribute X to Y",
+        "phonetic": "/əˈtrɪbjuːt/",
+        "type": "verb phrase",
+        "definition_en": "Considérer quelque chose comme causé par ou résultant de quelque chose d'autre",
+        "definition_fr": "attribuer X à Y, imputer X à Y",
+        "example": "She attributed the company's failure to poor leadership rather than market conditions.",
+        "level": "B2"
+      },
+      {
+        "word": "evasive",
+        "phonetic": "/ɪˈveɪsɪv/",
+        "type": "adjective",
+        "definition_en": "Qui tend à éviter de donner une réponse claire ou directe ; qui obscurcit délibérément le vrai problème",
+        "definition_fr": "évasif, qui esquive, qui contourne le problème",
+        "example": "That metaphor is elegant but evasive — it avoids the central issue.",
+        "level": "B2"
+      }
+    ],
+    "grammar_points": [
+      {
+        "title": "Rebuttal language at C1: 'I don't dispute X. What I dispute is Y.'",
+        "explanation": "Un débat efficace sépare ce qui est concédé de ce qui est contesté. **'I don't dispute X — what I dispute is Y'** est une formule précise et professionnelle qui évite le désaccord global et concentre le conflit de manière productive.",
+        "examples": [
+          "'**I don't dispute** that platforms have made ethically questionable choices. **What I dispute** is the 'more harm than good' framing.'",
+          "'**I accept** that the ledger has two sides. **My argument** is about the balance.'",
+          "'**I'm not questioning** the data — **I'm questioning** the interpretation.'",
+          "These structures show you've listened carefully and disagree with precision."
+        ]
+      },
+      {
+        "title": "The debate phrase 'You have the floor' and other formal discourse markers",
+        "explanation": "Les débats formels et les présentations utilisent des **marqueurs de discours fixes** qui signalent les transitions. Connaître ces expressions est essentiel pour participer à des séminaires académiques, des simulations de l'ONU et des présentations professionnelles.",
+        "examples": [
+          "'**You have the floor.**' → it is your turn to speak",
+          "'**Before I make my substantive case...**' → signals structure",
+          "'**I want to observe something about my opponent's framing.**' → meta-commentary",
+          "'**There is the heart of the disagreement.**' → signals the crux",
+          "'**Any honest accounting must include...**' → demands balance"
+        ]
+      },
+      {
+        "title": "'That is not X. That is Y.' — the two-sentence reversal",
+        "explanation": "Une **courte phrase déclarative suivie immédiatement de sa correction** crée un impact rhétorique maximal. C'est percutant, mémorable, et signale la certitude.",
+        "examples": [
+          "'That is **not** a passive thermometer. That **is** an active agent.'",
+          "'This is **not** a personal failing. This **is** a structural problem.'",
+          "'That is **not** a correction. That **is** a capitulation.'",
+          "The shorter the sentences, the stronger the effect. Very common in rhetoric and political speeches."
+        ]
+      }
+    ],
+    "expressions": [
+      {
+        "expression": "you have the floor",
+        "meaning_fr": "la parole est à vous",
+        "example": "Olivia, you are proposing the motion. You have the floor.",
+        "register": "formal / debate",
+        "note": "Expression standard dans les débats formels et la procédure parlementaire. 'To take the floor' = commencer à parler ; 'to give the floor to someone' = céder le temps de parole."
+      },
+      {
+        "expression": "correlation is not causation",
+        "meaning_fr": "la corrélation n'est pas la causalité",
+        "example": "Those countries have struggled with democracy — but correlation is not causation.",
+        "register": "academic / analytical",
+        "note": "Un des principes les plus importants de la pensée analytique. Le simple fait que deux choses se produisent ensemble ne signifie pas que l'une cause l'autre."
+      },
+      {
+        "expression": "both sides of the ledger",
+        "meaning_fr": "les deux côtés de la balance, l'actif et le passif",
+        "example": "Any honest accounting must include both sides of the ledger.",
+        "register": "formal / balanced",
+        "note": "Une métaphore financière pour une analyse équilibrée. 'The ledger' = le bilan complet des coûts et des bénéfices."
+      },
+      {
+        "expression": "the heart of the disagreement",
+        "meaning_fr": "le cœur du désaccord, l'essentiel de ce qui nous oppose",
+        "example": "'And there is the heart of the disagreement.'",
+        "register": "formal / debate",
+        "note": "Utilisé pour signaler qu'une différence de principe cruciale a été identifiée — le point dont tout le reste dépend."
+      },
+      {
+        "expression": "an active agent",
+        "meaning_fr": "un agent actif, une force qui agit délibérément",
+        "example": "The algorithm is not a passive tool — it is an active agent that shapes behaviour.",
+        "register": "analytical / formal",
+        "note": "Distingue les instruments passifs des entités qui causent activement le changement. Concept clé dans les arguments sur la technologie et la responsabilité."
+      }
+    ]
+  },
+  "exercises": {
+    "written": [
+      {
+        "id": "w1",
+        "type": "multiple_choice",
+        "question": "What is Reza's main counter-argument to Olivia's opening position?",
+        "options": [
+          "That social media has been entirely beneficial for democracy.",
+          "That the countries Olivia listed are not real democracies.",
+          "That the harm she describes correlates with social media but may be caused by pre-existing factors.",
+          "That disinformation campaigns are exaggerated."
+        ],
+        "answer": 2,
+        "explanation": "Reza argues that correlation is not causation — the countries showing democratic stress had economic shocks and deep divisions before social media existed."
+      },
+      {
+        "id": "w2",
+        "type": "multiple_choice",
+        "question": "What does Reza identify as 'the heart of the disagreement'?",
+        "options": [
+          "Whether social media is used more in democracies or authoritarian states.",
+          "Whether the harm is intrinsic to the technology or contingent on specific design choices.",
+          "Whether the Arab Spring was a success or failure.",
+          "Whether social media companies should be regulated or nationalised."
+        ],
+        "answer": 1,
+        "explanation": "Reza says: 'Olivia believes the harm is intrinsic... I believe the harm is contingent... That is the difference between banning a technology and regulating it.'"
+      },
+      {
+        "id": "w3",
+        "type": "fill_blank",
+        "sentence": "I don't ________ that the data is accurate. What I ________ is the interpretation placed on it.",
+        "answer": "dispute / dispute",
+        "hint": "A rebuttal formula that separates concession from contestation."
+      },
+      {
+        "id": "w4",
+        "type": "fill_blank",
+        "sentence": "That explanation is elegant but ________ — it avoids the central question entirely.",
+        "answer": "evasive",
+        "hint": "An adjective meaning 'tending to avoid the real issue'."
+      },
+      {
+        "id": "w5",
+        "type": "fill_blank",
+        "sentence": "The committee ________ the failure ________ poor planning rather than lack of funding.",
+        "answer": "attributed / to",
+        "hint": "Verb + preposition for assigning a cause."
+      },
+      {
+        "id": "w6",
+        "type": "translation",
+        "french": "Il ne s'agit pas d'un thermomètre passif. Il s'agit d'un agent actif qui amplifie délibérément certains contenus.",
+        "suggested_answer": "This is not a passive thermometer. This is an active agent that deliberately amplifies certain content.",
+        "key_vocabulary": ["not a passive thermometer", "an active agent", "deliberately amplifies"]
+      },
+      {
+        "id": "w7",
+        "type": "translation",
+        "french": "Tout bilan honnête doit inclure les deux côtés de la balance — pas seulement les préjudices.",
+        "suggested_answer": "Any honest accounting must include both sides of the ledger — not just the harms.",
+        "key_vocabulary": ["honest accounting", "both sides of the ledger"]
+      },
+      {
+        "id": "w8",
+        "type": "translation",
+        "french": "Le préjudice est-il intrinsèque à la technologie, ou est-il contingent de choix de conception spécifiques qui pourraient être faits différemment ?",
+        "suggested_answer": "Is the harm intrinsic to the technology, or is it contingent on specific design choices that could be made differently?",
+        "key_vocabulary": ["intrinsic to", "contingent on", "specific design choices"]
+      }
+    ],
+    "oral": [
+      {
+        "id": "o1",
+        "type": "read_aloud",
+        "instruction": "Read Olivia's opening speech as if in a real debate — confident, measured, building to a conclusion. Project clearly.",
+        "text": "I want to begin by resisting the temptation to argue in abstractions, because the evidence is now concrete and alarming. In country after country — the United States, Hungary, Brazil, India — we have watched social media platforms function not as a public square but as an accelerant. They have amplified extremist content, facilitated coordinated disinformation campaigns, and created information environments so fractured that citizens can no longer agree on basic facts, let alone policy.",
+        "focus": "The list of countries builds momentum. The final sentence — 'let alone policy' — is the punchline. Don't rush it.",
+        "phonetic_tips": ["abstractions: /æbˈstrækʃnz/", "facilitated: /fəˈsɪlɪteɪtɪd/", "fractured: /ˈfræktʃəd/"]
+      },
+      {
+        "id": "o2",
+        "type": "answer_question",
+        "question": "Argue FOR the motion: 'Social media has done more harm than good to democracy.' Give at least three distinct arguments.",
+        "suggested_answer": "First, the algorithmic architecture of social media platforms has been shown — by their own internal research — to prioritise anger and outrage because those emotions maximise engagement. This is not a side effect; it is a design choice with demonstrably harmful consequences for civic discourse. Second, social media has vastly lowered the cost of running disinformation campaigns, enabling foreign and domestic actors to pollute the information environment at scale. Third, the filter bubble effect has accelerated political polarisation, making compromise and coalition-building — both essential to democratic governance — increasingly difficult. Taken together, these three effects constitute a fundamental threat to the conditions democracy requires to function.",
+        "vocabulary_hints": ["algorithmic architecture", "maximise engagement", "information environment at scale", "filter bubble", "polarisation", "conditions democracy requires"],
+        "duration_seconds": 90
+      },
+      {
+        "id": "o3",
+        "type": "answer_question",
+        "question": "Now argue AGAINST the same motion. Give at least three arguments for the opposing view.",
+        "suggested_answer": "First, the motion confuses the tool with its misuse. Social media platforms, like all communications technologies, reflect and amplify existing social conditions. The fact that divided societies are more divided online does not demonstrate that social media caused the divisions. Second, the historical evidence for social media's positive democratic potential is substantial: it has enabled grassroots organising, bypassed censorship in authoritarian contexts, and given voice to communities that legacy media consistently ignored. Third, the appropriate response to problematic design choices is regulation, not condemnation of the technology as such. We did not ban cars because some drivers are reckless — we built regulatory frameworks. The same logic applies here.",
+        "vocabulary_hints": ["confuses the tool with its misuse", "grassroots organising", "legacy media", "regulatory frameworks", "logic applies here"],
+        "duration_seconds": 90
+      }
+    ]
+  }
+}

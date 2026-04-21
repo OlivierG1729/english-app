@@ -1,0 +1,297 @@
+{
+  "id": "23",
+  "unit": 3,
+  "unit_title": "Complex Issues & Nuanced Debates",
+  "title": "Lost in Translation",
+  "level": "C1",
+  "type": "story",
+  "theme": "Language, Power & the Limits of Understanding",
+  "reading_time": "6 min",
+  "content": {
+    "paragraphs": [
+      {
+        "en": "Every language contains concepts that resist translation — not because other languages lack the words, but because the concept is so deeply woven into one culture's way of making sense of things that it has no clean equivalent elsewhere. The Portuguese word 'saudade' is the standard example: a longing for something beloved that is absent, combined with the awareness that it may never return. You can describe it in English. You cannot quite feel it through the description.",
+        "fr": "Chaque langue contient des concepts qui résistent à la traduction — non pas parce que d'autres langues manquent de mots, mais parce que le concept est si profondément tissé dans la façon de concevoir les choses d'une culture qu'il n'a pas d'équivalent propre ailleurs. Le mot portugais « saudade » est l'exemple courant : une nostalgie pour quelque chose d'aimé qui est absent, combinée à la conscience qu'il peut ne jamais revenir. On peut la décrire en anglais. On ne peut pas tout à fait la ressentir à travers la description."
+      },
+      {
+        "en": "This is more than a linguistic curiosity. Language doesn't just express what we think; it shapes what we can think. The philosopher Ludwig Wittgenstein put it provocatively: 'The limits of my language are the limits of my world.' He meant that concepts we have no words for are genuinely harder to perceive, articulate, and share with others — even if some vestige of them can be felt in the body, in silence, in the space between words.",
+        "fr": "C'est plus qu'une curiosité linguistique. Le langage n'exprime pas seulement ce que nous pensons ; il façonne ce que nous pouvons penser. Le philosophe Ludwig Wittgenstein l'a exprimé de façon provocatrice : « Les limites de mon langage sont les limites de mon monde. » Il voulait dire que les concepts pour lesquels nous n'avons pas de mots sont vraiment plus difficiles à percevoir, à articuler et à partager avec les autres — même si une certaine trace d'eux peut être ressentie dans le corps, dans le silence, dans l'espace entre les mots."
+      },
+      {
+        "en": "The implications of this for cross-cultural understanding are significant. When two cultures negotiate — politically, commercially, personally — they bring not just different positions but different conceptual architectures. The diplomat who speaks fluent Mandarin but has no feel for the concept of 'mianzi' (face, and the complex social obligations it entails) may be technically proficient and culturally blind. The business executive who negotiates in English with a Japanese counterpart may mistake silence for agreement when it is anything but.",
+        "fr": "Les implications de cela pour la compréhension interculturelle sont significatives. Quand deux cultures négocient — politiquement, commercialement, personnellement — elles apportent non seulement des positions différentes mais des architectures conceptuelles différentes. Le diplomate qui parle couramment le mandarin mais n'a aucun sens du concept de « mianzi » (la face, et les obligations sociales complexes qu'il entraîne) peut être techniquement compétent et culturellement aveugle. Le cadre d'entreprise qui négocie en anglais avec un homologue japonais peut confondre le silence avec l'accord alors qu'il n'en est rien."
+      },
+      {
+        "en": "English, as the dominant global language of business, science and diplomacy, occupies a particular position in this. It has become, by default, the language in which much of the world's most consequential communication takes place. This is, in a sense, an enormous advantage for its native speakers. It is also — less obviously — a limitation. The comfort of never having to think outside your linguistic framework is also the comfort of never having to discover what that framework excludes.",
+        "fr": "L'anglais, en tant que langue mondiale dominante des affaires, de la science et de la diplomatie, occupe une position particulière dans cela. Il est devenu, par défaut, la langue dans laquelle se déroule une grande partie des communications les plus importantes du monde. C'est, dans un sens, un avantage énorme pour ses locuteurs natifs. C'est aussi — moins évidemment — une limitation. Le confort de ne jamais avoir à penser en dehors de son cadre linguistique est aussi le confort de ne jamais avoir à découvrir ce que ce cadre exclut."
+      },
+      {
+        "en": "I learnt Arabic in my late twenties, imperfectly and incompletely, and the experience changed the way I think about language itself. Not because Arabic gave me access to some mystical alternative reality, but because learning a language as an adult requires you to confront, very explicitly, the assumptions your first language had taught you were natural rather than cultural. The grammatical structures that seemed obvious turned out to be choices. The categories that seemed given turned out to be imposed.",
+        "fr": "J'ai appris l'arabe à la fin de la vingtaine, imparfaitement et incomplètement, et l'expérience a changé ma façon de penser le langage lui-même. Non pas parce que l'arabe m'a donné accès à une réalité alternative mystique, mais parce qu'apprendre une langue à l'âge adulte vous oblige à affronter, très explicitement, les hypothèses que votre première langue vous avait appris comme étant naturelles plutôt que culturelles. Les structures grammaticales qui semblaient évidentes se sont avérées être des choix. Les catégories qui semblaient données se sont avérées être imposées."
+      },
+      {
+        "en": "This, I think, is one of the most valuable things a second language offers — not the ability to communicate in it, though that too, but a kind of estrangement from your own first language. You see it from the outside for the first time. You begin to understand that the way you have been habituated to think is one of many possible ways, not the default.",
+        "fr": "C'est là, je crois, l'une des choses les plus précieuses qu'une deuxième langue offre — non pas la capacité de communiquer dans cette langue, bien que cela aussi, mais une sorte d'étrangeté par rapport à sa propre première langue. On la voit de l'extérieur pour la première fois. On commence à comprendre que la façon dont on a été habitué à penser est une parmi de nombreuses façons possibles, pas la façon par défaut."
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "to resist translation",
+        "phonetic": "/rɪˈzɪst trænsˈleɪʃn/",
+        "type": "verb phrase",
+        "definition_en": "Être impossible à traduire précisément dans une autre langue sans perdre le sens essentiel",
+        "definition_fr": "résister à la traduction, être intraduisible",
+        "example": "The German concept of 'Weltanschauung' resists clean translation.",
+        "level": "C1"
+      },
+      {
+        "word": "vestige",
+        "phonetic": "/ˈvestɪdʒ/",
+        "type": "noun",
+        "definition_en": "Une trace ou un reste de quelque chose qui a presque disparu",
+        "definition_fr": "vestige, trace, reste",
+        "example": "There is still a vestige of doubt in her mind.",
+        "level": "C1"
+      },
+      {
+        "word": "conceptual architecture",
+        "phonetic": "/kənˈseptʃuəl ˈɑːrkɪtektʃər/",
+        "type": "noun phrase",
+        "definition_en": "La structure sous-jacente de concepts et de catégories à travers laquelle une culture organise sa compréhension du monde",
+        "definition_fr": "architecture conceptuelle, structure des catégories de pensée",
+        "example": "Different languages reflect different conceptual architectures.",
+        "level": "C1"
+      },
+      {
+        "word": "proficient",
+        "phonetic": "/prəˈfɪʃnt/",
+        "type": "adjective",
+        "definition_en": "Compétent et qualifié ; ayant atteint un bon niveau de maîtrise",
+        "definition_fr": "compétent, qualifié, qui maîtrise",
+        "example": "Being proficient in a language is not the same as understanding the culture it encodes.",
+        "level": "B2"
+      },
+      {
+        "word": "counterpart",
+        "phonetic": "/ˈkaʊntərpɑːrt/",
+        "type": "noun",
+        "definition_en": "Une personne qui occupe le même poste dans une organisation ou un pays différent",
+        "definition_fr": "homologue",
+        "example": "She met with her Chinese counterpart to discuss trade policy.",
+        "level": "B2"
+      },
+      {
+        "word": "consequential",
+        "phonetic": "/ˌkɒnsɪˈkwenʃl/",
+        "type": "adjective",
+        "definition_en": "Ayant des conséquences importantes ou significatives ; de grande portée",
+        "definition_fr": "important, aux conséquences significatives",
+        "example": "The most consequential political decision of the decade was taken in private.",
+        "level": "C1"
+      },
+      {
+        "word": "estrangement",
+        "phonetic": "/ɪˈstreɪndʒmənt/",
+        "type": "noun",
+        "definition_en": "L'état d'être rendu étranger ou de se sentir étranger à quelque chose de précédemment familier",
+        "definition_fr": "étrangeté, distanciation, sentiment d'être étranger",
+        "example": "Learning another language produces a productive estrangement from your own.",
+        "level": "C1"
+      },
+      {
+        "word": "habituated",
+        "phonetic": "/həˈbɪtʃueɪtɪd/",
+        "type": "adjective",
+        "definition_en": "Accoutumé à quelque chose par une exposition répétée ; conditionné par l'habitude",
+        "definition_fr": "habitué, conditionné",
+        "example": "We are habituated to certain ways of thinking that feel natural but are learned.",
+        "level": "C1"
+      },
+      {
+        "word": "articulate (verb)",
+        "phonetic": "/ɑːrˈtɪkjʊleɪt/",
+        "type": "verb",
+        "definition_en": "Exprimer clairement en mots ; formuler de manière claire et efficace",
+        "definition_fr": "articuler, exprimer clairement, formuler",
+        "example": "She struggled to articulate what exactly she found troubling about the situation.",
+        "level": "B2"
+      },
+      {
+        "word": "to entail",
+        "phonetic": "/ɪnˈteɪl/",
+        "type": "verb",
+        "definition_en": "Impliquer quelque chose comme partie ou conséquence nécessaire",
+        "definition_fr": "impliquer, entraîner, supposer",
+        "example": "The role entails considerable travel and frequent late nights.",
+        "level": "B2"
+      }
+    ],
+    "grammar_points": [
+      {
+        "title": "'Not because X, but because Y' applied to complex explanations",
+        "explanation": "Au niveau C1, cette structure est utilisée pour **résister à une explication simpliste** et la remplacer par une plus nuancée. C'est particulièrement efficace quand l'explication simple est celle que la plupart des gens supposeraient.",
+        "examples": [
+          "'Every language has untranslatable concepts — **not because** other languages lack words, **but because** the concept is woven into a specific cultural framework.'",
+          "'He failed — **not because** he lacked talent, **but because** the conditions were wrong.'",
+          "'The reform failed — **not because** the idea was bad, **but because** the implementation was rushed.'",
+          "Always ensure 'because' is followed by a clause, not just a noun phrase."
+        ]
+      },
+      {
+        "title": "Inversion for rhetorical effect: 'What that framework excludes'",
+        "explanation": "Placer une **proposition en what** à la fin d'une phrase crée un effet d'emphase et une légère surprise rhétorique. Le lecteur est guidé à travers la phrase et arrive à l'idée la plus importante en dernier.",
+        "examples": [
+          "'The comfort of never thinking outside your framework is also the comfort of never discovering **what that framework excludes**.'",
+          "'The question is not what you know, but **what you don't know you don't know**.'",
+          "'The danger is not what is visible, but **what remains invisible**.'",
+          "These structures reward careful reading and signal stylistic sophistication."
+        ]
+      },
+      {
+        "title": "Turned out to be: past revelations of assumed truths",
+        "explanation": "**'Turned out to be'** décrit la découverte que quelque chose que l'on croyait être une chose était en fait autre chose. Cela implique un avant et un après : une hypothèse précédente et sa correction.",
+        "examples": [
+          "'The structures that seemed obvious **turned out to be** choices.'",
+          "'The categories that seemed natural **turned out to be** imposed.'",
+          "'What seemed like a setback **turned out to be** the most important moment of her career.'",
+          "Contrast: 'proved to be' (more formal, external verification) vs. 'turned out to be' (more personal, internal discovery)"
+        ]
+      }
+    ],
+    "expressions": [
+      {
+        "expression": "to have a feel for (something)",
+        "meaning_fr": "avoir le sens de, avoir une intuition pour",
+        "example": "He speaks fluent Mandarin but has no feel for the concept of mianzi.",
+        "register": "neutral / informal",
+        "note": "Décrit une compréhension intuitive et incarnée qui va au-delà du savoir formel. 'She has a real feel for the market' = elle comprend instinctivement le marché."
+      },
+      {
+        "expression": "anything but",
+        "meaning_fr": "tout sauf, loin d'être",
+        "example": "He mistook the silence for agreement, when it was anything but.",
+        "register": "neutral / emphatic",
+        "note": "'Anything but X' = le contraire absolu de X. 'She was anything but happy' = elle était très malheureuse."
+      },
+      {
+        "expression": "by default",
+        "meaning_fr": "par défaut, faute d'alternative",
+        "example": "English has become the world's dominant language of diplomacy by default.",
+        "register": "neutral / formal",
+        "note": "Quelque chose se produit 'by default' quand cela arrive parce qu'aucun choix actif n'a été fait, ou parce que toutes les alternatives ont été éliminées."
+      },
+      {
+        "expression": "to confront one's assumptions",
+        "meaning_fr": "confronter ses suppositions, remettre en question ses présupposés",
+        "example": "Learning a language as an adult forces you to confront your assumptions.",
+        "register": "formal / reflective",
+        "note": "Concept clé en pensée critique et en compétence interculturelle. 'Assumptions' = croyances tenues pour vraies sans examen."
+      },
+      {
+        "expression": "the default",
+        "meaning_fr": "la référence implicite, la norme par défaut",
+        "example": "You discover that your way of thinking is one of many possible ways, not the default.",
+        "register": "neutral / analytical",
+        "note": "Utilisé pour décrire l'option ou la position considérée comme normale ou naturelle sans examen. Vient de l'informatique mais désormais largement utilisé métaphoriquement."
+      }
+    ]
+  },
+  "exercises": {
+    "written": [
+      {
+        "id": "w1",
+        "type": "multiple_choice",
+        "question": "What does the author mean by 'conceptual architecture'?",
+        "options": [
+          "The physical design of buildings in different cultures.",
+          "The underlying structure of concepts and categories through which a culture understands the world.",
+          "The grammatical rules that govern sentence construction.",
+          "The historical development of a language."
+        ],
+        "answer": 1,
+        "explanation": "The author uses 'conceptual architecture' to describe the invisible framework of concepts, categories and assumptions that different languages and cultures embed in their speakers."
+      },
+      {
+        "id": "w2",
+        "type": "multiple_choice",
+        "question": "What does the author identify as one of the most valuable things a second language offers?",
+        "options": [
+          "The ability to access a wider range of literature.",
+          "Better job prospects in an international market.",
+          "A kind of estrangement from your first language — seeing it from the outside.",
+          "Access to a different cultural history."
+        ],
+        "answer": 2,
+        "explanation": "The author writes: 'one of the most valuable things a second language offers... is a kind of estrangement from your own first language. You see it from the outside for the first time.'"
+      },
+      {
+        "id": "w3",
+        "type": "fill_blank",
+        "sentence": "She speaks Japanese fluently but has no ________ ________ the cultural obligations that silence can carry.",
+        "answer": "feel for",
+        "hint": "An expression meaning 'an intuitive understanding of'."
+      },
+      {
+        "id": "w4",
+        "type": "fill_blank",
+        "sentence": "What seemed like a minor setback ________ ________ ________ the turning point of the project.",
+        "answer": "turned out to be",
+        "hint": "An expression describing the discovery that something was different from what was assumed."
+      },
+      {
+        "id": "w5",
+        "type": "fill_blank",
+        "sentence": "The discussion was ________ pleasant — there was a real undercurrent of tension.",
+        "answer": "anything but",
+        "hint": "An emphatic expression meaning 'the complete opposite of'."
+      },
+      {
+        "id": "w6",
+        "type": "translation",
+        "french": "Ce concept résiste à la traduction — non pas parce que l'anglais manque de mots, mais parce qu'il est tissé dans une façon particulière de concevoir le monde.",
+        "suggested_answer": "This concept resists translation — not because English lacks words, but because it is woven into a particular way of making sense of the world.",
+        "key_vocabulary": ["resists translation", "not because... but because", "woven into"]
+      },
+      {
+        "id": "w7",
+        "type": "translation",
+        "french": "Apprendre une langue en tant qu'adulte vous oblige à confronter les présupposés que votre première langue vous présentait comme naturels.",
+        "suggested_answer": "Learning a language as an adult forces you to confront the assumptions your first language had taught you were natural.",
+        "key_vocabulary": ["forces you to confront", "assumptions", "had taught you were natural"]
+      },
+      {
+        "id": "w8",
+        "type": "translation",
+        "french": "Le confort de ne jamais penser en dehors de son cadre linguistique est aussi le confort de ne jamais découvrir ce que ce cadre exclut.",
+        "suggested_answer": "The comfort of never thinking outside your linguistic framework is also the comfort of never discovering what that framework excludes.",
+        "key_vocabulary": ["the comfort of never... is also the comfort of never", "framework excludes"]
+      }
+    ],
+    "oral": [
+      {
+        "id": "o1",
+        "type": "read_aloud",
+        "instruction": "Read the final paragraph. This is reflective, personal and intellectually generous. Take your time — these are complex ideas expressed simply.",
+        "text": "This, I think, is one of the most valuable things a second language offers — not the ability to communicate in it, though that too, but a kind of estrangement from your own first language. You see it from the outside for the first time. You begin to understand that the way you have been habituated to think is one of many possible ways, not the default.",
+        "focus": "The parenthetical 'though that too' should be delivered with a slight smile — it acknowledges the obvious before moving to the deeper point. 'Not the default' is the key insight — give it weight.",
+        "phonetic_tips": ["estrangement: /ɪˈstreɪndʒmənt/", "habituated: /həˈbɪtʃueɪtɪd/", "default: /dɪˈfɔːlt/"]
+      },
+      {
+        "id": "o2",
+        "type": "answer_question",
+        "question": "Has learning a foreign language changed the way you think? What did it reveal that you couldn't see before?",
+        "suggested_answer": "Learning English has definitely changed how I think, though it took years for me to notice it was happening. The clearest example for me is the way English handles time differently in certain constructions — particularly the present perfect, which my language handles quite differently. Working out those differences forced me to think about what 'completed but still relevant' actually means as a conceptual category — something I'd never considered in my first language because it was just grammar, not philosophy. I also found that English offers a directness of disagreement that my culture doesn't — phrases like 'I'd push back on that' have no precise equivalent, and using them changed not just how I expressed disagreement but how I thought about the right to disagree.",
+        "vocabulary_hints": ["conceptual category", "not just grammar but philosophy", "directness of disagreement", "changed how I thought about"],
+        "duration_seconds": 90
+      },
+      {
+        "id": "o3",
+        "type": "answer_question",
+        "question": "Is the global dominance of English a good thing or a problem? Consider both sides.",
+        "suggested_answer": "The practical benefits are real — a common language for international science, commerce and diplomacy reduces friction significantly and has enabled a level of global collaboration that would otherwise have been much harder. The problem, as the article identifies, is not the language itself but what its dominance obscures. Native English speakers are relieved of the cognitive and cultural labour of learning another language, and with it, the particular kind of humility that comes from being a bad learner in someone else's framework. More seriously, the concentration of so much consequential communication in one language inevitably favours the worldview embedded in that language. Ideas that are easy to express in English get expressed; ideas that require a different conceptual architecture may not get heard at all. That's a subtle but real form of epistemic inequality.",
+        "vocabulary_hints": ["reduces friction", "cognitive and cultural labour", "epistemic inequality", "conceptual architecture", "favours the worldview embedded in"],
+        "duration_seconds": 120
+      }
+    ]
+  }
+}

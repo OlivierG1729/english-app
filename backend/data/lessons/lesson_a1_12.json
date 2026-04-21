@@ -1,0 +1,233 @@
+{
+  "id": "a1_12",
+  "unit": 7,
+  "unit_title": "Everyday Life",
+  "title": "My Best Friend",
+  "level": "A1",
+  "type": "story",
+  "theme": "Describing People",
+  "reading_time": "3 min",
+  "content": {
+    "paragraphs": [
+      {
+        "en": "My best friend is called Sophie. She is thirteen years old, like me. We go to the same school and we are in the same class. I see her every day.",
+        "fr": "Ma meilleure amie s'appelle Sophie. Elle a treize ans, comme moi. Nous allons a la meme ecole et nous sommes dans la meme classe. Je la vois tous les jours."
+      },
+      {
+        "en": "Sophie is tall and thin. She has long curly brown hair and big green eyes. She wears glasses when she reads. I think she looks like a film star!",
+        "fr": "Sophie est grande et mince. Elle a de longs cheveux bruns et boucles et de grands yeux verts. Elle porte des lunettes quand elle lit. Je trouve qu'elle ressemble a une star de cinema !"
+      },
+      {
+        "en": "Sophie is a very kind person. She always helps her friends. When I am sad, she talks to me and makes me laugh. She is really funny. She tells the best jokes in the class.",
+        "fr": "Sophie est une personne tres gentille. Elle aide toujours ses amis. Quand je suis triste, elle me parle et me fait rire. Elle est vraiment drole. Elle raconte les meilleures blagues de la classe."
+      },
+      {
+        "en": "But Sophie is also a bit shy. She does not like to speak in front of the class. Her face goes red and she speaks very quietly. At break time, she is different — she talks a lot and she is very happy.",
+        "fr": "Mais Sophie est aussi un peu timide. Elle n'aime pas parler devant la classe. Son visage devient rouge et elle parle tres doucement. A la recreation, elle est differente — elle parle beaucoup et elle est tres joyeuse."
+      },
+      {
+        "en": "Sophie is very smart. She is the best student in maths and science. She always does her homework on time. We get along well because we like the same things: music, drawing, and animals. She is the best friend I could have!",
+        "fr": "Sophie est tres intelligente. Elle est la meilleure eleve en maths et en sciences. Elle fait toujours ses devoirs a temps. Nous nous entendons bien parce que nous aimons les memes choses : la musique, le dessin et les animaux. C'est la meilleure amie que je pourrais avoir !"
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "tall",
+        "phonetic": "/tɔːl/",
+        "type": "adjective",
+        "definition_en": "qui a une taille plus grande que la moyenne",
+        "definition_fr": "grand(e) (de taille)",
+        "example": "My brother is very tall — he is 1 metre 85.",
+        "level": "A1"
+      },
+      {
+        "word": "short",
+        "phonetic": "/ʃɔːrt/",
+        "type": "adjective",
+        "definition_en": "pas grand, qui a une taille inferieure a la moyenne",
+        "definition_fr": "petit(e) (de taille)",
+        "example": "I am short. I can't reach the top shelf.",
+        "level": "A1"
+      },
+      {
+        "word": "curly",
+        "phonetic": "/ˈkɜːrli/",
+        "type": "adjective",
+        "definition_en": "qui a des boucles ou des spirales (utilise pour les cheveux)",
+        "definition_fr": "boucle(e), frise(e)",
+        "example": "She has beautiful curly red hair.",
+        "level": "A1"
+      },
+      {
+        "word": "glasses",
+        "phonetic": "/ˈɡlæsɪz/",
+        "type": "noun (plural)",
+        "definition_en": "deux verres dans une monture que l'on porte pour mieux voir",
+        "definition_fr": "lunettes",
+        "example": "I wear glasses because I can't see well.",
+        "level": "A1"
+      },
+      {
+        "word": "kind",
+        "phonetic": "/kaɪnd/",
+        "type": "adjective",
+        "definition_en": "amical et serviable envers les autres",
+        "definition_fr": "gentil(le), bienveillant(e)",
+        "example": "She is very kind — she always helps everyone.",
+        "level": "A1"
+      },
+      {
+        "word": "funny",
+        "phonetic": "/ˈfʌni/",
+        "type": "adjective",
+        "definition_en": "qui fait rire",
+        "definition_fr": "drole, amusant(e)",
+        "example": "He tells very funny stories.",
+        "level": "A1"
+      },
+      {
+        "word": "shy",
+        "phonetic": "/ʃaɪ/",
+        "type": "adjective",
+        "definition_en": "nerveux ou mal a l'aise avec les autres",
+        "definition_fr": "timide",
+        "example": "He is shy and doesn't talk much in class.",
+        "level": "A1"
+      },
+      {
+        "word": "smart",
+        "phonetic": "/smɑːrt/",
+        "type": "adjective",
+        "definition_en": "intelligent, malin",
+        "definition_fr": "intelligent(e), malin/maligne",
+        "example": "She is very smart — she always gets good marks.",
+        "level": "A1"
+      }
+    ],
+    "grammar_points": [
+      {
+        "title": "'He/She is...' vs. 'He/She has...' for Descriptions",
+        "explanation": "Pour decrire les gens, on utilise **'is'** pour les qualites et l'apparence generale, et **'has'** pour les caracteristiques physiques qu'ils possedent. 'She **is** tall' (qualite). 'She **has** curly hair' (caracteristique). En francais, les deux peuvent utiliser 'est' ou 'a', mais en anglais la distinction est importante.",
+        "examples": [
+          "She is tall and thin. (quality → is)",
+          "She has long curly brown hair. (feature → has)",
+          "He is very kind. (personality → is)",
+          "He has blue eyes and a big nose. (feature → has)"
+        ]
+      },
+      {
+        "title": "Order of Adjectives Before a Noun",
+        "explanation": "Quand on utilise plus d'un adjectif avant un nom en anglais, il y a un ordre typique : **taille → forme → couleur → nom**. Par exemple : 'long curly brown hair' (pas 'brown curly long hair').",
+        "examples": [
+          "She has long curly brown hair. (size → shape → colour)",
+          "He has big blue eyes. (size → colour)",
+          "She is wearing a small red hat. (size → colour)"
+        ]
+      }
+    ],
+    "expressions": [
+      {
+        "expression": "She looks like...",
+        "meaning_fr": "Elle ressemble a...",
+        "example": "She looks like her mother — they have the same eyes.",
+        "register": "neutral",
+        "note": "'To look like' signifie avoir une apparence similaire a quelqu'un ou quelque chose."
+      },
+      {
+        "expression": "He/She is really...",
+        "meaning_fr": "Il/Elle est vraiment...",
+        "example": "He is really funny. He makes everyone laugh.",
+        "register": "informal",
+        "note": "'Really' s'utilise pour renforcer un adjectif. Similaire a 'very' mais plus naturel dans la conversation."
+      },
+      {
+        "expression": "We get along well",
+        "meaning_fr": "Nous nous entendons bien",
+        "example": "I get along well with my sister. We never argue.",
+        "register": "neutral",
+        "note": "'To get along (with someone)' signifie avoir une bonne relation avec quelqu'un."
+      }
+    ]
+  },
+  "exercises": {
+    "written": [
+      {
+        "id": "w1",
+        "type": "multiple_choice",
+        "question": "What does Sophie look like?",
+        "options": [
+          "She is short with straight blonde hair.",
+          "She is tall with long curly brown hair.",
+          "She is tall with short black hair.",
+          "She is short with curly red hair."
+        ],
+        "answer": 1,
+        "explanation": "The text says 'Sophie is tall and thin. She has long curly brown hair.'"
+      },
+      {
+        "id": "w2",
+        "type": "multiple_choice",
+        "question": "Complete: 'She _____ big green eyes.'",
+        "options": [
+          "is",
+          "have",
+          "has"
+        ],
+        "answer": 2,
+        "explanation": "We use 'has' (not 'is') to describe physical features someone possesses. 'She has big green eyes.'"
+      },
+      {
+        "id": "w3",
+        "type": "multiple_choice",
+        "question": "Why is Sophie shy?",
+        "options": [
+          "She does not like her friends.",
+          "She does not like to speak in front of the class.",
+          "She does not like school.",
+          "She does not like maths."
+        ],
+        "answer": 1,
+        "explanation": "The text says 'She does not like to speak in front of the class.'"
+      },
+      {
+        "id": "w4",
+        "type": "fill_blank",
+        "sentence": "Sophie ________ (be) very kind. She ________ (have) long brown hair.",
+        "answer": "is / has",
+        "hint": "Use 'is' for qualities and 'has' for physical features."
+      },
+      {
+        "id": "w5",
+        "type": "fill_blank",
+        "sentence": "We ________ along well because we like the same things.",
+        "answer": "get",
+        "hint": "Think of the expression meaning 'to have a good relationship'."
+      },
+      {
+        "id": "w6",
+        "type": "translation",
+        "french": "Mon meilleur ami est grand et drole. Il a les cheveux courts et les yeux bleus.",
+        "suggested_answer": "My best friend is tall and funny. He has short hair and blue eyes.",
+        "key_vocabulary": ["best friend", "tall", "funny", "has", "short hair", "blue eyes"]
+      }
+    ],
+    "oral": [
+      {
+        "id": "o1",
+        "type": "read_aloud",
+        "instruction": "Read this description aloud, paying attention to the difference between 'is' and 'has'.",
+        "text": "Sophie is tall and thin. She has long curly brown hair and big green eyes. She is very kind and really funny. She is also a bit shy.",
+        "focus": "Clearly pronounce 'is' and 'has' — they are different verbs for describing people. Practise the adjective order: 'long curly brown hair'.",
+        "phonetic_tips": ["curly: /ˈkɜːrli/", "glasses: /ˈɡlæsɪz/", "shy: /ʃaɪ/"]
+      },
+      {
+        "id": "o2",
+        "type": "answer_question",
+        "question": "Describe your best friend. What does he or she look like? What is his or her personality?",
+        "suggested_answer": "My best friend is called Lucas. He is tall and he has short brown hair. He has brown eyes. He is very funny and kind. He is sometimes a bit shy. We get along well.",
+        "vocabulary_hints": ["He/She is...", "He/She has...", "kind", "funny", "shy", "We get along well"],
+        "duration_seconds": 45
+      }
+    ]
+  }
+}

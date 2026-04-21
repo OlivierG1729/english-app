@@ -1,0 +1,181 @@
+{
+  "id": "a1_07",
+  "unit": 6,
+  "unit_title": "First Steps",
+  "title": "I Like Pizza!",
+  "level": "A1",
+  "type": "story",
+  "theme": "Food & Preferences",
+  "reading_time": "2 min",
+  "content": {
+    "paragraphs": [
+      {
+        "en": "My name is Hugo. I love food! My favourite food is pizza. Pizza is delicious.",
+        "fr": "Je m'appelle Hugo. J'adore la nourriture ! Mon plat prefere, c'est la pizza. La pizza est delicieuse."
+      },
+      {
+        "en": "I also like fruit. I eat apples and bananas every day. Fruit is good for you.",
+        "fr": "J'aime aussi les fruits. Je mange des pommes et des bananes tous les jours. Les fruits sont bons pour la sante."
+      },
+      {
+        "en": "I like chicken too. My mother makes very good chicken. But I don't like fish. Fish is not for me!",
+        "fr": "J'aime aussi le poulet. Ma mere fait un tres bon poulet. Mais je n'aime pas le poisson. Le poisson, ce n'est pas pour moi !"
+      },
+      {
+        "en": "Today, I am hungry. I want pizza for dinner. Do you like pizza too?",
+        "fr": "Aujourd'hui, j'ai faim. Je veux de la pizza pour le diner. Est-ce que tu aimes la pizza aussi ?"
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "pizza",
+        "phonetic": "/ˈpiːtsə/",
+        "type": "noun",
+        "definition_en": "un aliment plat et rond avec du fromage et de la tomate dessus",
+        "definition_fr": "pizza",
+        "example": "I want a big pizza!",
+        "level": "A1"
+      },
+      {
+        "word": "fruit",
+        "phonetic": "/fruːt/",
+        "type": "noun",
+        "definition_en": "nourriture qui vient des plantes, comme les pommes et les bananes",
+        "definition_fr": "fruit(s)",
+        "example": "I eat fruit every day.",
+        "level": "A1"
+      },
+      {
+        "word": "chicken",
+        "phonetic": "/ˈtʃɪkɪn/",
+        "type": "noun",
+        "definition_en": "viande de poule, ou l'oiseau lui-meme",
+        "definition_fr": "poulet",
+        "example": "We eat chicken for dinner.",
+        "level": "A1"
+      },
+      {
+        "word": "delicious",
+        "phonetic": "/dɪˈlɪʃəs/",
+        "type": "adjective",
+        "definition_en": "tres savoureux, tres bon a manger",
+        "definition_fr": "delicieux",
+        "example": "This cake is delicious!",
+        "level": "A1"
+      },
+      {
+        "word": "favourite",
+        "phonetic": "/ˈfeɪvərɪt/",
+        "type": "adjective",
+        "definition_en": "celui ou celle que l'on aime le plus",
+        "definition_fr": "prefere, favori",
+        "example": "Pizza is my favourite food.",
+        "level": "A1"
+      },
+      {
+        "word": "hungry",
+        "phonetic": "/ˈhʌŋɡri/",
+        "type": "adjective",
+        "definition_en": "qui a envie de manger",
+        "definition_fr": "avoir faim (I am hungry = j'ai faim)",
+        "example": "I am hungry. Can I have a sandwich?",
+        "level": "A1"
+      }
+    ],
+    "grammar_points": [
+      {
+        "title": "\"I like\" / \"I don't like\" + \"Do you like...?\"",
+        "explanation": "Utilisez **\"I like\"** pour dire ce que vous aimez (en français : \"J'aime\"). Utilisez **\"I don't like\"** pour ce que vous n'aimez pas (en français : \"Je n'aime pas\"). Pour poser une question, utilisez **\"Do you like...?\"** (en français : \"Est-ce que tu aimes...?\").",
+        "examples": [
+          "I like pizza. = J'aime la pizza.",
+          "I don't like fish. = Je n'aime pas le poisson.",
+          "Do you like chicken? = Est-ce que tu aimes le poulet ?",
+          "Yes, I do. / No, I don't. = Oui. / Non."
+        ]
+      }
+    ],
+    "expressions": [
+      {
+        "expression": "My favourite food is...",
+        "meaning_fr": "Mon plat prefere, c'est...",
+        "example": "My favourite food is pizza. What is yours?",
+        "register": "neutral",
+        "note": "S'utilise pour parler de la nourriture que l'on préfère. On peut aussi dire 'My favourite colour is...', 'My favourite animal is...'."
+      },
+      {
+        "expression": "I'm hungry",
+        "meaning_fr": "J'ai faim",
+        "example": "I'm hungry! Can we eat now?",
+        "register": "neutral",
+        "note": "En anglais, on dit 'I AM hungry' (et non 'I have hungry'). C'est différent du français ('J'AI faim')."
+      }
+    ]
+  },
+  "exercises": {
+    "written": [
+      {
+        "id": "w1",
+        "type": "multiple_choice",
+        "question": "How do you say 'Je n'aime pas le poisson' in English?",
+        "options": [
+          "I not like fish.",
+          "I don't like fish.",
+          "I doesn't like fish."
+        ],
+        "answer": 1,
+        "explanation": "With 'I', we use 'don't' (do not) to make a negative sentence: 'I don't like fish.'"
+      },
+      {
+        "id": "w2",
+        "type": "multiple_choice",
+        "question": "How do you ask someone if they like pizza?",
+        "options": [
+          "Like you pizza?",
+          "You like pizza?",
+          "Do you like pizza?"
+        ],
+        "answer": 2,
+        "explanation": "To ask a question with 'like', put 'Do' at the beginning: 'Do you like pizza?'"
+      },
+      {
+        "id": "w3",
+        "type": "fill_blank",
+        "sentence": "I ________ like fish. It is not for me.",
+        "answer": "don't",
+        "hint": "The negative form with 'I': I _____ like = Je n'aime pas."
+      },
+      {
+        "id": "w4",
+        "type": "fill_blank",
+        "sentence": "My ________ food is pizza.",
+        "answer": "favourite",
+        "hint": "The English word for 'prefere'."
+      },
+      {
+        "id": "w5",
+        "type": "translation",
+        "french": "J'aime le poulet. C'est delicieux. Est-ce que tu aimes le poulet ?",
+        "suggested_answer": "I like chicken. It is delicious. Do you like chicken?",
+        "key_vocabulary": ["I like", "delicious", "Do you like"]
+      }
+    ],
+    "oral": [
+      {
+        "id": "o1",
+        "type": "read_aloud",
+        "instruction": "Read these sentences aloud slowly and clearly.",
+        "text": "I like pizza. It is delicious! But I don't like fish.",
+        "focus": "Practice the difference between 'I like' (positive) and 'I don't like' (negative).",
+        "phonetic_tips": ["pizza: /ˈpiːtsə/", "delicious: /dɪˈlɪʃəs/", "don't: /doʊnt/"]
+      },
+      {
+        "id": "o2",
+        "type": "answer_question",
+        "question": "What is your favourite food? What food don't you like?",
+        "suggested_answer": "My favourite food is pizza. I also like chicken. But I don't like fish.",
+        "vocabulary_hints": ["My favourite food is...", "I like...", "I don't like..."],
+        "duration_seconds": 30
+      }
+    ]
+  }
+}

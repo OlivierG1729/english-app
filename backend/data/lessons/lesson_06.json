@@ -1,0 +1,354 @@
+{
+  "id": "06",
+  "unit": 1,
+  "unit_title": "Modern Life & Society",
+  "title": "The Flatmate Problem",
+  "level": "B2",
+  "type": "dialogue",
+  "theme": "Relationships & Conflict",
+  "reading_time": "6 min",
+  "content": {
+    "speakers": ["Sofia", "Dan"],
+    "paragraphs": [
+      {
+        "speaker": "Sofia",
+        "en": "Dan, can we talk? There's something I've been meaning to bring up for a while, and I've been putting it off because I didn't want to make things awkward. But I think it's got to the point where I just need to say something.",
+        "fr": "Dan, on peut parler ? Il y a quelque chose que je voulais soulever depuis un moment, et j'ai repoussé le moment parce que je ne voulais pas que les choses deviennent gênantes. Mais je pense qu'on en est arrivés au point où je dois juste dire quelque chose."
+      },
+      {
+        "speaker": "Dan",
+        "en": "Sure, yeah. What's going on?",
+        "fr": "Bien sûr, oui. Qu'est-ce qui se passe ?"
+      },
+      {
+        "speaker": "Sofia",
+        "en": "It's about the cleaning. I know this sounds petty, but it's been building up for months. I feel like I'm doing the lion's share of the housework, and I'm finding it pretty draining — on top of everything else I've got going on.",
+        "fr": "C'est à propos du ménage. Je sais que ça paraît mesquin, mais ça s'accumule depuis des mois. J'ai l'impression de faire la part du lion des tâches ménagères, et je trouve ça vraiment épuisant — en plus de tout ce que j'ai par ailleurs."
+      },
+      {
+        "speaker": "Dan",
+        "en": "Oh. Right. I... wasn't aware it had got to that point, to be honest.",
+        "fr": "Oh. D'accord. Je... n'étais pas conscient que ça en était arrivé là, pour être honnête."
+      },
+      {
+        "speaker": "Sofia",
+        "en": "I know you're not doing it deliberately. That's not what I'm saying. But I've emptied the dishwasher every single day this week, and the bins haven't been taken out since I asked you three weeks ago. I'm not keeping score, but...",
+        "fr": "Je sais que tu ne le fais pas délibérément. Ce n'est pas ce que je dis. Mais j'ai vidé le lave-vaisselle tous les jours cette semaine, et les poubelles n'ont pas été sorties depuis que je te l'ai demandé il y a trois semaines. Je ne fais pas les comptes, mais..."
+      },
+      {
+        "speaker": "Dan",
+        "en": "No, that's fair. I hear you. I think I just... go into autopilot about those things. I genuinely don't notice when the bin needs taking out, which I realise isn't an excuse.",
+        "fr": "Non, c'est juste. Je t'entends. Je crois que je... passe en mode automatique pour ces choses-là. Je ne remarque vraiment pas quand la poubelle doit être sortie, ce que je réalise n'est pas une excuse."
+      },
+      {
+        "speaker": "Sofia",
+        "en": "It's not about noticing. That's what I'm trying to get at. I don't want to have to ask you every time — that's exhausting in itself. I'd really like us to have some kind of system so that things are just clear from the start.",
+        "fr": "Ce n'est pas une question de remarquer. C'est ce que j'essaie de faire comprendre. Je ne veux pas avoir à te demander à chaque fois — c'est épuisant en soi. J'aimerais vraiment qu'on ait une sorte de système pour que les choses soient claires dès le départ."
+      },
+      {
+        "speaker": "Dan",
+        "en": "That's completely reasonable. What are you thinking — a rota?",
+        "fr": "C'est tout à fait raisonnable. Tu penses à quoi — un planning ?"
+      },
+      {
+        "speaker": "Sofia",
+        "en": "Maybe. Or we split it by task — you take bins and bathroom, I take kitchen and vacuuming. Or we alternate weeks. I'm not fixed on any particular solution; I just want something that feels fair to both of us.",
+        "fr": "Peut-être. Ou on divise par tâche — tu prends les poubelles et la salle de bain, je prends la cuisine et l'aspirateur. Ou on alterne les semaines. Je ne suis pas fixée sur une solution particulière ; je veux juste quelque chose qui nous semble équitable à tous les deux."
+      },
+      {
+        "speaker": "Dan",
+        "en": "Honestly, I think that's a good idea. I'm sorry it took you this long to bring it up — I imagine it's been frustrating. Can I say something too, while we're doing this?",
+        "fr": "Honnêtement, je pense que c'est une bonne idée. Je suis désolé que tu aies mis autant de temps à en parler — j'imagine que c'était frustrant. Puis-je dire quelque chose aussi, pendant qu'on en est là ?"
+      },
+      {
+        "speaker": "Sofia",
+        "en": "Of course.",
+        "fr": "Bien sûr."
+      },
+      {
+        "speaker": "Dan",
+        "en": "The music. I know you like working with music on, but when I'm trying to sleep at eleven and I can hear it through the wall — it really affects my sleep. I haven't said anything because it seemed trivial, but it's actually been bothering me for a while.",
+        "fr": "La musique. Je sais que tu aimes travailler avec de la musique, mais quand j'essaie de dormir à onze heures et que je l'entends à travers le mur — ça affecte vraiment mon sommeil. Je n'ai rien dit parce que ça semblait insignifiant, mais ça me dérange en fait depuis un moment."
+      },
+      {
+        "speaker": "Sofia",
+        "en": "Oh God, I had no idea. That's completely fair — I'll use headphones after ten. Easy fix.",
+        "fr": "Oh mon Dieu, je n'avais aucune idée. C'est tout à fait juste — j'utiliserai des écouteurs après dix heures. Solution facile."
+      },
+      {
+        "speaker": "Dan",
+        "en": "See? This is why we should have done this ages ago. We've both been tiptoeing around things that take five minutes to sort out.",
+        "fr": "Tu vois ? C'est pour ça qu'on aurait dû faire ça il y a longtemps. On marchait tous les deux sur des œufs pour des choses qui prennent cinq minutes à régler."
+      },
+      {
+        "speaker": "Sofia",
+        "en": "Agreed. Right — should we write up a cleaning rota over dinner, or is that too much?",
+        "fr": "Je suis d'accord. Bien — on devrait établir un planning de ménage pendant le dîner, ou c'est trop ?"
+      },
+      {
+        "speaker": "Dan",
+        "en": "Let's do it. And I'll make dinner, as a gesture of good faith.",
+        "fr": "Faisons-le. Et je ferai le dîner, en gage de bonne volonté."
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "to put something off",
+        "phonetic": "/pʊt ɒf/",
+        "type": "phrasal verb",
+        "definition_en": "retarder le moment de faire quelque chose, souvent parce que c'est désagréable ou difficile",
+        "definition_fr": "remettre à plus tard, repousser, différer",
+        "example": "I've been putting off having this conversation for weeks.",
+        "level": "B2"
+      },
+      {
+        "word": "petty",
+        "phonetic": "/ˈpeti/",
+        "type": "adjective",
+        "definition_en": "de peu d'importance ; préoccupé par des choses mineures et insignifiantes (souvent utilisé avec une légère gêne)",
+        "definition_fr": "mesquin, insignifiant, futile",
+        "example": "I know it sounds petty, but it really bothers me when people leave dishes in the sink.",
+        "level": "B2"
+      },
+      {
+        "word": "draining",
+        "phonetic": "/ˈdreɪnɪŋ/",
+        "type": "adjective",
+        "definition_en": "qui épuise votre énergie ou vos forces, souvent émotionnellement",
+        "definition_fr": "épuisant, qui vide de son énergie",
+        "example": "Looking after three young children while working full-time is incredibly draining.",
+        "level": "B2"
+      },
+      {
+        "word": "deliberately",
+        "phonetic": "/dɪˈlɪbərətli/",
+        "type": "adverb",
+        "definition_en": "fait exprès, intentionnellement",
+        "definition_fr": "délibérément, intentionnellement, exprès",
+        "example": "I'm sure he didn't do it deliberately — it was probably just carelessness.",
+        "level": "B2"
+      },
+      {
+        "word": "to go into autopilot",
+        "phonetic": "/ˈɔːtəʊpaɪlət/",
+        "type": "idiom",
+        "definition_en": "agir sans réfléchir, faire les choses automatiquement par habitude",
+        "definition_fr": "agir en mode automatique, fonctionner en pilote automatique",
+        "example": "By my third hour of driving, I had completely gone into autopilot.",
+        "level": "B2"
+      },
+      {
+        "word": "rota",
+        "phonetic": "/ˈrəʊtə/",
+        "type": "noun (British English)",
+        "definition_en": "une liste montrant l'ordre dans lequel les personnes se relaient pour accomplir une tâche",
+        "definition_fr": "planning tournant, tableau de roulement, rota",
+        "example": "We set up a cleaning rota so everyone knew their responsibilities.",
+        "level": "B2"
+      },
+      {
+        "word": "trivial",
+        "phonetic": "/ˈtrɪviəl/",
+        "type": "adjective",
+        "definition_en": "de peu d'importance ou de signification",
+        "definition_fr": "insignifiant, mineur, banal, trivial",
+        "example": "It seemed trivial at the time, but looking back it was actually quite significant.",
+        "level": "B2"
+      },
+      {
+        "word": "to tiptoe around (something)",
+        "phonetic": "/ˈtɪptəʊ/",
+        "type": "phrasal verb (idiomatic)",
+        "definition_en": "éviter soigneusement de parler d'un sujet difficile ou sensible",
+        "definition_fr": "marcher sur des œufs, éviter soigneusement (un sujet délicat)",
+        "example": "We've been tiptoeing around the real issue for months.",
+        "level": "B2"
+      },
+      {
+        "word": "as a gesture of good faith",
+        "phonetic": "/ˈdʒestʃər əv ɡʊd feɪθ/",
+        "type": "fixed expression",
+        "definition_en": "une action faite pour montrer sa sincérité et sa volonté de coopérer",
+        "definition_fr": "en gage de bonne foi / bonne volonté",
+        "example": "As a gesture of good faith, they agreed to waive the initial fee.",
+        "level": "C1"
+      },
+      {
+        "word": "to sort something out",
+        "phonetic": "/sɔːrt aʊt/",
+        "type": "phrasal verb",
+        "definition_en": "s'occuper de et résoudre un problème ou une situation difficile",
+        "definition_fr": "régler, s'occuper de, résoudre",
+        "example": "Can you sort out the Wi-Fi? It's been down all morning.",
+        "level": "B2"
+      }
+    ],
+    "grammar_points": [
+      {
+        "title": "Softening criticism: 'I feel like', 'I find it', 'I'd really like'",
+        "explanation": "En anglais britannique, les plaintes directes sont presque toujours **adoucies** avec un langage atténuant. Utiliser 'I feel like' au lieu de 'You never do X', ou 'I'd really like' au lieu de 'You need to', rend la critique personnelle plutôt qu'accusatoire — ce qui rend l'autre personne moins sur la défensive.",
+        "examples": [
+          "'**I feel like** I'm doing the lion's share.' → vs. 'You never help.' (accusatory)",
+          "'**I find it** pretty draining.' → vs. 'It's draining.' (slightly impersonal)",
+          "'**I'd really like** us to have a system.' → vs. 'We need a system.' (demanding)",
+          "Key phrase: starting with 'I' keeps focus on your own experience, not on blaming the other person."
+        ]
+      },
+      {
+        "title": "'I realise that's not an excuse' — conceding a point",
+        "explanation": "Les **phrases de concession** sont utilisées pour reconnaître une faiblesse dans votre propre argument avant que l'autre personne ne la souligne. Cela renforce la confiance et rend la communication plus honnête. En anglais, elles utilisent souvent 'which', 'I know', 'I realise' ou 'admittedly'.",
+        "examples": [
+          "'I don't notice when the bin needs taking out, **which I realise isn't an excuse**.'",
+          "'I know **this sounds petty**, but...' → pre-empts the other person's reaction",
+          "'**Admittedly**, I could have said something sooner.'",
+          "'**I'll grant you** that, but...' → formal concession in debate"
+        ]
+      },
+      {
+        "title": "The present perfect for ongoing situations: 'it's been building up'",
+        "explanation": "Le **present perfect continuous** (has/have been + -ing) décrit une action ou situation qui a commencé dans le passé et qui est toujours en cours ou vient de se terminer. Il met l'accent sur la durée et la pertinence actuelle de la situation.",
+        "examples": [
+          "'**It's been building up** for months.' → started in the past, still a problem now",
+          "'**I've been putting it off** because I didn't want to make things awkward.'",
+          "'**It's been bothering me** for a while.' → ongoing emotional state",
+          "Compare: 'It built up for months.' (simple past, finished) vs. '**It's been building up**.' (still relevant now)"
+        ]
+      }
+    ],
+    "expressions": [
+      {
+        "expression": "the lion's share",
+        "meaning_fr": "la part du lion, la plus grande partie",
+        "example": "I feel like I'm doing the lion's share of the housework.",
+        "register": "informal / idiomatic",
+        "note": "Issue de la fable d'Esope. Utilisée pour décrire le fait de prendre (ou de se voir attribuer) la plus grande part de quelque chose."
+      },
+      {
+        "expression": "I hear you",
+        "meaning_fr": "je t'entends, je comprends ce que tu dis",
+        "example": "No, that's fair. I hear you.",
+        "register": "informal / empathetic",
+        "note": "Phrase empathique montrant que vous écoutez et reconnaissez le point de vue de l'autre. Plus chaleureux que 'I understand'."
+      },
+      {
+        "expression": "to get at something",
+        "meaning_fr": "vouloir dire quelque chose, chercher à faire comprendre",
+        "example": "That's what I'm trying to get at — I don't want to have to ask every time.",
+        "register": "informal",
+        "note": "Utilisé pour clarifier le vrai sens de ce que vous dites. 'What are you getting at?' = Où voulez-vous en venir ?"
+      },
+      {
+        "expression": "while we're at it / while we're doing this",
+        "meaning_fr": "tant qu'on y est, puisqu'on en parle",
+        "example": "Can I say something too, while we're doing this?",
+        "register": "informal / conversational",
+        "note": "Utilisé pour introduire un sujet ou une plainte connexe quand l'occasion se présente. Un peu maladroit mais utile dans les vraies conversations."
+      },
+      {
+        "expression": "ages ago",
+        "meaning_fr": "il y a longtemps, depuis belle lurette",
+        "example": "We should have done this ages ago.",
+        "register": "informal (British)",
+        "note": "Expression anglaise britannique très courante signifiant 'il y a longtemps'. 'He left ages ago' = Il est parti il y a longtemps."
+      }
+    ]
+  },
+  "exercises": {
+    "written": [
+      {
+        "id": "w1",
+        "type": "multiple_choice",
+        "question": "Why had Sofia been delaying this conversation?",
+        "options": [
+          "She was too busy with work to find time.",
+          "She didn't want to cause awkwardness between them.",
+          "She wasn't sure if her complaint was valid.",
+          "She was planning to move out anyway."
+        ],
+        "answer": 1,
+        "explanation": "Sofia says she had 'been putting it off because I didn't want to make things awkward'."
+      },
+      {
+        "id": "w2",
+        "type": "multiple_choice",
+        "question": "How does Dan respond when Sofia raises the cleaning issue?",
+        "options": [
+          "He gets defensive and lists everything he has done.",
+          "He is surprised but acknowledges the issue and accepts responsibility.",
+          "He denies that there is any problem.",
+          "He blames their different standards of cleanliness."
+        ],
+        "answer": 1,
+        "explanation": "Dan says 'I wasn't aware it had got to that point' and 'that's fair. I hear you' — he's honest and doesn't get defensive."
+      },
+      {
+        "id": "w3",
+        "type": "fill_blank",
+        "sentence": "I've been ________ this conversation for weeks, but I think it's time we talked.",
+        "answer": "putting off",
+        "hint": "A phrasal verb meaning 'to delay'."
+      },
+      {
+        "id": "w4",
+        "type": "fill_blank",
+        "sentence": "We've been ________ this issue for too long — it's time to address it directly.",
+        "answer": "tiptoeing around",
+        "hint": "An idiom meaning 'to carefully avoid a sensitive topic'."
+      },
+      {
+        "id": "w5",
+        "type": "fill_blank",
+        "sentence": "I know this sounds ________, but it really bothers me when dishes are left in the sink.",
+        "answer": "petty",
+        "hint": "An adjective meaning 'of little importance, trivial' — often used when raising a minor but genuine complaint."
+      },
+      {
+        "id": "w6",
+        "type": "translation",
+        "french": "J'ai l'impression de faire la part du lion du travail dans ce projet depuis des mois.",
+        "suggested_answer": "I feel like I've been doing the lion's share of the work on this project for months.",
+        "key_vocabulary": ["I feel like", "the lion's share", "present perfect continuous"]
+      },
+      {
+        "id": "w7",
+        "type": "translation",
+        "french": "Je ne suis pas fixé sur une solution particulière — je veux juste quelque chose d'équitable.",
+        "suggested_answer": "I'm not fixed on any particular solution — I just want something that feels fair.",
+        "key_vocabulary": ["not fixed on", "any particular solution", "feels fair"]
+      },
+      {
+        "id": "w8",
+        "type": "translation",
+        "french": "On aurait dû régler ça il y a longtemps. Ça prend cinq minutes.",
+        "suggested_answer": "We should have sorted this out ages ago. It takes five minutes.",
+        "key_vocabulary": ["should have sorted out", "ages ago"]
+      }
+    ],
+    "oral": [
+      {
+        "id": "o1",
+        "type": "read_aloud",
+        "instruction": "Read Sofia's first long speech. She is uncomfortable but determined. Keep the tone calm but firm — not angry.",
+        "text": "It's about the cleaning. I know this sounds petty, but it's been building up for months. I feel like I'm doing the lion's share of the housework, and I'm finding it pretty draining — on top of everything else I've got going on.",
+        "focus": "The dash before 'on top of everything else' signals a pause and a shift — a personal detail that adds emotional weight. Don't rush it.",
+        "phonetic_tips": ["petty: /ˈpeti/", "draining: /ˈdreɪnɪŋ/", "lion's share: stress on LION"]
+      },
+      {
+        "id": "o2",
+        "type": "answer_question",
+        "question": "Have you ever had to have a difficult conversation with a colleague, friend or flatmate? How did you approach it?",
+        "suggested_answer": "I had to talk to a colleague once who kept interrupting me in meetings. I put it off for weeks because I was worried it would create tension. When I finally said something, I tried to use the same kind of language as Sofia — framing it as how I felt rather than accusing them. I said something like 'I find it a bit difficult to finish my thoughts when I get interrupted — I was wondering if we could work on that.' They were actually quite receptive. I think the key was not making them feel attacked.",
+        "vocabulary_hints": ["put it off", "framing it as how I felt", "rather than accusing", "quite receptive", "feel attacked"],
+        "duration_seconds": 75
+      },
+      {
+        "id": "o3",
+        "type": "answer_question",
+        "question": "What advice would you give to someone who needs to raise a complaint or conflict with a friend or colleague? How can you be direct without being aggressive?",
+        "suggested_answer": "My main advice would be: lead with how you feel, not with what the other person did wrong. Saying 'I've been feeling a bit overwhelmed' is much harder to argue with than 'you never help'. Also, pick the right moment — not when you're both stressed or tired. It's also worth being clear about what you actually want. Sofia doesn't just complain; she proposes a system. That turns a complaint into a collaborative problem-solving conversation. And finally, be prepared to listen, because they probably have something to say too.",
+        "vocabulary_hints": ["lead with how you feel", "hard to argue with", "pick the right moment", "collaborative problem-solving", "be prepared to listen"],
+        "duration_seconds": 90
+      }
+    ]
+  }
+}

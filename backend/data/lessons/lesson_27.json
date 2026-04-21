@@ -1,0 +1,297 @@
+{
+  "id": "27",
+  "unit": 4,
+  "unit_title": "Advanced Discourse & Argumentation",
+  "title": "The Hard Problem",
+  "level": "C1",
+  "type": "story",
+  "theme": "Philosophy of Mind & Consciousness",
+  "reading_time": "6 min",
+  "content": {
+    "paragraphs": [
+      {
+        "en": "Imagine that you have a complete description of every neuron in a human brain — every connection, every firing pattern, every chemical gradient. Imagine that this description is so comprehensive that you could, in principle, predict everything the brain would do. Would you, from that description alone, be able to explain why there is something it is like to be that person — the specific quality of seeing red, or tasting coffee, or feeling anxious?",
+        "fr": "Imaginez que vous ayez une description complète de chaque neurone d'un cerveau humain — chaque connexion, chaque schéma de déclenchement, chaque gradient chimique. Imaginez que cette description soit si complète que vous puissiez, en principe, prédire tout ce que le cerveau ferait. À partir de cette description seule, seriez-vous en mesure d'expliquer pourquoi il y a quelque chose que c'est que d'être cette personne — la qualité spécifique de voir rouge, ou de goûter le café, ou de se sentir anxieux ?"
+      },
+      {
+        "en": "This is the 'hard problem' of consciousness, as the philosopher David Chalmers named it. The 'easy problems' — not actually easy, but tractable in principle — are explaining how the brain processes information, integrates sensory data, controls behaviour, and produces reports about its own states. These are hard scientific problems, but they are the kind of problems that more neuroscience can, in principle, solve. The hard problem is different. It asks why any of this physical processing is accompanied by subjective experience at all.",
+        "fr": "C'est le « problème difficile » de la conscience, comme l'a nommé le philosophe David Chalmers. Les « problèmes faciles » — pas vraiment faciles, mais traitables en principe — sont d'expliquer comment le cerveau traite l'information, intègre les données sensorielles, contrôle le comportement et produit des rapports sur ses propres états. Ce sont des problèmes scientifiques difficiles, mais ce sont le genre de problèmes que davantage de neurosciences peuvent, en principe, résoudre. Le problème difficile est différent. Il demande pourquoi tout ce traitement physique est accompagné d'une expérience subjective."
+      },
+      {
+        "en": "The significance of this question extends far beyond academic philosophy. It bears directly on how we think about artificial intelligence: if we built a machine that processed information exactly as a human brain does — at the same speed, in the same patterns — would it be conscious? Would there be something it is like to be that machine? Most people's intuition says no. But that intuition is very hard to defend rigorously, and if it's wrong, the ethical implications are staggering.",
+        "fr": "La signification de cette question s'étend bien au-delà de la philosophie académique. Elle concerne directement notre façon de penser l'intelligence artificielle : si nous construisions une machine qui traitait l'information exactement comme un cerveau humain — à la même vitesse, dans les mêmes schémas — serait-elle consciente ? Y aurait-il quelque chose que c'est que d'être cette machine ? L'intuition de la plupart des gens dit non. Mais cette intuition est très difficile à défendre rigoureusement, et si elle est fausse, les implications éthiques sont stupéfiantes."
+      },
+      {
+        "en": "There are, broadly speaking, three positions. The first — physicalism or materialism — holds that consciousness is entirely a product of physical processes, and that a sufficiently complete explanation of those processes would explain consciousness. On this view, the hard problem is not really hard; it just feels that way because we don't yet have the right concepts. The second — dualism — maintains that consciousness is something distinct from physical matter, something that cannot in principle be explained in purely physical terms. The third — panpsychism — suggests that consciousness, or proto-conscious properties, may be a fundamental feature of the universe, present in some form in all matter.",
+        "fr": "Il y a, en gros, trois positions. La première — le physicalisme ou le matérialisme — soutient que la conscience est entièrement un produit de processus physiques, et qu'une explication suffisamment complète de ces processus expliquerait la conscience. Selon cette vision, le problème difficile n'est pas vraiment difficile ; il semble simplement l'être parce que nous n'avons pas encore les bons concepts. La deuxième — le dualisme — soutient que la conscience est quelque chose de distinct de la matière physique, quelque chose qui ne peut pas en principe être expliqué en termes purement physiques. La troisième — le panpsychisme — suggère que la conscience, ou des propriétés proto-conscientes, peut être une caractéristique fondamentale de l'univers, présente sous une certaine forme dans toute matière."
+      },
+      {
+        "en": "What is striking is not that we don't know the answer. It is that we don't have a consensus on what a satisfying answer would even look like. This is unusual in science: normally we can specify what evidence would resolve a question, even if we don't have that evidence. With consciousness, the very criteria for resolution are disputed. Some philosophers argue this means the problem is insoluble in principle. Others argue it means we are asking it with the wrong tools.",
+        "fr": "Ce qui est frappant, ce n'est pas que nous ne connaissions pas la réponse. C'est que nous n'avons pas de consensus sur ce à quoi ressemblerait même une réponse satisfaisante. C'est inhabituel en science : normalement, nous pouvons spécifier quelle preuve résoudrait une question, même si nous n'avons pas cette preuve. Avec la conscience, les critères mêmes de résolution sont disputés. Certains philosophes soutiennent que cela signifie que le problème est insoluble en principe. D'autres soutiennent que cela signifie que nous le posons avec les mauvais outils."
+      },
+      {
+        "en": "For my part, I find the hard problem genuinely humbling. The thing I am most certain of — that I have subjective experience, that there is something it is like to be me — turns out to be the thing I am least able to explain. This is either a profound puzzle at the heart of reality, or a sign that the language and conceptual frameworks we have inherited are not adequate to the territory. Either way, it is a strange and vertiginous place to stand.",
+        "fr": "Pour ma part, je trouve le problème difficile véritablement humiliant. La chose dont je suis le plus certain — que j'ai une expérience subjective, qu'il y a quelque chose que c'est que d'être moi — s'avère être la chose que je suis le moins capable d'expliquer. C'est soit un profond puzzle au cœur de la réalité, soit un signe que le langage et les cadres conceptuels que nous avons hérités ne sont pas adéquats au territoire. Dans tous les cas, c'est un endroit étrange et vertigineux où se tenir."
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "tractable",
+        "phonetic": "/ˈtræktəbl/",
+        "type": "adjective",
+        "definition_en": "Capable d'être résolu ou géré ; abordable",
+        "definition_fr": "soluble, traitable, abordable (d'un problème)",
+        "example": "With the right methods and enough data, most medical questions are tractable.",
+        "level": "C1"
+      },
+      {
+        "word": "subjective experience",
+        "phonetic": "/səbˈdʒektɪv ɪkˈspɪəriəns/",
+        "type": "noun phrase (philosophy)",
+        "definition_en": "La qualité ressentie, à la première personne, de l'expérience — ce que cela 'fait' d'avoir une sensation ou une pensée",
+        "definition_fr": "expérience subjective, vécu intérieur",
+        "example": "Pain has both a physical component and a subjective experience — the feeling of what it is like to be in pain.",
+        "level": "C1"
+      },
+      {
+        "word": "staggering",
+        "phonetic": "/ˈstæɡərɪŋ/",
+        "type": "adjective",
+        "definition_en": "Si grand ou significatif que c'en est accablant ou stupéfiant",
+        "definition_fr": "stupéfiant, ahurissant, renversant",
+        "example": "If machines could be conscious, the ethical implications would be staggering.",
+        "level": "B2"
+      },
+      {
+        "word": "physicalism",
+        "phonetic": "/ˈfɪzɪkəlɪzəm/",
+        "type": "noun (philosophy)",
+        "definition_en": "La conception selon laquelle tout ce qui existe est physique ou dépend du physique",
+        "definition_fr": "physicalisme, matérialisme",
+        "example": "Physicalism holds that the mind is nothing more than the physical brain.",
+        "level": "C1"
+      },
+      {
+        "word": "panpsychism",
+        "phonetic": "/pænˈsaɪkɪzəm/",
+        "type": "noun (philosophy)",
+        "definition_en": "La conception selon laquelle l'esprit ou la conscience est une caractéristique fondamentale de l'univers, présente dans toute matière",
+        "definition_fr": "panpsychisme",
+        "example": "Panpsychism is a controversial but increasingly discussed solution to the hard problem.",
+        "level": "C1"
+      },
+      {
+        "word": "insoluble",
+        "phonetic": "/ɪnˈsɒljʊbl/",
+        "type": "adjective",
+        "definition_en": "Impossible à résoudre ou à expliquer ; (aussi : incapable de se dissoudre dans un liquide)",
+        "definition_fr": "insoluble (au sens figuré : impossib à résoudre)",
+        "example": "Some philosophers argue that the hard problem is insoluble in principle.",
+        "level": "C1"
+      },
+      {
+        "word": "humbling",
+        "phonetic": "/ˈhʌmblɪŋ/",
+        "type": "adjective",
+        "definition_en": "Qui provoque un sentiment d'humilité ; qui rappelle ses propres limites",
+        "definition_fr": "humiliant (au sens positif), qui remet à sa place",
+        "example": "The scale of the universe is humbling — it puts our concerns in perspective.",
+        "level": "B2"
+      },
+      {
+        "word": "vertiginous",
+        "phonetic": "/vɜːrˈtɪdʒɪnəs/",
+        "type": "adjective",
+        "definition_en": "Qui donne le vertige ; lié au vertige ou qui le provoque ; aussi, très haut ou escarpé",
+        "definition_fr": "vertigineux",
+        "example": "Standing at the edge of the problem, she felt a vertiginous sense of uncertainty.",
+        "level": "C1"
+      },
+      {
+        "word": "to resolve (a question)",
+        "phonetic": "/rɪˈzɒlv/",
+        "type": "verb",
+        "definition_en": "Régler ou trouver une solution à une question ou un problème",
+        "definition_fr": "résoudre (une question)",
+        "example": "We need to specify what evidence would resolve the question before searching for it.",
+        "level": "B2"
+      },
+      {
+        "word": "inherited (frameworks)",
+        "phonetic": "/ɪnˈherɪtɪd/",
+        "type": "adjective",
+        "definition_en": "Reçu des générations précédentes ; non choisi mais transmis",
+        "definition_fr": "hérité, transmis par les générations précédentes",
+        "example": "Our inherited conceptual frameworks may not be adequate for every question.",
+        "level": "B2"
+      }
+    ],
+    "grammar_points": [
+      {
+        "title": "Conditional questions for philosophical thought experiments: 'If we built a machine that..., would it...?'",
+        "explanation": "Les arguments philosophiques utilisent souvent des **hypothèses conditionnelles** pour tester nos intuitions. La structure 'If X, would Y?' force le lecteur à examiner ce que sa réponse révèle sur ses croyances.",
+        "examples": [
+          "'If we built a machine that processed information exactly as a human brain does, **would it be conscious**?'",
+          "'If a lion could speak, **would we understand it**?' (Wittgenstein)",
+          "'If you replaced every neuron one by one, **at what point would you stop being you**?' (Ship of Theseus)"
+        ]
+      },
+      {
+        "title": "'Broadly speaking, there are three positions' — structuring a philosophical taxonomy",
+        "explanation": "Au niveau C1, présenter un paysage intellectuel complexe nécessite des **signaux structurels explicites**. Des expressions comme 'broadly speaking', 'in three main camps' et 'the first holds... the second maintains... the third suggests...' créent de la clarté.",
+        "examples": [
+          "'**Broadly speaking**, there are three positions.'",
+          "'**The first** — physicalism — **holds that**...'",
+          "'**The second** — dualism — **maintains that**...'",
+          "'**The third** — panpsychism — **suggests that**...'",
+          "Parallel structure across the three summaries is essential."
+        ]
+      },
+      {
+        "title": "'Either X, or Y' at sentence level — presenting two equally possible interpretations",
+        "explanation": "**'Either X, or Y'** au niveau de la proposition présente deux alternatives authentiques sans prétendre savoir laquelle est vraie. C'est une précaution épistémique honnête — différente du faux équilibre, car les deux options sont véritablement possibles.",
+        "examples": [
+          "'This is **either** a profound puzzle at the heart of reality, **or** a sign that our frameworks are inadequate.'",
+          "'The problem is **either** insoluble in principle, **or** requires different tools.'",
+          "'He was **either** unaware of the evidence, **or** chose to ignore it.'",
+          "This structure signals that you've considered both possibilities seriously."
+        ]
+      }
+    ],
+    "expressions": [
+      {
+        "expression": "there is something it is like to be X",
+        "meaning_fr": "il y a quelque chose que c'est que d'être X, il existe un vécu subjectif",
+        "example": "Is there something it is like to be a bat? A machine? A river?",
+        "register": "philosophical",
+        "note": "Tiré de la célèbre formulation du philosophe Thomas Nagel. Le critère du 'what it is like' est le test standard pour déterminer si quelque chose a une expérience subjective."
+      },
+      {
+        "expression": "the ethical implications are staggering",
+        "meaning_fr": "les implications éthiques sont stupéfiantes",
+        "example": "If machines could be conscious, the ethical implications would be staggering.",
+        "register": "formal / analytical",
+        "note": "'Staggering' = si grand que c'est presque ingérable. Utilisé avec 'implications', 'scale', 'cost', 'achievement'."
+      },
+      {
+        "expression": "for my part",
+        "meaning_fr": "pour ma part, en ce qui me concerne",
+        "example": "For my part, I find the hard problem genuinely humbling.",
+        "register": "formal / personal",
+        "note": "Utilisé pour introduire un avis personnel après avoir présenté plusieurs perspectives. Signale un passage de l'analyse neutre à la position personnelle."
+      },
+      {
+        "expression": "adequate to the territory",
+        "meaning_fr": "adéquat au sujet, à la hauteur du territoire conceptuel",
+        "example": "Our inherited frameworks may not be adequate to the territory.",
+        "register": "literary / philosophical",
+        "note": "Une métaphore cartographique : une carte est 'adequate' si elle représente fidèlement le terrain. Ici appliqué aux cadres conceptuels."
+      },
+      {
+        "expression": "either way",
+        "meaning_fr": "dans tous les cas, de toute façon",
+        "example": "Either way, it is a strange and vertiginous place to stand.",
+        "register": "neutral",
+        "note": "Utilisé après avoir présenté deux alternatives pour signaler que la conclusion tient quelle que soit celle qui est vraie."
+      }
+    ]
+  },
+  "exercises": {
+    "written": [
+      {
+        "id": "w1",
+        "type": "multiple_choice",
+        "question": "What is the 'hard problem' of consciousness?",
+        "options": [
+          "Explaining how the brain integrates sensory information.",
+          "Explaining why physical processes are accompanied by subjective experience at all.",
+          "Building a machine that can replicate human thought.",
+          "Understanding how self-awareness develops in early childhood."
+        ],
+        "answer": 1,
+        "explanation": "The hard problem asks 'why any of this physical processing is accompanied by subjective experience at all' — why there is 'something it is like' to have an experience."
+      },
+      {
+        "id": "w2",
+        "type": "multiple_choice",
+        "question": "What does the author find unusual about the consciousness problem, compared to typical scientific questions?",
+        "options": [
+          "It has no practical applications.",
+          "It has been studied for too short a time to generate answers.",
+          "There is no consensus on what a satisfying answer would even look like.",
+          "The question itself is logically incoherent."
+        ],
+        "answer": 2,
+        "explanation": "'We don't have a consensus on what a satisfying answer would even look like. This is unusual in science: normally we can specify what evidence would resolve a question.'"
+      },
+      {
+        "id": "w3",
+        "type": "fill_blank",
+        "sentence": "________ speaking, there are three main approaches to the mind-body problem.",
+        "answer": "Broadly",
+        "hint": "An adverb signalling a general categorisation."
+      },
+      {
+        "id": "w4",
+        "type": "fill_blank",
+        "sentence": "We need more evidence to ________ the question of whether the two phenomena are related.",
+        "answer": "resolve",
+        "hint": "A verb meaning 'to settle or find a solution to'."
+      },
+      {
+        "id": "w5",
+        "type": "fill_blank",
+        "sentence": "This is ________ an extraordinary achievement, ________ a sign that we've been asking the wrong question.",
+        "answer": "either / or",
+        "hint": "A paired connector for presenting two genuine alternatives."
+      },
+      {
+        "id": "w6",
+        "type": "translation",
+        "french": "La question de savoir si les machines pourraient être conscientes a des implications éthiques stupéfiantes.",
+        "suggested_answer": "The question of whether machines could be conscious has staggering ethical implications.",
+        "key_vocabulary": ["question of whether", "staggering ethical implications"]
+      },
+      {
+        "id": "w7",
+        "type": "translation",
+        "french": "Ce que je sais avec le plus de certitude — que j'ai une expérience subjective — s'avère être ce que je suis le moins capable d'expliquer.",
+        "suggested_answer": "The thing I am most certain of — that I have subjective experience — turns out to be the thing I am least able to explain.",
+        "key_vocabulary": ["most certain of", "turns out to be", "least able to explain"]
+      },
+      {
+        "id": "w8",
+        "type": "translation",
+        "french": "C'est soit un puzzle profond au cœur de la réalité, soit un signe que nos cadres conceptuels hérités ne sont pas adéquats au sujet.",
+        "suggested_answer": "This is either a profound puzzle at the heart of reality, or a sign that our inherited conceptual frameworks are not adequate to the territory.",
+        "key_vocabulary": ["either... or", "inherited conceptual frameworks", "adequate to the territory"]
+      }
+    ],
+    "oral": [
+      {
+        "id": "o1",
+        "type": "read_aloud",
+        "instruction": "Read the opening philosophical question as if addressing a thoughtful audience. Slow down at 'the specific quality of seeing red, or tasting coffee, or feeling anxious' — each example carries emotional weight.",
+        "text": "Imagine that you have a complete description of every neuron in a human brain. Would you, from that description alone, be able to explain why there is something it is like to be that person — the specific quality of seeing red, or tasting coffee, or feeling anxious?",
+        "focus": "The rhetorical question is genuine — let it land. Pause after 'that person' before the dash.",
+        "phonetic_tips": ["neurons: /ˈnjʊərɒnz/", "explanation: /ˌekspləˈneɪʃn/", "anxious: /ˈæŋkʃəs/"]
+      },
+      {
+        "id": "o2",
+        "type": "answer_question",
+        "question": "Do you think it's possible to build a genuinely conscious machine? What would be the ethical implications if it were?",
+        "suggested_answer": "My intuition is no, but I find it very hard to defend that intuition rigorously. The argument I find most compelling against machine consciousness is that even if you replicated all the functional properties of a brain, you'd have no way of knowing whether there was any subjective experience inside — and no experiment could resolve it. If machines could be conscious, the ethical implications would indeed be staggering. We would have to reconsider the moral status of every sufficiently complex computational system. We already farm animals that we believe to have some form of subjective experience — the analogous situation for machines would force us to confront that on a massive scale.",
+        "vocabulary_hints": ["intuition is no but hard to defend", "functional properties", "subjective experience inside", "moral status", "computational system"],
+        "duration_seconds": 90
+      },
+      {
+        "id": "o3",
+        "type": "answer_question",
+        "question": "Does philosophy have practical value? Is it worth spending time on questions that may never be resolved?",
+        "suggested_answer": "I think the objection that philosophy isn't practical misunderstands what practical means. The consciousness debate, which might seem purely academic, directly affects how we build and regulate AI systems, how we think about animal welfare, how we design healthcare for people who cannot communicate. These are not abstract questions. More broadly, philosophy's value is in clarifying the questions we're actually asking before we try to answer them — which prevents a lot of wasted effort. The questions that seem most intractable often turn out to be confused in ways that only careful conceptual analysis can reveal. And finally, there's value in sitting with genuine uncertainty rather than manufacturing false certainty. That's not nothing.",
+        "vocabulary_hints": ["misunderstands what practical means", "clarifying the questions before answering them", "wasted effort", "conceptual analysis", "manufacturing false certainty"],
+        "duration_seconds": 90
+      }
+    ]
+  }
+}

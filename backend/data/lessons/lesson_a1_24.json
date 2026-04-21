@@ -1,0 +1,285 @@
+{
+  "id": "a1_24",
+  "unit": 8,
+  "unit_title": "Getting Confident",
+  "title": "A Letter to a Pen Pal",
+  "level": "A1",
+  "type": "story",
+  "theme": "Capstone — All Topics",
+  "reading_time": "4 min",
+  "content": {
+    "paragraphs": [
+      {
+        "en": "Dear Sophie,",
+        "fr": "Chere Sophie,"
+      },
+      {
+        "en": "I hope you are well! My name is Lucas and I am twelve years old. I live in London with my parents and my little sister, Clara. I am writing to you because our teacher said we could have pen pals from abroad. I was very excited when I heard about it!",
+        "fr": "J'espere que tu vas bien ! Je m'appelle Lucas et j'ai douze ans. J'habite a Londres avec mes parents et ma petite soeur, Clara. Je t'ecris parce que notre professeur a dit que nous pouvions avoir des correspondants de l'etranger. J'etais tres enthousiaste quand j'en ai entendu parler !"
+      },
+      {
+        "en": "Let me tell you about myself. I go to school every day and my favourite subjects are English and Science. I like playing football with my friends, and I also enjoy reading books. Last weekend, I read a book about space — it was amazing!",
+        "fr": "Laisse-moi te parler de moi. Je vais a l'ecole tous les jours et mes matieres preferees sont l'anglais et les sciences. J'aime jouer au football avec mes amis, et j'aime aussi lire des livres. Le week-end dernier, j'ai lu un livre sur l'espace — c'etait genial !"
+      },
+      {
+        "en": "Last summer, my family went on holiday to Scotland. We visited Edinburgh and stayed in a small hotel near the castle. It was beautiful but the weather was cold! We walked a lot and ate fish and chips every day. We had a great time together.",
+        "fr": "L'ete dernier, ma famille est partie en vacances en Ecosse. Nous avons visite Edimbourg et loge dans un petit hotel pres du chateau. C'etait magnifique mais il faisait froid ! Nous avons beaucoup marche et mange du fish and chips tous les jours. Nous avons passe un super moment ensemble."
+      },
+      {
+        "en": "This year, we are going to travel to France! I am going to visit Paris because I want to see the Eiffel Tower. My sister is going to try French food, and my dad is going to take lots of photos. I can't wait!",
+        "fr": "Cette annee, nous allons voyager en France ! Je vais visiter Paris parce que je veux voir la Tour Eiffel. Ma soeur va gouter la nourriture francaise, et mon papa va prendre plein de photos. J'ai trop hate !"
+      },
+      {
+        "en": "I think France is a very beautiful country. In my opinion, French food is the best in the world! I hope we can meet when I come to France. I miss having a friend abroad, so I am very happy to write to you.",
+        "fr": "Je pense que la France est un tres beau pays. A mon avis, la nourriture francaise est la meilleure du monde ! J'espere qu'on pourra se rencontrer quand je viendrai en France. Avoir un ami a l'etranger me manquait, alors je suis tres content de t'ecrire."
+      },
+      {
+        "en": "Please write back soon and tell me about your life, your family and your hobbies. I hope to hear from you!",
+        "fr": "S'il te plait, ecris-moi bientot et parle-moi de ta vie, de ta famille et de tes loisirs. J'espere avoir de tes nouvelles !"
+      },
+      {
+        "en": "Your new pen pal, Lucas",
+        "fr": "Ton nouveau correspondant, Lucas"
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "letter",
+        "phonetic": "/ˈlɛtər/",
+        "type": "noun",
+        "definition_en": "un message ecrit que l'on envoie a quelqu'un",
+        "definition_fr": "lettre",
+        "example": "I wrote a letter to my pen pal.",
+        "level": "A1"
+      },
+      {
+        "word": "dear",
+        "phonetic": "/dɪr/",
+        "type": "adjective",
+        "definition_en": "un mot utilise au debut d'une lettre avant le nom de la personne",
+        "definition_fr": "cher / chere",
+        "example": "Dear Sophie, how are you?",
+        "level": "A1"
+      },
+      {
+        "word": "to write",
+        "phonetic": "/raɪt/",
+        "type": "verb",
+        "definition_en": "mettre des mots sur du papier ou un ecran",
+        "definition_fr": "ecrire",
+        "example": "I like to write letters to my friends.",
+        "level": "A1"
+      },
+      {
+        "word": "to hope",
+        "phonetic": "/hoʊp/",
+        "type": "verb",
+        "definition_en": "vouloir que quelque chose arrive et penser que c'est possible",
+        "definition_fr": "esperer",
+        "example": "I hope you are well!",
+        "level": "A1"
+      },
+      {
+        "word": "soon",
+        "phonetic": "/suːn/",
+        "type": "adverb",
+        "definition_en": "dans peu de temps, pas loin de maintenant",
+        "definition_fr": "bientot",
+        "example": "Please write back soon!",
+        "level": "A1"
+      },
+      {
+        "word": "together",
+        "phonetic": "/təˈɡɛðər/",
+        "type": "adverb",
+        "definition_en": "les uns avec les autres, en groupe",
+        "definition_fr": "ensemble",
+        "example": "We had a great time together.",
+        "level": "A1"
+      },
+      {
+        "word": "to miss",
+        "phonetic": "/mɪs/",
+        "type": "verb",
+        "definition_en": "se sentir triste parce que quelqu'un ou quelque chose n'est pas avec soi",
+        "definition_fr": "manquer (a quelqu'un)",
+        "example": "I miss my friends when I am on holiday.",
+        "level": "A1"
+      },
+      {
+        "word": "abroad",
+        "phonetic": "/əˈbrɔːd/",
+        "type": "adverb",
+        "definition_en": "dans ou vers un pays etranger",
+        "definition_fr": "a l'etranger",
+        "example": "My pen pal lives abroad, in France.",
+        "level": "A1"
+      },
+      {
+        "word": "pen pal",
+        "phonetic": "/ˈpɛn pæl/",
+        "type": "noun",
+        "definition_en": "une personne a qui l'on ecrit des lettres en tant qu'ami, surtout dans un autre pays",
+        "definition_fr": "correspondant(e)",
+        "example": "I have a pen pal in Japan — we write to each other every month.",
+        "level": "A1"
+      }
+    ],
+    "grammar_points": [
+      {
+        "title": "Review: present, past and future in one text",
+        "explanation": "Dans une lettre, on melange souvent **trois temps** : le **present** (pour decrire notre vie actuelle), le **passe** (pour raconter des choses qui se sont passees) et le **futur avec 'going to'** (pour parler de projets). Reconnaitre quel temps est utilise et pourquoi est essentiel.",
+        "examples": [
+          "Present: I live in London. I like playing football. = J'habite a Londres. J'aime jouer au football.",
+          "Past: Last summer, we went to Scotland. We visited Edinburgh. = L'ete dernier, nous sommes alles en Ecosse.",
+          "Future: This year, we are going to travel to France. = Cette annee, nous allons voyager en France.",
+          "Tip: Time markers help you choose: 'every day' (present), 'last summer' (past), 'this year / next week' (future)."
+        ]
+      },
+      {
+        "title": "Linking words: and, but, because, so",
+        "explanation": "Les **linking words** (mots de liaison) relient les idees dans une phrase. **And** ajoute une information, **but** exprime un contraste, **because** donne une raison, **so** donne un resultat.",
+        "examples": [
+          "I like football and I also enjoy reading. = J'aime le football et j'aime aussi la lecture.",
+          "It was beautiful but the weather was cold. = C'etait magnifique mais il faisait froid.",
+          "I am writing because our teacher said we could have pen pals. = J'ecris parce que notre prof a dit...",
+          "I miss having a friend abroad, so I am happy to write. = Avoir un ami a l'etranger me manquait, alors je suis content d'ecrire."
+        ]
+      }
+    ],
+    "expressions": [
+      {
+        "expression": "Dear...",
+        "meaning_fr": "Cher / Chere...",
+        "example": "Dear Sophie, I hope you are well!",
+        "register": "neutral / formal",
+        "note": "La facon standard de commencer une lettre ou un email. On utilise 'Dear' + le prenom de la personne pour quelqu'un que l'on connait."
+      },
+      {
+        "expression": "I hope you are well",
+        "meaning_fr": "J'espere que tu vas bien / que vous allez bien",
+        "example": "Dear Tom, I hope you are well!",
+        "register": "neutral",
+        "note": "Une phrase d'ouverture tres courante dans les lettres et emails en anglais."
+      },
+      {
+        "expression": "Write back soon",
+        "meaning_fr": "Ecris-moi bientot / Reponds-moi vite",
+        "example": "I hope to hear from you — write back soon!",
+        "register": "informal",
+        "note": "S'utilise a la fin d'une lettre amicale pour demander a la personne de repondre."
+      },
+      {
+        "expression": "I hope to hear from you",
+        "meaning_fr": "J'espere avoir de tes nouvelles",
+        "example": "Write back soon — I hope to hear from you!",
+        "register": "neutral",
+        "note": "Une facon polie de terminer une lettre, exprimant que l'on souhaite que la personne reponde."
+      }
+    ]
+  },
+  "exercises": {
+    "written": [
+      {
+        "id": "w1",
+        "type": "multiple_choice",
+        "question": "Which tense does Lucas use to describe his holiday in Scotland?",
+        "options": [
+          "Present simple",
+          "Past simple",
+          "Going to (future)",
+          "Present continuous"
+        ],
+        "answer": 1,
+        "explanation": "Lucas uses the past simple: 'went', 'visited', 'stayed', 'walked', 'ate' — because the holiday already happened."
+      },
+      {
+        "id": "w2",
+        "type": "multiple_choice",
+        "question": "Which linking word shows contrast?",
+        "options": [
+          "and",
+          "because",
+          "but",
+          "so"
+        ],
+        "answer": 2,
+        "explanation": "'But' shows contrast: 'It was beautiful but the weather was cold.' The two ideas are opposite."
+      },
+      {
+        "id": "w3",
+        "type": "multiple_choice",
+        "question": "How does Lucas talk about his future trip to France?",
+        "options": [
+          "We travelled to France.",
+          "We travel to France every year.",
+          "We are going to travel to France.",
+          "We travelled going to France."
+        ],
+        "answer": 2,
+        "explanation": "Lucas uses 'going to' for future plans: 'We are going to travel to France.'"
+      },
+      {
+        "id": "w4",
+        "type": "fill_blank",
+        "sentence": "I like football ________ I also enjoy reading books.",
+        "answer": "and",
+        "hint": "Use the linking word that adds information."
+      },
+      {
+        "id": "w5",
+        "type": "fill_blank",
+        "sentence": "It was beautiful ________ the weather was cold.",
+        "answer": "but",
+        "hint": "Use the linking word that shows contrast."
+      },
+      {
+        "id": "w6",
+        "type": "fill_blank",
+        "sentence": "I am writing to you ________ our teacher said we could have pen pals.",
+        "answer": "because",
+        "hint": "Use the linking word that gives a reason."
+      },
+      {
+        "id": "w7",
+        "type": "translation",
+        "french": "L'ete dernier, nous avons visite Edimbourg. C'etait magnifique !",
+        "suggested_answer": "Last summer, we visited Edinburgh. It was beautiful!",
+        "key_vocabulary": ["last summer", "visited", "was"]
+      },
+      {
+        "id": "w8",
+        "type": "translation",
+        "french": "Cette annee, je vais voyager en France parce que je veux voir la Tour Eiffel.",
+        "suggested_answer": "This year, I am going to travel to France because I want to see the Eiffel Tower.",
+        "key_vocabulary": ["am going to", "travel", "because", "want to see"]
+      }
+    ],
+    "oral": [
+      {
+        "id": "o1",
+        "type": "read_aloud",
+        "instruction": "Read this part of the letter aloud. Pay attention to the mix of tenses.",
+        "text": "Dear Sophie, I hope you are well! I live in London with my family. Last summer, we went to Scotland and visited Edinburgh. This year, we are going to travel to France. I can't wait! Write back soon!",
+        "focus": "Notice the three tenses: present (I live, I hope), past (we went, we visited), future (we are going to travel). Read naturally and clearly.",
+        "phonetic_tips": ["Edinburgh: /ˈɛdɪnbərə/", "abroad: /əˈbrɔːd/", "because: /bɪˈkɒz/"]
+      },
+      {
+        "id": "o2",
+        "type": "answer_question",
+        "question": "Imagine you are writing to a pen pal. Tell them about your life now, something you did in the past, and your plans for the future.",
+        "suggested_answer": "Hello! My name is [name] and I live in [city]. I go to school and I like music and sports. Last summer, I went to the beach with my family. It was amazing! This year, I am going to visit my grandparents in the countryside. I can't wait!",
+        "vocabulary_hints": ["I live in...", "I like...", "Last summer, I went...", "It was...", "I am going to...", "I can't wait!"],
+        "duration_seconds": 60
+      },
+      {
+        "id": "o3",
+        "type": "answer_question",
+        "question": "Why is it nice to have a pen pal? Use 'because', 'and' and 'but' in your answer.",
+        "suggested_answer": "I think having a pen pal is nice because you can learn about a different country. You can write about your life and your hobbies, but it is also interesting to read about their life. I like it because you make new friends!",
+        "vocabulary_hints": ["I think it is nice because...", "and", "but", "you can learn about..."],
+        "duration_seconds": 45
+      }
+    ]
+  }
+}

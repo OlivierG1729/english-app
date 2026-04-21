@@ -1,0 +1,315 @@
+{
+  "id": "21",
+  "unit": 3,
+  "unit_title": "Complex Issues & Nuanced Debates",
+  "title": "The Carbon Bargain",
+  "level": "C1",
+  "type": "dialogue",
+  "theme": "Climate Change, Ethics & Responsibility",
+  "reading_time": "6 min",
+  "content": {
+    "speakers": ["Moderator", "Professor Lars Engqvist (Climate Ethicist)", "Priti Sharma (Climate Activist, 26)"],
+    "paragraphs": [
+      {
+        "speaker": "Moderator",
+        "en": "The science of climate change is settled. The politics, apparently, is not. Professor Engqvist, why is it so hard to translate scientific consensus into policy action?",
+        "fr": "La science du changement climatique est établie. La politique, apparemment, ne l'est pas. Professeur Engqvist, pourquoi est-il si difficile de traduire le consensus scientifique en action politique ?"
+      },
+      {
+        "speaker": "Professor Lars Engqvist",
+        "en": "Because the structure of the problem is almost perfectly designed to defeat the structures of democratic decision-making. Climate change involves costs that are diffuse and long-term, and benefits that are concentrated and near-term. Acting now imposes costs on people who are alive today for the benefit of people who don't yet exist. No electoral system has a constituency for the future.",
+        "fr": "Parce que la structure du problème est presque parfaitement conçue pour défaire les structures de la prise de décision démocratique. Le changement climatique implique des coûts qui sont diffus et à long terme, et des bénéfices qui sont concentrés et à court terme. Agir maintenant impose des coûts aux personnes qui vivent aujourd'hui pour le bénéfice de personnes qui n'existent pas encore. Aucun système électoral n'a une circonscription pour l'avenir."
+      },
+      {
+        "speaker": "Priti Sharma",
+        "en": "I'd push back on the framing slightly. The people who are bearing the costs of climate inaction right now are not hypothetical future people — they're farming communities in sub-Saharan Africa, coastal populations in Bangladesh, indigenous communities in the Arctic. The temporal framing is a distraction. The problem is a geographic and distributional one: the people who've contributed the most to emissions are not the people who are suffering the consequences.",
+        "fr": "Je remettrais un peu en question le cadrage. Les personnes qui supportent les coûts de l'inaction climatique en ce moment ne sont pas des personnes hypothétiques dans le futur — ce sont des communautés agricoles en Afrique subsaharienne, des populations côtières au Bangladesh, des communautés autochtones dans l'Arctique. Le cadrage temporel est une distraction. Le problème est géographique et distributif : les personnes qui ont le plus contribué aux émissions ne sont pas celles qui en subissent les conséquences."
+      },
+      {
+        "speaker": "Professor Lars Engqvist",
+        "en": "That's a crucial correction, and I accept it. Though I'd note that it makes the political problem even harder, not easier. Asking wealthy nations to pay significant costs to protect people in other countries — people they don't see, whose suffering they can easily ignore — requires a level of international solidarity that has, historically, been very difficult to achieve.",
+        "fr": "C'est une correction cruciale, et je l'accepte. Bien que je ferais remarquer que cela rend le problème politique encore plus difficile, pas plus facile. Demander aux nations riches de payer des coûts significatifs pour protéger des personnes dans d'autres pays — des personnes qu'ils ne voient pas, dont les souffrances ils peuvent facilement ignorer — nécessite un niveau de solidarité internationale qui a, historiquement, été très difficile à atteindre."
+      },
+      {
+        "speaker": "Priti Sharma",
+        "en": "I'm twenty-six. I'm told to be realistic — to work within the constraints of the possible. But the constraints of the possible have been consistently underestimated in one direction: we consistently underestimate how fast things can change when the political will is there. COVID showed that. The speed of the vaccine rollout showed that. Societies can move very fast when there's a perceived emergency.",
+        "fr": "J'ai vingt-six ans. On me dit d'être réaliste — de travailler dans les contraintes du possible. Mais les contraintes du possible ont été systématiquement sous-estimées dans un sens : nous sous-estimons systématiquement la vitesse à laquelle les choses peuvent changer quand la volonté politique est là. Le COVID l'a montré. La vitesse du déploiement du vaccin l'a montré. Les sociétés peuvent se déplacer très vite quand il y a une urgence perçue."
+      },
+      {
+        "speaker": "Professor Lars Engqvist",
+        "en": "The Covid comparison is instructive but also limited. The pandemic was immediate, visible, and affected people in wealthy countries directly. Climate change is gradual, often invisible until it isn't, and its worst effects are geographically distant from the people with the most power to address it. The perceived emergency hasn't arrived for most of the people who need to act.",
+        "fr": "La comparaison avec le Covid est instructive mais aussi limitée. La pandémie était immédiate, visible, et touchait directement les personnes dans les pays riches. Le changement climatique est progressif, souvent invisible jusqu'à ce qu'il ne le soit plus, et ses pires effets sont géographiquement éloignés des personnes qui ont le plus de pouvoir pour y remédier. L'urgence perçue n'est pas encore arrivée pour la plupart des personnes qui ont besoin d'agir."
+      },
+      {
+        "speaker": "Priti Sharma",
+        "en": "Which is exactly why the movement I'm part of has shifted towards direct action — towards making the emergency visible and felt in places where it currently isn't. I understand why that upsets people. I also think that mild, patient, policy-focused advocacy has been tried for thirty years with insufficient results. At some point, raising the discomfort level is not unreasonable.",
+        "fr": "C'est exactement pourquoi le mouvement dont je fais partie s'est orienté vers l'action directe — vers le fait de rendre l'urgence visible et ressentie dans des endroits où elle ne l'est pas encore. Je comprends pourquoi cela dérange les gens. Je pense aussi que le plaidoyer modéré, patient et axé sur les politiques a été essayé pendant trente ans avec des résultats insuffisants. À un moment donné, augmenter le niveau d'inconfort n'est pas déraisonnable."
+      },
+      {
+        "speaker": "Professor Lars Engqvist",
+        "en": "I'm sympathetic to the frustration. I'm less sure about the strategy. There is reasonable evidence that confrontational direct action alienates the very people whose support you need to achieve change. But I acknowledge that 'be patient' is an extremely difficult thing to say to someone for whom the situation is already an emergency.",
+        "fr": "Je comprends la frustration. Je suis moins sûr de la stratégie. Il existe des preuves raisonnables que l'action directe confrontationnelle aliène précisément les personnes dont vous avez besoin du soutien pour obtenir un changement. Mais je reconnais que « sois patient » est une chose extrêmement difficile à dire à quelqu'un pour qui la situation est déjà une urgence."
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "diffuse",
+        "phonetic": "/dɪˈfjuːs/",
+        "type": "adjective",
+        "definition_en": "Dispersé sur une large zone ; pas concentré en un seul endroit ; difficile à cerner",
+        "definition_fr": "diffus, dispersé, difficile à localiser",
+        "example": "The benefits of education are diffuse and long-term — hard to see in any single outcome.",
+        "level": "C1"
+      },
+      {
+        "word": "distributional",
+        "phonetic": "/ˌdɪstrɪˈbjuːʃənl/",
+        "type": "adjective",
+        "definition_en": "Relatif à la façon dont quelque chose — coûts, bénéfices, ressources — est réparti au sein d'une population",
+        "definition_fr": "distributif, relatif à la répartition",
+        "example": "The distributional effects of the tax reform were deeply unequal.",
+        "level": "C1"
+      },
+      {
+        "word": "solidarity",
+        "phonetic": "/ˌsɒlɪˈdærɪti/",
+        "type": "noun",
+        "definition_en": "Unité et soutien mutuel au sein d'un groupe, surtout face à une difficulté partagée",
+        "definition_fr": "solidarité",
+        "example": "International solidarity is required to address problems that cross borders.",
+        "level": "B2"
+      },
+      {
+        "word": "rollout",
+        "phonetic": "/ˈrəʊlaʊt/",
+        "type": "noun",
+        "definition_en": "Le processus de lancement ou de déploiement de quelque chose à grande échelle, en particulier un produit ou un programme",
+        "definition_fr": "déploiement, lancement à grande échelle",
+        "example": "The vaccine rollout was slower in some regions than others.",
+        "level": "B2"
+      },
+      {
+        "word": "instructive",
+        "phonetic": "/ɪnˈstrʌktɪv/",
+        "type": "adjective",
+        "definition_en": "Qui fournit des informations utiles ou des aperçus ; qui révèle quelque chose d'important",
+        "definition_fr": "instructif, révélateur, éclairant",
+        "example": "The comparison is instructive, even if it's not perfectly analogous.",
+        "level": "B2"
+      },
+      {
+        "word": "gradual",
+        "phonetic": "/ˈɡrædʒuəl/",
+        "type": "adjective",
+        "definition_en": "Qui se produit lentement, par petites étapes sur une longue période",
+        "definition_fr": "graduel, progressif",
+        "example": "The gradual nature of climate change makes it psychologically harder to respond to.",
+        "level": "B2"
+      },
+      {
+        "word": "advocacy",
+        "phonetic": "/ˈædvəkəsi/",
+        "type": "noun",
+        "definition_en": "Soutien public ou recommandation en faveur d'une cause ou d'une politique",
+        "definition_fr": "plaidoyer, défense (d'une cause)",
+        "example": "Climate advocacy has shifted from raising awareness to demanding systemic change.",
+        "level": "C1"
+      },
+      {
+        "word": "confrontational",
+        "phonetic": "/ˌkɒnfrʌnˈteɪʃənl/",
+        "type": "adjective",
+        "definition_en": "Susceptible de provoquer ou impliquant un conflit ouvert ; provocateur et agressif dans l'approche",
+        "definition_fr": "confrontationnel, conflictuel",
+        "example": "A confrontational approach may make people defensive rather than receptive.",
+        "level": "C1"
+      },
+      {
+        "word": "to alienate",
+        "phonetic": "/ˈeɪliəneɪt/",
+        "type": "verb",
+        "definition_en": "Faire en sorte que quelqu'un se sente exclu, hostile ou indifférent ; repousser un allié potentiel",
+        "definition_fr": "aliéner, éloigner, rebuter",
+        "example": "Extreme rhetoric can alienate moderates who might otherwise support reform.",
+        "level": "C1"
+      },
+      {
+        "word": "inaction",
+        "phonetic": "/ɪnˈækʃn/",
+        "type": "noun",
+        "definition_en": "L'état de ne pas agir ; le fait de ne pas agir quand une action est nécessaire",
+        "definition_fr": "inaction, inertie",
+        "example": "The cost of climate inaction now far exceeds the cost of prevention.",
+        "level": "B2"
+      }
+    ],
+    "grammar_points": [
+      {
+        "title": "'No X has a constituency for Y' — using negative structures to reveal structural problems",
+        "explanation": "Dire **'no X exists for Y'** est un moyen puissant de révéler une lacune structurelle — quelque chose que le système n'a pas, par conception. C'est plus analytique et plus mémorable que de dire 'it's difficult to...'.",
+        "examples": [
+          "'No electoral system has a constituency **for the future**.'",
+          "'There is no international institution **with enforcement powers** over emissions.'",
+          "'There is no mechanism **for holding corporations accountable** across borders.'",
+          "This structure reveals invisible structural constraints clearly and concisely."
+        ]
+      },
+      {
+        "title": "'Though I'd note that...' — accepting a point while adding a complication",
+        "explanation": "Dans un débat académique, **reconnaître la correction d'un adversaire** tout en ajoutant une complication ou une nuance est un signe d'honnêteté intellectuelle et de sophistication. La formule 'Though I'd note that...' est particulièrement élégante.",
+        "examples": [
+          "'That's a crucial correction, and I accept it. **Though I'd note that** it makes the problem harder.'",
+          "'**I take your point**, but I'd add that...'",
+          "'**You're right that** X. **That said**, Y remains true.'",
+          "'**Fair enough — though** it's worth considering...'",
+          "These transitions signal good-faith engagement rather than mere point-scoring."
+        ]
+      },
+      {
+        "title": "Adverbial 'consistently' + present perfect: identifying a pattern of bias",
+        "explanation": "**'Consistently + participe passé'** (surtout avec 'underestimated', 'overestimated', 'ignored') est une façon formelle d'identifier un schéma systématique d'erreur ou de biais dans le temps. Très utile dans les arguments analytiques.",
+        "examples": [
+          "'The constraints of the possible have been **consistently underestimated**.'",
+          "'These risks have been **consistently ignored** by policymakers.'",
+          "'Costs have been **consistently overestimated** while benefits are played down.'",
+          "Adding 'in one direction' makes the pattern more precise and harder to dismiss."
+        ]
+      }
+    ],
+    "expressions": [
+      {
+        "expression": "the science is settled",
+        "meaning_fr": "la science est établie, le débat scientifique est clos",
+        "example": "The science of climate change is settled — what remains is the political question.",
+        "register": "journalistic / political",
+        "note": "Utilisé pour signaler que le consensus scientifique n'est pas en question, déplaçant le débat vers la politique plutôt que les preuves."
+      },
+      {
+        "expression": "a crucial correction",
+        "meaning_fr": "une correction essentielle, un recadrage important",
+        "example": "That's a crucial correction — and I accept it.",
+        "register": "formal / academic debate",
+        "note": "Une formule généreuse et sophistiquée pour reconnaître que quelqu'un a amélioré votre argument ou exposé une faille dans votre cadrage."
+      },
+      {
+        "expression": "at some point, X is not unreasonable",
+        "meaning_fr": "à un moment donné, X n'est pas déraisonnable",
+        "example": "At some point, raising the discomfort level is not unreasonable.",
+        "register": "formal / hedged",
+        "note": "Une double négation qui adoucit une affirmation. Plus prudent que 'X is justified' — reconnaît les limites tout en défendant la position."
+      },
+      {
+        "expression": "perceived emergency",
+        "meaning_fr": "urgence perçue, urgence ressentie comme telle",
+        "example": "The problem is that the perceived emergency hasn't arrived for the people who need to act.",
+        "register": "analytical / political",
+        "note": "Distingue les faits objectifs d'une urgence de la perception subjective de celle-ci comme urgente. Un concept clé en communication de crise."
+      },
+      {
+        "expression": "policy-focused advocacy",
+        "meaning_fr": "plaidoyer axé sur les politiques publiques",
+        "example": "Thirty years of patient, policy-focused advocacy has produced insufficient results.",
+        "register": "formal / political",
+        "note": "Décrit l'approche consistant à travailler dans les canaux institutionnels — lobbying, rapports, conférences — par opposition à l'action directe."
+      }
+    ]
+  },
+  "exercises": {
+    "written": [
+      {
+        "id": "w1",
+        "type": "multiple_choice",
+        "question": "What does Professor Engqvist mean by 'no electoral system has a constituency for the future'?",
+        "options": [
+          "Young people don't vote in sufficient numbers.",
+          "Democratic systems have no mechanism to represent the interests of future generations.",
+          "Politicians focus too much on re-election rather than long-term policy.",
+          "Climate policy requires international coordination that democracies can't achieve."
+        ],
+        "answer": 1,
+        "explanation": "The professor's point is structural: acting on climate requires costs now for future people who cannot vote and therefore have no political representation."
+      },
+      {
+        "id": "w2",
+        "type": "multiple_choice",
+        "question": "What is Priti's key reframing of the climate problem?",
+        "options": [
+          "That it is a future problem, not a current one.",
+          "That it is not a geographic or distributional problem but a purely scientific one.",
+          "That the costs are being borne now by vulnerable populations who contributed least to the problem.",
+          "That wealthy countries need to develop green technology faster."
+        ],
+        "answer": 2,
+        "explanation": "Priti argues: 'the people who've contributed the most to emissions are not the people who are suffering the consequences' — it's a geographic and distributional injustice happening now."
+      },
+      {
+        "id": "w3",
+        "type": "fill_blank",
+        "sentence": "The risks have been ________ ________ by economists who favour the status quo.",
+        "answer": "consistently underestimated",
+        "hint": "Present perfect + adverb, describing a systematic pattern of error."
+      },
+      {
+        "id": "w4",
+        "type": "fill_blank",
+        "sentence": "That's a fair point, and I accept it. ________ I'd ________ that it complicates the analysis significantly.",
+        "answer": "Though / note",
+        "hint": "A formula for graciously accepting a correction while adding a qualification."
+      },
+      {
+        "id": "w5",
+        "type": "fill_blank",
+        "sentence": "Extreme rhetoric can ________ the very moderates whose support is needed.",
+        "answer": "alienate",
+        "hint": "A verb meaning 'to push away a potential ally by making them feel hostile or excluded'."
+      },
+      {
+        "id": "w6",
+        "type": "translation",
+        "french": "Aucun système électoral n'a de circonscription pour les générations futures — c'est là le problème structurel fondamental.",
+        "suggested_answer": "No electoral system has a constituency for future generations — that is the fundamental structural problem.",
+        "key_vocabulary": ["No electoral system", "constituency for future generations", "fundamental structural problem"]
+      },
+      {
+        "id": "w7",
+        "type": "translation",
+        "french": "À un moment donné, trente ans de plaidoyer modéré avec des résultats insuffisants rend l'action directe pas déraisonnable.",
+        "suggested_answer": "At some point, thirty years of patient advocacy with insufficient results makes direct action not unreasonable.",
+        "key_vocabulary": ["At some point", "patient advocacy", "not unreasonable"]
+      },
+      {
+        "id": "w8",
+        "type": "translation",
+        "french": "La comparaison est instructive mais limitée : la pandémie était immédiate et visible, le changement climatique est graduel.",
+        "suggested_answer": "The comparison is instructive but also limited: the pandemic was immediate and visible, while climate change is gradual.",
+        "key_vocabulary": ["instructive but limited", "immediate and visible", "gradual"]
+      }
+    ],
+    "oral": [
+      {
+        "id": "o1",
+        "type": "read_aloud",
+        "instruction": "Read Professor Engqvist's opening analytical speech. The tone is precise, slightly resigned but not pessimistic — this is someone who has thought carefully about structural problems.",
+        "text": "Because the structure of the problem is almost perfectly designed to defeat the structures of democratic decision-making. Climate change involves costs that are diffuse and long-term, and benefits that are concentrated and near-term. Acting now imposes costs on people who are alive today for the benefit of people who don't yet exist. No electoral system has a constituency for the future.",
+        "focus": "The final sentence should land as a clear, simple conclusion after the more complex build-up. Allow a beat before it.",
+        "phonetic_tips": ["diffuse: /dɪˈfjuːs/", "constituency: /kənˈstɪtjuənsi/", "concentrated: stress on CON"]
+      },
+      {
+        "id": "o2",
+        "type": "answer_question",
+        "question": "Is confrontational direct action by climate activists justified? Consider the arguments on both sides before giving your view.",
+        "suggested_answer": "I think the justification argument is stronger than it's usually given credit for. The standard objection — that confrontational tactics alienate moderates — assumes that moderate support is currently available and simply needs to be maintained. But if thirty years of polite advocacy have produced insufficient results, the question isn't whether tactics are alienating but whether anything is actually working. Priti's point about urgency is real: the people bearing the costs of inaction now don't have the luxury of waiting for a more convenient moment. That said, there is evidence that specific tactics — gluing yourself to roads, for instance — generate media coverage but also backlash that sets the movement back. Strategy matters, not just intention.",
+        "vocabulary_hints": ["justification argument", "moderate support", "insufficient results", "bearing the costs", "backlash", "strategy matters"],
+        "duration_seconds": 120
+      },
+      {
+        "id": "o3",
+        "type": "answer_question",
+        "question": "How should the costs of addressing climate change be divided between rich and poor countries? Is the current international framework fair?",
+        "suggested_answer": "It's hard to argue that the current framework is fair. The historical emissions data is clear: wealthy industrialised nations are responsible for the vast majority of cumulative greenhouse gas emissions. Asking developing countries to constrain their economic development to solve a problem they didn't primarily create requires either significant financial compensation or a fundamental rethinking of what fairness means. The concept of 'common but differentiated responsibilities' exists in international law precisely to acknowledge this asymmetry, but in practice the funding that wealthy nations have committed to climate finance has consistently fallen short of what was promised. Without genuine redistribution of both the costs and the benefits of the transition to clean energy, any international agreement will struggle to maintain legitimacy in the countries that most need to be on board.",
+        "vocabulary_hints": ["cumulative emissions", "common but differentiated responsibilities", "asymmetry", "climate finance", "redistribution", "maintain legitimacy"],
+        "duration_seconds": 120
+      }
+    ]
+  }
+}

@@ -1,0 +1,303 @@
+{
+  "id": "04",
+  "unit": 1,
+  "unit_title": "Modern Life & Society",
+  "title": "The Last Bookshop",
+  "level": "B2",
+  "type": "story",
+  "theme": "Culture & Nostalgia",
+  "reading_time": "5 min",
+  "content": {
+    "paragraphs": [
+      {
+        "en": "The sign in the window said 'Closing Down — Everything Must Go', but Nadia had been walking past it for three weeks without going in. She wasn't sure why. Perhaps she was afraid that once she crossed the threshold, it would become real: that Whitmore's, the bookshop she had grown up in, would actually be gone.",
+        "fr": "Le panneau dans la vitrine indiquait « Fermeture définitive — Tout doit partir », mais Nadia était passée devant depuis trois semaines sans entrer. Elle ne savait pas trop pourquoi. Peut-être avait-elle peur qu'une fois passé le seuil, cela devienne réel : que Whitmore's, la librairie dans laquelle elle avait grandi, allait vraiment disparaître."
+      },
+      {
+        "en": "She finally went in on a Tuesday afternoon, when it was raining and she had nowhere particular to be. The shop smelled exactly as it always had — a particular combination of old paper, carpet dust and something she had never been able to identify but which she associated entirely with childhood Saturday mornings.",
+        "fr": "Elle finit par entrer un mardi après-midi, quand il pleuvait et qu'elle n'avait nulle part où aller particulièrement. La librairie sentait exactement comme elle avait toujours senti — une combinaison particulière de vieux papier, de poussière de tapis et de quelque chose qu'elle n'avait jamais pu identifier mais qu'elle associait entièrement aux samedis matin de son enfance."
+      },
+      {
+        "en": "Mr Whitmore himself was behind the counter, marking down prices with a red sticker gun. He was older than she remembered — but then, she supposed, so was she. He looked up, nodded, and returned to his task without a word. This, she thought, was exactly right. Bookshops weren't supposed to make you feel welcome in an obvious, intrusive way.",
+        "fr": "M. Whitmore lui-même était derrière le comptoir, baissant les prix avec un pistolet à étiquettes rouges. Il était plus vieux que dans son souvenir — mais alors, supposait-elle, elle aussi. Il leva les yeux, hocha la tête et retourna à sa tâche sans un mot. C'était exactement comme il le fallait, pensa-t-elle. Les librairies n'étaient pas censées vous faire sentir les bienvenus de façon évidente et intrusive."
+      },
+      {
+        "en": "'Why are you closing?' she asked, after she had spent twenty minutes in the history section. She wasn't sure what she expected him to say. Something about Amazon, probably, or rent, or people not reading any more. But he just smiled and shrugged. 'I'm seventy-four,' he said. 'My knees hurt. And I've read most of the books.'",
+        "fr": "« Pourquoi fermez-vous ? » demanda-t-elle, après avoir passé vingt minutes dans la section histoire. Elle ne savait pas vraiment ce qu'elle s'attendait à lui entendre dire. Quelque chose sur Amazon, probablement, ou le loyer, ou les gens qui ne lisent plus. Mais il sourit simplement et haussa les épaules. « J'ai soixante-quatorze ans, dit-il. Mes genoux me font mal. Et j'ai lu la plupart des livres. »"
+      },
+      {
+        "en": "She laughed — a genuine laugh, the kind that surprised her. She bought four books she didn't strictly need: a history of the Ottoman Empire, a novel she had already read twice, a book of poetry she opened and shut before she could change her mind, and a very small, very old illustrated guide to English wildflowers that cost fifty pence and had belonged, according to the inscription, to a Margaret Hartley in 1961.",
+        "fr": "Elle rit — d'un rire sincère, du genre qui la surprit. Elle acheta quatre livres dont elle n'avait pas strictement besoin : une histoire de l'Empire ottoman, un roman qu'elle avait déjà lu deux fois, un recueil de poésie qu'elle ouvrit et referma avant de pouvoir changer d'avis, et un tout petit, très vieux guide illustré des fleurs sauvages anglaises qui coûtait cinquante pence et avait appartenu, selon l'inscription, à une certaine Margaret Hartley en 1961."
+      },
+      {
+        "en": "Walking home in the rain, bag of books under her arm, she tried to work out what exactly she was mourning. Not the building, which would almost certainly become a coffee shop. Not the books themselves, which would survive. Perhaps it was the particular arrangement of things — the smell, the light through the dusty window, the sense that time moved differently inside. Some places hold a version of you that exists nowhere else. When they go, that version goes with them.",
+        "fr": "Rentrant chez elle sous la pluie, son sac de livres sous le bras, elle essaya de déterminer ce qu'elle était exactement en train de pleurer. Pas le bâtiment, qui deviendrait presque certainement un café. Pas les livres eux-mêmes, qui survivraient. Peut-être était-ce l'arrangement particulier des choses — l'odeur, la lumière à travers la fenêtre poussiéreuse, l'impression que le temps s'écoulait différemment à l'intérieur. Certains endroits gardent une version de vous qui n'existe nulle part ailleurs. Quand ils disparaissent, cette version disparaît avec eux."
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "threshold",
+        "phonetic": "/ˈθreʃhəʊld/",
+        "type": "noun",
+        "definition_en": "l'entrée d'un bâtiment ; (figuré) un point de départ ou de changement",
+        "definition_fr": "le seuil (d'une porte) ; (figuré) un seuil, un point de bascule",
+        "example": "She stood on the threshold, unsure whether to go in.",
+        "level": "B2"
+      },
+      {
+        "word": "to mark down",
+        "phonetic": "/mɑːrk daʊn/",
+        "type": "phrasal verb",
+        "definition_en": "réduire le prix de quelque chose",
+        "definition_fr": "baisser le prix de, solder",
+        "example": "Everything in the shop had been marked down by fifty percent.",
+        "level": "B2"
+      },
+      {
+        "word": "intrusive",
+        "phonetic": "/ɪnˈtruːsɪv/",
+        "type": "adjective",
+        "definition_en": "perturbant l'intimité ou la tranquillité de quelqu'un ; remarquable de manière importune",
+        "definition_fr": "intrusif, importun, envahissant",
+        "example": "The loud music from next door was becoming intrusive.",
+        "level": "C1"
+      },
+      {
+        "word": "inscription",
+        "phonetic": "/ɪnˈskrɪpʃn/",
+        "type": "noun",
+        "definition_en": "mots écrits ou gravés sur quelque chose, surtout en tant que dédicace ou étiquette",
+        "definition_fr": "inscription, dédicace",
+        "example": "The book had a handwritten inscription: 'To my dearest friend, 1952'.",
+        "level": "B2"
+      },
+      {
+        "word": "to mourn",
+        "phonetic": "/mɔːrn/",
+        "type": "verb",
+        "definition_en": "ressentir une profonde tristesse, surtout pour quelque chose ou quelqu'un de perdu",
+        "definition_fr": "pleurer (la perte de), être en deuil de",
+        "example": "She mourned the loss of the old neighbourhood she had grown up in.",
+        "level": "B2"
+      },
+      {
+        "word": "strictly",
+        "phonetic": "/ˈstrɪktli/",
+        "type": "adverb",
+        "definition_en": "au sens exact ou précis ; utilisé pour nuancer ou adoucir une affirmation",
+        "definition_fr": "à proprement parler, strictement, au sens strict",
+        "example": "She bought four books she didn't strictly need.",
+        "level": "B2"
+      },
+      {
+        "word": "to shrug",
+        "phonetic": "/ʃrʌɡ/",
+        "type": "verb",
+        "definition_en": "lever et baisser brièvement les épaules en signe d'indifférence ou d'incertitude",
+        "definition_fr": "hausser les épaules",
+        "example": "When asked about the future, he just shrugged.",
+        "level": "B2"
+      },
+      {
+        "word": "dust / dusty",
+        "phonetic": "/dʌst/ /ˈdʌsti/",
+        "type": "noun / adjective",
+        "definition_en": "fine poudre sèche provenant de l'air ou des surfaces ; couvert de cette poudre",
+        "definition_fr": "poussière / poussiéreux",
+        "example": "The old bookshop had dusty windows and floors that creaked underfoot.",
+        "level": "B1"
+      },
+      {
+        "word": "to work out",
+        "phonetic": "/wɜːrk aʊt/",
+        "type": "phrasal verb",
+        "definition_en": "comprendre, déterminer ou calculer quelque chose",
+        "definition_fr": "comprendre, déterminer, calculer",
+        "example": "I couldn't work out why the system had failed.",
+        "level": "B2"
+      },
+      {
+        "word": "mourning",
+        "phonetic": "/ˈmɔːrnɪŋ/",
+        "type": "noun",
+        "definition_en": "un sentiment de profonde tristesse ou de chagrin, surtout face à une perte",
+        "definition_fr": "deuil, tristesse profonde face à une perte",
+        "example": "She was in mourning for the city she had once known.",
+        "level": "B2"
+      }
+    ],
+    "grammar_points": [
+      {
+        "title": "Reported speech — expressing expectations with 'expected him to say'",
+        "explanation": "En anglais, **'expect + objet + infinitif'** est utilisé pour décrire ce que vous anticipez que quelqu'un dira ou fera. C'est plus naturel que d'utiliser 'expect that he would say'. Cette structure apparaît souvent dans l'anglais littéraire et conversationnel.",
+        "examples": [
+          "'She wasn't sure what she **expected him to say**.' → more natural than 'what she expected that he would say'",
+          "'I **expected her to be** angry.' → I thought she would be angry.",
+          "'They **expected the shop to close** years ago.' → They thought it would close.",
+          "Note: 'expect' can also be followed by 'that' + clause in formal writing: 'She expected that he would explain.' Both are correct."
+        ]
+      },
+      {
+        "title": "Concessive clauses: 'which would', 'which would almost certainly'",
+        "explanation": "Les **propositions relatives non déterminatives** introduites par 'which' peuvent exprimer la concession ou la nuance. Combinées avec des verbes modaux ('would', 'might', 'could'), elles ajoutent de la nuance en introduisant des conséquences futures probables mais non confirmées. C'est une caractéristique de l'anglais écrit soigné.",
+        "examples": [
+          "'Not the building, **which would almost certainly become** a coffee shop.' → she accepts this probability",
+          "'Not the books, **which would survive**.' → they persist elsewhere",
+          "These clauses are always set off by commas — unlike defining relative clauses.",
+          "Tip: 'which would' sounds more elegant than 'and it would' in formal writing."
+        ]
+      },
+      {
+        "title": "Negative structures for emphasis: 'not... but'",
+        "explanation": "La structure **'not X, but Y'** est utilisée pour corriger une hypothèse possible et clarifier ce qui est réellement vrai. Elle crée de l'emphase et du contraste, et est très courante tant à l'oral qu'à l'écrit en anglais à partir du niveau B2.",
+        "examples": [
+          "'Not the building... Not the books... Perhaps it was the particular arrangement of things.'",
+          "'I'm not angry, **but** I am disappointed.'",
+          "'It's **not** about money, **but** about respect.'",
+          "In longer texts: 'not X, not Y, but Z' creates a building rhythm that holds the reader's attention."
+        ]
+      }
+    ],
+    "expressions": [
+      {
+        "expression": "closing down",
+        "meaning_fr": "fermeture définitive (d'un commerce)",
+        "example": "The sign said 'Closing Down — Everything Must Go'.",
+        "register": "neutral / commercial",
+        "note": "Utilisé spécifiquement pour un commerce qui ferme définitivement. Une 'closing-down sale' = une vente de liquidation."
+      },
+      {
+        "expression": "nowhere particular to be",
+        "meaning_fr": "nulle part où aller en particulier, sans obligation",
+        "example": "She finally went in when she had nowhere particular to be.",
+        "register": "informal / conversational",
+        "note": "Une façon détendue de dire 'je n'avais pas de projets précis'. Similaire : 'nothing in particular to do'."
+      },
+      {
+        "expression": "to hold a version of you",
+        "meaning_fr": "garder en soi une part de toi, une certaine version de toi",
+        "example": "Some places hold a version of you that exists nowhere else.",
+        "register": "literary / reflective",
+        "note": "Expression poétique sur la façon dont certains lieux sont liés à des souvenirs spécifiques ou à des identités passées."
+      },
+      {
+        "expression": "that's exactly right / exactly as it should be",
+        "meaning_fr": "c'est exactement comme il faut, c'est parfait ainsi",
+        "example": "This, she thought, was exactly right.",
+        "register": "neutral",
+        "note": "Utilisé pour exprimer que quelque chose correspond parfaitement aux attentes. Souvent utilisé avec un léger ton de satisfaction ou de reconnaissance."
+      },
+      {
+        "expression": "to come with",
+        "meaning_fr": "s'accompagner de, aller avec",
+        "example": "When they go, that version goes with them.",
+        "register": "neutral",
+        "note": "Une structure anglaise naturelle pour exprimer quelque chose d'inséparable d'autre chose. 'Fame comes with a price.'"
+      }
+    ]
+  },
+  "exercises": {
+    "written": [
+      {
+        "id": "w1",
+        "type": "multiple_choice",
+        "question": "Why had Nadia been avoiding entering the bookshop?",
+        "options": [
+          "She didn't have enough money to buy books.",
+          "She feared going in would make the shop's closure feel final.",
+          "She was too busy with work to stop.",
+          "She had argued with Mr Whitmore in the past."
+        ],
+        "answer": 1,
+        "explanation": "The text says she was afraid that 'once she crossed the threshold, it would become real: that Whitmore's would actually be gone'."
+      },
+      {
+        "id": "w2",
+        "type": "multiple_choice",
+        "question": "Why is Mr Whitmore closing the shop?",
+        "options": [
+          "He can't compete with online retailers like Amazon.",
+          "The rent has become too expensive.",
+          "He is old, his knees hurt, and he has read most of the books.",
+          "The building has been sold for redevelopment."
+        ],
+        "answer": 2,
+        "explanation": "Mr Whitmore says simply: 'I'm seventy-four. My knees hurt. And I've read most of the books.' A surprisingly personal reason."
+      },
+      {
+        "id": "w3",
+        "type": "multiple_choice",
+        "question": "What does the author mean by 'some places hold a version of you that exists nowhere else'?",
+        "options": [
+          "Places are physically different depending on who visits them.",
+          "Certain places are linked to memories of a past self that only exists there.",
+          "Different people see the same place in completely different ways.",
+          "Old buildings preserve historical records about their visitors."
+        ],
+        "answer": 1,
+        "explanation": "The narrator reflects that places can preserve a version of who we were — our childhood self, for example. When the place disappears, that version of us is also lost."
+      },
+      {
+        "id": "w4",
+        "type": "fill_blank",
+        "sentence": "She couldn't ________ why she felt so sad about the closure.",
+        "answer": "work out",
+        "hint": "A phrasal verb meaning 'to figure out or understand'."
+      },
+      {
+        "id": "w5",
+        "type": "fill_blank",
+        "sentence": "She bought four books she didn't ________ need, but somehow couldn't leave without them.",
+        "answer": "strictly",
+        "hint": "An adverb meaning 'in the precise or exact sense of the word'."
+      },
+      {
+        "id": "w6",
+        "type": "fill_blank",
+        "sentence": "He shrugged and said he ________ the new manager to be difficult.",
+        "answer": "expected",
+        "hint": "Use the correct form of the verb 'to expect' followed by an object + infinitive."
+      },
+      {
+        "id": "w7",
+        "type": "translation",
+        "french": "Elle ne savait pas exactement ce qu'elle attendait de lui comme réponse.",
+        "suggested_answer": "She wasn't sure exactly what she expected him to say.",
+        "key_vocabulary": ["wasn't sure exactly what", "expected him to say"]
+      },
+      {
+        "id": "w8",
+        "type": "translation",
+        "french": "Ce n'est pas le bâtiment qu'elle pleurait — c'était l'arrangement particulier des choses.",
+        "suggested_answer": "It wasn't the building she was mourning — it was the particular arrangement of things.",
+        "key_vocabulary": ["It wasn't... she was mourning", "particular arrangement of things"]
+      }
+    ],
+    "oral": [
+      {
+        "id": "o1",
+        "type": "read_aloud",
+        "instruction": "Read the final paragraph aloud. This is reflective, thoughtful prose — take your time and let each sentence breathe.",
+        "text": "Walking home in the rain, bag of books under her arm, she tried to work out what exactly she was mourning. Not the building, which would almost certainly become a coffee shop. Not the books themselves, which would survive. Perhaps it was the particular arrangement of things — the smell, the light through the dusty window, the sense that time moved differently inside.",
+        "focus": "The list of three ('not the building... not the books... perhaps it was') builds in emotional weight. Pause slightly after each 'Not'.",
+        "phonetic_tips": ["mourning: /ˈmɔːrnɪŋ/", "certainly: /ˈsɜːrtnli/", "particular: /pəˈtɪkjələr/"]
+      },
+      {
+        "id": "o2",
+        "type": "answer_question",
+        "question": "Is there a place from your childhood or past that no longer exists, or that has changed? How did it make you feel?",
+        "suggested_answer": "There was a small cinema in my town that closed when I was about fifteen. I hadn't been inside for years when I heard it was closing, but the news still hit me harder than I expected. I suppose I had always assumed it would be there, as a kind of anchor. When it went, they turned it into a supermarket. I think what I was mourning wasn't the building itself — it was a particular version of myself that had existed inside it, sitting in the dark watching films on Saturday afternoons.",
+        "vocabulary_hints": ["hit me harder than I expected", "a kind of anchor", "what I was mourning", "a particular version of myself"],
+        "duration_seconds": 75
+      },
+      {
+        "id": "o3",
+        "type": "answer_question",
+        "question": "Do you think independent bookshops still have a future, or will they inevitably disappear? Why?",
+        "suggested_answer": "I think independent bookshops do have a future, but a much smaller one than before. The ones that survive will be the ones that offer something online shopping can't — a curated selection, knowledgeable staff, a sense of community, or events. People still want the experience of browsing; they just need a reason to choose an independent over a convenient click. That said, I think we'll lose a lot of them, and the cultural loss will be real. There's something irreplaceable about a shop that has its own character and its own smell.",
+        "vocabulary_hints": ["a curated selection", "knowledgeable staff", "the experience of browsing", "irreplaceable", "its own character"],
+        "duration_seconds": 90
+      }
+    ]
+  }
+}

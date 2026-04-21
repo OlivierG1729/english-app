@@ -1,0 +1,298 @@
+{
+  "id": "26",
+  "unit": 4,
+  "unit_title": "Advanced Discourse & Argumentation",
+  "title": "A Leap in the Dark",
+  "level": "C1",
+  "type": "story",
+  "theme": "Science, Discovery & Uncertainty",
+  "reading_time": "6 min",
+  "content": {
+    "paragraphs": [
+      {
+        "en": "The history of science is, in one reading, a history of being wrong in increasingly productive ways. The geocentric model of the solar system was wrong, but it was wrong in ways that generated the measurements and the anomalies that eventually led to Copernicus. Newtonian mechanics was wrong — or rather, it was right within a domain whose limits Einstein's work revealed. Every wrong theory carries within it the seeds of the more accurate theory that will replace it.",
+        "fr": "L'histoire de la science est, dans une certaine lecture, une histoire d'avoir tort de façon de plus en plus productive. Le modèle géocentrique du système solaire était erroné, mais il l'était de façons qui ont généré les mesures et les anomalies qui ont finalement conduit à Copernic. La mécanique newtonienne était erronée — ou plutôt, elle était juste dans un domaine dont les limites ont été révélées par les travaux d'Einstein. Chaque théorie erronée porte en elle les germes de la théorie plus précise qui la remplacera."
+      },
+      {
+        "en": "What this suggests is that the public understanding of science as a body of established truths is fundamentally misleading. Science is not a collection of facts; it is a method for generating better and better approximations of reality. Its strength lies precisely in its openness to revision — in its willingness to be wrong, to acknowledge anomalies, to abandon well-loved theories in the face of inconvenient data.",
+        "fr": "Ce que cela suggère, c'est que la compréhension publique de la science comme un ensemble de vérités établies est fondamentalement trompeuse. La science n'est pas un recueil de faits ; c'est une méthode pour générer des approximations de la réalité de plus en plus précises. Sa force réside précisément dans son ouverture à la révision — dans sa volonté d'avoir tort, d'accepter les anomalies, d'abandonner des théories bien-aimées face à des données incommodes."
+      },
+      {
+        "en": "This is not, as science's critics sometimes claim, a weakness. It is its central strength. The willingness to update in response to evidence is exactly what distinguishes scientific thinking from ideology or dogma. An ideology says: these are the truths we hold regardless of evidence. Science says: these are our current best models of the evidence, subject to revision.",
+        "fr": "Ce n'est pas, comme le prétendent parfois les détracteurs de la science, une faiblesse. C'est sa force centrale. La volonté de se mettre à jour en réponse aux preuves est exactement ce qui distingue la pensée scientifique de l'idéologie ou du dogme. Une idéologie dit : ce sont les vérités que nous tenons indépendamment des preuves. La science dit : ce sont nos meilleurs modèles actuels des preuves, sujets à révision."
+      },
+      {
+        "en": "The problem arises when this internal complexity is weaponised by those who wish to delay action on scientific consensus. Climate science, vaccine safety, evolutionary biology — in each case, the honest acknowledgement that science involves uncertainty and ongoing revision has been exploited to create the false impression that the underlying questions are still genuinely open. They are not. The difference between 'this is our best current model' and 'this is disputed' is enormous, but it can be made to vanish with sufficient sophistry.",
+        "fr": "Le problème surgit quand cette complexité interne est instrumentalisée par ceux qui souhaitent retarder l'action sur le consensus scientifique. La climatologie, la sécurité vaccinale, la biologie évolutionnaire — dans chaque cas, la reconnaissance honnête que la science implique incertitude et révision continue a été exploitée pour créer la fausse impression que les questions sous-jacentes sont encore véritablement ouvertes. Elles ne le sont pas. La différence entre « c'est notre meilleur modèle actuel » et « c'est contesté » est énorme, mais elle peut être effacée avec suffisamment de sophismes."
+      },
+      {
+        "en": "There is a related and equally troubling problem: the expectation of certainty. Decades of science communication that emphasised authoritative pronouncements rather than the process of inquiry have left many people poorly equipped to navigate genuine uncertainty. When scientists say 'the evidence suggests' or 'we cannot rule out', they are being scrupulously honest. But to an audience habituated to final answers, these qualifications sound like doubt — and doubt, in a polarised information environment, is easily weaponised.",
+        "fr": "Il y a un problème connexe et tout aussi troublant : l'attente de certitude. Des décennies de communication scientifique qui ont mis l'accent sur des déclarations autoritaires plutôt que sur le processus d'enquête ont laissé de nombreuses personnes mal équipées pour naviguer dans une véritable incertitude. Quand les scientifiques disent « les preuves suggèrent » ou « nous ne pouvons pas exclure », ils sont scrupuleusement honnêtes. Mais pour un public habitué aux réponses définitives, ces qualifications sonnent comme du doute — et le doute, dans un environnement informationnel polarisé, est facilement instrumentalisé."
+      },
+      {
+        "en": "The solution, if there is one, lies in a kind of civic scientific literacy that goes beyond memorising facts. What people need is not more knowledge of science's conclusions, but a better understanding of how those conclusions are produced and revised. A society that understood the difference between 'we're revising the exact figure' and 'the whole project is untrustworthy' would be considerably more resilient to the sophisticated manipulation of scientific uncertainty that we currently face.",
+        "fr": "La solution, s'il en existe une, réside dans une sorte d'alphabétisation scientifique civique qui va au-delà de la mémorisation de faits. Ce dont les gens ont besoin, ce n'est pas davantage de connaissance des conclusions de la science, mais une meilleure compréhension de la façon dont ces conclusions sont produites et révisées. Une société qui comprenait la différence entre « nous révisons le chiffre exact » et « l'ensemble du projet est digne de confiance » serait considérablement plus résistante à la manipulation sophistiquée de l'incertitude scientifique à laquelle nous sommes actuellement confrontés."
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "geocentric",
+        "phonetic": "/ˌdʒiːəʊˈsentrɪk/",
+        "type": "adjective",
+        "definition_en": "Qui place la Terre au centre de l'univers — le modèle pré-copernicien",
+        "definition_fr": "géocentrique",
+        "example": "The geocentric model seemed obvious from Earth's perspective but failed to account for planetary motion.",
+        "level": "C1"
+      },
+      {
+        "word": "anomaly",
+        "phonetic": "/əˈnɒməli/",
+        "type": "noun",
+        "definition_en": "Quelque chose qui dévie de la norme ou de ce qui est attendu ; en science, des données qui ne correspondent pas au modèle actuel",
+        "definition_fr": "anomalie, écart par rapport à la norme",
+        "example": "Anomalies in the data hinted that the existing theory was incomplete.",
+        "level": "C1"
+      },
+      {
+        "word": "approximation",
+        "phonetic": "/əˌprɒksɪˈmeɪʃn/",
+        "type": "noun",
+        "definition_en": "Une estimation ou un modèle proche qui n'est pas exact mais utile",
+        "definition_fr": "approximation",
+        "example": "All scientific models are approximations — the question is how good an approximation.",
+        "level": "B2"
+      },
+      {
+        "word": "sophistry",
+        "phonetic": "/ˈsɒfɪstri/",
+        "type": "noun",
+        "definition_en": "L'utilisation d'arguments habiles mais fallacieux pour tromper",
+        "definition_fr": "sophisme, argumentation fallacieuse",
+        "example": "The tobacco industry used sophisticated sophistry to cloud the link between smoking and cancer.",
+        "level": "C1"
+      },
+      {
+        "word": "to weaponise",
+        "phonetic": "/ˈwepənaɪz/",
+        "type": "verb",
+        "definition_en": "Utiliser quelque chose — à l'origine neutre ou positif — comme moyen d'attaque ou de manipulation",
+        "definition_fr": "instrumentaliser, weaponiser, transformer en arme",
+        "example": "Legitimate scientific uncertainty has been weaponised to delay climate action.",
+        "level": "C1"
+      },
+      {
+        "word": "scrupulously",
+        "phonetic": "/ˈskruːpjʊləsli/",
+        "type": "adverb",
+        "definition_en": "De manière très soigneuse et attentive à faire ce qui est juste",
+        "definition_fr": "scrupuleusement, avec une honnêteté rigoureuse",
+        "example": "He was scrupulously honest about the limitations of the study.",
+        "level": "C1"
+      },
+      {
+        "word": "civic scientific literacy",
+        "phonetic": "/ˈsɪvɪk saɪənˈtɪfɪk ˈlɪtərəsi/",
+        "type": "noun phrase",
+        "definition_en": "Le niveau de compréhension scientifique nécessaire pour participer de manière significative aux débats démocratiques sur les politiques liées à la science",
+        "definition_fr": "culture scientifique citoyenne",
+        "example": "Civic scientific literacy matters more than scientific expertise for most democratic decisions.",
+        "level": "C1"
+      },
+      {
+        "word": "to rule out",
+        "phonetic": "/ruːl aʊt/",
+        "type": "phrasal verb",
+        "definition_en": "Éliminer quelque chose comme possibilité ; déclarer quelque chose impossible ou improbable",
+        "definition_fr": "exclure, écarter (une possibilité)",
+        "example": "Scientists cannot yet rule out a connection between the two phenomena.",
+        "level": "B2"
+      },
+      {
+        "word": "polarised",
+        "phonetic": "/ˈpəʊləraɪzd/",
+        "type": "adjective",
+        "definition_en": "Divisé en deux groupes fortement opposés avec peu de terrain d'entente",
+        "definition_fr": "polarisé",
+        "example": "In a polarised environment, nuanced positions are easily distorted.",
+        "level": "B2"
+      },
+      {
+        "word": "authoritative",
+        "phonetic": "/ɔːˈθɒrɪtətɪv/",
+        "type": "adjective",
+        "definition_en": "Qui inspire le respect et la confiance ; établi de manière définitive",
+        "definition_fr": "autoritaire (au sens positif), faisant autorité",
+        "example": "The report was published by an authoritative body and widely cited.",
+        "level": "B2"
+      }
+    ],
+    "grammar_points": [
+      {
+        "title": "Progressive negation with 'not X; it is Y': reframing a misunderstanding",
+        "explanation": "Un schéma courant dans l'écriture analytique consiste à **corriger explicitement une idée reçue** avant de présenter l'explication correcte. 'Not X — it is Y' signale que l'auteur est conscient de l'idée reçue et la remplace par une compréhension plus exacte.",
+        "examples": [
+          "'Science is **not** a collection of facts; it **is** a method for generating better approximations.'",
+          "'This is **not** a weakness. It **is** its central strength.'",
+          "'The problem is **not** a lack of data. It **is** a failure of interpretation.'",
+          "Each clarification should feel like a genuine improvement, not mere wordplay."
+        ]
+      },
+      {
+        "title": "'Subject to revision' and other passive participial qualifiers",
+        "explanation": "Les **propositions participiales passives** placées après un nom ou une proposition ajoutent une qualification formelle. Elles sont extrêmement courantes dans l'écriture académique et scientifique.",
+        "examples": [
+          "'Our best models of the evidence, **subject to revision**.'",
+          "'A preliminary finding, **pending further investigation**.'",
+          "'The agreement, **dependent on parliamentary ratification**.'",
+          "'A working hypothesis, **open to challenge**.'",
+          "These phrases allow careful writers to claim less than they know, which is a mark of intellectual honesty."
+        ]
+      },
+      {
+        "title": "Adversative 'but' at sentence start for rhetorical contrast",
+        "explanation": "Commencer une phrase par **'But'** crée un fort effet adversatif — cela signale un tournant brusque dans l'argument et attire l'attention du lecteur. Bien que considéré informellement comme un style médiocre, c'est très efficace dans la rhétorique délibérée.",
+        "examples": [
+          "'The willingness to revise is a strength. **But** to an audience habituated to final answers, qualifications sound like doubt.'",
+          "'The data is clear. **But** the implications remain contested.'",
+          "'He meant well. **But** meaning well and doing well are not the same thing.'",
+          "Tip: use sparingly — one or two per text, at moments of genuine contrast."
+        ]
+      }
+    ],
+    "expressions": [
+      {
+        "expression": "in one reading",
+        "meaning_fr": "dans une certaine lecture, selon une certaine interprétation",
+        "example": "The history of science is, in one reading, a history of being wrong productively.",
+        "register": "academic / literary",
+        "note": "Signale que le locuteur propose une interprétation possible parmi plusieurs. Démontre de l'humilité intellectuelle et de la sophistication."
+      },
+      {
+        "expression": "in the face of (inconvenient data)",
+        "meaning_fr": "face à, malgré, devant",
+        "example": "The willingness to abandon well-loved theories in the face of inconvenient data is science's strength.",
+        "register": "formal",
+        "note": "Utilisé pour signaler la résilience ou la prise de décision malgré des conditions défavorables. 'In the face of adversity', 'in the face of opposition'."
+      },
+      {
+        "expression": "to carry within it the seeds of",
+        "meaning_fr": "porter en germe, contenir les éléments qui mèneront à",
+        "example": "Every wrong theory carries within it the seeds of the more accurate theory that replaces it.",
+        "register": "literary / formal",
+        "note": "Une métaphore horticole pour des idées ou des situations qui contiennent les conditions préalables à leur propre transformation. Courante en philosophie et en histoire des idées."
+      },
+      {
+        "expression": "we cannot rule out",
+        "meaning_fr": "nous ne pouvons pas exclure",
+        "example": "When scientists say 'we cannot rule out', they are being scrupulously honest.",
+        "register": "scientific / formal",
+        "note": "Une formule de précaution standard en communication scientifique. Plus faible que 'we believe' — signale la limite extérieure de ce qui peut être exclu, pas ce qui est cru."
+      },
+      {
+        "expression": "to make (something) vanish",
+        "meaning_fr": "faire disparaître, effacer",
+        "example": "The distinction can be made to vanish with sufficient sophistry.",
+        "register": "literary / rhetorical",
+        "note": "Utilisé au figuré pour décrire comment une distinction réelle et importante est détruite par un argument de mauvaise foi."
+      }
+    ]
+  },
+  "exercises": {
+    "written": [
+      {
+        "id": "w1",
+        "type": "multiple_choice",
+        "question": "What does the author mean by 'being wrong in increasingly productive ways'?",
+        "options": [
+          "That scientists make fewer mistakes over time.",
+          "That each incorrect theory generates the data and anomalies that lead to better theories.",
+          "That scientific errors are useful for public understanding.",
+          "That being wrong is not really a problem in science."
+        ],
+        "answer": 1,
+        "explanation": "The geocentric model was wrong, 'but it was wrong in ways that generated the measurements and the anomalies that eventually led to Copernicus.' Each wrong theory advances the project."
+      },
+      {
+        "id": "w2",
+        "type": "multiple_choice",
+        "question": "According to the author, what is the danger when scientific uncertainty is acknowledged publicly?",
+        "options": [
+          "Scientists lose funding when they admit uncertainty.",
+          "The public stops believing in science altogether.",
+          "Bad-faith actors exploit the acknowledgement of uncertainty to create the false impression that settled questions are still open.",
+          "It encourages more research but less policy action."
+        ],
+        "answer": 2,
+        "explanation": "'The honest acknowledgement that science involves uncertainty... has been exploited to create the false impression that the underlying questions are still genuinely open.'"
+      },
+      {
+        "id": "w3",
+        "type": "fill_blank",
+        "sentence": "Scientists say the evidence ________ a strong link, but they cannot yet ________ ________ other explanations.",
+        "answer": "suggests / rule out",
+        "hint": "Two expressions: one for cautious assertion and one for cautious exclusion."
+      },
+      {
+        "id": "w4",
+        "type": "fill_blank",
+        "sentence": "Legitimate uncertainty has been ________ by groups who wish to delay policy action.",
+        "answer": "weaponised",
+        "hint": "A verb meaning 'to exploit something neutral or positive as a tool of manipulation'."
+      },
+      {
+        "id": "w5",
+        "type": "fill_blank",
+        "sentence": "The distinction can be made to ________ with sufficient ________.",
+        "answer": "vanish / sophistry",
+        "hint": "Two key vocabulary items from this lesson."
+      },
+      {
+        "id": "w6",
+        "type": "translation",
+        "french": "La science n'est pas un recueil de faits ; c'est une méthode pour générer des approximations de plus en plus précises de la réalité.",
+        "suggested_answer": "Science is not a collection of facts; it is a method for generating increasingly accurate approximations of reality.",
+        "key_vocabulary": ["not a collection of facts", "a method for generating", "increasingly accurate approximations"]
+      },
+      {
+        "id": "w7",
+        "type": "translation",
+        "french": "Quand les scientifiques disent 'les preuves suggèrent', ils sont scrupuleusement honnêtes — mais pour un public habitué aux réponses définitives, cela sonne comme du doute.",
+        "suggested_answer": "When scientists say 'the evidence suggests', they are being scrupulously honest — but to an audience habituated to final answers, it sounds like doubt.",
+        "key_vocabulary": ["scrupulously honest", "habituated to final answers", "sounds like doubt"]
+      },
+      {
+        "id": "w8",
+        "type": "translation",
+        "french": "La solution réside dans une alphabétisation scientifique qui va au-delà de la mémorisation des conclusions pour englober la compréhension du processus.",
+        "suggested_answer": "The solution lies in a scientific literacy that goes beyond memorising conclusions to encompass an understanding of the process.",
+        "key_vocabulary": ["lies in", "goes beyond memorising", "encompass an understanding of the process"]
+      }
+    ],
+    "oral": [
+      {
+        "id": "o1",
+        "type": "read_aloud",
+        "instruction": "Read the paragraph distinguishing science from ideology. The tone should be clear, authoritative and didactic — explaining something important simply.",
+        "text": "The willingness to update in response to evidence is exactly what distinguishes scientific thinking from ideology or dogma. An ideology says: these are the truths we hold regardless of evidence. Science says: these are our current best models of the evidence, subject to revision.",
+        "focus": "The contrast 'An ideology says... Science says...' is a rhetorical parallel. Give both equal weight. The phrase 'subject to revision' should land as a quiet strength, not a weakness.",
+        "phonetic_tips": ["ideology: /ˌaɪdɪˈɒlədʒi/", "distinguishes: /dɪˈstɪŋɡwɪʃɪz/", "revision: /rɪˈvɪʒn/"]
+      },
+      {
+        "id": "o2",
+        "type": "answer_question",
+        "question": "How should scientists communicate uncertainty without giving ammunition to those who want to deny scientific consensus?",
+        "suggested_answer": "This is one of the hardest problems in science communication. My view is that scientists need to be clear about the difference between uncertainty at the frontier — where active research is happening — and established consensus where, even if every detail isn't settled, the core finding is robust. 'We're still studying the exact mechanism' is not the same as 'we don't know if X is true'. The public communication problem is that both get reported as 'scientists disagree'. One solution is to change the metaphor: instead of describing science as a set of truths that might be wrong, describe it as a set of bets that are well-evidenced. A bet can be rational even without certainty.",
+        "vocabulary_hints": ["uncertainty at the frontier vs established consensus", "not the same as", "well-evidenced bet", "rational even without certainty"],
+        "duration_seconds": 90
+      },
+      {
+        "id": "o3",
+        "type": "answer_question",
+        "question": "Is trust in science declining? If so, why, and what can be done about it?",
+        "suggested_answer": "The evidence on this is mixed — trust in science as an institution has actually held up reasonably well in most surveys, while trust in specific scientific pronouncements, particularly on politically charged topics, has declined sharply along partisan lines. I think the causes are several: the perceived failures of expert authority during certain crises, the deliberate and well-funded campaigns to manufacture doubt about specific findings, and the genuine failures of the scientific community to communicate transparently and acknowledge errors quickly. What can be done? I think the most important thing is separating the epistemological question — is science the best method we have for knowing things — from the political question of who is funding and directing research. Trust in science doesn't have to mean trusting every scientist or every institution.",
+        "vocabulary_hints": ["held up well vs declined sharply", "manufacture doubt", "communicate transparently", "epistemological question", "who is funding and directing"],
+        "duration_seconds": 120
+      }
+    ]
+  }
+}

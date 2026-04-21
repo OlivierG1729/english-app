@@ -1,0 +1,349 @@
+{
+  "id": "05",
+  "unit": 1,
+  "unit_title": "Modern Life & Society",
+  "title": "Doctor's Orders",
+  "level": "B2",
+  "type": "dialogue",
+  "theme": "Health & Medicine",
+  "reading_time": "6 min",
+  "content": {
+    "speakers": ["Dr Patel (GP)", "James (Patient, 38)"],
+    "paragraphs": [
+      {
+        "speaker": "Dr Patel",
+        "en": "Come in, James — take a seat. I've had a look at your test results and your blood pressure readings. I have to say, I'm a bit concerned. Not alarmed, but concerned.",
+        "fr": "Entrez, James — asseyez-vous. J'ai regardé vos résultats d'analyses et vos relevés de tension artérielle. Je dois dire que je suis un peu préoccupé. Pas alarmé, mais préoccupé."
+      },
+      {
+        "speaker": "James",
+        "en": "Right. Is it bad?",
+        "fr": "D'accord. C'est grave ?"
+      },
+      {
+        "speaker": "Dr Patel",
+        "en": "Nothing that isn't manageable. Your blood pressure is elevated — not dangerously so, but consistently above where I'd like it. Combined with your cholesterol levels and your BMI, it puts you in a category I'd describe as 'at risk'. That's not a diagnosis; it's a warning sign.",
+        "fr": "Rien qui ne soit gérable. Votre tension artérielle est élevée — pas dangereusement, mais de façon constante au-dessus de ce que j'aimerais. Combiné à vos niveaux de cholestérol et votre IMC, cela vous place dans une catégorie que je décrirais comme « à risque ». Ce n'est pas un diagnostic ; c'est un signal d'alarme."
+      },
+      {
+        "speaker": "James",
+        "en": "A warning sign for what, exactly?",
+        "fr": "Un signal d'alarme pour quoi, exactement ?"
+      },
+      {
+        "speaker": "Dr Patel",
+        "en": "Primarily cardiovascular disease — heart attack, stroke. I know those words sound frightening. But the reason I'm telling you now, at thirty-eight, is precisely because you have time to do something about it. If we wait until there's a problem, we're playing catch-up. Right now, we can get ahead of it.",
+        "fr": "Principalement les maladies cardiovasculaires — crise cardiaque, AVC. Je sais que ces mots semblent effrayants. Mais la raison pour laquelle je vous le dis maintenant, à trente-huit ans, c'est précisément parce que vous avez le temps de faire quelque chose. Si l'on attend qu'il y ait un problème, on sera en train de rattraper le retard. En ce moment, on peut prendre de l'avance."
+      },
+      {
+        "speaker": "James",
+        "en": "So what are we talking about? Medication?",
+        "fr": "Alors de quoi parle-t-on ? Des médicaments ?"
+      },
+      {
+        "speaker": "Dr Patel",
+        "en": "Not necessarily, not yet. Before we go down that route, I'd really like to give lifestyle changes a proper chance. I'm talking about diet, exercise, and — I have to ask — how much are you drinking?",
+        "fr": "Pas forcément, pas encore. Avant d'emprunter cette voie, j'aimerais vraiment donner une vraie chance aux changements de mode de vie. Je parle de régime alimentaire, d'exercice physique et — je dois poser la question — combien buvez-vous ?"
+      },
+      {
+        "speaker": "James",
+        "en": "Probably more than I should. It's been a stressful year. Work has been... a lot.",
+        "fr": "Probablement plus que je ne devrais. Ça a été une année stressante. Le travail a été... beaucoup."
+      },
+      {
+        "speaker": "Dr Patel",
+        "en": "I understand that. Stress is a real factor here, not just a background noise. When we're under pressure, we tend to make choices that are convenient rather than good. The drinking, the late nights, the skipping meals — they all add up. I'm not here to lecture you. I just want you to understand the cumulative effect.",
+        "fr": "Je comprends cela. Le stress est un facteur réel ici, pas simplement un bruit de fond. Quand nous sommes sous pression, nous avons tendance à faire des choix qui sont pratiques plutôt que bons. L'alcool, les nuits tardives, les repas sautés — tout ça s'accumule. Je ne suis pas là pour vous faire la morale. Je veux juste que vous compreniez l'effet cumulatif."
+      },
+      {
+        "speaker": "James",
+        "en": "All right. What would you recommend, specifically?",
+        "fr": "Très bien. Que recommanderiez-vous, spécifiquement ?"
+      },
+      {
+        "speaker": "Dr Patel",
+        "en": "Three things. First, cut down on alcohol — ideally two or three days off a week, minimum. Second, get your heart rate up for thirty minutes, three times a week. It doesn't have to be running; a brisk walk counts. Third, try to reduce your salt intake. Those three changes alone could bring your blood pressure down significantly within three months.",
+        "fr": "Trois choses. Premièrement, réduisez l'alcool — idéalement deux ou trois jours sans par semaine, au minimum. Deuxièmement, faites monter votre fréquence cardiaque pendant trente minutes, trois fois par semaine. Ça n'a pas à être de la course à pied ; une marche rapide compte. Troisièmement, essayez de réduire votre consommation de sel. Ces trois changements seuls pourraient faire baisser votre tension de manière significative en trois mois."
+      },
+      {
+        "speaker": "James",
+        "en": "That sounds manageable. I think. Can I ask — if I do all this, are we looking at a normal life expectancy?",
+        "fr": "Ça semble gérable. Je crois. Puis-je demander — si je fais tout ça, parle-t-on d'une espérance de vie normale ?"
+      },
+      {
+        "speaker": "Dr Patel",
+        "en": "Absolutely. You're not ill, James. You're at a crossroads. Most people in your position who make these changes see their numbers come back to normal within six months. I'd like to see you again in eight weeks. We'll check the pressure, have a chat about how it's going. Does that work for you?",
+        "fr": "Absolument. Vous n'êtes pas malade, James. Vous êtes à un carrefour. La plupart des gens dans votre situation qui font ces changements voient leurs chiffres revenir à la normale dans les six mois. J'aimerais vous revoir dans huit semaines. On vérifiera la tension, on discutera de comment ça se passe. Ça vous convient ?"
+      },
+      {
+        "speaker": "James",
+        "en": "Yes. Thank you for being straight with me.",
+        "fr": "Oui. Merci d'avoir été direct avec moi."
+      },
+      {
+        "speaker": "Dr Patel",
+        "en": "That's my job. And James — try not to Google everything tonight. The internet will tell you you're dying. You're not.",
+        "fr": "C'est mon travail. Et James — essayez de ne pas tout googler ce soir. Internet va vous dire que vous êtes en train de mourir. Ce n'est pas le cas."
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "elevated",
+        "phonetic": "/ˈelɪveɪtɪd/",
+        "type": "adjective (medical/formal)",
+        "definition_en": "au-dessus des niveaux normaux, en particulier pour une mesure médicale",
+        "definition_fr": "élevé (au-dessus de la normale), augmenté",
+        "example": "Elevated blood pressure is a risk factor for cardiovascular disease.",
+        "level": "B2"
+      },
+      {
+        "word": "cholesterol",
+        "phonetic": "/kəˈlestərɒl/",
+        "type": "noun",
+        "definition_en": "substance grasse présente dans le sang ; des niveaux élevés sont liés aux maladies cardiaques",
+        "definition_fr": "cholestérol",
+        "example": "A diet high in saturated fat can raise cholesterol levels.",
+        "level": "B2"
+      },
+      {
+        "word": "cardiovascular",
+        "phonetic": "/ˌkɑːrdiəʊˈvæskjʊlər/",
+        "type": "adjective",
+        "definition_en": "relatif au cœur et aux vaisseaux sanguins",
+        "definition_fr": "cardiovasculaire",
+        "example": "Regular exercise reduces the risk of cardiovascular disease.",
+        "level": "B2"
+      },
+      {
+        "word": "to play catch-up",
+        "phonetic": "/pleɪ kætʃ ʌp/",
+        "type": "idiom",
+        "definition_en": "essayer d'améliorer une situation après avoir pris du retard ; agir de façon réactive plutôt que proactive",
+        "definition_fr": "rattraper son retard, être en mode réactif",
+        "example": "If we wait until a crisis, we'll always be playing catch-up.",
+        "level": "B2"
+      },
+      {
+        "word": "to get ahead of (something)",
+        "phonetic": "/ɡet əˈhed/",
+        "type": "phrasal verb",
+        "definition_en": "traiter un problème avant qu'il ne devienne grave ; agir de façon proactive",
+        "definition_fr": "anticiper, prévenir, prendre de l'avance sur",
+        "example": "We need to get ahead of this situation before it escalates.",
+        "level": "B2"
+      },
+      {
+        "word": "cumulative",
+        "phonetic": "/ˈkjuːmjʊlətɪv/",
+        "type": "adjective",
+        "definition_en": "qui augmente ou croît par additions successives ; qui s'accumule au fil du temps",
+        "definition_fr": "cumulatif, qui s'accumule",
+        "example": "The cumulative effect of years of stress eventually took its toll.",
+        "level": "C1"
+      },
+      {
+        "word": "to cut down on",
+        "phonetic": "/kʌt daʊn ɒn/",
+        "type": "phrasal verb",
+        "definition_en": "réduire la quantité ou la fréquence de quelque chose",
+        "definition_fr": "réduire (sa consommation de), diminuer",
+        "example": "She was trying to cut down on coffee because it affected her sleep.",
+        "level": "B2"
+      },
+      {
+        "word": "brisk",
+        "phonetic": "/brɪsk/",
+        "type": "adjective",
+        "definition_en": "rapide et énergique ; vigoureux",
+        "definition_fr": "vif, soutenu, énergique",
+        "example": "A brisk walk of thirty minutes a day is enough to improve fitness.",
+        "level": "B2"
+      },
+      {
+        "word": "a crossroads",
+        "phonetic": "/ˈkrɒsrəʊdz/",
+        "type": "noun (figurative)",
+        "definition_en": "un moment où une décision importante doit être prise",
+        "definition_fr": "un carrefour, un tournant (décisif)",
+        "example": "At forty, she found herself at a crossroads in her career.",
+        "level": "B2"
+      },
+      {
+        "word": "to be straight with someone",
+        "phonetic": "/biː streɪt/",
+        "type": "idiom",
+        "definition_en": "être honnête et direct avec quelqu'un, sans édulcorer la vérité",
+        "definition_fr": "être honnête / direct avec quelqu'un",
+        "example": "I'll be straight with you — the project is significantly behind schedule.",
+        "level": "B2"
+      }
+    ],
+    "grammar_points": [
+      {
+        "title": "Hedging in professional contexts: 'I'd describe it as', 'I'd like to'",
+        "explanation": "Les médecins, avocats et autres professionnels utilisent **'I'd' (I would)** abondamment pour adoucir les déclarations et éviter les affirmations absolues. Cela rend les conseils mesurés et professionnels plutôt que directifs. Remarquez comment le Dr Patel utilise systématiquement cette structure.",
+        "examples": [
+          "'It puts you in a category **I'd describe as** \"at risk\".' → avoids labelling definitively",
+          "'**I'd really like to** give lifestyle changes a proper chance.' → polite recommendation",
+          "'**I'd like to** see you again in eight weeks.' → professional request, not an order",
+          "Compare: 'You **must** come back in 8 weeks.' (blunt) vs. '**I'd like to** see you in 8 weeks.' (professional)"
+        ]
+      },
+      {
+        "title": "Tendency with 'tend to': describing patterns of behaviour",
+        "explanation": "**'Tend to'** décrit un comportement habituel ou une tendance générale — quelque chose qui se produit habituellement, mais pas toujours. C'est plus nuancé que 'always' et plus précis pour décrire des schémas plutôt que des règles.",
+        "examples": [
+          "'When we're under pressure, we **tend to make** choices that are convenient rather than good.'",
+          "'People **tend to underestimate** the impact of diet on mood.'",
+          "'I **tend to wake up** early when I'm anxious.'",
+          "French equivalent: 'avoir tendance à' — the structure is very similar."
+        ]
+      },
+      {
+        "title": "Infinitive of purpose: 'I'm not here to lecture you'",
+        "explanation": "Utiliser **'to + infinitif'** pour exprimer le but est très courant en anglais. Dans un contexte professionnel, combiner 'I'm not here to...' avec un infinitif de but est une façon naturelle de clarifier l'intention et de donner le ton d'une conversation.",
+        "examples": [
+          "'I'm not here **to lecture** you — just to inform you.'",
+          "'I'm not calling **to complain**, but **to clarify** one point.'",
+          "'She came in **not to argue**, but **to understand**.'",
+          "This structure is common in professional dialogue, presentations and interviews."
+        ]
+      }
+    ],
+    "expressions": [
+      {
+        "expression": "not necessarily",
+        "meaning_fr": "pas forcément, pas nécessairement",
+        "example": "Medication? Not necessarily, not yet.",
+        "register": "neutral / professional",
+        "note": "Utilisé pour nuancer une négation sans être absolu. Implique 'cela dépend des circonstances'. Très courant dans l'anglais professionnel."
+      },
+      {
+        "expression": "to go down that route",
+        "meaning_fr": "emprunter cette voie, prendre cette direction",
+        "example": "Before we go down that route, let's try lifestyle changes first.",
+        "register": "neutral / professional",
+        "note": "Expression très courante pour poursuivre une ligne de conduite particulière. Souvent utilisée pour décrire une voie pas encore empruntée."
+      },
+      {
+        "expression": "to add up",
+        "meaning_fr": "s'additionner, s'accumuler (avoir un effet cumulatif)",
+        "example": "The drinking, the late nights, the skipping meals — they all add up.",
+        "register": "informal / universal",
+        "note": "Peut être littéral (des chiffres) ou figuré (de petits problèmes qui s'accumulent en un plus gros)."
+      },
+      {
+        "expression": "to be at a crossroads",
+        "meaning_fr": "être à un tournant, face à un choix important",
+        "example": "You're not ill — you're at a crossroads.",
+        "register": "neutral / metaphorical",
+        "note": "Métaphore classique pour un moment décisif dans la vie, une carrière ou une situation."
+      },
+      {
+        "expression": "to be straight with someone",
+        "meaning_fr": "être direct / honnête avec quelqu'un",
+        "example": "Thank you for being straight with me.",
+        "register": "informal / neutral",
+        "note": "Apprécié comme signe de respect. Contraire : 'beating around the bush' (tourner autour du pot)."
+      }
+    ]
+  },
+  "exercises": {
+    "written": [
+      {
+        "id": "w1",
+        "type": "multiple_choice",
+        "question": "Why is Dr Patel telling James about his health risks now, at 38?",
+        "options": [
+          "Because the situation is already an emergency requiring immediate treatment.",
+          "Because James specifically asked for a full health check.",
+          "Because there is still time to act proactively before a serious problem develops.",
+          "Because the NHS requires annual health checks for all patients over 35."
+        ],
+        "answer": 2,
+        "explanation": "Dr Patel says: 'the reason I'm telling you now, at thirty-eight, is precisely because you have time to do something about it'."
+      },
+      {
+        "id": "w2",
+        "type": "multiple_choice",
+        "question": "What does Dr Patel mean by 'playing catch-up'?",
+        "options": [
+          "Acting in advance to prevent a problem.",
+          "Reacting to a problem after it has already developed, rather than preventing it.",
+          "Running to improve cardiovascular health.",
+          "Trying to remember all the doctor's recommendations."
+        ],
+        "answer": 1,
+        "explanation": "'Playing catch-up' means dealing with a problem after it's already happened — being reactive rather than proactive. Dr Patel is urging James to act now, before a crisis."
+      },
+      {
+        "id": "w3",
+        "type": "fill_blank",
+        "sentence": "When people are under stress, they ________ make poor dietary choices.",
+        "answer": "tend to",
+        "hint": "An expression for describing a habitual pattern of behaviour."
+      },
+      {
+        "id": "w4",
+        "type": "fill_blank",
+        "sentence": "I'm not calling ________ complain — I just wanted to clarify the situation.",
+        "answer": "to",
+        "hint": "Infinitive of purpose."
+      },
+      {
+        "id": "w5",
+        "type": "fill_blank",
+        "sentence": "She has been trying to ________ on sugar since her last check-up.",
+        "answer": "cut down",
+        "hint": "A phrasal verb meaning 'to reduce consumption of'."
+      },
+      {
+        "id": "w6",
+        "type": "translation",
+        "french": "Avant d'emprunter cette voie, j'aimerais essayer une approche différente.",
+        "suggested_answer": "Before we go down that route, I'd like to try a different approach.",
+        "key_vocabulary": ["go down that route", "I'd like to", "a different approach"]
+      },
+      {
+        "id": "w7",
+        "type": "translation",
+        "french": "Ces petits problèmes s'accumulent et finissent par avoir un effet cumulatif réel.",
+        "suggested_answer": "These small problems all add up and end up having a real cumulative effect.",
+        "key_vocabulary": ["add up", "end up", "cumulative effect"]
+      },
+      {
+        "id": "w8",
+        "type": "translation",
+        "french": "Merci d'avoir été direct avec moi — je préfère savoir la vérité.",
+        "suggested_answer": "Thank you for being straight with me — I'd rather know the truth.",
+        "key_vocabulary": ["being straight with me", "I'd rather", "know the truth"]
+      }
+    ],
+    "oral": [
+      {
+        "id": "o1",
+        "type": "read_aloud",
+        "instruction": "Read Dr Patel's long speech aloud, as if you were a doctor speaking to a patient. Use a calm, measured but direct tone.",
+        "text": "I understand that. Stress is a real factor here, not just a background noise. When we're under pressure, we tend to make choices that are convenient rather than good. The drinking, the late nights, the skipping meals — they all add up. I'm not here to lecture you. I just want you to understand the cumulative effect.",
+        "focus": "Emphasise the contrast 'convenient rather than good'. The dash before 'they all add up' signals a brief pause for effect.",
+        "phonetic_tips": ["cumulative: /ˈkjuːmjʊlətɪv/", "convenient: /kənˈviːniənt/", "background: stress on 'BACK'"]
+      },
+      {
+        "id": "o2",
+        "type": "answer_question",
+        "question": "Role play: you are the patient. Tell a friend what the doctor said to you today. Use reported speech naturally.",
+        "suggested_answer": "I went to the doctor today and he told me he was a bit concerned about my blood pressure. He said it wasn't dangerously high, but it was consistently above where he'd like it. He told me I wasn't ill, but that I was at a crossroads. He recommended cutting down on alcohol, doing some exercise three times a week — even just a brisk walk — and reducing salt. He said that if I made those changes, my blood pressure could come back to normal within six months. To be honest, I'm a bit shaken, but he said try not to Google everything tonight, which made me laugh.",
+        "vocabulary_hints": ["he told me he was concerned", "he said it wasn't dangerously high", "he recommended cutting down", "to be honest"],
+        "duration_seconds": 90
+      },
+      {
+        "id": "o3",
+        "type": "answer_question",
+        "question": "Do you think people take enough responsibility for their own health? Why or why not?",
+        "suggested_answer": "I think most people are aware of what's good for them in theory — more exercise, less sugar, less stress — but the gap between knowing and doing is enormous. I'd argue that the system makes it hard too: ultra-processed food is cheaper and more convenient than healthy alternatives, working hours leave little time for exercise, and stress has become almost a badge of honour in modern culture. So I'd say it's a combination of personal responsibility and structural factors. Telling someone to 'just eat better' ignores the environment they're operating in.",
+        "vocabulary_hints": ["the gap between knowing and doing", "ultra-processed", "badge of honour", "structural factors", "operating in"],
+        "duration_seconds": 90
+      }
+    ]
+  }
+}

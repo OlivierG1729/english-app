@@ -1,0 +1,184 @@
+{
+  "id": "a1_01",
+  "unit": 6,
+  "unit_title": "First Steps",
+  "title": "Hello! My Name Is...",
+  "level": "A1",
+  "type": "dialogue",
+  "theme": "Greetings & Introductions",
+  "reading_time": "2 min",
+  "content": {
+    "paragraphs": [
+      {
+        "en": "Hello! My name is Tom. What is your name?",
+        "fr": "Bonjour ! Mon nom est Tom. Comment tu t'appelles ?",
+        "speaker": "Tom"
+      },
+      {
+        "en": "Hi! My name is Lea. Nice to meet you, Tom!",
+        "fr": "Salut ! Mon nom est Lea. Enchantee, Tom !",
+        "speaker": "Lea"
+      },
+      {
+        "en": "Nice to meet you too, Lea. How are you today?",
+        "fr": "Enchante aussi, Lea. Comment vas-tu aujourd'hui ?",
+        "speaker": "Tom"
+      },
+      {
+        "en": "I am fine, thank you! And you?",
+        "fr": "Je vais bien, merci ! Et toi ?",
+        "speaker": "Lea"
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "hello",
+        "phonetic": "/hɛˈloʊ/",
+        "type": "interjection",
+        "definition_en": "un salut utilise quand on rencontre quelqu'un",
+        "definition_fr": "bonjour, salut",
+        "example": "Hello! How are you?",
+        "level": "A1"
+      },
+      {
+        "word": "name",
+        "phonetic": "/neɪm/",
+        "type": "noun",
+        "definition_en": "ce par quoi une personne est appelee, comment elle s'appelle",
+        "definition_fr": "nom, prenom",
+        "example": "My name is Tom.",
+        "level": "A1"
+      },
+      {
+        "word": "nice",
+        "phonetic": "/naɪs/",
+        "type": "adjective",
+        "definition_en": "agreable, bien",
+        "definition_fr": "agreable, gentil",
+        "example": "She is a nice person.",
+        "level": "A1"
+      },
+      {
+        "word": "please",
+        "phonetic": "/pliːz/",
+        "type": "adverb",
+        "definition_en": "un mot poli utilise quand on demande quelque chose",
+        "definition_fr": "s'il te plait, s'il vous plait",
+        "example": "Can I have some water, please?",
+        "level": "A1"
+      },
+      {
+        "word": "thank you",
+        "phonetic": "/θæŋk juː/",
+        "type": "phrase",
+        "definition_en": "une expression polie pour exprimer sa gratitude",
+        "definition_fr": "merci",
+        "example": "Thank you for your help!",
+        "level": "A1"
+      },
+      {
+        "word": "sorry",
+        "phonetic": "/ˈsɒri/",
+        "type": "adjective",
+        "definition_en": "utilise pour s'excuser ou exprimer du regret",
+        "definition_fr": "desole(e), pardon",
+        "example": "Sorry, I don't understand.",
+        "level": "A1"
+      }
+    ],
+    "grammar_points": [
+      {
+        "title": "\"My name is...\" / \"I am...\"",
+        "explanation": "Pour vous présenter en anglais, vous pouvez dire **\"My name is + votre nom\"** ou **\"I am + votre nom\"**. Vous pouvez aussi utiliser la forme courte **\"I'm\"**. En français, cela correspond à \"Je m'appelle...\" ou \"Je suis...\".",
+        "examples": [
+          "My name is Tom. = Je m'appelle Tom.",
+          "I am Lea. = Je suis Lea.",
+          "I'm fine. = Je vais bien. (short form of 'I am')"
+        ]
+      }
+    ],
+    "expressions": [
+      {
+        "expression": "Nice to meet you",
+        "meaning_fr": "Enchante(e), ravi(e) de te/vous rencontrer",
+        "example": "Hello, I'm Tom. Nice to meet you!",
+        "register": "neutral",
+        "note": "S'utilise quand on rencontre quelqu'un pour la première fois. On peut répondre par 'Nice to meet you too'."
+      },
+      {
+        "expression": "How are you?",
+        "meaning_fr": "Comment vas-tu ? / Comment allez-vous ?",
+        "example": "Hi Tom! How are you today?",
+        "register": "neutral",
+        "note": "Une salutation très courante. Réponses habituelles : 'I'm fine', 'I'm good', 'I'm OK'."
+      }
+    ]
+  },
+  "exercises": {
+    "written": [
+      {
+        "id": "w1",
+        "type": "multiple_choice",
+        "question": "How do you say 'Je m'appelle Tom' in English?",
+        "options": [
+          "My name are Tom.",
+          "My name is Tom.",
+          "My name it Tom."
+        ],
+        "answer": 1,
+        "explanation": "We say 'My name IS Tom' using the verb 'to be' in the third person singular."
+      },
+      {
+        "id": "w2",
+        "type": "multiple_choice",
+        "question": "What do you say when you meet someone for the first time?",
+        "options": [
+          "Nice to meet you.",
+          "See you later.",
+          "I am sorry."
+        ],
+        "answer": 0,
+        "explanation": "'Nice to meet you' is the standard phrase when you are introduced to someone."
+      },
+      {
+        "id": "w3",
+        "type": "fill_blank",
+        "sentence": "Hello! My ________ is Lea.",
+        "answer": "name",
+        "hint": "The word for 'prenom' or 'nom' in English."
+      },
+      {
+        "id": "w4",
+        "type": "fill_blank",
+        "sentence": "How ________ you today?",
+        "answer": "are",
+        "hint": "Use the verb 'to be' with 'you'."
+      },
+      {
+        "id": "w5",
+        "type": "translation",
+        "french": "Bonjour ! Je suis Tom. Enchante !",
+        "suggested_answer": "Hello! I am Tom. Nice to meet you!",
+        "key_vocabulary": ["hello", "I am", "nice to meet you"]
+      }
+    ],
+    "oral": [
+      {
+        "id": "o1",
+        "type": "read_aloud",
+        "instruction": "Read these sentences aloud slowly and clearly.",
+        "text": "Hello! My name is Tom. Nice to meet you!",
+        "focus": "Pay attention to the /h/ in 'hello' and the /n/ in 'name'. Speak slowly.",
+        "phonetic_tips": ["hello: /hɛˈloʊ/", "name: /neɪm/", "nice: /naɪs/"]
+      },
+      {
+        "id": "o2",
+        "type": "answer_question",
+        "question": "Hello! What is your name? How are you today?",
+        "suggested_answer": "Hello! My name is [your name]. I am fine, thank you!",
+        "vocabulary_hints": ["My name is...", "I am fine", "thank you"],
+        "duration_seconds": 30
+      }
+    ]
+  }
+}

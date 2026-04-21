@@ -1,0 +1,288 @@
+{
+  "id": "a1_22",
+  "unit": 8,
+  "unit_title": "Getting Confident",
+  "title": "What Are You Going to Do?",
+  "level": "A1",
+  "type": "dialogue",
+  "theme": "Future Plans",
+  "reading_time": "3 min",
+  "content": {
+    "paragraphs": [
+      {
+        "en": "The holidays are next week! What are you going to do, Emma?",
+        "fr": "Les vacances sont la semaine prochaine ! Qu'est-ce que tu vas faire, Emma ?",
+        "speaker": "Noah"
+      },
+      {
+        "en": "I'm going to visit my grandparents in the countryside. We are going to go for walks and pick fruit from the garden. I can't wait! What about you?",
+        "fr": "Je vais rendre visite a mes grands-parents a la campagne. Nous allons faire des promenades et cueillir des fruits dans le jardin. J'ai trop hate ! Et toi ?",
+        "speaker": "Emma"
+      },
+      {
+        "en": "My family is going to travel to Italy! We are going to visit Rome and eat lots of pizza and ice cream. My dad already bought the plane tickets.",
+        "fr": "Ma famille va voyager en Italie ! Nous allons visiter Rome et manger beaucoup de pizza et de glaces. Mon papa a deja achete les billets d'avion.",
+        "speaker": "Noah"
+      },
+      {
+        "en": "That sounds amazing! Are you going to fly from London? Is it a long flight?",
+        "fr": "Ca a l'air genial ! Tu vas prendre l'avion depuis Londres ? C'est un long vol ?",
+        "speaker": "Emma"
+      },
+      {
+        "en": "Yes, we are going to fly from Heathrow airport. The flight is about two hours. I'm excited! I'm going to pack my suitcase this weekend.",
+        "fr": "Oui, nous allons prendre l'avion depuis l'aeroport de Heathrow. Le vol dure environ deux heures. Je suis enthousiaste ! Je vais faire ma valise ce week-end.",
+        "speaker": "Noah"
+      },
+      {
+        "en": "Are you going to send me a postcard from Rome?",
+        "fr": "Tu vas m'envoyer une carte postale de Rome ?",
+        "speaker": "Emma"
+      },
+      {
+        "en": "Of course! And I'm going to take lots of photos. It's going to be a great adventure!",
+        "fr": "Bien sur ! Et je vais prendre plein de photos. Ca va etre une super aventure !",
+        "speaker": "Noah"
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "holiday",
+        "phonetic": "/ˈhɒlɪdeɪ/",
+        "type": "noun",
+        "definition_en": "une periode ou l'on ne travaille pas et ou l'on ne va pas a l'ecole",
+        "definition_fr": "vacances",
+        "example": "The summer holidays start next week.",
+        "level": "A1"
+      },
+      {
+        "word": "to travel",
+        "phonetic": "/ˈtrævəl/",
+        "type": "verb",
+        "definition_en": "aller d'un endroit a un autre, surtout loin",
+        "definition_fr": "voyager",
+        "example": "We are going to travel to Italy this summer.",
+        "level": "A1"
+      },
+      {
+        "word": "to visit",
+        "phonetic": "/ˈvɪzɪt/",
+        "type": "verb",
+        "definition_en": "aller voir une personne ou un lieu",
+        "definition_fr": "visiter, rendre visite a",
+        "example": "I'm going to visit my grandparents.",
+        "level": "A1"
+      },
+      {
+        "word": "plan",
+        "phonetic": "/plæn/",
+        "type": "noun / verb",
+        "definition_en": "quelque chose que l'on a l'intention de faire ; decider ce que l'on va faire",
+        "definition_fr": "plan, projet ; planifier",
+        "example": "What are your plans for the holidays?",
+        "level": "A1"
+      },
+      {
+        "word": "excited",
+        "phonetic": "/ɪkˈsaɪtɪd/",
+        "type": "adjective",
+        "definition_en": "qui se sent tres heureux et enthousiaste a propos de quelque chose",
+        "definition_fr": "enthousiaste, excite(e)",
+        "example": "I'm so excited about the trip!",
+        "level": "A1"
+      },
+      {
+        "word": "to pack",
+        "phonetic": "/pæk/",
+        "type": "verb",
+        "definition_en": "mettre des affaires dans un sac ou une valise pour un voyage",
+        "definition_fr": "faire sa valise, emballer",
+        "example": "I need to pack my suitcase tonight.",
+        "level": "A1"
+      },
+      {
+        "word": "airport",
+        "phonetic": "/ˈɛrpɔːrt/",
+        "type": "noun",
+        "definition_en": "un endroit ou les avions decollent et atterrissent",
+        "definition_fr": "aeroport",
+        "example": "We are going to the airport at 6 o'clock.",
+        "level": "A1"
+      },
+      {
+        "word": "ticket",
+        "phonetic": "/ˈtɪkɪt/",
+        "type": "noun",
+        "definition_en": "un morceau de papier ou une carte qui permet de voyager ou d'entrer dans un lieu",
+        "definition_fr": "billet",
+        "example": "My dad bought the plane tickets online.",
+        "level": "A1"
+      },
+      {
+        "word": "adventure",
+        "phonetic": "/ədˈvɛntʃər/",
+        "type": "noun",
+        "definition_en": "une experience ou un voyage passionnant",
+        "definition_fr": "aventure",
+        "example": "Our holiday is going to be a great adventure!",
+        "level": "A1"
+      }
+    ],
+    "grammar_points": [
+      {
+        "title": "'Going to' for future plans",
+        "explanation": "Pour parler de projets futurs, on utilise **be + going to + verbe de base**. La forme de 'be' change : I **am** going to, you/we/they **are** going to, he/she/it **is** going to. En francais, cela correspond a 'aller + infinitif'.",
+        "examples": [
+          "I'm going to visit my grandparents. = Je vais rendre visite a mes grands-parents.",
+          "We are going to travel to Italy. = Nous allons voyager en Italie.",
+          "She is going to pack her suitcase. = Elle va faire sa valise.",
+          "They are going to eat pizza. = Ils vont manger de la pizza."
+        ]
+      },
+      {
+        "title": "'Going to' — questions and negatives",
+        "explanation": "Pour les questions, on inverse le sujet et 'be' : **Are you going to...?** Pour les negations, on ajoute 'not' apres 'be' : **I'm not going to...**",
+        "examples": [
+          "Are you going to fly? = Tu vas prendre l'avion ?",
+          "What are you going to do? = Qu'est-ce que tu vas faire ?",
+          "Is she going to visit Rome? = Est-ce qu'elle va visiter Rome ?",
+          "I'm not going to stay home. = Je ne vais pas rester a la maison."
+        ]
+      }
+    ],
+    "expressions": [
+      {
+        "expression": "I'm going to...",
+        "meaning_fr": "Je vais...",
+        "example": "I'm going to visit Rome this summer!",
+        "register": "neutral",
+        "note": "La facon la plus courante de parler de projets futurs au niveau A1. Beaucoup plus naturel que 'I will' pour les projets."
+      },
+      {
+        "expression": "What are you going to do?",
+        "meaning_fr": "Qu'est-ce que tu vas faire ?",
+        "example": "The holidays start next week — what are you going to do?",
+        "register": "neutral",
+        "note": "Une question tres courante pour demander a quelqu'un ses projets futurs."
+      },
+      {
+        "expression": "I can't wait!",
+        "meaning_fr": "J'ai trop hate ! / Je suis impatient(e) !",
+        "example": "We are going to Italy next week — I can't wait!",
+        "register": "informal",
+        "note": "S'utilise pour exprimer une grande impatience a propos de quelque chose qui va se passer."
+      },
+      {
+        "expression": "That sounds amazing!",
+        "meaning_fr": "Ca a l'air genial !",
+        "example": "You're going to Rome? That sounds amazing!",
+        "register": "informal",
+        "note": "S'utilise pour reagir positivement quand quelqu'un vous parle de ses projets."
+      }
+    ]
+  },
+  "exercises": {
+    "written": [
+      {
+        "id": "w1",
+        "type": "multiple_choice",
+        "question": "Where is Noah going to travel?",
+        "options": [
+          "To France",
+          "To Spain",
+          "To Italy",
+          "To the countryside"
+        ],
+        "answer": 2,
+        "explanation": "Noah says 'My family is going to travel to Italy!'"
+      },
+      {
+        "id": "w2",
+        "type": "multiple_choice",
+        "question": "Which sentence correctly uses 'going to'?",
+        "options": [
+          "I going to visit my grandparents.",
+          "I am going to visit my grandparents.",
+          "I am going visit my grandparents.",
+          "I am go to visit my grandparents."
+        ],
+        "answer": 1,
+        "explanation": "The correct structure is: subject + am/is/are + going to + base verb."
+      },
+      {
+        "id": "w3",
+        "type": "multiple_choice",
+        "question": "How do you ask 'Qu'est-ce que tu vas faire ?' in English?",
+        "options": [
+          "What you are going to do?",
+          "What going to do you?",
+          "What are you going to do?",
+          "What do you going to?"
+        ],
+        "answer": 2,
+        "explanation": "Question form: Wh-word + are + subject + going to + verb."
+      },
+      {
+        "id": "w4",
+        "type": "fill_blank",
+        "sentence": "I ________ (go) to visit my grandparents next week.",
+        "answer": "am going to",
+        "hint": "Use the 'going to' future with the correct form of 'be' for 'I'."
+      },
+      {
+        "id": "w5",
+        "type": "fill_blank",
+        "sentence": "________ you going to travel this summer?",
+        "answer": "Are",
+        "hint": "For questions with 'going to', put the verb 'be' before the subject."
+      },
+      {
+        "id": "w6",
+        "type": "fill_blank",
+        "sentence": "She ________ (not / go) to stay at home. She is going to travel.",
+        "answer": "is not going to / isn't going to",
+        "hint": "Negative of 'going to': be + not + going to + verb."
+      },
+      {
+        "id": "w7",
+        "type": "translation",
+        "french": "Nous allons voyager en Italie et visiter Rome.",
+        "suggested_answer": "We are going to travel to Italy and visit Rome.",
+        "key_vocabulary": ["are going to", "travel", "visit"]
+      },
+      {
+        "id": "w8",
+        "type": "translation",
+        "french": "Est-ce que tu vas prendre l'avion ? J'ai trop hate !",
+        "suggested_answer": "Are you going to fly? I can't wait!",
+        "key_vocabulary": ["are you going to", "fly", "I can't wait"]
+      }
+    ],
+    "oral": [
+      {
+        "id": "o1",
+        "type": "read_aloud",
+        "instruction": "Read these sentences aloud. Focus on the natural rhythm of 'going to' (often pronounced 'gonna' in speech).",
+        "text": "What are you going to do this summer? I'm going to visit my grandparents. We are going to travel to Italy and eat lots of pizza. I can't wait!",
+        "focus": "In natural spoken English, 'going to' often sounds like 'gonna'. Try both: formal 'going to' and informal 'gonna'.",
+        "phonetic_tips": ["going to: /ˈɡoʊɪŋ tuː/ or informal 'gonna': /ˈɡʌnə/", "excited: /ɪkˈsaɪtɪd/", "adventure: /ədˈvɛntʃər/"]
+      },
+      {
+        "id": "o2",
+        "type": "answer_question",
+        "question": "What are you going to do during the next holidays? Where are you going to go?",
+        "suggested_answer": "During the next holidays, I'm going to visit my cousins. We are going to go to the park and play football. I'm also going to read some books. I'm very excited!",
+        "vocabulary_hints": ["I'm going to...", "We are going to...", "I can't wait!", "excited"],
+        "duration_seconds": 45
+      },
+      {
+        "id": "o3",
+        "type": "answer_question",
+        "question": "Ask me three questions about my future plans using 'going to'.",
+        "suggested_answer": "What are you going to do this weekend? Are you going to travel this summer? Where are you going to go?",
+        "vocabulary_hints": ["What are you going to...?", "Are you going to...?", "Where are you going to...?"],
+        "duration_seconds": 30
+      }
+    ]
+  }
+}

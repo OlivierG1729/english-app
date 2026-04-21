@@ -1,0 +1,334 @@
+{
+  "id": "13",
+  "unit": 2,
+  "unit_title": "Culture, Arts & Media",
+  "title": "A Roof Over Your Head",
+  "level": "B2+",
+  "type": "dialogue",
+  "theme": "Housing, Society & Politics",
+  "reading_time": "6 min",
+  "content": {
+    "speakers": ["Presenter", "Dr Ama Mensah (Urban Economist)", "Callum (First-time buyer, 29)"],
+    "paragraphs": [
+      {
+        "speaker": "Presenter",
+        "en": "Housing has become one of the defining political issues of the decade. Dr Mensah, let's start with you — what's actually driving the crisis?",
+        "fr": "Le logement est devenu l'un des enjeux politiques déterminants de la décennie. Docteure Mensah, commençons par vous — qu'est-ce qui alimente réellement la crise ?"
+      },
+      {
+        "speaker": "Dr Ama Mensah",
+        "en": "It's multifactorial, but the core issue is simple: we are not building enough homes, and we haven't been for forty years. Supply has consistently failed to keep pace with demand, and the gap has been widening ever since. When supply is artificially constrained, prices rise — that's basic economics.",
+        "fr": "C'est multifactoriel, mais le problème central est simple : nous ne construisons pas suffisamment de logements, et nous ne l'avons pas fait depuis quarante ans. L'offre n'a pas réussi à suivre la demande de façon constante, et l'écart s'est creusé depuis lors. Quand l'offre est artificiellement contrainte, les prix augmentent — c'est de l'économie de base."
+      },
+      {
+        "speaker": "Presenter",
+        "en": "Callum, from a personal perspective — what does this actually look like in practice?",
+        "fr": "Callum, d'un point de vue personnel — à quoi ça ressemble concrètement en pratique ?"
+      },
+      {
+        "speaker": "Callum",
+        "en": "I'm twenty-nine. I've got a decent job, I'm not extravagant, I save consistently — and I still can't afford to buy in the city where I work. I'm spending forty percent of my take-home pay on rent, which means saving is almost impossible anyway. I'm not asking for a mansion; I just want a one-bedroom flat that isn't a forty-five minute commute from my office.",
+        "fr": "J'ai vingt-neuf ans. J'ai un bon travail, je ne suis pas dépensier, j'économise régulièrement — et je n'ai toujours pas les moyens d'acheter dans la ville où je travaille. Je dépense quarante pour cent de mon salaire net en loyer, ce qui rend l'épargne presque impossible de toute façon. Je ne demande pas un manoir ; je veux juste un appartement d'une chambre à moins de quarante-cinq minutes de trajet de mon bureau."
+      },
+      {
+        "speaker": "Dr Ama Mensah",
+        "en": "Callum's situation is extremely common. What's happened is that housing has shifted from being a social good — something designed to meet a need — to an investment asset. When that happens, the incentives change entirely. High prices stop being a problem and become a feature. The people who own property have a direct financial interest in prices staying high.",
+        "fr": "La situation de Callum est extrêmement courante. Ce qui s'est passé, c'est que le logement est passé d'un bien social — quelque chose conçu pour répondre à un besoin — à un actif d'investissement. Quand ça se produit, les incitations changent complètement. Des prix élevés cessent d'être un problème et deviennent un avantage. Les propriétaires ont un intérêt financier direct à ce que les prix restent élevés."
+      },
+      {
+        "speaker": "Presenter",
+        "en": "Isn't that a slightly cynical view? Most homeowners aren't primarily motivated by investment returns.",
+        "fr": "N'est-ce pas une vision légèrement cynique ? La plupart des propriétaires ne sont pas principalement motivés par des rendements d'investissement."
+      },
+      {
+        "speaker": "Dr Ama Mensah",
+        "en": "You're right that most people aren't consciously thinking about it. But when their main asset rises in value, they're not motivated to support policies that might reverse that rise — even if they sympathise with people like Callum. Self-interest doesn't have to be conscious to be effective.",
+        "fr": "Vous avez raison que la plupart des gens n'y pensent pas consciemment. Mais quand leur principal actif augmente de valeur, ils ne sont pas motivés à soutenir des politiques qui pourraient inverser cette hausse — même s'ils sympathisent avec des personnes comme Callum. L'intérêt personnel n'a pas besoin d'être conscient pour être efficace."
+      },
+      {
+        "speaker": "Callum",
+        "en": "That's exactly what frustrates me. Every party says they want to build more housing. But when the planning application actually comes — in someone's constituency, near someone's back garden — suddenly there's enormous local resistance. Politicians follow the votes, and the votes are with the homeowners.",
+        "fr": "C'est exactement ce qui me frustre. Tous les partis disent vouloir construire plus de logements. Mais quand la demande de permis de construire arrive réellement — dans la circonscription de quelqu'un, près du jardin de quelqu'un — il y a soudainement une énorme résistance locale. Les politiciens suivent les votes, et les votes vont aux propriétaires."
+      },
+      {
+        "speaker": "Dr Ama Mensah",
+        "en": "There's an acronym for it: NIMBY. 'Not In My Back Yard'. It's one of the most consistent forces in urban planning. And it's genuinely difficult to overcome politically, because the people who most benefit from new housing — the young and the non-owners — are less likely to vote and have less political weight.",
+        "fr": "Il y a un acronyme pour ça : NIMBY. « Not In My Back Yard » (pas dans mon jardin). C'est l'une des forces les plus constantes en urbanisme. Et c'est vraiment difficile à surmonter politiquement, parce que les personnes qui bénéficient le plus des nouveaux logements — les jeunes et les non-propriétaires — ont moins tendance à voter et ont moins de poids politique."
+      },
+      {
+        "speaker": "Presenter",
+        "en": "Is there a solution, or are we stuck?",
+        "fr": "Y a-t-il une solution, ou sommes-nous bloqués ?"
+      },
+      {
+        "speaker": "Dr Ama Mensah",
+        "en": "There are solutions — Vienna, Singapore, and several other cities have maintained genuinely affordable housing through large-scale public investment. The question is whether there's the political will to pursue them. In the UK, I'm cautiously pessimistic. In some other countries, I'm more hopeful.",
+        "fr": "Il existe des solutions — Vienne, Singapour et plusieurs autres villes ont maintenu des logements véritablement abordables grâce à d'importants investissements publics. La question est de savoir s'il y a la volonté politique de les poursuivre. Au Royaume-Uni, je suis prudemment pessimiste. Dans certains autres pays, j'ai plus d'espoir."
+      },
+      {
+        "speaker": "Callum",
+        "en": "I'd like to be optimistic, but I've been told to 'just wait' for five years now. At some point, waiting isn't a strategy — it's just giving up.",
+        "fr": "J'aimerais être optimiste, mais on me dit « attendez juste » depuis cinq ans maintenant. À un certain point, attendre n'est pas une stratégie — c'est juste abandonner."
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "multifactorial",
+        "phonetic": "/ˌmʌltɪfækˈtɔːriəl/",
+        "type": "adjective",
+        "definition_en": "Ayant plusieurs causes ou facteurs contributifs",
+        "definition_fr": "multifactoriel, dû à plusieurs facteurs",
+        "example": "Obesity is multifactorial — it involves diet, genetics, lifestyle and social factors.",
+        "level": "C1"
+      },
+      {
+        "word": "to keep pace with",
+        "phonetic": "/kiːp peɪs wɪð/",
+        "type": "idiom",
+        "definition_en": "Évoluer ou se développer à la même vitesse que quelque chose d'autre",
+        "definition_fr": "suivre le rythme de, rester au même niveau que",
+        "example": "Wages have failed to keep pace with rising living costs.",
+        "level": "B2"
+      },
+      {
+        "word": "constrained",
+        "phonetic": "/kənˈstreɪnd/",
+        "type": "adjective",
+        "definition_en": "Limité ou restreint, généralement par des forces extérieures",
+        "definition_fr": "contraint, limité, restreint",
+        "example": "Growth was constrained by a lack of investment in infrastructure.",
+        "level": "B2"
+      },
+      {
+        "word": "take-home pay",
+        "phonetic": "/ˈteɪk həʊm peɪ/",
+        "type": "noun",
+        "definition_en": "Le montant du salaire restant après impôts et retenues",
+        "definition_fr": "salaire net, ce qu'on touche réellement",
+        "example": "After tax and national insurance, my take-home pay is about £2,200 a month.",
+        "level": "B2"
+      },
+      {
+        "word": "investment asset",
+        "phonetic": "/ɪnˈvestmənt ˈæset/",
+        "type": "noun (compound)",
+        "definition_en": "Quelque chose possédé principalement pour générer un rendement financier ou prendre de la valeur",
+        "definition_fr": "actif d'investissement",
+        "example": "Many young people see property less as a home and more as an investment asset.",
+        "level": "B2"
+      },
+      {
+        "word": "NIMBY",
+        "phonetic": "/ˈnɪmbi/",
+        "type": "acronym / noun (informal)",
+        "definition_en": "« Not In My Back Yard » (pas dans mon jardin) — opposition à de nouveaux aménagements dans son quartier même quand on les soutient en principe",
+        "definition_fr": "syndrome NIMBY — « pas chez moi » ; opposition locale aux projets de construction",
+        "example": "The residents supported affordable housing in principle, but NIMBYism blocked every planning application.",
+        "level": "B2"
+      },
+      {
+        "word": "to sympathise with",
+        "phonetic": "/ˈsɪmpəθaɪz wɪð/",
+        "type": "verb + preposition",
+        "definition_en": "Comprendre et éprouver de la compassion pour la situation de quelqu'un",
+        "definition_fr": "compatir, comprendre la situation de, avoir de la sympathie pour",
+        "example": "I sympathise with your frustration, but I can't change the policy.",
+        "level": "B2"
+      },
+      {
+        "word": "constituency",
+        "phonetic": "/kənˈstɪtjuənsi/",
+        "type": "noun",
+        "definition_en": "La zone représentée par un élu ; aussi, les personnes ayant un intérêt dans une décision",
+        "definition_fr": "circonscription électorale ; électorat, base d'un élu",
+        "example": "The MP was careful to listen to voters in her constituency.",
+        "level": "B2"
+      },
+      {
+        "word": "political will",
+        "phonetic": "/pəˈlɪtɪkl wɪl/",
+        "type": "noun (compound)",
+        "definition_en": "L'engagement et la détermination des dirigeants politiques à agir sur un enjeu",
+        "definition_fr": "volonté politique",
+        "example": "The technology for sustainable energy exists — what's lacking is political will.",
+        "level": "B2"
+      },
+      {
+        "word": "cautiously pessimistic",
+        "phonetic": "/ˈkɔːʃəsli ˈpesɪmɪstɪk/",
+        "type": "adverb + adjective (collocation)",
+        "definition_en": "Pessimiste mais sans certitude ; exprimant un doute tout en reconnaissant la possibilité d'une issue positive",
+        "definition_fr": "prudemment pessimiste",
+        "example": "She was cautiously pessimistic about the negotiations.",
+        "level": "B2"
+      }
+    ],
+    "grammar_points": [
+      {
+        "title": "Passive constructions with 'have': 'supply has consistently failed to keep pace'",
+        "explanation": "Le **present perfect** avec des adverbes comme 'consistently', 'persistently', 'continually' met l'accent sur un schéma continu sur une longue période. C'est très courant dans le journalisme économique et politique.",
+        "examples": [
+          "'Supply **has consistently failed** to keep pace with demand.'",
+          "'Wages **have persistently lagged** behind inflation.'",
+          "'The government **has repeatedly promised** reform without delivering.'",
+          "These constructions place blame or draw attention to a pattern of failure or neglect."
+        ]
+      },
+      {
+        "title": "'Stop being X and become Y' — describing a shift in function or meaning",
+        "explanation": "La structure **'stop being X + become Y'** décrit une transformation dans la façon dont quelque chose est compris ou utilisé. C'est courant lorsqu'on discute de changements économiques, sociaux ou culturels.",
+        "examples": [
+          "'High prices **stop being** a problem and **become** a feature.'",
+          "'Art **stopped being** decorative and **became** political.'",
+          "'What **started as** a conversation **became** a movement.'",
+          "Useful variation: 'shift from X to Y', 'evolve from X into Y'"
+        ]
+      },
+      {
+        "title": "Conditional hedging: 'doesn't have to be X to be Y'",
+        "explanation": "**'Doesn't have to be X to achieve Y'** sépare deux caractéristiques en affirmant que l'une n'est pas nécessaire pour l'autre. C'est une structure logique précise utilisée dans l'argumentation académique et le débat.",
+        "examples": [
+          "'Self-interest **doesn't have to be** conscious **to be** effective.'",
+          "'Evidence **doesn't have to be** dramatic **to be** compelling.'",
+          "'Language **doesn't have to be** complex **to be** precise.'",
+          "French equivalent: 'Il n'est pas nécessaire d'être X pour être Y'"
+        ]
+      }
+    ],
+    "expressions": [
+      {
+        "expression": "to keep pace with",
+        "meaning_fr": "suivre le rythme de, être à la hauteur de",
+        "example": "Supply has consistently failed to keep pace with demand.",
+        "register": "neutral / professional",
+        "note": "Utilisé en économie, en technologie et dans de nombreux autres contextes pour décrire si quelque chose se développe assez vite pour correspondre à un autre facteur."
+      },
+      {
+        "expression": "a feature, not a bug",
+        "meaning_fr": "une caractéristique voulue, pas un défaut",
+        "example": "High prices have become a feature, not a problem — at least for those who own property.",
+        "register": "informal / ironic",
+        "note": "Vient à l'origine du développement logiciel — un « bug » est une erreur involontaire, une « feature » est un choix de conception délibéré. Utilisé ironiquement pour suggérer que ce qui semble être un problème sert en fait les intérêts de quelqu'un."
+      },
+      {
+        "expression": "Not In My Back Yard (NIMBY)",
+        "meaning_fr": "pas chez moi, syndrome NIMBY",
+        "example": "NIMBY opposition blocks most major housing developments.",
+        "register": "informal / political",
+        "note": "Utilisé pour décrire des personnes qui soutiennent quelque chose en principe mais s'opposent à sa mise en place près de chez eux."
+      },
+      {
+        "expression": "cautiously optimistic / pessimistic",
+        "meaning_fr": "prudemment optimiste / pessimiste",
+        "example": "She is cautiously pessimistic about the prospects for reform.",
+        "register": "formal / diplomatic",
+        "note": "Une formulation diplomatique standard. « Cautiously » adoucit la position, laissant place à la surprise."
+      },
+      {
+        "expression": "political will",
+        "meaning_fr": "volonté politique",
+        "example": "The solutions exist — what's missing is the political will.",
+        "register": "formal / journalistic",
+        "note": "L'une des expressions les plus fréquemment utilisées dans le discours politique en anglais."
+      }
+    ]
+  },
+  "exercises": {
+    "written": [
+      {
+        "id": "w1",
+        "type": "multiple_choice",
+        "question": "According to Dr Mensah, what is the core cause of the housing crisis?",
+        "options": [
+          "Interest rates have been too low for too long.",
+          "Foreign investors are buying up property.",
+          "Supply has failed to keep pace with demand for forty years.",
+          "People are moving to cities faster than ever before."
+        ],
+        "answer": 2,
+        "explanation": "Dr Mensah says: 'the core issue is simple: we are not building enough homes, and we haven't been for forty years.'"
+      },
+      {
+        "id": "w2",
+        "type": "multiple_choice",
+        "question": "What does Dr Mensah mean when she says high house prices have 'become a feature, not a problem'?",
+        "options": [
+          "High prices benefit the overall economy.",
+          "For existing homeowners, rising prices are financially beneficial and therefore not a problem.",
+          "High prices encourage more construction.",
+          "The government has deliberately chosen to allow high prices."
+        ],
+        "answer": 1,
+        "explanation": "Those who own property benefit when prices rise. So for them, it's not a problem but an advantage — a 'feature' of the system."
+      },
+      {
+        "id": "w3",
+        "type": "fill_blank",
+        "sentence": "Technology has struggled to ________ the pace of regulatory change.",
+        "answer": "keep pace with",
+        "hint": "An expression meaning 'to develop at the same speed as something else'."
+      },
+      {
+        "id": "w4",
+        "type": "fill_blank",
+        "sentence": "What's lacking isn't expertise or resources — it's ________ ________.",
+        "answer": "political will",
+        "hint": "A two-word expression meaning 'the commitment of political leaders to act'."
+      },
+      {
+        "id": "w5",
+        "type": "fill_blank",
+        "sentence": "A leader ________ popular ________ to be effective — they need to be consistent.",
+        "answer": "doesn't have to be / to be",
+        "hint": "A conditional structure separating two qualities."
+      },
+      {
+        "id": "w6",
+        "type": "translation",
+        "french": "Les loyers ont régulièrement augmenté plus vite que les salaires ces dix dernières années.",
+        "suggested_answer": "Rents have consistently risen faster than wages over the past ten years.",
+        "key_vocabulary": ["consistently risen", "faster than wages", "present perfect"]
+      },
+      {
+        "id": "w7",
+        "type": "translation",
+        "french": "La plupart des gens sympathisent avec ceux qui n'ont pas les moyens de se loger, mais s'opposent à toute construction dans leur quartier.",
+        "suggested_answer": "Most people sympathise with those who cannot afford housing, but oppose any construction in their neighbourhood.",
+        "key_vocabulary": ["sympathise with", "cannot afford", "oppose construction"]
+      },
+      {
+        "id": "w8",
+        "type": "translation",
+        "french": "À un moment donné, attendre n'est plus une stratégie — c'est juste renoncer.",
+        "suggested_answer": "At some point, waiting is no longer a strategy — it's just giving up.",
+        "key_vocabulary": ["At some point", "no longer a strategy", "giving up"]
+      }
+    ],
+    "oral": [
+      {
+        "id": "o1",
+        "type": "read_aloud",
+        "instruction": "Read Callum's final speech. He is frustrated but articulate — not shouting, but measured and direct.",
+        "text": "I'd like to be optimistic, but I've been told to 'just wait' for five years now. At some point, waiting isn't a strategy — it's just giving up.",
+        "focus": "Stress 'just wait' slightly ironically. The final sentence has two halves separated by a dash — give each its weight.",
+        "phonetic_tips": ["optimistic: /ˌɒptɪˈmɪstɪk/", "strategy: /ˈstrætədʒi/", "giving up: natural liaison 'givin' up'"]
+      },
+      {
+        "id": "o2",
+        "type": "answer_question",
+        "question": "Is housing a right, or a commodity? Does it matter which framework we use?",
+        "suggested_answer": "I think this distinction matters enormously. If housing is primarily a commodity — something that can be bought, sold and invested in like any other asset — then high prices are just the market working. If it's a right, then the market has failed and the state has an obligation to intervene. Most political debates about housing are essentially debates about which framework applies. What I find troubling is that the investment-asset framing has become so dominant that we've largely lost the language for talking about shelter as a basic need. We talk about 'the property market' as if that's natural and neutral, when it's actually a political choice.",
+        "vocabulary_hints": ["distinction matters enormously", "investment-asset framing", "the state has an obligation to intervene", "lost the language for", "political choice"],
+        "duration_seconds": 90
+      },
+      {
+        "id": "o3",
+        "type": "answer_question",
+        "question": "What would you say to a homeowner who opposes new housing developments in their area? How would you make the case for building more homes?",
+        "suggested_answer": "I'd start by acknowledging their concerns — nobody wants to live next to a construction site, or feel their neighbourhood is changing faster than they can adapt to. But I'd try to make the long-term case: a city that excludes young people and lower-income workers doesn't stay economically healthy. The nurses, teachers, and tradespeople that make the city function can't afford to live there. That affects everyone, including homeowners. And I'd point to examples — Vienna, for instance — where large-scale social housing hasn't damaged neighbourhoods but transformed them. The NIMBY argument relies on a fixed notion of what makes an area desirable. But places change, and managed change tends to be better than unmanaged decline.",
+        "vocabulary_hints": ["acknowledging their concerns", "long-term case", "make the city function", "managed change", "unmanaged decline"],
+        "duration_seconds": 90
+      }
+    ]
+  }
+}

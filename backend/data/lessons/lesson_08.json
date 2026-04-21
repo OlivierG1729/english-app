@@ -1,0 +1,301 @@
+{
+  "id": "08",
+  "unit": 1,
+  "unit_title": "Modern Life & Society",
+  "title": "Always On",
+  "level": "B2",
+  "type": "story",
+  "theme": "Work & The Gig Economy",
+  "reading_time": "6 min",
+  "content": {
+    "paragraphs": [
+      {
+        "en": "Connor worked for four different companies simultaneously, and for none of them. This was the paradox of platform work: he was a driver, a delivery rider, a freelance copywriter, and a part-time data tagger — all at once, all on his own terms, or so the platforms liked to tell him. The reality was somewhat different.",
+        "fr": "Connor travaillait pour quatre entreprises différentes simultanément, et pour aucune d'entre elles. C'était le paradoxe du travail sur plateforme : il était chauffeur, livreur à vélo, rédacteur freelance et tagueur de données à temps partiel — tout en même temps, à ses propres conditions, ou du moins c'est ce que les plateformes aimaient lui dire. La réalité était quelque peu différente."
+      },
+      {
+        "en": "He had drifted into it gradually. After his contract at the agency had ended, he had signed up for a couple of platforms 'while he looked for something permanent'. Two years later, he was still looking. The flexibility was real, he told himself. So was the uncertainty.",
+        "fr": "Il y avait glissé progressivement. Après la fin de son contrat à l'agence, il s'était inscrit sur quelques plateformes « le temps de trouver quelque chose de permanent ». Deux ans plus tard, il cherchait encore. La flexibilité était réelle, se disait-il. L'incertitude aussi."
+      },
+      {
+        "en": "The app was everything. It determined when he worked, what he earned, and whether or not he could take time off without financial consequences. If he logged off for a weekend — a real weekend, without checking his phone — he risked losing his 'top-rated' status, which affected the jobs he was offered and the rates he could charge. Freedom, he had come to understand, came with hidden terms and conditions.",
+        "fr": "L'application était tout. Elle déterminait quand il travaillait, ce qu'il gagnait et s'il pouvait ou non prendre du temps libre sans conséquences financières. S'il se déconnectait pour un week-end — un vrai week-end, sans regarder son téléphone — il risquait de perdre son statut « mieux noté », ce qui affectait les emplois qui lui étaient proposés et les tarifs qu'il pouvait facturer. La liberté, il avait fini par comprendre, était assortie de conditions générales cachées."
+      },
+      {
+        "en": "His friends in traditional employment complained about their bosses. He envied them this. At least a boss was a person you could argue with, reason with, occasionally convince. An algorithm had no interest in your circumstances. When the surge pricing model changed overnight, without notice, his income dropped by a fifth. There was no one to call.",
+        "fr": "Ses amis en emploi traditionnel se plaignaient de leurs patrons. Il les enviait pour ça. Du moins un patron était une personne avec laquelle on pouvait se disputer, raisonner, parfois convaincre. Un algorithme ne s'intéressait pas à votre situation. Quand le modèle de tarification dynamique changea du jour au lendemain, sans préavis, ses revenus chutèrent d'un cinquième. Il n'y avait personne à appeler."
+      },
+      {
+        "en": "What he missed most wasn't a salary or sick pay or a pension — though he missed those too. It was the incidental stuff: having colleagues to eat lunch with, a desk that was his, the particular satisfaction of a project completed in collaboration with other people. He worked surrounded by people — in cars, on streets, in crowded cafés — and yet he worked entirely alone.",
+        "fr": "Ce qui lui manquait le plus n'était pas un salaire ou des congés maladie ou une retraite — bien qu'il manquait aussi de tout ça. C'était les petits à-côtés : des collègues avec qui déjeuner, un bureau qui lui appartenait, la satisfaction particulière d'un projet mené à bien en collaboration avec d'autres personnes. Il travaillait entouré de gens — dans des voitures, dans des rues, dans des cafés bondés — et pourtant il travaillait entièrement seul."
+      },
+      {
+        "en": "There was a growing movement, he knew, of gig workers trying to organise collectively — seeking employment rights, minimum earnings guarantees, the basics that salaried workers took for granted. He had attended two meetings. The energy was there. So was the difficulty: when your income depended on being available, taking action was itself a financial risk.",
+        "fr": "Il y avait un mouvement croissant, il le savait, de travailleurs de plateforme qui essayaient de s'organiser collectivement — cherchant des droits du travail, des garanties de revenus minimaux, les bases que les salariés considéraient comme acquises. Il avait assisté à deux réunions. L'énergie était là. La difficulté aussi : quand vos revenus dépendaient de votre disponibilité, passer à l'action était en soi un risque financier."
+      },
+      {
+        "en": "A notification pinged on his phone. A delivery, three kilometres away, twelve pounds. He accepted it before he had consciously decided to. The algorithm, he reflected, was very good at what it did.",
+        "fr": "Une notification sonna sur son téléphone. Une livraison, à trois kilomètres, douze livres. Il l'accepta avant même d'avoir consciemment décidé de le faire. L'algorithme, réfléchit-il, était très doué pour ce qu'il faisait."
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "simultaneously",
+        "phonetic": "/ˌsɪmltˈeɪniəsli/",
+        "type": "adverb",
+        "definition_en": "en même temps",
+        "definition_fr": "simultanément, en même temps",
+        "example": "She was managing three projects simultaneously.",
+        "level": "B2"
+      },
+      {
+        "word": "platform work / gig work",
+        "phonetic": "/ˈplætfɔːrm wɜːrk/",
+        "type": "noun (compound)",
+        "definition_en": "travail à court terme et flexible organisé via des plateformes numériques (ex. Uber, Deliveroo, Fiverr)",
+        "definition_fr": "travail sur plateforme, économie des petits boulots",
+        "example": "Platform work offers flexibility but few of the protections of traditional employment.",
+        "level": "B2"
+      },
+      {
+        "word": "to drift into",
+        "phonetic": "/drɪft ˈɪntə/",
+        "type": "phrasal verb",
+        "definition_en": "entrer progressivement dans une situation sans intention claire",
+        "definition_fr": "glisser vers, se retrouver progressivement dans",
+        "example": "She drifted into management without ever actively seeking it.",
+        "level": "B2"
+      },
+      {
+        "word": "surge pricing",
+        "phonetic": "/sɜːrdʒ ˈpraɪsɪŋ/",
+        "type": "noun (compound)",
+        "definition_en": "un modèle de tarification où les prix augmentent pendant les périodes de forte demande",
+        "definition_fr": "tarification dynamique, tarification en période de forte demande",
+        "example": "Uber uses surge pricing during rush hours and bad weather.",
+        "level": "B2"
+      },
+      {
+        "word": "incidental",
+        "phonetic": "/ˌɪnsɪˈdentl/",
+        "type": "adjective",
+        "definition_en": "se produisant comme une partie secondaire de quelque chose ; pas l'objectif principal, mais tout de même précieux",
+        "definition_fr": "accessoire, secondaire mais réel ; les à-côtés",
+        "example": "The incidental benefits of walking to work — fresh air, mental clarity — are underrated.",
+        "level": "C1"
+      },
+      {
+        "word": "to take for granted",
+        "phonetic": "/teɪk fər ˈɡrɑːntɪd/",
+        "type": "idiom",
+        "definition_en": "supposer que quelque chose sera toujours disponible sans en apprécier la valeur",
+        "definition_fr": "tenir pour acquis, considérer comme normal",
+        "example": "We take clean water for granted, but billions of people don't have access to it.",
+        "level": "B2"
+      },
+      {
+        "word": "to organise collectively",
+        "phonetic": "/ˈɔːrɡənaɪz kəˈlektɪvli/",
+        "type": "verb phrase",
+        "definition_en": "se regrouper en tant que travailleurs pour défendre des droits et de meilleures conditions",
+        "definition_fr": "s'organiser collectivement, former un syndicat ou un mouvement",
+        "example": "Gig workers are increasingly organising collectively to demand employment rights.",
+        "level": "C1"
+      },
+      {
+        "word": "to ping",
+        "phonetic": "/pɪŋ/",
+        "type": "verb (informal)",
+        "definition_en": "émettre un son court et aigu, comme une notification ou une alerte",
+        "definition_fr": "émettre un bip, sonner (pour une notification)",
+        "example": "Her phone pinged with a new message every few minutes.",
+        "level": "B2"
+      },
+      {
+        "word": "to reflect",
+        "phonetic": "/rɪˈflekt/",
+        "type": "verb",
+        "definition_en": "réfléchir attentivement et profondément à quelque chose ; (d'une surface) refléter",
+        "definition_fr": "réfléchir, méditer (sur quelque chose)",
+        "example": "He reflected that he had more freedom than before, but less security.",
+        "level": "B2"
+      },
+      {
+        "word": "terms and conditions",
+        "phonetic": "/tɜːrmz ənd kənˈdɪʃnz/",
+        "type": "noun (plural)",
+        "definition_en": "les règles régissant un accord ou un service, souvent en petits caractères",
+        "definition_fr": "conditions générales (d'utilisation), CGU",
+        "example": "Most people click 'agree' without reading the terms and conditions.",
+        "level": "B2"
+      }
+    ],
+    "grammar_points": [
+      {
+        "title": "The paradox structure: 'he worked for X, and for none of them'",
+        "explanation": "Les **constructions paradoxales** — énoncer deux faits apparemment contradictoires dans la même phrase — sont un puissant procédé rhétorique. En anglais, elles utilisent souvent une structure parallèle avec 'and' ou 'yet' pour créer de l'emphase.",
+        "examples": [
+          "'He worked for four companies, and for none of them.'",
+          "'The flexibility was real. So was the uncertainty.' → parallel subject + predicate for contrast",
+          "'He worked surrounded by people, and yet he worked entirely alone.'",
+          "These structures create rhythm and memorability. Very effective in essays and arguments."
+        ]
+      },
+      {
+        "title": "'So was / so did / so were' — avoiding repetition",
+        "explanation": "**'So + auxiliaire + sujet'** est une façon élégante de confirmer que la même chose s'applique à autre chose, sans répéter l'énoncé complet. Cela crée un rythme parallèle et est courant dans la prose littéraire et l'écriture formelle.",
+        "examples": [
+          "'The flexibility was real. **So was** the uncertainty.' → 'The uncertainty was also real'",
+          "'She enjoyed the work. **So did** her colleagues.'",
+          "'The energy was there. **So was** the difficulty.'",
+          "Note: word order is inverted (auxiliary before subject). Common error: 'So the uncertainty was.' ✗"
+        ]
+      },
+      {
+        "title": "Past perfect for 'by the time' situations: 'he had accepted before he had decided'",
+        "explanation": "Quand deux événements passés sont très proches dans le temps, et que l'un se termine avant même que l'autre ne soit enregistré, le **past perfect** capture parfaitement cet écart temporel. C'est une utilisation subtile mais importante à partir du niveau B2.",
+        "examples": [
+          "'He accepted it **before he had consciously decided** to.' → acceptance preceded conscious thought",
+          "'She had left **before I had a chance** to explain.'",
+          "'The meeting had ended **before anyone had raised** the main issue.'",
+          "This structure is especially powerful when describing instinctive, automatic, or compulsive behaviour."
+        ]
+      }
+    ],
+    "expressions": [
+      {
+        "expression": "on your own terms",
+        "meaning_fr": "à vos propres conditions, selon vos propres règles",
+        "example": "The platforms claimed he was working on his own terms.",
+        "register": "neutral",
+        "note": "Signifie faire quelque chose selon des règles ou conditions que vous avez fixées vous-même, plutôt que celles imposées par d'autres."
+      },
+      {
+        "expression": "terms and conditions",
+        "meaning_fr": "conditions générales (d'utilisation), les petits caractères",
+        "example": "Freedom came with hidden terms and conditions.",
+        "register": "neutral / ironic when used metaphorically",
+        "note": "Littéralement les règles d'un contrat ou service. Utilisé ici au sens figuré pour suggérer que la liberté a des limites cachées."
+      },
+      {
+        "expression": "to take for granted",
+        "meaning_fr": "tenir pour acquis, ne pas apprécier à sa juste valeur",
+        "example": "The basics that salaried workers took for granted.",
+        "register": "neutral / universal",
+        "note": "L'une des expressions anglaises les plus utiles. 'Don't take your health for granted' = appréciez-la tant que vous l'avez."
+      },
+      {
+        "expression": "to pass / to take action",
+        "meaning_fr": "passer à l'action, agir",
+        "example": "Taking action was itself a financial risk.",
+        "register": "neutral",
+        "note": "'Take action' est plus décisif que 'do something'. 'We need to take action now before it gets worse.'"
+      },
+      {
+        "expression": "to be good at what one does",
+        "meaning_fr": "être doué pour ce qu'on fait, être efficace dans son domaine",
+        "example": "The algorithm was very good at what it did.",
+        "register": "neutral",
+        "note": "Utilisé ici avec une ironie sombre — l'algorithme est 'très doué' pour manipuler les comportements, ce qui n'est pas un compliment."
+      }
+    ]
+  },
+  "exercises": {
+    "written": [
+      {
+        "id": "w1",
+        "type": "multiple_choice",
+        "question": "What is the central paradox of Connor's situation?",
+        "options": [
+          "He earns a lot of money but has no time to spend it.",
+          "He is supposedly free and flexible, but is actually controlled by an app.",
+          "He works for four companies but doesn't do any real work.",
+          "He wants a permanent job but keeps turning down offers."
+        ],
+        "answer": 1,
+        "explanation": "The story's opening paradox — 'he worked for four companies and for none of them' — captures this. The platform promises freedom but the app controls his availability, income, and status."
+      },
+      {
+        "id": "w2",
+        "type": "multiple_choice",
+        "question": "What does Connor say he misses most about traditional employment?",
+        "options": [
+          "The salary, sick pay, and pension.",
+          "The structured working hours.",
+          "The incidental human aspects: colleagues, a desk, collaboration.",
+          "The job security and clear career progression."
+        ],
+        "answer": 2,
+        "explanation": "'What he missed most wasn't a salary or sick pay or a pension... It was the incidental stuff: having colleagues to eat lunch with, a desk that was his, the satisfaction of a project completed in collaboration.'"
+      },
+      {
+        "id": "w3",
+        "type": "fill_blank",
+        "sentence": "People who grew up with central heating often ________ warmth in winter.",
+        "answer": "take for granted",
+        "hint": "An idiom meaning 'to assume something will always be available without appreciating it'."
+      },
+      {
+        "id": "w4",
+        "type": "fill_blank",
+        "sentence": "The new policy brought some advantages. ________ the risks.",
+        "answer": "So did / So too did",
+        "hint": "Use the inverted structure to avoid repeating 'brought' — 'So ___ the risks.'"
+      },
+      {
+        "id": "w5",
+        "type": "fill_blank",
+        "sentence": "She had answered the message before she ________ consciously decided to reply.",
+        "answer": "had",
+        "hint": "Past perfect — one action completed before the other registered."
+      },
+      {
+        "id": "w6",
+        "type": "translation",
+        "french": "Il a glissé progressivement dans ce mode de travail sans vraiment le décider.",
+        "suggested_answer": "He drifted into this way of working without really deciding to.",
+        "key_vocabulary": ["drifted into", "without really deciding to"]
+      },
+      {
+        "id": "w7",
+        "type": "translation",
+        "french": "La flexibilité était réelle. L'incertitude aussi.",
+        "suggested_answer": "The flexibility was real. So was the uncertainty.",
+        "key_vocabulary": ["So was the uncertainty — inverted structure"]
+      },
+      {
+        "id": "w8",
+        "type": "translation",
+        "french": "Les travailleurs de plateforme cherchent à s'organiser collectivement pour obtenir des droits qu'ils tiennent pour acquis dans d'autres secteurs.",
+        "suggested_answer": "Platform workers are trying to organise collectively to obtain rights that workers in other sectors take for granted.",
+        "key_vocabulary": ["organise collectively", "take for granted"]
+      }
+    ],
+    "oral": [
+      {
+        "id": "o1",
+        "type": "read_aloud",
+        "instruction": "Read the final paragraph aloud. The tone is dry and ironic — almost resigned. Connor is aware he's being manipulated, yet still complies.",
+        "text": "A notification pinged on his phone. A delivery, three kilometres away, twelve pounds. He accepted it before he had consciously decided to. The algorithm, he reflected, was very good at what it did.",
+        "focus": "Short sentences here are deliberate. Each one lands separately. Do not rush. The final line should sound quietly resigned, not angry.",
+        "phonetic_tips": ["notification: /ˌnəʊtɪfɪˈkeɪʃn/", "consciously: /ˈkɒnʃəsli/", "algorithm: /ˈælɡərɪðəm/"]
+      },
+      {
+        "id": "o2",
+        "type": "answer_question",
+        "question": "What do you see as the main advantages and disadvantages of gig work? Would you consider doing it?",
+        "suggested_answer": "The main advantage is obviously the flexibility — being able to set your own hours and work from anywhere appeals to a lot of people, particularly parents or those with other commitments. But the disadvantages are significant: no sick pay, no pension contributions, no employment rights, and crucially, income that can fluctuate wildly depending on algorithm changes you have no control over. I'd consider some forms of gig work — freelance writing or consulting, for instance — because they offer genuine autonomy. But platform delivery work seems to me to offer very little real freedom. You're technically self-employed, but you're behaving exactly like an employee, just without the protections.",
+        "vocabulary_hints": ["income that can fluctuate wildly", "algorithm changes", "genuine autonomy", "technically self-employed"],
+        "duration_seconds": 90
+      },
+      {
+        "id": "o3",
+        "type": "answer_question",
+        "question": "Do you think companies that use platform workers are treating them fairly? What should change?",
+        "suggested_answer": "I don't think most platform companies treat their workers fairly, and the legal gap between 'employee' and 'self-employed contractor' has allowed them to avoid responsibilities they would otherwise have. What needs to change, in my view, is the legal classification. If someone works predominantly for one platform, follows its rules, and has no real power to negotiate their rate, they should receive at least basic employment protections. Some countries are moving in this direction — Spain and the UK have both seen court rulings that pushed platforms to give workers more rights. It's a slow process, but I think it's the right direction.",
+        "vocabulary_hints": ["legal classification", "predominantly", "no real power to negotiate", "basic employment protections", "court rulings"],
+        "duration_seconds": 90
+      }
+    ]
+  }
+}

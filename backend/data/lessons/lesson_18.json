@@ -1,0 +1,325 @@
+{
+  "id": "18",
+  "unit": 3,
+  "unit_title": "Complex Issues & Nuanced Debates",
+  "title": "Burnout Nation",
+  "level": "C1",
+  "type": "dialogue",
+  "theme": "Mental Health, Work & Modern Exhaustion",
+  "reading_time": "6 min",
+  "content": {
+    "speakers": ["Presenter", "Dr Ingrid Solis (Occupational Psychologist)", "Nathan (Former Financial Analyst, 34)"],
+    "paragraphs": [
+      {
+        "speaker": "Presenter",
+        "en": "Burnout was officially classified as an occupational phenomenon by the World Health Organisation in 2019. Dr Solis, why did it take that long, and does the classification actually matter?",
+        "fr": "L'épuisement professionnel a été officiellement classifié comme un phénomène professionnel par l'Organisation mondiale de la santé en 2019. Docteure Solis, pourquoi a-t-il fallu autant de temps, et cette classification a-t-elle vraiment de l'importance ?"
+      },
+      {
+        "speaker": "Dr Ingrid Solis",
+        "en": "It took so long partly because burnout exists in contested territory. It overlaps with depression, with anxiety, with plain exhaustion, and for decades there was genuine disagreement about whether it was a distinct condition or simply a colloquial label for being very tired at work. The classification matters because it shifts responsibility — from the individual to the workplace. You stop saying 'this person failed to cope' and start asking 'what conditions produced this failure to cope?'",
+        "fr": "Il a fallu si longtemps en partie parce que l'épuisement professionnel existe dans un territoire contesté. Il chevauche la dépression, l'anxiété, l'épuisement pur et simple, et pendant des décennies, il y avait un véritable désaccord pour savoir s'il s'agissait d'une condition distincte ou simplement d'une étiquette familière pour être très fatigué au travail. La classification compte parce qu'elle déplace la responsabilité — de l'individu vers le lieu de travail. On cesse de dire « cette personne n'a pas su faire face » et on commence à demander « quelles conditions ont produit cette incapacité à faire face ? »"
+      },
+      {
+        "speaker": "Nathan",
+        "en": "That shift is everything. When I burnt out at thirty-one, everyone around me — including me, for a long time — framed it as a personal failing. I wasn't resilient enough, I didn't manage my time properly, I should have set better boundaries. The idea that the environment I was in might have been objectively unsustainable took a very long time to accept.",
+        "fr": "Ce changement est capital. Quand j'ai fait un burnout à trente et un ans, tous ceux qui m'entouraient — y compris moi-même, pendant longtemps — l'ont cadré comme un échec personnel. Je n'étais pas assez résilient, je ne gérais pas bien mon temps, j'aurais dû établir de meilleures limites. L'idée que l'environnement dans lequel j'évoluais pourrait avoir été objectivement insoutenable a mis très longtemps à être acceptée."
+      },
+      {
+        "speaker": "Dr Ingrid Solis",
+        "en": "That narrative — resilience as a personal virtue — is extraordinarily persistent, and I'd argue it serves a particular function. If burnout is about individual weakness, then organisations don't have to change anything. They just need to hire more resilient people, or offer mindfulness courses. The structural causes — excessive workloads, chronic under-staffing, a culture of availability — remain entirely untouched.",
+        "fr": "Ce récit — la résilience comme vertu personnelle — est extraordinairement persistant, et je dirais qu'il remplit une fonction particulière. Si l'épuisement professionnel est lié à une faiblesse individuelle, les organisations n'ont rien à changer. Elles ont juste besoin d'embaucher des personnes plus résilientes, ou de proposer des cours de pleine conscience. Les causes structurelles — surcharge de travail, manque chronique de personnel, culture de la disponibilité — restent entièrement intactes."
+      },
+      {
+        "speaker": "Presenter",
+        "en": "Nathan, what did burnout actually feel like? People use the word loosely — what were you experiencing?",
+        "fr": "Nathan, à quoi ressemblait concrètement l'épuisement professionnel ? Les gens utilisent le mot sans rigueur — qu'est-ce que vous viviez ?"
+      },
+      {
+        "speaker": "Nathan",
+        "en": "The classic description is exhaustion, cynicism and a sense of inefficacy — feeling like you're working incredibly hard and achieving nothing. But what I remember most is a kind of cognitive narrowing. I lost the ability to think about anything that wasn't immediately pressing. I couldn't read. I couldn't hold a conversation that wasn't about work. And underneath all of it was a constant, low-level dread that I couldn't locate or name.",
+        "fr": "La description classique est l'épuisement, le cynisme et un sentiment d'inefficacité — avoir l'impression de travailler incroyablement dur sans rien accomplir. Mais ce dont je me souviens le plus, c'est une sorte de rétrécissement cognitif. J'ai perdu la capacité de penser à quoi que ce soit qui ne soit pas immédiatement urgent. Je ne pouvais plus lire. Je ne pouvais pas soutenir une conversation qui ne soit pas liée au travail. Et sous tout ça se trouvait une peur constante de faible intensité que je ne pouvais pas localiser ni nommer."
+      },
+      {
+        "speaker": "Dr Ingrid Solis",
+        "en": "What Nathan describes — that cognitive narrowing — is one of the clearest markers. The brain under chronic stress essentially goes into survival mode. Higher-order functions like creativity, long-term planning and abstract thinking become inaccessible. You can perform tasks. You cannot think.",
+        "fr": "Ce que Nathan décrit — ce rétrécissement cognitif — est l'un des marqueurs les plus clairs. Le cerveau sous stress chronique entre essentiellement en mode survie. Les fonctions d'ordre supérieur comme la créativité, la planification à long terme et la pensée abstraite deviennent inaccessibles. On peut exécuter des tâches. On ne peut pas penser."
+      },
+      {
+        "speaker": "Presenter",
+        "en": "Is this getting worse? Are we burning out more than previous generations?",
+        "fr": "La situation empire-t-elle ? Faisons-nous plus de burnouts que les générations précédentes ?"
+      },
+      {
+        "speaker": "Dr Ingrid Solis",
+        "en": "I'd be cautious about that claim. Every generation believes it is uniquely burdened. What I can say is that certain features of contemporary work — the blurring of boundaries through technology, the always-on culture, the collapse of recovery time — create specific risk conditions that earlier generations didn't face to the same degree. Whether that translates to higher rates of burnout, or simply to better recognition of a problem that always existed, is genuinely hard to disentangle.",
+        "fr": "Je serais prudente face à cette affirmation. Chaque génération croit qu'elle est uniquement accablée. Ce que je peux dire, c'est que certaines caractéristiques du travail contemporain — l'effacement des frontières par la technologie, la culture du toujours disponible, l'effondrement du temps de récupération — créent des conditions de risque spécifiques auxquelles les générations précédentes n'étaient pas confrontées au même degré. Si cela se traduit par des taux plus élevés d'épuisement professionnel, ou simplement par une meilleure reconnaissance d'un problème qui a toujours existé, est vraiment difficile à démêler."
+      },
+      {
+        "speaker": "Nathan",
+        "en": "For what it's worth, I don't think I'm weaker than my father's generation. I think I worked in a system that was designed — not maliciously, but structurally — to extract the maximum from people without accounting for the cost. The question is whether that's fixable, or whether it's just what work is now.",
+        "fr": "Pour ce que ça vaut, je ne pense pas être plus fragile que la génération de mon père. Je pense que j'ai travaillé dans un système conçu — pas malveillamment, mais structurellement — pour extraire le maximum des personnes sans tenir compte du coût. La question est de savoir si cela peut être corrigé, ou si c'est simplement ce qu'est le travail aujourd'hui."
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "occupational phenomenon",
+        "phonetic": "/ˌɒkjʊˈpeɪʃənl fɪˈnɒmɪnən/",
+        "type": "noun phrase (medical/WHO)",
+        "definition_en": "Une condition résultant spécifiquement de l'environnement de travail, pas un diagnostic médical en soi",
+        "definition_fr": "phénomène professionnel (catégorie OMS)",
+        "example": "The WHO classifies burnout as an occupational phenomenon, not a medical condition.",
+        "level": "C1"
+      },
+      {
+        "word": "contested territory",
+        "phonetic": "/kənˈtestɪd ˈterɪtəri/",
+        "type": "noun phrase",
+        "definition_en": "Un domaine de connaissance ou de débat où il existe un véritable désaccord sur les faits ou les définitions",
+        "definition_fr": "territoire contesté, domaine disputé",
+        "example": "The boundary between free speech and hate speech remains contested territory.",
+        "level": "C1"
+      },
+      {
+        "word": "colloquial",
+        "phonetic": "/kəˈləʊkwiəl/",
+        "type": "adjective",
+        "definition_en": "Utilisé dans le langage courant de tous les jours plutôt que dans un langage formel ou technique",
+        "definition_fr": "familier, courant, non technique",
+        "example": "The term 'burnout' was initially colloquial before being formally defined.",
+        "level": "C1"
+      },
+      {
+        "word": "efficacy / inefficacy",
+        "phonetic": "/ˈefɪkəsi/ /ɪnˈefɪkəsi/",
+        "type": "noun",
+        "definition_en": "La capacité à produire le résultat souhaité ; inefficacité = le sentiment de ne pas y parvenir",
+        "definition_fr": "efficacité ; inefficacité (sentiment de ne pas produire de résultats)",
+        "example": "A sense of inefficacy — working hard and feeling you're achieving nothing — is a key marker of burnout.",
+        "level": "C1"
+      },
+      {
+        "word": "cognitive narrowing",
+        "phonetic": "/ˈkɒɡnɪtɪv ˈnærəʊɪŋ/",
+        "type": "noun phrase (psychology)",
+        "definition_en": "Une réduction de la capacité à penser de manière large ou créative, souvent sous l'effet d'un stress chronique",
+        "definition_fr": "rétrécissement cognitif",
+        "example": "Chronic stress produces cognitive narrowing — you can only focus on immediate threats.",
+        "level": "C1"
+      },
+      {
+        "word": "chronic",
+        "phonetic": "/ˈkrɒnɪk/",
+        "type": "adjective",
+        "definition_en": "Qui persiste longtemps ou revient constamment (opposé d'aigu)",
+        "definition_fr": "chronique (de longue durée, persistant)",
+        "example": "Chronic stress is more damaging than acute stress because the body never recovers.",
+        "level": "B2"
+      },
+      {
+        "word": "to disentangle",
+        "phonetic": "/ˌdɪsɪnˈtæŋɡl/",
+        "type": "verb",
+        "definition_en": "Séparer des choses confuses ou entremêlées ; clarifier une situation complexe",
+        "definition_fr": "démêler, dénouer, distinguer",
+        "example": "It's hard to disentangle the economic causes from the political ones.",
+        "level": "C1"
+      },
+      {
+        "word": "dread",
+        "phonetic": "/dred/",
+        "type": "noun",
+        "definition_en": "Un sentiment de grande peur ou d'appréhension face à quelque chose de désagréable qui pourrait arriver",
+        "definition_fr": "angoisse, appréhension profonde, crainte diffuse",
+        "example": "She woke each morning with a low-level dread she couldn't explain.",
+        "level": "B2"
+      },
+      {
+        "word": "to account for",
+        "phonetic": "/əˈkaʊnt fər/",
+        "type": "phrasal verb",
+        "definition_en": "Prendre en compte ou inclure quelque chose ; expliquer ou être responsable de",
+        "definition_fr": "tenir compte de, prendre en compte",
+        "example": "The model doesn't account for individual differences in resilience.",
+        "level": "B2"
+      },
+      {
+        "word": "structurally",
+        "phonetic": "/ˈstrʌktʃərəli/",
+        "type": "adverb",
+        "definition_en": "En termes de structure ou de système sous-jacent, plutôt que de choix individuel",
+        "definition_fr": "structurellement, en termes de structure",
+        "example": "The problem is not individual but structurally embedded in how companies operate.",
+        "level": "C1"
+      }
+    ],
+    "grammar_points": [
+      {
+        "title": "Shifting responsibility linguistically: 'you stop saying X and start asking Y'",
+        "explanation": "La construction **'stop + gérondif → start + gérondif'** est un moyen puissant de décrire un changement conceptuel ou comportemental. Elle oppose deux approches sans moraliser.",
+        "examples": [
+          "'You **stop saying** \"this person failed\" and **start asking** what produced the failure.'",
+          "'We need to **stop treating** this as a personal issue and **start addressing** the systemic causes.'",
+          "'She **stopped blaming** herself and **started examining** the environment.'",
+          "This structure is especially powerful in analytical and argumentative writing."
+        ]
+      },
+      {
+        "title": "Hedging with 'I'd be cautious about that claim'",
+        "explanation": "Au niveau C1, le désaccord et l'incertitude s'expriment avec des **atténuations en couches (layered hedges)**. Plutôt que de dire « that's wrong », un locuteur habile signale où et pourquoi il est sceptique sans rejeter entièrement l'autre point de vue.",
+        "examples": [
+          "'**I'd be cautious about** that claim.' → I'm not convinced, but I won't dismiss it",
+          "'**That's worth considering**, but I'd want to know...'",
+          "'**The evidence is mixed on** this — some studies suggest...'",
+          "'**It's genuinely hard to disentangle** whether X or Y is responsible.'",
+          "These phrases are essential for C1 academic discussion and debate."
+        ]
+      },
+      {
+        "title": "Participial phrases as concise qualifiers: 'not maliciously, but structurally'",
+        "explanation": "De courts **qualificatifs adverbiaux** — en particulier les paires contrastives — ajoutent de la précision à une affirmation sans avoir besoin d'une proposition subordonnée complète. Ils sont compacts, formels et efficaces en écriture analytique.",
+        "examples": [
+          "'Designed — **not maliciously**, **but structurally** — to extract the maximum.'",
+          "'**Not consciously**, **but habitually**, she had started to avoid confrontation.'",
+          "'The policy failed — **not from lack of will**, **but from lack of resources**.'",
+          "These constructions signal careful, nuanced thinking and raise register significantly."
+        ]
+      }
+    ],
+    "expressions": [
+      {
+        "expression": "to burn out",
+        "meaning_fr": "faire un burnout, s'épuiser totalement",
+        "example": "He burnt out at thirty-one after three years of sixty-hour weeks.",
+        "register": "neutral / informal",
+        "note": "Forme verbale : « burn out ». Nom : « burnout ». « I'm burning out » = processus graduel ; « I burnt out » = le point de crise."
+      },
+      {
+        "expression": "to frame (something) as",
+        "meaning_fr": "présenter comme, cadrer comme",
+        "example": "Everyone framed it as a personal failing.",
+        "register": "neutral / analytical",
+        "note": "« Framer » quelque chose, c'est le présenter dans un cadre interprétatif particulier. Concept clé en études médiatiques et en psychologie."
+      },
+      {
+        "expression": "always-on culture",
+        "meaning_fr": "culture du toujours disponible",
+        "example": "The always-on culture of modern work leaves no real recovery time.",
+        "register": "journalistic / professional",
+        "note": "Décrit l'attente d'une disponibilité constante via les smartphones et les emails — une caractéristique déterminante de la vie professionnelle contemporaine."
+      },
+      {
+        "expression": "for what it's worth",
+        "meaning_fr": "pour ce que ça vaut, à titre indicatif",
+        "example": "For what it's worth, I don't think I'm weaker than previous generations.",
+        "register": "informal / hedging",
+        "note": "Utilisé pour introduire une opinion personnelle ou une anecdote tout en signalant son autorité limitée. Courant en anglais parlé."
+      },
+      {
+        "expression": "to remain untouched",
+        "meaning_fr": "rester intact, ne pas être abordé, demeurer inchangé",
+        "example": "The structural causes of burnout remain entirely untouched by mindfulness courses.",
+        "register": "formal / analytical",
+        "note": "Utilisé pour souligner qu'un problème fondamental n'a pas été abordé, malgré des interventions superficielles."
+      }
+    ]
+  },
+  "exercises": {
+    "written": [
+      {
+        "id": "w1",
+        "type": "multiple_choice",
+        "question": "According to Dr Solis, why is the WHO classification of burnout as an 'occupational phenomenon' significant?",
+        "options": [
+          "It makes it easier to claim sick pay.",
+          "It shifts responsibility from the individual to the conditions created by the workplace.",
+          "It confirms that burnout is a medical diagnosis.",
+          "It means companies must pay compensation."
+        ],
+        "answer": 1,
+        "explanation": "Dr Solis says: 'The classification matters because it shifts responsibility — from the individual to the workplace. You stop saying this person failed to cope and start asking what conditions produced this failure.'"
+      },
+      {
+        "id": "w2",
+        "type": "multiple_choice",
+        "question": "What does 'cognitive narrowing' refer to, as described in the dialogue?",
+        "options": [
+          "A formal medical diagnosis for a type of dementia.",
+          "The process of becoming more focused and efficient under pressure.",
+          "A loss of the ability to think broadly or abstractly, leaving only immediate concerns.",
+          "The tendency to avoid long-term planning."
+        ],
+        "answer": 2,
+        "explanation": "Nathan describes it as losing the ability to think about anything 'not immediately pressing', and Dr Solis defines it as higher-order functions becoming inaccessible."
+      },
+      {
+        "id": "w3",
+        "type": "fill_blank",
+        "sentence": "We need to ________ treating this as a personal failure and ________ addressing the systemic causes.",
+        "answer": "stop / start",
+        "hint": "Two contrasting gerund phrases describing a conceptual shift."
+      },
+      {
+        "id": "w4",
+        "type": "fill_blank",
+        "sentence": "I'd ________ ________ that interpretation — the data is more ambiguous than he suggests.",
+        "answer": "be cautious about",
+        "hint": "A formal hedging expression used to express measured scepticism."
+      },
+      {
+        "id": "w5",
+        "type": "fill_blank",
+        "sentence": "The policy was well-intentioned but ________ ________ ________ the human cost.",
+        "answer": "failed to account for",
+        "hint": "A verb phrase meaning 'did not consider or include'."
+      },
+      {
+        "id": "w6",
+        "type": "translation",
+        "french": "La résilience est souvent présentée comme une vertu personnelle, ce qui permet aux organisations de ne rien changer.",
+        "suggested_answer": "Resilience is often framed as a personal virtue, which allows organisations to leave structural causes entirely untouched.",
+        "key_vocabulary": ["framed as a personal virtue", "which allows", "entirely untouched"]
+      },
+      {
+        "id": "w7",
+        "type": "translation",
+        "french": "Il est vraiment difficile de démêler si c'est une augmentation réelle des cas ou simplement une meilleure reconnaissance du problème.",
+        "suggested_answer": "It's genuinely hard to disentangle whether there is a real increase in cases or simply better recognition of the problem.",
+        "key_vocabulary": ["genuinely hard to disentangle", "whether... or simply"]
+      },
+      {
+        "id": "w8",
+        "type": "translation",
+        "french": "Le système était conçu — non pas malveillamment, mais structurellement — pour extraire le maximum sans tenir compte du coût humain.",
+        "suggested_answer": "The system was designed — not maliciously, but structurally — to extract the maximum without accounting for the human cost.",
+        "key_vocabulary": ["not maliciously, but structurally", "accounting for the human cost"]
+      }
+    ],
+    "oral": [
+      {
+        "id": "o1",
+        "type": "read_aloud",
+        "instruction": "Read Dr Solis's analytical paragraph. The tone is measured, authoritative and slightly critical of corporate culture.",
+        "text": "That narrative — resilience as a personal virtue — is extraordinarily persistent, and I'd argue it serves a particular function. If burnout is about individual weakness, then organisations don't have to change anything. They just need to hire more resilient people, or offer mindfulness courses. The structural causes — excessive workloads, chronic under-staffing, a culture of availability — remain entirely untouched.",
+        "focus": "The dashes create rhythmic pauses. The list of structural causes should be read with equal weight on each item. The final sentence is the conclusion — let it land deliberately.",
+        "phonetic_tips": ["resilience: /rɪˈzɪliəns/", "persistent: /pəˈsɪstənt/", "structural: /ˈstrʌktʃərəl/"]
+      },
+      {
+        "id": "o2",
+        "type": "answer_question",
+        "question": "Have you or someone you know experienced burnout or chronic work-related exhaustion? What were the signs, and what helped?",
+        "suggested_answer": "I've seen it happen to a close colleague who was exceptionally capable — which, in retrospect, made her more vulnerable, not less. The signs were gradual: she stopped making jokes in meetings, started missing small deadlines she'd never missed before, seemed distracted in ways that were out of character. When she finally took leave, she said the most striking thing was how long it took to want to do anything at all — even things she'd loved before work had consumed everything. What helped most, she said, wasn't the time off itself but finally being told that what had happened to her wasn't a failure of character.",
+        "vocabulary_hints": ["in retrospect", "out of character", "consumed everything", "wasn't a failure of character"],
+        "duration_seconds": 90
+      },
+      {
+        "id": "o3",
+        "type": "answer_question",
+        "question": "Is 'resilience' a meaningful concept, or is it just a way of telling people to endure bad conditions without complaint?",
+        "suggested_answer": "I think resilience is a genuinely meaningful concept, but it's been weaponised. There is real variation in how people respond to adversity, and understanding and building that capacity is worthwhile. The problem is when resilience becomes the primary response to a structural problem — when organisations offer yoga classes instead of reducing workloads, or when people are told they need to be more resilient when what they actually need is fewer working hours. At that point, resilience language stops being empowering and becomes a mechanism for placing the burden of a systemic failure entirely on the individual. The word itself is neutral; the function it serves in practice is often deeply ideological.",
+        "vocabulary_hints": ["weaponised", "real variation in how people respond", "mechanism for placing the burden", "neutral vs deeply ideological"],
+        "duration_seconds": 90
+      }
+    ]
+  }
+}

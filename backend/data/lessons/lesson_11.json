@@ -1,0 +1,297 @@
+{
+  "id": "11",
+  "unit": 2,
+  "unit_title": "Culture, Arts & Media",
+  "title": "The Truth Industry",
+  "level": "B2+",
+  "type": "story",
+  "theme": "Media, Misinformation & Democracy",
+  "reading_time": "6 min",
+  "content": {
+    "paragraphs": [
+      {
+        "en": "The photograph had been shared 400,000 times before anyone noticed it was fake. It showed a polar bear stranded on a tiny ice floe, looking directly at the camera with an expression that could only be described as despair. It was, in every technical sense, a fabrication — a composite of three separate images, assembled with remarkable skill. It was also, in a different sense, true.",
+        "fr": "La photographie avait été partagée 400 000 fois avant que quiconque remarque qu'elle était fausse. Elle montrait un ours polaire échoué sur un minuscule glaçon, regardant directement l'objectif avec une expression qui ne pouvait être décrite que comme du désespoir. C'était, dans tout sens technique, une fabrication — un composite de trois images séparées, assemblé avec une habileté remarquable. C'était aussi, dans un sens différent, vrai."
+      },
+      {
+        "en": "The creator — a digital artist named Rowan — had made it in response to what he called 'the empathy gap': the difficulty people have connecting emotionally with statistics and abstract data. 'We know the ice is melting,' he said in an interview. 'We've known for decades. What we seem to lack is the feeling of urgency that should accompany that knowledge.'",
+        "fr": "Le créateur — un artiste numérique nommé Rowan — l'avait fabriqué en réponse à ce qu'il appelait « l'écart d'empathie » : la difficulté qu'ont les gens à se connecter émotionnellement avec des statistiques et des données abstraites. « Nous savons que la glace fond, dit-il lors d'un entretien. Nous le savons depuis des décennies. Ce qui semble nous manquer, c'est le sentiment d'urgence qui devrait accompagner cette connaissance. »"
+      },
+      {
+        "en": "His intentions were good. So, arguably, was the outcome — the image had driven significant traffic to climate change organisations and sparked several fundraising campaigns. But when the fabrication was exposed, something strange happened. Many of the people who had shared it felt not embarrassed but betrayed. Not by Rowan, but by the fact-checkers who had unmasked him.",
+        "fr": "Ses intentions étaient bonnes. L'issue aussi, pourrait-on dire — l'image avait généré un trafic important vers des organisations de lutte contre le changement climatique et déclenché plusieurs campagnes de collecte de fonds. Mais quand la fabrication fut révélée, quelque chose d'étrange se produisit. Beaucoup de ceux qui l'avaient partagée se sentirent non pas embarrassés mais trahis. Non pas par Rowan, mais par les fact-checkers qui l'avaient démasqué."
+      },
+      {
+        "en": "This reaction — hostility towards correction — is one of the most documented and least understood phenomena in contemporary media studies. It goes by various names: the 'backfire effect', 'motivated reasoning', 'identity-protective cognition'. The mechanisms differ, but the outcome is consistent: when people encounter evidence that contradicts a belief they hold strongly, they often become more entrenched in that belief, not less.",
+        "fr": "Cette réaction — hostilité envers la correction — est l'un des phénomènes les plus documentés et les moins bien compris dans les études médiatiques contemporaines. On lui donne divers noms : l'« effet de retour de flamme », le « raisonnement motivé », la « cognition protectrice de l'identité ». Les mécanismes diffèrent, mais le résultat est constant : quand les gens rencontrent des preuves qui contredisent une croyance qu'ils tiennent fortement, ils s'y accrochent souvent davantage, pas moins."
+      },
+      {
+        "en": "The implications are uncomfortable for those who believe — as many journalists and scientists do — that the solution to misinformation is simply more and better information. If accurate facts were sufficient to change minds, the problem would have been solved decades ago. The challenge is not epistemological; it is psychological and social. People don't adopt beliefs because they have evaluated the evidence. They adopt beliefs because those beliefs are held by people they trust and identify with.",
+        "fr": "Les implications sont inconfortables pour ceux qui croient — comme beaucoup de journalistes et de scientifiques — que la solution à la désinformation est simplement plus et meilleures informations. Si les faits précis suffisaient à changer les esprits, le problème aurait été résolu il y a des décennies. Le défi n'est pas épistémologique ; il est psychologique et social. Les gens n'adoptent pas les croyances parce qu'ils ont évalué les preuves. Ils adoptent les croyances parce que ces croyances sont détenues par des gens en qui ils ont confiance et auxquels ils s'identifient."
+      },
+      {
+        "en": "Rowan, for his part, took down the image and issued an apology. Then he made another composite — this time, one of a child sitting in floodwater, eyes wide, looking at something just out of frame. Within a week, it had been shared three hundred thousand times. He had not claimed it was real. Nobody had asked.",
+        "fr": "Rowan, pour sa part, retira l'image et publia des excuses. Puis il fit un autre composite — cette fois, celui d'un enfant assis dans l'eau d'une inondation, les yeux écarquillés, regardant quelque chose hors champ. En une semaine, il avait été partagé trois cent mille fois. Il n'avait pas prétendu que c'était réel. Personne n'avait demandé."
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "fabrication",
+        "phonetic": "/ˌfæbrɪˈkeɪʃn/",
+        "type": "noun",
+        "definition_en": "Quelque chose d'inventé ou de fabriqué, en particulier un récit mensonger ou une image manufacturée",
+        "definition_fr": "fabrication, invention, falsification",
+        "example": "The report was a complete fabrication — not a single fact in it was accurate.",
+        "level": "B2"
+      },
+      {
+        "word": "composite",
+        "phonetic": "/ˈkɒmpəzɪt/",
+        "type": "noun/adjective",
+        "definition_en": "Quelque chose créé en combinant plusieurs éléments différents",
+        "definition_fr": "composite, assemblage de plusieurs éléments",
+        "example": "The image was a composite of three different photographs.",
+        "level": "B2"
+      },
+      {
+        "word": "empathy gap",
+        "phonetic": "/ˈempəθi ɡæp/",
+        "type": "noun (compound)",
+        "definition_en": "La difficulté qu'éprouvent les gens à se connecter émotionnellement avec des données abstraites, des événements lointains ou la souffrance des autres",
+        "definition_fr": "écart d'empathie",
+        "example": "Statistics about poverty rarely move people as much as a single personal story — that's the empathy gap.",
+        "level": "C1"
+      },
+      {
+        "word": "to unmask",
+        "phonetic": "/ʌnˈmɑːsk/",
+        "type": "verb",
+        "definition_en": "Révéler la vraie nature de quelqu'un ou de quelque chose qui était auparavant caché",
+        "definition_fr": "démasquer, révéler, exposer",
+        "example": "The investigative journalist unmasked several key figures in the fraud.",
+        "level": "B2"
+      },
+      {
+        "word": "entrenched",
+        "phonetic": "/ɪnˈtrentʃt/",
+        "type": "adjective",
+        "definition_en": "Fermement établi et résistant au changement",
+        "definition_fr": "ancré, enraciné, bien établi (et difficile à changer)",
+        "example": "Entrenched attitudes about gender roles are difficult to shift.",
+        "level": "C1"
+      },
+      {
+        "word": "misinformation",
+        "phonetic": "/ˌmɪsɪnfəˈmeɪʃn/",
+        "type": "noun",
+        "definition_en": "Information fausse ou inexacte, surtout lorsqu'elle est diffusée sans intention de tromper (cf. désinformation = délibérée)",
+        "definition_fr": "désinformation, fausses informations",
+        "example": "Social media platforms are struggling to address the spread of misinformation.",
+        "level": "B2"
+      },
+      {
+        "word": "epistemological",
+        "phonetic": "/ɪˌpɪstɪməˈlɒdʒɪkl/",
+        "type": "adjective",
+        "definition_en": "Relatif à l'épistémologie — la branche de la philosophie qui s'intéresse à la connaissance et à la façon dont nous savons les choses",
+        "definition_fr": "épistémologique (relatif à la théorie de la connaissance)",
+        "example": "The debate has an epistemological dimension: what counts as evidence?",
+        "level": "C1"
+      },
+      {
+        "word": "motivated reasoning",
+        "phonetic": "/ˈməʊtɪveɪtɪd ˈriːznɪŋ/",
+        "type": "noun (compound, psychology)",
+        "definition_en": "La tendance à rechercher et interpréter l'information de manière à confirmer des croyances préexistantes",
+        "definition_fr": "raisonnement motivé (tendance à chercher des informations qui confirment ses croyances)",
+        "example": "Motivated reasoning explains why people are more sceptical of evidence that contradicts their views.",
+        "level": "C1"
+      },
+      {
+        "word": "to identify with",
+        "phonetic": "/aɪˈdentɪfaɪ wɪð/",
+        "type": "phrasal verb",
+        "definition_en": "Ressentir un fort sentiment de connexion ou de caractéristiques partagées avec quelqu'un ou quelque chose",
+        "definition_fr": "s'identifier à, se reconnaître dans",
+        "example": "Readers identify with characters who face the same struggles as they do.",
+        "level": "B2"
+      },
+      {
+        "word": "backfire effect",
+        "phonetic": "/ˈbækfaɪər ɪˈfekt/",
+        "type": "noun (compound, psychology)",
+        "definition_en": "Le phénomène par lequel les corrections apportées à de fausses croyances peuvent amener les gens à y adhérer encore plus fortement",
+        "definition_fr": "effet de retour de flamme (les corrections renforcent parfois les fausses croyances)",
+        "example": "The backfire effect suggests that fact-checking alone cannot solve misinformation.",
+        "level": "C1"
+      }
+    ],
+    "grammar_points": [
+      {
+        "title": "The concessive use of 'also': 'It was also, in a different sense, true'",
+        "explanation": "L'utilisation de **'in a different sense'** ou **'in a sense'** permet à un auteur de reconnaître une complexité — que deux choses apparemment contradictoires peuvent être vraies toutes les deux, selon le cadre d'analyse. C'est un procédé clé en écriture académique et analytique.",
+        "examples": [
+          "'It was, in every technical sense, a fabrication. It was also, **in a different sense**, true.'",
+          "'He was wrong, **in the narrow sense**. He was right, **in the broader one**.'",
+          "'**In one sense**, the policy failed. **In another**, it was a success.'",
+          "Tip: this structure avoids false either/or choices and signals intellectual nuance."
+        ]
+      },
+      {
+        "title": "Passive voice in academic register: 'It goes by various names'",
+        "explanation": "La **voix passive** est utilisée en anglais académique et journalistique quand l'accent est mis sur ce qui se passe plutôt que sur qui le fait. Elle crée également un sentiment d'impersonnalité et de généralité — le phénomène existe indépendamment de tout acteur individuel.",
+        "examples": [
+          "'It **goes by** various names.' → various people call it by various names",
+          "'The phenomenon **has been documented** extensively.' → researchers have documented it",
+          "'**It has been argued** that...' → a common academic hedge",
+          "'These findings **are consistent** with earlier research.' → passive as generalising device"
+        ]
+      },
+      {
+        "title": "Fronted adverbials for emphasis: 'Within a week, it had been shared...'",
+        "explanation": "Placer une expression de temps ou de circonstance en début de phrase (**complément circonstanciel antéposé**) crée de l'emphase et une dynamique narrative. C'est très courant en écriture journalistique pour créer de la tension ou marquer une progression rapide.",
+        "examples": [
+          "'**Within a week**, it had been shared three hundred thousand times.'",
+          "'**By the following morning**, the story had gone viral.'",
+          "'**In a matter of days**, the situation had escalated dramatically.'",
+          "'**Despite everything**, she went ahead with the plan.'"
+        ]
+      }
+    ],
+    "expressions": [
+      {
+        "expression": "for his/her part",
+        "meaning_fr": "pour sa part, quant à lui/elle",
+        "example": "Rowan, for his part, took down the image and issued an apology.",
+        "register": "formal / journalistic",
+        "note": "Utilisé pour introduire ce qu'une personne spécifique a fait, souvent en contraste avec ce que d'autres ont fait ou dit."
+      },
+      {
+        "expression": "arguably",
+        "meaning_fr": "on pourrait dire, il est possible de soutenir que",
+        "example": "His intentions were good. So, arguably, was the outcome.",
+        "register": "formal / academic",
+        "note": "Signale une affirmation défendable mais pas certaine. L'un des adverbes d'atténuation les plus utiles en anglais académique."
+      },
+      {
+        "expression": "to spark (something)",
+        "meaning_fr": "déclencher, provoquer, susciter",
+        "example": "The image sparked several fundraising campaigns.",
+        "register": "neutral / journalistic",
+        "note": "« To spark » signifie provoquer le début de quelque chose, comme une étincelle qui allume un feu. Courant avec les débats, les manifestations, les campagnes."
+      },
+      {
+        "expression": "to go viral",
+        "meaning_fr": "devenir viral, se répandre massivement sur Internet",
+        "example": "The composite image went viral within hours.",
+        "register": "informal / digital",
+        "note": "Se propager très rapidement sur les réseaux sociaux ou Internet, comme un virus. Désormais un vocabulaire standard dans l'anglais des médias."
+      },
+      {
+        "expression": "to hold a belief",
+        "meaning_fr": "avoir une croyance, détenir une conviction",
+        "example": "When people encounter evidence contradicting a belief they hold strongly, they often become more entrenched.",
+        "register": "formal / academic",
+        "note": "Plus formel que « believe ». Utilisé dans les contextes académiques et philosophiques : « hold a view », « hold a position »."
+      }
+    ]
+  },
+  "exercises": {
+    "written": [
+      {
+        "id": "w1",
+        "type": "multiple_choice",
+        "question": "Why did Rowan create the fake photograph?",
+        "options": [
+          "To generate income through social media engagement.",
+          "To win a digital art competition.",
+          "To emotionally engage people with climate change data.",
+          "To test whether fact-checkers could identify composite images."
+        ],
+        "answer": 2,
+        "explanation": "Rowan created it to address the 'empathy gap' — the difficulty connecting emotionally with abstract climate data."
+      },
+      {
+        "id": "w2",
+        "type": "multiple_choice",
+        "question": "What is the 'backfire effect' as described in the article?",
+        "options": [
+          "The tendency for fake news to spread faster than corrections.",
+          "The phenomenon whereby people become more certain of a false belief when it is corrected.",
+          "The economic damage caused when misinformation campaigns are exposed.",
+          "The technical process by which a composite image can be identified."
+        ],
+        "answer": 1,
+        "explanation": "The text defines it as: 'when people encounter evidence that contradicts a belief they hold strongly, they often become more entrenched in that belief, not less.'"
+      },
+      {
+        "id": "w3",
+        "type": "fill_blank",
+        "sentence": "The senator ________ numerous names over the course of the scandal.",
+        "answer": "went by / was given",
+        "hint": "The phrase 'goes by various names' uses a verb meaning 'is known as' or 'is called'."
+      },
+      {
+        "id": "w4",
+        "type": "fill_blank",
+        "sentence": "The documentary ________ a nationwide debate about immigration policy.",
+        "answer": "sparked",
+        "hint": "A verb meaning 'to trigger or cause something to start'."
+      },
+      {
+        "id": "w5",
+        "type": "fill_blank",
+        "sentence": "His intentions were good. So, ________, were the results.",
+        "answer": "arguably",
+        "hint": "A hedging adverb meaning 'one could argue that'."
+      },
+      {
+        "id": "w6",
+        "type": "translation",
+        "french": "Les gens n'adoptent pas les croyances parce qu'ils ont évalué les preuves — ils les adoptent parce qu'ils s'identifient au groupe qui les détient.",
+        "suggested_answer": "People don't adopt beliefs because they have evaluated the evidence — they adopt them because they identify with the group that holds them.",
+        "key_vocabulary": ["evaluate the evidence", "identify with", "hold beliefs"]
+      },
+      {
+        "id": "w7",
+        "type": "translation",
+        "french": "En l'espace d'une semaine, la vidéo était devenue virale et avait été vue par des millions de personnes.",
+        "suggested_answer": "Within a week, the video had gone viral and had been seen by millions of people.",
+        "key_vocabulary": ["Within a week", "had gone viral", "past perfect"]
+      },
+      {
+        "id": "w8",
+        "type": "translation",
+        "french": "C'était, dans tout sens technique, une fabrication. C'était aussi, dans un sens différent, la vérité.",
+        "suggested_answer": "It was, in every technical sense, a fabrication. It was also, in a different sense, the truth.",
+        "key_vocabulary": ["in every technical sense", "in a different sense", "fabrication"]
+      }
+    ],
+    "oral": [
+      {
+        "id": "o1",
+        "type": "read_aloud",
+        "instruction": "Read the analytical paragraph about the 'backfire effect'. This is dense, formal prose — pace yourself carefully.",
+        "text": "This reaction — hostility towards correction — is one of the most documented and least understood phenomena in contemporary media studies. It goes by various names: the 'backfire effect', 'motivated reasoning', 'identity-protective cognition'. The mechanisms differ, but the outcome is consistent: when people encounter evidence that contradicts a belief they hold strongly, they often become more entrenched in that belief, not less.",
+        "focus": "The list of names should be read clearly, with brief pauses between each. The final clause — 'not less' — is the punchline and should be emphasised.",
+        "phonetic_tips": ["phenomenon: /fɪˈnɒmɪnən/", "consistent: /kənˈsɪstənt/", "entrenched: /ɪnˈtrentʃt/"]
+      },
+      {
+        "id": "o2",
+        "type": "answer_question",
+        "question": "Have you ever changed your mind about something because of a strong argument or piece of evidence? What changed your thinking?",
+        "suggested_answer": "I think genuinely changing your mind is rarer than people admit. I remember being convinced that a certain political policy was obviously correct, and then reading a long-form article that laid out its consequences in detail — not arguing against my position, but simply showing what happened when similar policies had been tried elsewhere. What changed my thinking wasn't being told I was wrong. It was being shown complexity I hadn't considered. I think that's the key: people don't change their minds when they feel attacked, but when they feel respected enough to be given new information.",
+        "vocabulary_hints": ["genuinely changing your mind", "long-form article", "laid out", "complexity I hadn't considered", "feel attacked vs feel respected"],
+        "duration_seconds": 90
+      },
+      {
+        "id": "o3",
+        "type": "answer_question",
+        "question": "Is it ever justified to use a false image or fabricated story to promote a real truth? Defend your view.",
+        "suggested_answer": "This is genuinely difficult. I can see the argument: the empathy gap is real, and if a composite image drives ten thousand people to donate to climate research, hasn't it done something valuable? But I think the risks of normalising fabrication outweigh the short-term gains. Once audiences know that images can be emotionally manipulative and dishonest, they apply that scepticism universally — including to real photographs of genuine suffering. The credibility of documentary evidence is a shared resource, and every fabrication that is exposed depletes it. I'd argue that the long-term cost is too high, even when the intentions are good.",
+        "vocabulary_hints": ["the empathy gap is real", "normalising fabrication", "scepticism universally", "documentary evidence", "a shared resource", "depletes"],
+        "duration_seconds": 90
+      }
+    ]
+  }
+}

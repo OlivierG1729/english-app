@@ -1,0 +1,297 @@
+{
+  "id": "35",
+  "unit": 5,
+  "unit_title": "C1 Mastery & Consolidation",
+  "title": "Between the Lines",
+  "level": "C1+",
+  "type": "story",
+  "theme": "Literary Analysis, Close Reading & Interpretation",
+  "reading_time": "7 min",
+  "content": {
+    "paragraphs": [
+      {
+        "en": "The most common misunderstanding about literary interpretation is that it is fundamentally subjective — that meaning is in the eye of the beholder, and that one reading is as valid as any other. This is a comforting thought, but it is largely wrong. Interpretation is constrained by the text. Not every reading is defensible; not every reading is equally persuasive. What distinguishes skilled close reading is not freedom from constraint but the ability to move rigorously between textual evidence and interpretive claim.",
+        "fr": "Le malentendu le plus courant sur l'interprétation littéraire est qu'elle est fondamentalement subjective — que la signification est dans les yeux de celui qui regarde, et qu'une lecture en vaut une autre. C'est une pensée réconfortante, mais elle est largement erronée. L'interprétation est contrainte par le texte. Chaque lecture n'est pas défendable ; chaque lecture n'est pas également convaincante. Ce qui distingue une lecture attentive compétente, ce n'est pas la liberté de contrainte mais la capacité à se déplacer rigoureusement entre les preuves textuelles et la prétention interprétative."
+      },
+      {
+        "en": "Consider the opening line of Anna Karenina: 'All happy families are alike; each unhappy family is unhappy in its own way.' This is one of the most famous sentences in world literature, and it repays sustained attention. On the surface, it makes a general claim about happiness and unhappiness in families. But look more carefully at the structure: the confident, totalising claim of the first clause ('all... are alike') is immediately undermined by the second, which asserts particularity and singularity. The sentence opens with a false certainty and immediately qualifies it.",
+        "fr": "Considérez la première ligne d'Anna Karénine : « Toutes les familles heureuses se ressemblent ; chaque famille malheureuse l'est à sa façon. » C'est l'une des phrases les plus célèbres de la littérature mondiale, et elle mérite une attention soutenue. En surface, elle fait une affirmation générale sur le bonheur et le malheur dans les familles. Mais regardez plus attentivement la structure : la revendication confiante et totalisante de la première proposition (« toutes... se ressemblent ») est immédiatement minée par la seconde, qui affirme la particularité et la singularité. La phrase s'ouvre sur une certitude factice et la qualifie immédiatement."
+      },
+      {
+        "en": "What does this suggest about the novel that follows? It suggests that Tolstoy is not interested in general truths but in the irreducibly particular — in the specific textures of individual lives that resist categorisation. The famous opening is not, as it might first appear, a confident aphorism; it is a trap. The reader who nods along to the confident first clause has just been shown the limits of the kind of thinking that nods along to confident first clauses.",
+        "fr": "Qu'est-ce que cela suggère sur le roman qui suit ? Cela suggère que Tolstoï n'est pas intéressé par les vérités générales mais par l'irréductiblement particulier — par les textures spécifiques des vies individuelles qui résistent à la catégorisation. L'ouverture célèbre n'est pas, comme elle pourrait d'abord apparaître, un aphorisme confiant ; c'est un piège. Le lecteur qui acquiesce à la première proposition confiante vient précisément de voir les limites du type de pensée qui acquiesce aux premières propositions confiantes."
+      },
+      {
+        "en": "This kind of reading — attending to structure, to the relationship between clauses, to what a sentence does as much as what it says — is what literary education is supposed to teach. It is, however, easily caricatured: critics of the humanities often invoke the idea of a student 'finding symbols' or 'reading too much into things' as evidence that literary analysis is fundamentally arbitrary. The caricature misses the point. The skilled reader is not finding hidden meanings planted by authors; they are reading how language works, which is a precision skill with applications far beyond literature.",
+        "fr": "Ce genre de lecture — prêter attention à la structure, à la relation entre les propositions, à ce que fait une phrase autant qu'à ce qu'elle dit — est ce que l'éducation littéraire est censée enseigner. C'est cependant facilement caricaturé : les critiques des humanités invoquent souvent l'idée d'un étudiant qui « trouve des symboles » ou « lit trop entre les lignes » comme preuve que l'analyse littéraire est fondamentalement arbitraire. La caricature manque l'essentiel. Le lecteur compétent ne trouve pas de significations cachées plantées par les auteurs ; il lit comment le langage fonctionne, ce qui est une compétence de précision avec des applications bien au-delà de la littérature."
+      },
+      {
+        "en": "The politician who understands that a phrase is doing different work depending on whether it appears in the active or passive voice, the lawyer who attends to the precise placement of a comma, the scientist who notes that a paper describes its results as 'consistent with' rather than 'demonstrating' — all are practising a version of close reading. The skills are transferable precisely because language is not transparent. Words do not merely describe reality; they shape it, frame it, and sometimes deliberately obscure it.",
+        "fr": "Le politique qui comprend qu'une phrase fait un travail différent selon qu'elle apparaît à la voix active ou passive, le juriste qui prête attention à l'emplacement précis d'une virgule, le scientifique qui note qu'un article décrit ses résultats comme « cohérents avec » plutôt que « démontrant » — tous pratiquent une version de la lecture attentive. Les compétences sont transférables précisément parce que le langage n'est pas transparent. Les mots ne décrivent pas simplement la réalité ; ils la façonnent, la cadrent et parfois la dissimulent délibérément."
+      },
+      {
+        "en": "To read carefully is not an academic exercise. It is a form of civic self-defence.",
+        "fr": "Lire attentivement n'est pas un exercice académique. C'est une forme d'autodéfense civique."
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "close reading",
+        "phonetic": "/kləʊs ˈriːdɪŋ/",
+        "type": "noun (literary criticism)",
+        "definition_en": "l'analyse minutieuse et détaillée d'un court passage de texte, en prêtant attention au langage, à la structure et au style",
+        "definition_fr": "lecture attentive, lecture serrée",
+        "example": "Close reading of Tolstoy's opening sentence reveals unexpected structural irony.",
+        "level": "C1"
+      },
+      {
+        "word": "interpretive claim",
+        "phonetic": "/ɪnˈtɜːrprɪtɪv kleɪm/",
+        "type": "noun phrase",
+        "definition_en": "un argument sur ce que signifie un texte, par opposition à une description de ce qu'il dit",
+        "definition_fr": "prétention interprétative, argument d'interprétation",
+        "example": "A good interpretive claim must be grounded in textual evidence.",
+        "level": "C1"
+      },
+      {
+        "word": "totalising",
+        "phonetic": "/ˈtəʊtəlaɪzɪŋ/",
+        "type": "adjective",
+        "definition_en": "qui cherche à tout englober ; qui fait des affirmations s'appliquant universellement sans exception",
+        "definition_fr": "totalisant, qui prétend tout englober",
+        "example": "Totalising statements — 'all people are...' — are often the most vulnerable to counterexample.",
+        "level": "C1"
+      },
+      {
+        "word": "aphorism",
+        "phonetic": "/ˈæfərɪzəm/",
+        "type": "noun",
+        "definition_en": "une déclaration courte et percutante exprimant une vérité générale",
+        "definition_fr": "aphorisme, maxime",
+        "example": "Tolstoy's opening is often mistaken for a confident aphorism when it is in fact a structural trap.",
+        "level": "C1"
+      },
+      {
+        "word": "to caricature",
+        "phonetic": "/ˈkærɪkətʃʊər/",
+        "type": "verb",
+        "definition_en": "représenter de manière simplifiée ou déformée en accentuant les défauts ou les caractéristiques",
+        "definition_fr": "caricaturer",
+        "example": "Critics often caricature literary studies as arbitrary or self-indulgent.",
+        "level": "B2"
+      },
+      {
+        "word": "arbitrary",
+        "phonetic": "/ˈɑːrbɪtrəri/",
+        "type": "adjective",
+        "definition_en": "fondé sur un choix aléatoire plutôt que sur la raison ou les preuves ; sans logique apparente",
+        "definition_fr": "arbitraire",
+        "example": "Interpretation is not arbitrary — not all readings are equally defensible.",
+        "level": "B2"
+      },
+      {
+        "word": "transferable (skills)",
+        "phonetic": "/trænsˈfɜːrəbl/",
+        "type": "adjective",
+        "definition_en": "applicable dans différents contextes ou domaines",
+        "definition_fr": "transférable, applicable dans d'autres domaines",
+        "example": "The skills of close reading are transferable to law, politics and science.",
+        "level": "B2"
+      },
+      {
+        "word": "transparent",
+        "phonetic": "/trænsˈpærənt/",
+        "type": "adjective",
+        "definition_en": "que l'on voit à travers facilement ; en langage, signifie que les mots ont des sens évidents et sans ambiguïté",
+        "definition_fr": "transparent, évident",
+        "example": "Language is not transparent — the same words can mean very different things in different contexts.",
+        "level": "B2"
+      },
+      {
+        "word": "civic self-defence",
+        "phonetic": "/ˈsɪvɪk self dɪˈfens/",
+        "type": "noun phrase",
+        "definition_en": "la capacité à se protéger de la manipulation en comprenant comment fonctionnent le langage et l'argumentation",
+        "definition_fr": "autodéfense civique",
+        "example": "Rhetorical literacy is a form of civic self-defence in the age of misinformation.",
+        "level": "C1"
+      },
+      {
+        "word": "irreducibly",
+        "phonetic": "/ˌɪrɪˈdjuːsɪbli/",
+        "type": "adverb",
+        "definition_en": "d'une manière qui ne peut être simplifiée ou réduite sans perdre des qualités essentielles",
+        "definition_fr": "irréductiblement",
+        "example": "Each unhappy family is irreducibly particular — no general rule captures it.",
+        "level": "C1"
+      }
+    ],
+    "grammar_points": [
+      {
+        "title": "Structural analysis of a sentence: 'the confident first clause is undermined by the second'",
+        "explanation": "Quand on **analyse le fonctionnement d'une phrase**, l'anglais utilise des verbes spécifiques qui décrivent la relation entre les propositions : « undermines », « qualifies », « complicates », « reinforces », « ironises ». Maîtriser ces verbes permet une écriture littéraire et analytique précise.",
+        "examples": [
+          "'The second clause **undermines** the first.'",
+          "'The parenthetical **qualifies** the main claim.'",
+          "'The passive voice here **distances** the speaker from responsibility.'",
+          "'The conditional **softens** an otherwise assertive argument.'",
+          "Key analytical verbs: undermine, qualify, complicate, subvert, reinforce, ironise, hedge."
+        ]
+      },
+      {
+        "title": "'The reader who nods along has just been shown' — reflexive trap construction",
+        "explanation": "Cette construction décrit **le lecteur impliqué dans le phénomène même que le texte démontre**. Elle crée une boucle autoréférentielle : le lecteur commet l'erreur que le texte est en train d'analyser.",
+        "examples": [
+          "'The reader who **nods along** to the confident first clause has just **been shown** the limits of that thinking.'",
+          "'Anyone who skips the footnote will **miss** the argument that explains why skipping footnotes matters.'",
+          "This is a common technique in literary and philosophical writing to make the form enact the content."
+        ]
+      },
+      {
+        "title": "'Words do not merely X; they Y' — the 'not merely' structure for upgrading a claim",
+        "explanation": "**« Not merely X but Y »** remplace une affirmation plus faible ou plus évidente par une plus forte et moins attendue. Cela signale une profondeur analytique en allant au-delà de l'évidence.",
+        "examples": [
+          "'Words do **not merely describe** reality; they **shape** it.'",
+          "'Metaphors do **not merely illustrate** an argument; they **constitute** it.'",
+          "'Style is **not merely decoration**; it **is** the argument.'",
+          "This structure is extremely common in literary and critical writing."
+        ]
+      }
+    ],
+    "expressions": [
+      {
+        "expression": "repays sustained attention",
+        "meaning_fr": "mérite une attention soutenue, vaut la peine d'être étudié en profondeur",
+        "example": "This opening sentence repays sustained attention.",
+        "register": "literary / academic",
+        "note": "Utilisé pour signaler que quelque chose est plus complexe qu'il n'y paraît et récompense une analyse attentive. Courant dans les critiques littéraires et les recensions de livres."
+      },
+      {
+        "expression": "on the surface / look more carefully",
+        "meaning_fr": "en surface / regardons de plus près",
+        "example": "On the surface, the sentence makes a simple claim. Look more carefully at the structure.",
+        "register": "analytical / educational",
+        "note": "Un couple classique pour signaler le passage de la lecture en surface à l'analyse plus profonde. « On the surface » installe une attente ; « look more carefully » la subvertit."
+      },
+      {
+        "expression": "to read too much into (something)",
+        "meaning_fr": "lire trop entre les lignes, surinterpréter",
+        "example": "Critics dismiss literary analysis as 'reading too much into things'.",
+        "register": "informal / colloquial",
+        "note": "Une expression sceptique courante utilisée pour rejeter une analyse attentive. Le travail du critique littéraire est d'expliquer pourquoi ce reproche est parfois infondé."
+      },
+      {
+        "expression": "civic self-defence",
+        "meaning_fr": "autodéfense civique",
+        "example": "Careful reading is not an academic exercise — it is a form of civic self-defence.",
+        "register": "rhetorical / final",
+        "note": "Un mouvement rhétorique puissant : prendre une compétence perçue comme secondaire et la recadrer comme un outil de survie pratique pour la citoyenneté démocratique."
+      },
+      {
+        "expression": "consistent with (rather than demonstrating)",
+        "meaning_fr": "cohérent avec (plutôt que démontrant)",
+        "example": "Noticing that a paper says 'consistent with' rather than 'demonstrates' is close reading applied to science.",
+        "register": "scientific / analytical",
+        "note": "Une distinction cruciale dans l'écriture scientifique. « Consistent with » = les données ne réfutent pas la théorie. « Demonstrates » = les données la confirment. La différence est énorme."
+      }
+    ]
+  },
+  "exercises": {
+    "written": [
+      {
+        "id": "w1",
+        "type": "multiple_choice",
+        "question": "What is the author's main argument about literary interpretation?",
+        "options": [
+          "It is fundamentally subjective and all readings are equally valid.",
+          "It is constrained by the text, and some readings are more defensible than others.",
+          "It should focus primarily on the author's biographical context.",
+          "It is too specialised to be useful outside literature."
+        ],
+        "answer": 1,
+        "explanation": "'Interpretation is constrained by the text. Not every reading is defensible; not every reading is equally persuasive.'"
+      },
+      {
+        "id": "w2",
+        "type": "multiple_choice",
+        "question": "What does the author claim is the 'trap' in Tolstoy's opening sentence?",
+        "options": [
+          "It is untrue — unhappy families are actually quite similar.",
+          "Readers who agree with the confident first clause reveal the limits of that confident thinking.",
+          "It sets up expectations that the novel deliberately disappoints.",
+          "The sentence is grammatically ambiguous in the original Russian."
+        ],
+        "answer": 1,
+        "explanation": "'The reader who nods along to the confident first clause has just been shown the limits of the kind of thinking that nods along to confident first clauses.'"
+      },
+      {
+        "id": "w3",
+        "type": "fill_blank",
+        "sentence": "The second paragraph ________ the optimistic reading established in the first.",
+        "answer": "undermines / complicates / qualifies",
+        "hint": "An analytical verb describing how one clause or section modifies another."
+      },
+      {
+        "id": "w4",
+        "type": "fill_blank",
+        "sentence": "Fiction does not ________ ________ tell stories; it shapes how readers perceive the world.",
+        "answer": "merely / merely",
+        "hint": "An adverb used to introduce a stronger, less obvious claim."
+      },
+      {
+        "id": "w5",
+        "type": "fill_blank",
+        "sentence": "The report's conclusion is careful to say the findings are ________ ________ current theory, not that they prove it.",
+        "answer": "consistent with",
+        "hint": "A phrase meaning 'not contradicting, but not confirming either'."
+      },
+      {
+        "id": "w6",
+        "type": "translation",
+        "french": "Ce qui distingue une lecture attentive compétente, c'est la capacité à se déplacer rigoureusement entre les preuves textuelles et l'interprétation.",
+        "suggested_answer": "What distinguishes skilled close reading is the ability to move rigorously between textual evidence and interpretation.",
+        "key_vocabulary": ["What distinguishes skilled close reading", "move rigorously between", "textual evidence and interpretation"]
+      },
+      {
+        "id": "w7",
+        "type": "translation",
+        "french": "Les mots ne décrivent pas simplement la réalité ; ils la façonnent, la cadrent et parfois la dissimulent délibérément.",
+        "suggested_answer": "Words do not merely describe reality; they shape it, frame it, and sometimes deliberately obscure it.",
+        "key_vocabulary": ["do not merely describe", "shape it, frame it", "deliberately obscure"]
+      },
+      {
+        "id": "w8",
+        "type": "translation",
+        "french": "Lire attentivement n'est pas un exercice académique — c'est une forme d'autodéfense civique.",
+        "suggested_answer": "To read carefully is not an academic exercise — it is a form of civic self-defence.",
+        "key_vocabulary": ["To read carefully", "not an academic exercise", "civic self-defence"]
+      }
+    ],
+    "oral": [
+      {
+        "id": "o1",
+        "type": "read_aloud",
+        "instruction": "Read the final two paragraphs. The last sentence should land like a declaration — short, sharp, and completely confident after the longer build-up.",
+        "text": "The skills are transferable precisely because language is not transparent. Words do not merely describe reality; they shape it, frame it, and sometimes deliberately obscure it. To read carefully is not an academic exercise. It is a form of civic self-defence.",
+        "focus": "The final two sentences are both single-clause. No subordination, no qualification — pure assertion. Let each one arrive completely before moving to the next.",
+        "phonetic_tips": ["transparent: /trænsˈpærənt/", "deliberately: /dɪˈlɪbərətli/", "civic: /ˈsɪvɪk/"]
+      },
+      {
+        "id": "o2",
+        "type": "answer_question",
+        "question": "Analyse the following sentence closely: 'We regret to inform you that your application was not successful on this occasion.' What does the language reveal?",
+        "suggested_answer": "This sentence is a masterclass in linguistic distancing. 'We regret' performs emotion without expressing it — 'regret' is weaker than 'are sorry' and keeps the company at arm's length. 'To inform you' frames the letter as neutral information-sharing rather than a decision that was made about you. 'Was not successful' uses the passive voice to remove any agent — the application failed, but nobody rejected it. 'On this occasion' is perhaps most interesting: it implies this was a single event, leaving open the possibility of future success, but also implies the decision was situational rather than a judgement about the candidate. The whole sentence is designed to deliver bad news while minimising the sense that a human made a decision to harm you.",
+        "vocabulary_hints": ["linguistic distancing", "weaker than / stronger than", "passive voice removes the agent", "minimising the sense that a human decided"],
+        "duration_seconds": 90
+      },
+      {
+        "id": "o3",
+        "type": "answer_question",
+        "question": "Are the humanities — literature, history, philosophy — valuable in a society dominated by technology and economic concerns? Make the strongest case you can.",
+        "suggested_answer": "The strongest case I can make is not that the humanities are nice or enriching in a vague cultural sense, but that they are practically necessary for navigating the world we're in. We live in an environment saturated with language that is designed to move us — to buy, to vote, to believe. The ability to read carefully, to distinguish an argument from a rhetorical manoeuvre, to identify when a seemingly factual claim is doing normative work — these are survival skills, not luxuries. Separately, the problems we most need to solve — climate, AI governance, democratic erosion — are not primarily technical problems. They are problems about values, about competing interests, about what kind of society we want. Those are exactly the questions that the humanities are structured to address. A society that produces only engineers and economists will be technically capable of building futures it hasn't thought carefully enough about.",
+        "vocabulary_hints": ["practically necessary", "language designed to move us", "rhetorical manoeuvre", "normative work", "not primarily technical problems"],
+        "duration_seconds": 90
+      }
+    ]
+  }
+}

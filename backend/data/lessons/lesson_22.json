@@ -1,0 +1,298 @@
+{
+  "id": "22",
+  "unit": 3,
+  "unit_title": "Complex Issues & Nuanced Debates",
+  "title": "The Wealth Gap",
+  "level": "C1",
+  "type": "story",
+  "theme": "Economic Inequality & Social Justice",
+  "reading_time": "6 min",
+  "content": {
+    "paragraphs": [
+      {
+        "en": "Inequality has always existed. What has changed, in the past forty years, is the rate at which it has been growing and the degree to which it has been deliberately chosen. The shift from a post-war settlement — which in most developed countries involved high wages, strong unions, significant public investment and progressive taxation — to the deregulated, financialised economies of the 1980s onwards was not an accident of history. It was a policy choice, and it has had policy consequences.",
+        "fr": "Les inégalités ont toujours existé. Ce qui a changé, au cours des quarante dernières années, c'est la vitesse à laquelle elles se sont creusées et le degré auquel elles ont été délibérément choisies. Le passage du compromis de l'après-guerre — qui, dans la plupart des pays développés, impliquait des salaires élevés, des syndicats forts, des investissements publics importants et une fiscalité progressive — aux économies dérèglementées et financiarisées des années 1980 et au-delà n'était pas un accident de l'histoire. C'était un choix politique, et il a eu des conséquences politiques."
+      },
+      {
+        "en": "The figures are by now familiar. In the United States, the share of national income going to the top one percent has roughly doubled since 1980. In the UK, the picture is similar. Across the OECD, wealth inequality has grown faster than income inequality — meaning that the ownership of assets, not just earned income, has become the dominant mechanism of stratification. Those who own property, stocks, and financial instruments accumulate at a rate that those who own only their labour cannot match.",
+        "fr": "Les chiffres sont maintenant familiers. Aux États-Unis, la part du revenu national allant au premier pour cent a à peu près doublé depuis 1980. Au Royaume-Uni, le tableau est similaire. Dans l'ensemble de l'OCDE, les inégalités de patrimoine ont augmenté plus vite que les inégalités de revenus — ce qui signifie que la propriété d'actifs, pas seulement les revenus du travail, est devenue le mécanisme dominant de stratification. Ceux qui possèdent des propriétés, des actions et des instruments financiers s'accumulent à un rythme que ceux qui ne possèdent que leur travail ne peuvent pas égaler."
+      },
+      {
+        "en": "This has consequences that go well beyond the economic. The most consistent finding in social science research is that inequality corrodes trust — both interpersonal and institutional. Highly unequal societies show higher rates of crime, worse health outcomes, lower social mobility, and weaker democratic participation. The mechanism is not entirely clear, but the correlation is robust across many different cultural and institutional contexts.",
+        "fr": "Cela a des conséquences qui vont bien au-delà de l'économique. Le résultat le plus constant de la recherche en sciences sociales est que les inégalités corrodent la confiance — tant interpersonnelle qu'institutionnelle. Les sociétés très inégalitaires présentent des taux de criminalité plus élevés, de moins bons résultats de santé, une moindre mobilité sociale et une participation démocratique plus faible. Le mécanisme n'est pas entièrement clair, mais la corrélation est robuste dans de nombreux contextes culturels et institutionnels différents."
+      },
+      {
+        "en": "The standard defence of inequality is that it is the engine of growth — that the prospect of large rewards incentivises risk-taking and innovation, which benefits everyone. There is some truth in this, but less than its proponents claim. The research suggests that moderate inequality can incentivise growth, but extreme inequality tends to suppress it. Beyond a certain threshold, concentrated wealth is deployed not to create new things but to protect existing advantages: through lobbying, regulatory capture, estate planning, and the perpetuation of elite networks.",
+        "fr": "La défense standard des inégalités est qu'elles sont le moteur de la croissance — que la perspective de grandes récompenses incite à la prise de risques et à l'innovation, ce qui profite à tous. Il y a une certaine vérité là-dedans, mais moins que ne le prétendent leurs partisans. La recherche suggère qu'une inégalité modérée peut inciter à la croissance, mais qu'une inégalité extrême tend à la réprimer. Au-delà d'un certain seuil, la richesse concentrée est déployée non pas pour créer de nouvelles choses mais pour protéger les avantages existants : par le lobbying, la capture réglementaire, la planification successorale et la perpétuation des réseaux élitaires."
+      },
+      {
+        "en": "What makes the problem particularly resistant to easy solutions is the extent to which the beneficiaries of the current system control the mechanisms through which it might be reformed. Wealth buys political influence. Political influence shapes tax policy. Tax policy shapes the distribution of wealth. The circularity is not accidental.",
+        "fr": "Ce qui rend le problème particulièrement résistant aux solutions faciles, c'est la mesure dans laquelle les bénéficiaires du système actuel contrôlent les mécanismes par lesquels il pourrait être réformé. La richesse achète l'influence politique. L'influence politique façonne la politique fiscale. La politique fiscale façonne la distribution de la richesse. La circularité n'est pas accidentelle."
+      },
+      {
+        "en": "None of this means that reform is impossible. Tax systems have been changed, unions have been rebuilt, wealth taxes have been introduced in some jurisdictions. What it does mean is that reform requires overcoming entrenched interests that have both the resources and the motivation to resist it. History suggests this is possible. It also suggests it requires considerable political will, sustained public pressure, and — usually — a crisis sufficiently severe to make the costs of inaction politically unbearable.",
+        "fr": "Rien de tout cela ne signifie que la réforme est impossible. Les systèmes fiscaux ont été modifiés, les syndicats ont été reconstruits, des impôts sur la fortune ont été introduits dans certaines juridictions. Ce que cela signifie, c'est que la réforme nécessite de surmonter des intérêts bien ancrés qui ont à la fois les ressources et la motivation pour y résister. L'histoire suggère que c'est possible. Elle suggère aussi que cela nécessite une volonté politique considérable, une pression publique soutenue, et — généralement — une crise suffisamment grave pour rendre les coûts de l'inaction politiquement insupportables."
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "financialised",
+        "phonetic": "/faɪˈnænʃəlaɪzd/",
+        "type": "adjective (economics)",
+        "definition_en": "Décrit une économie dans laquelle les activités financières dominent la production et les services",
+        "definition_fr": "financiarisé",
+        "example": "In a financialised economy, returns on capital consistently outpace returns on labour.",
+        "level": "C1"
+      },
+      {
+        "word": "stratification",
+        "phonetic": "/ˌstrætɪfɪˈkeɪʃn/",
+        "type": "noun (sociology)",
+        "definition_en": "La division de la société en couches hiérarchiques basées sur la richesse, le statut ou le pouvoir",
+        "definition_fr": "stratification (sociale)",
+        "example": "Social stratification based on inherited wealth has increased over the past generation.",
+        "level": "C1"
+      },
+      {
+        "word": "to corrode",
+        "phonetic": "/kəˈrəʊd/",
+        "type": "verb",
+        "definition_en": "Détruire ou affaiblir progressivement quelque chose de l'intérieur",
+        "definition_fr": "corroder, éroder, miner progressivement",
+        "example": "Inequality corrodes social trust in ways that are hard to reverse.",
+        "level": "C1"
+      },
+      {
+        "word": "robust",
+        "phonetic": "/rəʊˈbʌst/",
+        "type": "adjective (academic)",
+        "definition_en": "Solide et fiable ; difficile à remettre en question ou à invalider",
+        "definition_fr": "robuste, solide, fiable (d'une corrélation ou d'un résultat)",
+        "example": "The correlation is robust across multiple studies and contexts.",
+        "level": "B2"
+      },
+      {
+        "word": "incentivise",
+        "phonetic": "/ɪnˈsentɪvaɪz/",
+        "type": "verb",
+        "definition_en": "Motiver une action par l'offre d'une récompense ou d'un avantage",
+        "definition_fr": "inciter, encourager (par des incitations)",
+        "example": "The tax system needs to incentivise investment rather than speculation.",
+        "level": "C1"
+      },
+      {
+        "word": "threshold",
+        "phonetic": "/ˈθreʃhəʊld/",
+        "type": "noun",
+        "definition_en": "Un point à partir duquel quelque chose commence à changer ; un niveau ou une limite critique",
+        "definition_fr": "seuil",
+        "example": "Beyond a certain threshold of inequality, growth begins to slow.",
+        "level": "B2"
+      },
+      {
+        "word": "regulatory capture",
+        "phonetic": "/ˈreɡjʊlətəri ˈkæptʃər/",
+        "type": "noun (political science)",
+        "definition_en": "Le processus par lequel un organisme de réglementation finit par être dominé par l'industrie qu'il est censé superviser",
+        "definition_fr": "capture réglementaire",
+        "example": "Regulatory capture explains why financial regulations are often written by bankers.",
+        "level": "C1"
+      },
+      {
+        "word": "perpetuation",
+        "phonetic": "/pəˌpetʃuˈeɪʃn/",
+        "type": "noun",
+        "definition_en": "L'action de faire durer quelque chose indéfiniment",
+        "definition_fr": "perpétuation, maintien (d'une situation)",
+        "example": "The perpetuation of elite networks is a key mechanism of class reproduction.",
+        "level": "C1"
+      },
+      {
+        "word": "jurisdiction",
+        "phonetic": "/ˌdʒʊərɪsˈdɪkʃn/",
+        "type": "noun",
+        "definition_en": "Le territoire ou la sphère d'autorité sur lequel un système juridique ou politique s'applique",
+        "definition_fr": "juridiction, territoire sous une autorité donnée",
+        "example": "Wealth taxes have been introduced in several European jurisdictions.",
+        "level": "C1"
+      },
+      {
+        "word": "entrenched",
+        "phonetic": "/ɪnˈtrentʃt/",
+        "type": "adjective",
+        "definition_en": "Fermement établi et résistant au changement",
+        "definition_fr": "ancré, bien établi, difficile à déloger",
+        "example": "Entrenched interests fought the reform at every stage.",
+        "level": "C1"
+      }
+    ],
+    "grammar_points": [
+      {
+        "title": "Parallel structures for analytical emphasis: 'Wealth buys influence. Influence shapes policy. Policy shapes wealth.'",
+        "explanation": "Une série de **phrases courtes parallèles**, chacune reliant la fin de la précédente au début de la suivante, crée un effet de 'chaîne' qui révèle un système circulaire. C'est un procédé rhétorique puissant dans l'écriture analytique.",
+        "examples": [
+          "'**Wealth buys** political influence. **Political influence shapes** tax policy. **Tax policy shapes** the distribution of wealth.'",
+          "'**Power creates** access. **Access creates** information. **Information creates** advantage.'",
+          "This structure makes a complex causal argument feel elegant and inevitable.",
+          "Tip: use three links in the chain — four or more becomes unwieldy."
+        ]
+      },
+      {
+        "title": "'What makes X particularly Y is...' — fronted cleft for analytical framing",
+        "explanation": "Commencer une phrase analytique par **'What makes X [adjectif] is the extent to which...'** est un procédé de cadrage formel et précis. Il met l'affirmation analytique en pleine lumière.",
+        "examples": [
+          "'**What makes** the problem **particularly resistant** is the extent to which beneficiaries control the mechanisms of reform.'",
+          "'**What makes** this argument **compelling** is not its novelty but its evidence base.'",
+          "'**What makes** the situation **so unusual** is...'",
+          "This structure is excellent for analytical paragraphs in C1 essays."
+        ]
+      },
+      {
+        "title": "Conceding partial truth: 'There is some truth in this, but less than its proponents claim'",
+        "explanation": "Au niveau C1, un bon argument implique une **concession partielle** — reconnaître ce qui est vrai dans un point de vue opposé avant de le nuancer et de le qualifier. C'est plus crédible intellectuellement qu'un rejet total.",
+        "examples": [
+          "'**There is some truth in this**, but less than its proponents claim.'",
+          "'**This is partly correct** — but only up to a point.'",
+          "'**The argument has merit**, though it overstates the case.'",
+          "'**That's not entirely wrong**, but it misses...'",
+          "Partial concession strengthens your own argument by showing you've engaged honestly with the other side."
+        ]
+      }
+    ],
+    "expressions": [
+      {
+        "expression": "goes well beyond",
+        "meaning_fr": "va bien au-delà de, dépasse largement",
+        "example": "The consequences go well beyond the economic.",
+        "register": "formal / analytical",
+        "note": "Signale que l'ampleur ou la gravité de quelque chose est bien plus grande qu'on ne le supposait initialement."
+      },
+      {
+        "expression": "the circularity is not accidental",
+        "meaning_fr": "la circularité n'est pas accidentelle, ce cercle vicieux n'est pas le fruit du hasard",
+        "example": "Wealth shapes policy, which shapes wealth. The circularity is not accidental.",
+        "register": "analytical / critical",
+        "note": "Une façon concise et puissante de suggérer qu'un système auto-renforçant a été délibérément conçu, et non simplement le fruit de l'évolution."
+      },
+      {
+        "expression": "to deploy (wealth/resources)",
+        "meaning_fr": "déployer, mettre en œuvre (des ressources, une richesse)",
+        "example": "Beyond a threshold, concentrated wealth is deployed not to create but to protect.",
+        "register": "formal / analytical",
+        "note": "'Deploy' implique un usage stratégique et intentionnel des ressources. Plus actif et délibéré que 'use'."
+      },
+      {
+        "expression": "politically unbearable",
+        "meaning_fr": "politiquement insupportable",
+        "example": "Crisis makes the costs of inaction politically unbearable.",
+        "register": "political / analytical",
+        "note": "Décrit le moment où le coût politique de ne pas agir dépasse le coût politique d'agir — le point de basculement pour la réforme."
+      },
+      {
+        "expression": "the engine of growth",
+        "meaning_fr": "le moteur de la croissance",
+        "example": "The standard defence of inequality is that it is the engine of growth.",
+        "register": "economic / political",
+        "note": "Une métaphore courante dans le débat économique — implique que l'inégalité fait avancer toute l'économie, comme un moteur propulse un véhicule."
+      }
+    ]
+  },
+  "exercises": {
+    "written": [
+      {
+        "id": "w1",
+        "type": "multiple_choice",
+        "question": "What does the author say distinguishes current inequality from historical inequality?",
+        "options": [
+          "It is larger in absolute terms than ever before.",
+          "It is the result of deliberate policy choices, not just economic forces.",
+          "It is concentrated in a different social class than in previous eras.",
+          "It is now measured in wealth rather than income."
+        ],
+        "answer": 1,
+        "explanation": "The text states: 'What has changed... is the degree to which it has been deliberately chosen.' The shift in policy from the post-war settlement was a choice with consequences."
+      },
+      {
+        "id": "w2",
+        "type": "multiple_choice",
+        "question": "What is the author's criticism of the 'inequality as engine of growth' argument?",
+        "options": [
+          "There is no evidence that inequality incentivises innovation.",
+          "Growth benefits the wealthy, not ordinary people.",
+          "Moderate inequality may incentivise growth, but extreme inequality tends to suppress it.",
+          "The argument has never been rigorously tested."
+        ],
+        "answer": 2,
+        "explanation": "The text says: 'moderate inequality can incentivise growth, but extreme inequality tends to suppress it.' The author partially concedes the argument before qualifying it."
+      },
+      {
+        "id": "w3",
+        "type": "fill_blank",
+        "sentence": "________ makes this problem ________ difficult to solve is that those who benefit from it control the mechanisms of change.",
+        "answer": "What / particularly",
+        "hint": "A fronted cleft sentence — 'What makes X [adjective] is...'"
+      },
+      {
+        "id": "w4",
+        "type": "fill_blank",
+        "sentence": "There is some truth in that argument, but ________ than its ________ claim.",
+        "answer": "less / proponents",
+        "hint": "A structure for partial concession — 'there is some truth, but less than...'"
+      },
+      {
+        "id": "w5",
+        "type": "fill_blank",
+        "sentence": "Beyond a certain ________, additional inequality seems to suppress rather than stimulate growth.",
+        "answer": "threshold",
+        "hint": "A noun meaning 'a critical level or point of change'."
+      },
+      {
+        "id": "w6",
+        "type": "translation",
+        "french": "La richesse concentrée est déployée pour protéger les avantages existants, pas pour créer de nouvelles choses.",
+        "suggested_answer": "Concentrated wealth is deployed to protect existing advantages, not to create new things.",
+        "key_vocabulary": ["Concentrated wealth is deployed", "protect existing advantages", "not to create new things"]
+      },
+      {
+        "id": "w7",
+        "type": "translation",
+        "french": "La corrélation entre inégalité et perte de confiance est robuste dans de nombreux contextes culturels différents.",
+        "suggested_answer": "The correlation between inequality and the erosion of trust is robust across many different cultural contexts.",
+        "key_vocabulary": ["correlation", "erosion of trust", "robust across many contexts"]
+      },
+      {
+        "id": "w8",
+        "type": "translation",
+        "french": "La richesse achète l'influence politique. L'influence politique façonne la fiscalité. La fiscalité façonne la distribution de la richesse. La circularité n'est pas accidentelle.",
+        "suggested_answer": "Wealth buys political influence. Political influence shapes tax policy. Tax policy shapes the distribution of wealth. The circularity is not accidental.",
+        "key_vocabulary": ["parallel chain structure", "circularity is not accidental"]
+      }
+    ],
+    "oral": [
+      {
+        "id": "o1",
+        "type": "read_aloud",
+        "instruction": "Read the final two sentences of paragraph five — the 'chain' passage. These are short, declarative sentences building to a conclusion. Each should land clearly.",
+        "text": "Wealth buys political influence. Political influence shapes tax policy. Tax policy shapes the distribution of wealth. The circularity is not accidental.",
+        "focus": "The rhythm here is deliberate — each sentence should feel like a step down stairs. The final sentence is the conclusion and should be slower and more definitive.",
+        "phonetic_tips": ["influence: /ˈɪnfluəns/", "distribution: /ˌdɪstrɪˈbjuːʃn/", "circularity: /ˌsɜːrkjʊˈlærɪti/"]
+      },
+      {
+        "id": "o2",
+        "type": "answer_question",
+        "question": "Should there be a maximum level of wealth that any individual can accumulate? What would be the arguments for and against a wealth cap?",
+        "suggested_answer": "The arguments for a wealth cap are primarily about political power and democratic health. Once wealth reaches certain levels — the kind of wealth held by the world's dozen richest individuals — it translates into a form of political influence that is incompatible with democratic equality. One person's vote should not be worth less because someone else's bank account is worth more. Against a cap: it's enormously difficult to define and enforce, would require global coordination to prevent evasion, and would create perverse incentives. In practice, progressive wealth and inheritance taxes probably achieve more than a hard cap, and are more politically achievable. The goal is not to prevent wealth but to ensure it doesn't become a form of power that overrides democratic accountability.",
+        "vocabulary_hints": ["translate into political influence", "incompatible with democratic equality", "perverse incentives", "progressive wealth taxes", "democratic accountability"],
+        "duration_seconds": 120
+      },
+      {
+        "id": "o3",
+        "type": "answer_question",
+        "question": "Is equality of opportunity sufficient, or do we need to address equality of outcome? What's the difference and why does it matter?",
+        "suggested_answer": "The distinction matters enormously, and I think equality of opportunity is necessary but not sufficient. The argument for opportunity equality is intuitive: people should not be disadvantaged by circumstances of birth — race, class, gender — in ways they had no control over. But pure equality of opportunity, without any attention to outcome, tends to reproduce itself. If some children have access to private tutors, expensive schools, well-connected families and inherited capital, and others don't, then equal formal opportunity at eighteen means almost nothing. Outcome equality doesn't mean everyone must earn the same — it means the distribution of outcomes should not be so extreme that it entrenches advantage across generations and makes the idea of equal opportunity increasingly fictional.",
+        "vocabulary_hints": ["necessary but not sufficient", "reproduce itself", "formal opportunity", "entrenches advantage across generations", "increasingly fictional"],
+        "duration_seconds": 120
+      }
+    ]
+  }
+}

@@ -1,0 +1,308 @@
+{
+  "id": "32",
+  "unit": 4,
+  "unit_title": "Advanced Discourse & Argumentation",
+  "title": "Innocent Until Proven Guilty",
+  "level": "C1",
+  "type": "dialogue",
+  "theme": "Criminal Justice, Presumption of Innocence & Public Opinion",
+  "reading_time": "6 min",
+  "content": {
+    "speakers": ["Host", "Naomi Okwu (Criminal Defence Barrister)", "Dr Paul Strand (Media & Law Academic)"],
+    "paragraphs": [
+      {
+        "speaker": "Host",
+        "en": "High-profile criminal cases increasingly play out in the court of public opinion before they reach any court of law. Is this a problem?",
+        "fr": "Les affaires criminelles très médiatisées se jouent de plus en plus devant le tribunal de l'opinion publique avant d'atteindre tout tribunal de droit. Est-ce un problème ?"
+      },
+      {
+        "speaker": "Naomi Okwu",
+        "en": "It's a serious problem, and it's getting worse. The presumption of innocence — the bedrock of criminal justice in most legal systems — is being systematically undermined by the dynamics of social media. An accusation, however preliminary or contested, achieves a degree of public visibility and emotional resonance that a subsequent acquittal simply cannot match. The damage to reputation, career and mental health is often irreversible long before any legal verdict is reached.",
+        "fr": "C'est un problème grave, et il empire. La présomption d'innocence — la pierre angulaire de la justice pénale dans la plupart des systèmes juridiques — est systématiquement minée par les dynamiques des réseaux sociaux. Une accusation, aussi préliminaire ou contestée soit-elle, atteint un degré de visibilité publique et de résonance émotionnelle qu'un acquittement ultérieur ne peut tout simplement pas égaler. Les dommages à la réputation, à la carrière et à la santé mentale sont souvent irréversibles bien avant que tout verdict juridique soit rendu."
+      },
+      {
+        "speaker": "Dr Paul Strand",
+        "en": "I'd want to complicate that picture a little. Public attention to alleged wrongdoing has always preceded formal legal process — that was true long before social media, and it served important functions. It creates accountability for powerful people who might otherwise use their resources to prevent investigations from progressing. The exposure of Harvey Weinstein is the obvious recent example: it was sustained public pressure, not legal process, that broke the pattern of impunity.",
+        "fr": "Je voudrais compliquer un peu ce tableau. L'attention du public à des présumées méfaits a toujours précédé le processus juridique formel — c'était vrai bien avant les réseaux sociaux, et cela remplissait des fonctions importantes. Cela crée une responsabilité pour les personnes puissantes qui pourraient autrement utiliser leurs ressources pour empêcher les enquêtes de progresser. L'exposition d'Harvey Weinstein est l'exemple récent évident : c'est une pression publique soutenue, pas le processus juridique, qui a brisé le schéma d'impunité."
+      },
+      {
+        "speaker": "Naomi Okwu",
+        "en": "I accept that accountability function as real and important. What I'd distinguish is between journalism that investigates patterns of alleged behaviour over time, interviews multiple sources, and publishes with editorial oversight — and the mob dynamics of social media, where an unverified allegation can be amplified to millions in hours, with no editorial check, no right of reply, and no liability for those doing the amplifying.",
+        "fr": "J'accepte cette fonction de responsabilisation comme réelle et importante. Ce que je distinguerais, c'est le journalisme qui enquête sur des schémas de comportement présumé au fil du temps, interviewe de multiples sources et publie avec une supervision éditoriale — et la dynamique de foule des réseaux sociaux, où une allégation non vérifiée peut être amplifiée à des millions en quelques heures, sans contrôle éditorial, sans droit de réponse et sans responsabilité pour ceux qui l'amplifient."
+      },
+      {
+        "speaker": "Dr Paul Strand",
+        "en": "That's a meaningful distinction. Though I'd note that the most significant recent cases of mob justice on social media have often involved not powerful individuals but relatively private people who found themselves at the centre of a storm because of a video clip or out-of-context comment. The accountability function has been distorted: we're often punishing the visible, not the powerful.",
+        "fr": "C'est une distinction significative. Bien que je ferais remarquer que les cas les plus significatifs de justice de foule récents sur les réseaux sociaux ont souvent impliqué non pas des individus puissants mais des personnes relativement privées qui se sont retrouvées au centre d'une tempête à cause d'un clip vidéo ou d'un commentaire hors contexte. La fonction de responsabilisation a été déformée : nous punissons souvent le visible, pas le puissant."
+      },
+      {
+        "speaker": "Naomi Okwu",
+        "en": "That observation cuts to the heart of the problem. The tools that were developed — implicitly or explicitly — to hold power to account have been democratised in ways that mean anyone with a phone and a following can now conduct a trial. And unlike formal justice systems, this process has no presumption of innocence, no rules of evidence, no appeals mechanism, and no statute of limitations.",
+        "fr": "Cette observation va au cœur du problème. Les outils qui ont été développés — implicitement ou explicitement — pour demander des comptes au pouvoir ont été démocratisés d'une façon qui signifie que n'importe qui avec un téléphone et des abonnés peut maintenant conduire un procès. Et contrairement aux systèmes de justice formels, ce processus n't a pas de présomption d'innocence, pas de règles de preuve, pas de mécanisme d'appel et pas de statut de limitations."
+      },
+      {
+        "speaker": "Dr Paul Strand",
+        "en": "And yet we need to be careful not to use the excesses of mob justice to delegitimise the accountability function entirely. The formal legal system has its own profound failures — it is systematically more punitive towards the poor and towards racial minorities, and it is systematically more permissive towards the wealthy and powerful. Before we invoke the virtues of formal process, we should be honest about how imperfectly that process has served those it was supposed to protect.",
+        "fr": "Et pourtant, nous devons faire attention de ne pas utiliser les excès de la justice de foule pour délégitimer entièrement la fonction de responsabilisation. Le système juridique formel a ses propres échecs profonds — il est systématiquement plus punitif envers les pauvres et les minorités raciales, et il est systématiquement plus permissif envers les riches et les puissants. Avant d'invoquer les vertus du processus formel, nous devrions être honnêtes sur la façon dont ce processus a imparfaitement servi ceux qu'il était censé protéger."
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "presumption of innocence",
+        "phonetic": "/prɪˈzʌmpʃn əv ˈɪnəsəns/",
+        "type": "noun phrase (law)",
+        "definition_en": "le principe juridique selon lequel une personne est considérée innocente jusqu'à ce que sa culpabilité soit prouvée devant un tribunal",
+        "definition_fr": "présomption d'innocence",
+        "example": "The presumption of innocence is a cornerstone of fair legal systems.",
+        "level": "B2"
+      },
+      {
+        "word": "acquittal",
+        "phonetic": "/əˈkwɪtl/",
+        "type": "noun (law)",
+        "definition_en": "une déclaration formelle qu'une personne n'est pas coupable du crime dont elle était accusée",
+        "definition_fr": "acquittement",
+        "example": "The acquittal came too late — the reputational damage was already done.",
+        "level": "C1"
+      },
+      {
+        "word": "allegation",
+        "phonetic": "/ˌælɪˈɡeɪʃn/",
+        "type": "noun",
+        "definition_en": "une affirmation selon laquelle quelqu'un a fait quelque chose de mal ou d'illégal, qui n'a pas encore été prouvée",
+        "definition_fr": "allégation",
+        "example": "An unverified allegation can cause permanent reputational damage.",
+        "level": "B2"
+      },
+      {
+        "word": "impunity",
+        "phonetic": "/ɪmˈpjuːnɪti/",
+        "type": "noun",
+        "definition_en": "exemption de punition ou absence de conséquences néfastes pour ses actes",
+        "definition_fr": "impunité",
+        "example": "For decades, powerful figures had operated with impunity.",
+        "level": "C1"
+      },
+      {
+        "word": "mob justice",
+        "phonetic": "/mɒb ˈdʒʌstɪs/",
+        "type": "noun (compound)",
+        "definition_en": "punition ou jugement exécuté par un grand groupe non organisé plutôt que par des processus judiciaires",
+        "definition_fr": "justice populaire, justice de foule",
+        "example": "Social media mob justice can destroy lives before any evidence has been tested.",
+        "level": "B2"
+      },
+      {
+        "word": "statute of limitations",
+        "phonetic": "/ˈstætʃuːt əv ˌlɪmɪˈteɪʃnz/",
+        "type": "noun phrase (law)",
+        "definition_en": "une loi qui limite le délai dans lequel des poursuites judiciaires peuvent être engagées",
+        "definition_fr": "délai de prescription",
+        "example": "Online shaming has no statute of limitations — old posts can destroy present lives.",
+        "level": "C1"
+      },
+      {
+        "word": "to delegitimise",
+        "phonetic": "/ˌdiːlɪˈdʒɪtɪmaɪz/",
+        "type": "verb",
+        "definition_en": "faire perdre à quelque chose sa légitimité ou son autorité",
+        "definition_fr": "délégitimer",
+        "example": "Corrupt behaviour delegitimises democratic institutions.",
+        "level": "C1"
+      },
+      {
+        "word": "punitive",
+        "phonetic": "/ˈpjuːnɪtɪv/",
+        "type": "adjective",
+        "definition_en": "qui inflige ou vise à infliger une punition ; extrêmement sévère",
+        "definition_fr": "punitif",
+        "example": "The system is more punitive towards the poor than the wealthy for similar offences.",
+        "level": "C1"
+      },
+      {
+        "word": "editorial oversight",
+        "phonetic": "/ˌedɪˈtɔːriəl ˈəʊvəsaɪt/",
+        "type": "noun phrase (journalism)",
+        "definition_en": "le processus par lequel les rédacteurs en chef examinent et vérifient le contenu avant publication",
+        "definition_fr": "supervision éditoriale",
+        "example": "Good journalism requires robust editorial oversight to verify claims before publication.",
+        "level": "C1"
+      },
+      {
+        "word": "to invoke",
+        "phonetic": "/ɪnˈvəʊk/",
+        "type": "verb",
+        "definition_en": "citer ou faire appel à quelque chose comme autorité ou justification",
+        "definition_fr": "invoquer, se référer à",
+        "example": "Before invoking the virtues of formal process, we should examine its actual record.",
+        "level": "C1"
+      }
+    ],
+    "grammar_points": [
+      {
+        "title": "'Unlike formal justice systems, this process has no X, no Y, no Z' — parallel negatives for contrast",
+        "explanation": "Une série de **groupes nominaux négatifs parallèles** après « unlike X » crée un contraste puissant en accumulant tout ce qu'un système possède et que l'autre n'a pas.",
+        "examples": [
+          "'Unlike formal justice, online trial has **no presumption of innocence**, **no rules of evidence**, **no appeals mechanism**, **no statute of limitations**.'",
+          "'Unlike peer review, viral sharing involves **no verification**, **no accountability**, **no correction mechanism**.'",
+          "The parallel structure creates a cumulative, almost rhythmic effect that makes the contrast feel definitive."
+        ]
+      },
+      {
+        "title": "'Before we X, we should be honest about Y' — demanding intellectual honesty before invoking a principle",
+        "explanation": "Cette structure sert à **vérifier l'utilisation d'un principe comme procédé rhétorique** en exigeant que son défenseur reconnaisse également les échecs du principe. Elle requiert une honnêteté réciproque.",
+        "examples": [
+          "'**Before we invoke** the virtues of formal process, we should be honest about its failures.'",
+          "'**Before we argue for** X, we should acknowledge the times when X has failed.'",
+          "'**Before dismissing** alternative approaches, let's examine what the conventional approach has actually achieved.'",
+          "This is an important move in any debate that invokes tradition, law or formal process."
+        ]
+      },
+      {
+        "title": "'The damage... is often irreversible long before any verdict is reached'",
+        "explanation": "**« Long before »** (ou « long after ») crée un écart temporel qui est souvent le nœud d'un argument. Il souligne que le moment du préjudice ou du bénéfice est crucial — et qu'il se produit en dehors du système conçu pour y remédier.",
+        "examples": [
+          "'Reputational damage occurs **long before** any verdict is reached.'",
+          "'The window for meaningful action closed **long before** the data arrived.'",
+          "'The harm was done **long before** anyone was aware of the risk.'",
+          "'**Long after** the crisis passed, its effects continued.' "
+        ]
+      }
+    ],
+    "expressions": [
+      {
+        "expression": "the court of public opinion",
+        "meaning_fr": "le tribunal de l'opinion publique",
+        "example": "Cases are increasingly tried in the court of public opinion before reaching any legal court.",
+        "register": "journalistic / formal",
+        "note": "Une métaphore bien établie pour le processus informel par lequel le public forme des jugements sur la culpabilité ou l'innocence d'une personne en dehors du système judiciaire."
+      },
+      {
+        "expression": "to cut to the heart of",
+        "meaning_fr": "aller au cœur de, saisir l'essentiel de",
+        "example": "That observation cuts to the heart of the problem.",
+        "register": "formal / rhetorical",
+        "note": "Signale qu'un commentaire a identifié la question la plus fondamentale. Plus expressif que « addresses the core problem »."
+      },
+      {
+        "expression": "no right of reply",
+        "meaning_fr": "pas de droit de réponse",
+        "example": "An allegation is amplified without any right of reply for the accused.",
+        "register": "formal / legal",
+        "note": "Un principe fondamental de la justice naturelle — le droit pour une personne accusée de répondre à l'accusation. Son absence en ligne est une objection clé contre le procès par les réseaux sociaux."
+      },
+      {
+        "expression": "to break a pattern of impunity",
+        "meaning_fr": "briser un schéma d'impunité",
+        "example": "Public pressure broke the pattern of impunity that had protected powerful figures for decades.",
+        "register": "formal / analytical",
+        "note": "« Pattern of impunity » décrit une situation systémique où les méfaits restent constamment impunis. « Breaking » implique un changement structurel."
+      },
+      {
+        "expression": "we're punishing the visible, not the powerful",
+        "meaning_fr": "nous punissons le visible, pas le puissant",
+        "example": "The accountability function has been distorted — we're punishing the visible, not the powerful.",
+        "register": "analytical / critical",
+        "note": "Une observation critique acérée sur la façon dont les systèmes de pression publique peuvent cibler ceux qui attirent l'attention plutôt que ceux qui détiennent le véritable pouvoir."
+      }
+    ]
+  },
+  "exercises": {
+    "written": [
+      {
+        "id": "w1",
+        "type": "multiple_choice",
+        "question": "What does Naomi distinguish between, in response to Paul's Weinstein argument?",
+        "options": [
+          "Between social media and television coverage.",
+          "Between investigative journalism with editorial oversight and unmoderated social media amplification.",
+          "Between the accused and their accusers.",
+          "Between famous and ordinary defendants."
+        ],
+        "answer": 1,
+        "explanation": "Naomi distinguishes 'journalism that investigates patterns of alleged behaviour over time, interviews multiple sources, and publishes with editorial oversight' from 'the mob dynamics of social media, where an unverified allegation can be amplified to millions in hours.'"
+      },
+      {
+        "id": "w2",
+        "type": "multiple_choice",
+        "question": "What is Paul's final complication of Naomi's argument?",
+        "options": [
+          "That the formal legal system is actually more effective than its critics claim.",
+          "That social media accountability is inherently more fair than legal process.",
+          "That the formal legal system has its own serious failures — being more punitive towards the poor and permissive towards the wealthy.",
+          "That innocent people have always suffered reputational damage in public life."
+        ],
+        "answer": 2,
+        "explanation": "Paul says: 'Before we invoke the virtues of formal process, we should be honest about how imperfectly that process has served those it was supposed to protect.'"
+      },
+      {
+        "id": "w3",
+        "type": "fill_blank",
+        "sentence": "The damage to his reputation was ________ ________ ________ any verdict was reached.",
+        "answer": "irreversible long before",
+        "hint": "A temporal expression indicating the harm preceded the formal process by a significant time."
+      },
+      {
+        "id": "w4",
+        "type": "fill_blank",
+        "sentence": "Unlike a formal trial, this online process provides ________ right of reply and no mechanism for appeal.",
+        "answer": "no",
+        "hint": "Part of a parallel negative construction emphasising what the informal process lacks."
+      },
+      {
+        "id": "w5",
+        "type": "fill_blank",
+        "sentence": "________ ________ invoking due process as a principle, we should examine its actual track record.",
+        "answer": "Before we",
+        "hint": "The structure that demands intellectual honesty before using a principle as a rhetorical shield."
+      },
+      {
+        "id": "w6",
+        "type": "translation",
+        "french": "Un acquittement ne peut jamais égaler la visibilité publique et la résonance émotionnelle d'une accusation initiale.",
+        "suggested_answer": "An acquittal can never match the public visibility and emotional resonance of an initial accusation.",
+        "key_vocabulary": ["acquittal", "match the public visibility", "emotional resonance"]
+      },
+      {
+        "id": "w7",
+        "type": "translation",
+        "french": "Contrairement à la justice formelle, ce processus n'a pas de présomption d'innocence, pas de règles de preuve, pas de mécanisme d'appel.",
+        "suggested_answer": "Unlike formal justice, this process has no presumption of innocence, no rules of evidence, no appeals mechanism.",
+        "key_vocabulary": ["Unlike formal justice", "no presumption of innocence", "no rules of evidence", "no appeals mechanism"]
+      },
+      {
+        "id": "w8",
+        "type": "translation",
+        "french": "Avant d'invoquer les vertus du processus formel, nous devrions être honnêtes sur ses propres échecs systémiques.",
+        "suggested_answer": "Before we invoke the virtues of formal process, we should be honest about its own systemic failures.",
+        "key_vocabulary": ["Before we invoke", "virtues of formal process", "honest about its systemic failures"]
+      }
+    ],
+    "oral": [
+      {
+        "id": "o1",
+        "type": "read_aloud",
+        "instruction": "Read Naomi's analysis of what online trial lacks. The list of absences should build with weight — each missing element makes the point more damning.",
+        "text": "Unlike formal justice systems, this process has no presumption of innocence, no rules of evidence, no appeals mechanism, and no statute of limitations.",
+        "focus": "The parallel 'no... no... no... no...' is a rhetorical accumulation. Each element should be given equal weight. Don't rush — let each absence register.",
+        "phonetic_tips": ["presumption: /prɪˈzʌmpʃn/", "mechanism: /ˈmekənɪzəm/", "statute: /ˈstætʃuːt/"]
+      },
+      {
+        "id": "o2",
+        "type": "answer_question",
+        "question": "Is 'trial by social media' a threat to justice, or does it serve an important accountability function? How would you balance these concerns?",
+        "suggested_answer": "I think it is genuinely both, and the challenge is that the same dynamics can serve or undermine justice depending on the case. In cases involving powerful individuals who have used wealth and influence to avoid formal accountability, public pressure has been essential. In cases involving ordinary private individuals who make a mistake or are misrepresented, it can be catastrophic and unjust. The distinction that seems most important to me is not between public and private individuals but between pattern-based accountability — sustained investigation of a systemic problem — and viral pile-ons, where the target is chosen by virality rather than severity. The former can serve justice; the latter almost never does.",
+        "vocabulary_hints": ["pattern-based accountability", "wealth and influence to avoid accountability", "viral pile-ons", "chosen by virality rather than severity"],
+        "duration_seconds": 90
+      },
+      {
+        "id": "o3",
+        "type": "answer_question",
+        "question": "Does the formal criminal justice system adequately protect both the innocent and the vulnerable? What reforms would most improve it?",
+        "suggested_answer": "I think it fails on both counts, and often for related reasons. The innocent are inadequately protected in systems where the quality of legal representation varies enormously with wealth — where, in practice, guilt is partly determined by your ability to afford a defence. The vulnerable — racial minorities, the poor, those with mental illness — are over-represented in prosecution and under-represented in the roles that make charging and sentencing decisions. The reforms I'd prioritise: universal high-quality legal representation; mandatory recording of all police interactions; an evidence-based approach to sentencing that reduces discretion in ways that have been shown to correlate with bias; and greater transparency about conviction rates broken down by race and socioeconomic status. None of these are radical — many are already implemented well in some jurisdictions.",
+        "vocabulary_hints": ["quality of legal representation varies with wealth", "over-represented in prosecution", "mandatory recording", "discretion that correlates with bias", "conviction rates broken down by"],
+        "duration_seconds": 120
+      }
+    ]
+  }
+}

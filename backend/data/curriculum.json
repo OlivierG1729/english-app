@@ -1,0 +1,154 @@
+{
+  "levels": [
+    {
+      "id": "A1",
+      "title": "English A1 — First Steps",
+      "total_lessons": 24,
+      "units": [
+        {
+          "id": 6,
+          "title": "First Steps",
+          "color": "#4ecdc4",
+          "description": "Start from zero! Learn greetings, basic vocabulary, colours, numbers, and simple everyday phrases.",
+          "target_level": "A1",
+          "lessons": [
+            { "id": "a1_01", "title": "Hello! My Name Is...", "type": "dialogue", "theme": "Greetings & Introductions", "available": true },
+            { "id": "a1_02", "title": "My Family", "type": "story", "theme": "Family Members", "available": true },
+            { "id": "a1_03", "title": "What's in My Bag?", "type": "story", "theme": "Objects & Colours", "available": true },
+            { "id": "a1_04", "title": "At the Coffee Shop", "type": "dialogue", "theme": "Ordering Food & Drinks", "available": true },
+            { "id": "a1_05", "title": "My Room", "type": "story", "theme": "Home & Furniture", "available": true },
+            { "id": "a1_06", "title": "What Time Is It?", "type": "dialogue", "theme": "Time & Daily Routine", "available": true },
+            { "id": "a1_07", "title": "I Like Pizza!", "type": "story", "theme": "Food & Preferences", "available": true },
+            { "id": "a1_08", "title": "The Weather Today", "type": "dialogue", "theme": "Weather & Seasons", "available": true }
+          ]
+        },
+        {
+          "id": 7,
+          "title": "Everyday Life",
+          "color": "#f7b733",
+          "description": "Build confidence with everyday situations: school, shopping, directions, describing people and talking about hobbies.",
+          "target_level": "A1",
+          "lessons": [
+            { "id": "a1_09", "title": "My School Day", "type": "story", "theme": "School & Subjects", "available": true },
+            { "id": "a1_10", "title": "At the Supermarket", "type": "dialogue", "theme": "Shopping & Quantities", "available": true },
+            { "id": "a1_11", "title": "Where Is the Station?", "type": "dialogue", "theme": "Directions & Places", "available": true },
+            { "id": "a1_12", "title": "My Best Friend", "type": "story", "theme": "Describing People", "available": true },
+            { "id": "a1_13", "title": "A Busy Weekend", "type": "story", "theme": "Hobbies & Free Time", "available": true },
+            { "id": "a1_14", "title": "At the Doctor's", "type": "dialogue", "theme": "Health & Body Parts", "available": true },
+            { "id": "a1_15", "title": "Let's Go Shopping!", "type": "dialogue", "theme": "Clothes & Sizes", "available": true },
+            { "id": "a1_16", "title": "A Phone Call", "type": "dialogue", "theme": "Phone Communication", "available": true }
+          ]
+        },
+        {
+          "id": 8,
+          "title": "Getting Confident",
+          "color": "#fc5c65",
+          "description": "Consolidate your A1 level with longer texts, past tense, comparatives and future plans. Get ready for A2!",
+          "target_level": "A1",
+          "lessons": [
+            { "id": "a1_17", "title": "My Holiday Last Summer", "type": "story", "theme": "Past Tense Intro", "available": true },
+            { "id": "a1_18", "title": "A Birthday Party", "type": "story", "theme": "Celebrations & Past Events", "available": true },
+            { "id": "a1_19", "title": "The New Student", "type": "dialogue", "theme": "Meeting People & Past", "available": true },
+            { "id": "a1_20", "title": "Cooking Together", "type": "dialogue", "theme": "Instructions & Recipes", "available": true },
+            { "id": "a1_21", "title": "A Day at the Zoo", "type": "story", "theme": "Animals & Comparatives", "available": true },
+            { "id": "a1_22", "title": "What Are You Going to Do?", "type": "dialogue", "theme": "Future Plans", "available": true },
+            { "id": "a1_23", "title": "My Favourite Film", "type": "story", "theme": "Entertainment & Opinions", "available": true },
+            { "id": "a1_24", "title": "A Letter to a Pen Pal", "type": "story", "theme": "Capstone — All Topics", "available": true }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "B2-C1",
+      "title": "English B2 → C1 — Complete Curriculum",
+      "total_lessons": 40,
+      "units": [
+        {
+          "id": 1,
+          "title": "Modern Life & Society",
+          "color": "#6c63ff",
+          "description": "Consolidate your B2 level through contemporary, relatable topics. Focus on fluency, common idioms, and natural spoken English.",
+          "target_level": "B2",
+          "lessons": [
+            { "id": "01", "title": "The Digital Detox", "type": "story", "theme": "Technology & Well-being", "available": true },
+            { "id": "02", "title": "The Perfect Candidate", "type": "dialogue", "theme": "Work & Career", "available": true },
+            { "id": "03", "title": "A City Without Cars", "type": "story", "theme": "Urban Life & Environment", "available": true },
+            { "id": "04", "title": "The Last Bookshop", "type": "story", "theme": "Culture & Nostalgia", "available": true },
+            { "id": "05", "title": "Doctor's Orders", "type": "dialogue", "theme": "Health & Medicine", "available": true },
+            { "id": "06", "title": "The Flatmate Problem", "type": "dialogue", "theme": "Relationships & Conflict", "available": true },
+            { "id": "07", "title": "Social Media & Identity", "type": "story", "theme": "Psychology & Society", "available": true },
+            { "id": "08", "title": "The Gig Economy", "type": "story", "theme": "Work & Economics", "available": true }
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Culture, Arts & Media",
+          "color": "#00d4aa",
+          "description": "Broaden your B2+ level with cultural, artistic and media-related topics. Introduce more complex sentence structures and sophisticated vocabulary.",
+          "target_level": "B2+",
+          "lessons": [
+            { "id": "09", "title": "Behind the Camera", "type": "dialogue", "theme": "Cinema & Criticism", "available": true },
+            { "id": "10", "title": "Cultural Shock", "type": "story", "theme": "Travel & Identity", "available": true },
+            { "id": "11", "title": "Fake News & Trust", "type": "story", "theme": "Media & Democracy", "available": true },
+            { "id": "12", "title": "The Food of Memory", "type": "story", "theme": "Food & Identity", "available": true },
+            { "id": "13", "title": "The Housing Crisis", "type": "dialogue", "theme": "Society & Politics", "available": true },
+            { "id": "14", "title": "School of Thought", "type": "story", "theme": "Education & Philosophy", "available": true },
+            { "id": "15", "title": "Into the Wild", "type": "story", "theme": "Travel & Adventure", "available": true },
+            { "id": "16", "title": "The Music Business", "type": "dialogue", "theme": "Arts & Industry", "available": true }
+          ]
+        },
+        {
+          "id": 3,
+          "title": "Complex Issues & Nuanced Debates",
+          "color": "#ff6b6b",
+          "description": "Enter C1 territory with complex ethical, philosophical and social debates. Develop precision, hedging language and academic register.",
+          "target_level": "C1",
+          "lessons": [
+            { "id": "17", "title": "The Algorithm and the Muse", "type": "story", "theme": "AI & Creativity", "available": true },
+            { "id": "18", "title": "Burnout Nation", "type": "dialogue", "theme": "Mental Health & Work", "available": true },
+            { "id": "19", "title": "The Borders of Identity", "type": "story", "theme": "Immigration & Belonging", "available": true },
+            { "id": "20", "title": "Democracy Under Pressure", "type": "story", "theme": "Politics & Governance", "available": true },
+            { "id": "21", "title": "The Carbon Bargain", "type": "dialogue", "theme": "Climate & Ethics", "available": true },
+            { "id": "22", "title": "The Wealth Gap", "type": "story", "theme": "Economics & Justice", "available": true },
+            { "id": "23", "title": "Lost in Translation", "type": "story", "theme": "Language & Power", "available": true },
+            { "id": "24", "title": "The Surveillance Question", "type": "dialogue", "theme": "Privacy & Technology", "available": true }
+          ]
+        },
+        {
+          "id": 4,
+          "title": "Advanced Discourse & Argumentation",
+          "color": "#ffb347",
+          "description": "Master C1 argumentation, formal register, nuanced reasoning and advanced grammar. Practise debate, academic writing and complex oral expression.",
+          "target_level": "C1",
+          "lessons": [
+            { "id": "25", "title": "The Debate Stage", "type": "dialogue", "theme": "Political Debate", "available": true },
+            { "id": "26", "title": "A Leap in the Dark", "type": "story", "theme": "Science & Discovery", "available": true },
+            { "id": "27", "title": "What is Consciousness?", "type": "story", "theme": "Philosophy of Mind", "available": true },
+            { "id": "28", "title": "When Markets Crash", "type": "story", "theme": "Economics & Crisis", "available": true },
+            { "id": "29", "title": "Art for Whose Sake?", "type": "dialogue", "theme": "Art Theory & Society", "available": true },
+            { "id": "30", "title": "The Right to Die", "type": "dialogue", "theme": "Medical Ethics", "available": true },
+            { "id": "31", "title": "The City of the Future", "type": "story", "theme": "Urban Planning", "available": true },
+            { "id": "32", "title": "Innocent Until Proven Guilty", "type": "dialogue", "theme": "Law & Justice", "available": true }
+          ]
+        },
+        {
+          "id": 5,
+          "title": "C1 Mastery & Consolidation",
+          "color": "#a78bfa",
+          "description": "Consolidate your C1 level with high-register texts, complex grammar, and advanced oral exercises. Approach near-native fluency.",
+          "target_level": "C1+",
+          "lessons": [
+            { "id": "33", "title": "The New World Order", "type": "story", "theme": "International Relations", "available": true },
+            { "id": "34", "title": "Closing the Deal", "type": "dialogue", "theme": "Business Negotiation", "available": true },
+            { "id": "35", "title": "Between the Lines", "type": "story", "theme": "Literary Analysis", "available": true },
+            { "id": "36", "title": "The Free Will Debate", "type": "dialogue", "theme": "Philosophy", "available": true },
+            { "id": "37", "title": "Science in Plain English", "type": "story", "theme": "Science Communication", "available": true },
+            { "id": "38", "title": "The Verdict", "type": "dialogue", "theme": "Criminal Law", "available": true },
+            { "id": "39", "title": "The Future of Work", "type": "story", "theme": "Economics & Technology", "available": true },
+            { "id": "40", "title": "A World in Crisis", "type": "story", "theme": "Global Challenges", "available": true }
+          ]
+        }
+      ]
+    }
+  ]
+}

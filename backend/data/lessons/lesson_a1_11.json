@@ -1,0 +1,280 @@
+{
+  "id": "a1_11",
+  "unit": 7,
+  "unit_title": "Everyday Life",
+  "title": "Where Is the Station?",
+  "level": "A1",
+  "type": "dialogue",
+  "theme": "Directions & Places",
+  "reading_time": "3 min",
+  "content": {
+    "paragraphs": [
+      {
+        "en": "Mark is a tourist in London. He wants to go to the train station, but he is lost. He asks a woman on the street for help.",
+        "fr": "Mark est un touriste a Londres. Il veut aller a la gare, mais il est perdu. Il demande de l'aide a une femme dans la rue."
+      },
+      {
+        "en": "Excuse me, where is the train station, please?",
+        "fr": "Excusez-moi, ou est la gare, s'il vous plait ?",
+        "speaker": "Mark"
+      },
+      {
+        "en": "The train station? It's not far from here. Go straight on this street.",
+        "fr": "La gare ? Ce n'est pas loin d'ici. Allez tout droit dans cette rue.",
+        "speaker": "Woman"
+      },
+      {
+        "en": "OK, go straight. And then?",
+        "fr": "D'accord, tout droit. Et ensuite ?",
+        "speaker": "Mark"
+      },
+      {
+        "en": "Then turn left at the corner. You will see a big supermarket on the right.",
+        "fr": "Ensuite, tournez a gauche au coin. Vous verrez un grand supermarche sur la droite.",
+        "speaker": "Woman"
+      },
+      {
+        "en": "Turn left at the corner. OK. Is the station near the supermarket?",
+        "fr": "Tourner a gauche au coin. D'accord. La gare est-elle pres du supermarche ?",
+        "speaker": "Mark"
+      },
+      {
+        "en": "Yes, the station is just next to it. It's on the left side of the street. You can't miss it!",
+        "fr": "Oui, la gare est juste a cote. Elle est sur le cote gauche de la rue. Vous ne pouvez pas la rater !",
+        "speaker": "Woman"
+      },
+      {
+        "en": "Is it far from here? How long does it take to walk there?",
+        "fr": "C'est loin d'ici ? Combien de temps faut-il pour y aller a pied ?",
+        "speaker": "Mark"
+      },
+      {
+        "en": "No, it's not far at all. About five minutes on foot.",
+        "fr": "Non, ce n'est pas loin du tout. Environ cinq minutes a pied.",
+        "speaker": "Woman"
+      },
+      {
+        "en": "Thank you very much! Have a nice day!",
+        "fr": "Merci beaucoup ! Bonne journee !",
+        "speaker": "Mark"
+      },
+      {
+        "en": "You're welcome! Good luck!",
+        "fr": "De rien ! Bonne chance !",
+        "speaker": "Woman"
+      },
+      {
+        "en": "Mark follows the directions. He goes straight, turns left at the corner, and sees the supermarket on the right. The station is on the left, just like the woman said. He arrives in five minutes.",
+        "fr": "Mark suit les indications. Il va tout droit, tourne a gauche au coin, et voit le supermarche sur la droite. La gare est sur la gauche, comme la femme l'a dit. Il arrive en cinq minutes."
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "station",
+        "phonetic": "/ˈsteɪʃn/",
+        "type": "noun",
+        "definition_en": "un endroit ou les trains ou les bus s'arretent",
+        "definition_fr": "gare, station",
+        "example": "The train station is in the centre of the city.",
+        "level": "A1"
+      },
+      {
+        "word": "street",
+        "phonetic": "/striːt/",
+        "type": "noun",
+        "definition_en": "une route dans une ville avec des batiments de chaque cote",
+        "definition_fr": "rue",
+        "example": "I live on a quiet street near the park.",
+        "level": "A1"
+      },
+      {
+        "word": "left",
+        "phonetic": "/left/",
+        "type": "noun/adjective",
+        "definition_en": "le cote oppose a la droite",
+        "definition_fr": "gauche",
+        "example": "Turn left at the traffic lights.",
+        "level": "A1"
+      },
+      {
+        "word": "right",
+        "phonetic": "/raɪt/",
+        "type": "noun/adjective",
+        "definition_en": "le cote oppose a la gauche",
+        "definition_fr": "droite",
+        "example": "The bank is on your right.",
+        "level": "A1"
+      },
+      {
+        "word": "straight",
+        "phonetic": "/streɪt/",
+        "type": "adverb",
+        "definition_en": "en ligne droite, sans tourner ni devier",
+        "definition_fr": "tout droit",
+        "example": "Go straight for two hundred metres.",
+        "level": "A1"
+      },
+      {
+        "word": "corner",
+        "phonetic": "/ˈkɔːrnər/",
+        "type": "noun",
+        "definition_en": "l'endroit ou deux rues se croisent",
+        "definition_fr": "coin (de rue)",
+        "example": "There is a cafe on the corner of the street.",
+        "level": "A1"
+      },
+      {
+        "word": "near",
+        "phonetic": "/nɪr/",
+        "type": "preposition/adjective",
+        "definition_en": "proche de, pas loin de",
+        "definition_fr": "pres de, proche",
+        "example": "The school is near my house.",
+        "level": "A1"
+      },
+      {
+        "word": "far",
+        "phonetic": "/fɑːr/",
+        "type": "adjective/adverb",
+        "definition_en": "a une grande distance",
+        "definition_fr": "loin",
+        "example": "The airport is very far from the city centre.",
+        "level": "A1"
+      }
+    ],
+    "grammar_points": [
+      {
+        "title": "Imperatives for Giving Directions",
+        "explanation": "Pour donner des directions, on utilise la forme **imperative**. C'est la base verbale sans sujet. Cela ressemble a un ordre, mais c'est poli quand on donne des directions. En francais, c'est comme l'imperatif avec 'vous'.",
+        "examples": [
+          "Go straight on this street. (Allez tout droit.)",
+          "Turn left at the corner. (Tournez a gauche au coin.)",
+          "Walk for five minutes. (Marchez pendant cinq minutes.)",
+          "Don't turn right! (Ne tournez pas a droite !)"
+        ]
+      },
+      {
+        "title": "Prepositions of Place: on, next to, near, far from",
+        "explanation": "On utilise des **prepositions** pour dire ou se trouvent les choses. **'On'** = sur (on the left, on the right). **'Next to'** = a cote de. **'Near'** = pres de. **'Far from'** = loin de.",
+        "examples": [
+          "The station is on the left. (= sur la gauche)",
+          "The bank is next to the supermarket. (= a cote du)",
+          "The school is near my house. (= pres de)",
+          "Is it far from here? (= loin d'ici)"
+        ]
+      }
+    ],
+    "expressions": [
+      {
+        "expression": "Excuse me, where is...?",
+        "meaning_fr": "Excusez-moi, ou est... ?",
+        "example": "Excuse me, where is the post office?",
+        "register": "polite / neutral",
+        "note": "La facon la plus courante de demander son chemin poliment en anglais. Commencez toujours par 'Excuse me'."
+      },
+      {
+        "expression": "It's on the left / on the right",
+        "meaning_fr": "C'est sur la gauche / sur la droite",
+        "example": "The pharmacy is on the right, after the bank.",
+        "register": "neutral",
+        "note": "S'utilise pour dire de quel cote de la rue se trouve un endroit."
+      },
+      {
+        "expression": "Is it far?",
+        "meaning_fr": "C'est loin ?",
+        "example": "Is it far from here? — No, just five minutes.",
+        "register": "neutral",
+        "note": "Une question simple pour demander la distance. On peut ajouter 'from here' pour plus de clarte."
+      }
+    ]
+  },
+  "exercises": {
+    "written": [
+      {
+        "id": "w1",
+        "type": "multiple_choice",
+        "question": "Where does Mark need to turn?",
+        "options": [
+          "Turn right at the supermarket",
+          "Turn left at the corner",
+          "Turn right at the corner",
+          "Go straight to the park"
+        ],
+        "answer": 1,
+        "explanation": "The woman says 'Turn left at the corner.'"
+      },
+      {
+        "id": "w2",
+        "type": "multiple_choice",
+        "question": "Where is the station?",
+        "options": [
+          "On the right side of the street",
+          "Next to the park",
+          "On the left side of the street"
+        ],
+        "answer": 2,
+        "explanation": "The woman says 'It's on the left side of the street.'"
+      },
+      {
+        "id": "w3",
+        "type": "multiple_choice",
+        "question": "How long does it take to walk to the station?",
+        "options": [
+          "Two minutes",
+          "Ten minutes",
+          "Five minutes",
+          "Fifteen minutes"
+        ],
+        "answer": 2,
+        "explanation": "The woman says 'About five minutes on foot.'"
+      },
+      {
+        "id": "w4",
+        "type": "fill_blank",
+        "sentence": "________ me, where is the train station, please?",
+        "answer": "Excuse",
+        "hint": "This is a polite word to start a question to a stranger."
+      },
+      {
+        "id": "w5",
+        "type": "fill_blank",
+        "sentence": "Go ________ on this street and then turn ________ at the corner.",
+        "answer": "straight / left",
+        "hint": "These are two direction words from the dialogue."
+      },
+      {
+        "id": "w6",
+        "type": "translation",
+        "french": "Excusez-moi, la gare est-elle pres d'ici ? — Oui, allez tout droit et tournez a gauche.",
+        "suggested_answer": "Excuse me, is the station near here? — Yes, go straight and turn left.",
+        "key_vocabulary": ["Excuse me", "near here", "go straight", "turn left"]
+      }
+    ],
+    "oral": [
+      {
+        "id": "o1",
+        "type": "read_aloud",
+        "instruction": "Read the directions aloud clearly, as if you are helping a tourist.",
+        "text": "Go straight on this street. Then turn left at the corner. You will see a big supermarket on the right. The station is on the left, next to the supermarket.",
+        "focus": "Use a clear, helpful tone. Pause between each instruction. Stress the direction words: 'straight', 'left', 'right'.",
+        "phonetic_tips": ["straight: /streɪt/", "corner: /ˈkɔːrnər/", "station: /ˈsteɪʃn/"]
+      },
+      {
+        "id": "o2",
+        "type": "answer_question",
+        "question": "A tourist asks you: 'Excuse me, where is the nearest supermarket?' Give simple directions from where you are.",
+        "suggested_answer": "Go straight on this street. Turn right at the corner. The supermarket is on the left. It's not far — about three minutes on foot.",
+        "vocabulary_hints": ["Go straight", "Turn left/right", "on the left/right", "It's not far"],
+        "duration_seconds": 30
+      },
+      {
+        "id": "o3",
+        "type": "answer_question",
+        "question": "Describe where your home is. Is it near a school, a shop, or a park? Use prepositions of place.",
+        "suggested_answer": "My house is on a quiet street. It is near a park and next to a small shop. The school is not far from my house — about ten minutes on foot.",
+        "vocabulary_hints": ["near", "next to", "far from", "on foot"],
+        "duration_seconds": 40
+      }
+    ]
+  }
+}

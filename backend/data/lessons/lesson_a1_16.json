@@ -1,0 +1,292 @@
+{
+  "id": "a1_16",
+  "unit": 7,
+  "unit_title": "Everyday Life",
+  "title": "A Phone Call",
+  "level": "A1",
+  "type": "dialogue",
+  "theme": "Phone Communication",
+  "reading_time": "3 min",
+  "content": {
+    "paragraphs": [
+      {
+        "en": "It is Saturday afternoon. Jack wants to call his friend Tom to play football in the park. He picks up his phone and calls Tom's house. Tom's mum answers the phone.",
+        "fr": "C'est samedi apres-midi. Jack veut appeler son ami Tom pour jouer au football dans le parc. Il prend son telephone et appelle chez Tom. La maman de Tom repond au telephone."
+      },
+      {
+        "en": "Hello?",
+        "fr": "Allo ?",
+        "speaker": "Tom's mum"
+      },
+      {
+        "en": "Hello, Mrs Parker. This is Jack. Can I speak to Tom, please?",
+        "fr": "Bonjour, Mme Parker. C'est Jack. Est-ce que je peux parler a Tom, s'il vous plait ?",
+        "speaker": "Jack"
+      },
+      {
+        "en": "Hello, Jack. Hold on, please. I'll get him.",
+        "fr": "Bonjour, Jack. Attends un instant, s'il te plait. Je vais le chercher.",
+        "speaker": "Tom's mum"
+      },
+      {
+        "en": "Jack waits for a moment. He hears Tom's mum calling Tom. Then Tom comes to the phone.",
+        "fr": "Jack attend un moment. Il entend la maman de Tom appeler Tom. Puis Tom arrive au telephone."
+      },
+      {
+        "en": "Hi Jack! How are you?",
+        "fr": "Salut Jack ! Comment vas-tu ?",
+        "speaker": "Tom"
+      },
+      {
+        "en": "Hi Tom! I'm good, thanks. I'm calling because I want to play football in the park. Do you want to come?",
+        "fr": "Salut Tom ! Je vais bien, merci. J'appelle parce que je veux jouer au football dans le parc. Tu veux venir ?",
+        "speaker": "Jack"
+      },
+      {
+        "en": "Oh, I'm sorry. I can't come right now. I'm doing my homework. It's very long!",
+        "fr": "Oh, je suis desole. Je ne peux pas venir maintenant. Je suis en train de faire mes devoirs. C'est tres long !",
+        "speaker": "Tom"
+      },
+      {
+        "en": "That's OK. Can you come later? Maybe at three o'clock?",
+        "fr": "Pas de probleme. Tu peux venir plus tard ? Peut-etre a trois heures ?",
+        "speaker": "Jack"
+      },
+      {
+        "en": "Yes, three o'clock is perfect! I'll call you back when I'm finished.",
+        "fr": "Oui, trois heures c'est parfait ! Je te rappellerai quand j'aurai fini.",
+        "speaker": "Tom"
+      },
+      {
+        "en": "Great! Talk to you later. Bye!",
+        "fr": "Super ! A plus tard. Salut !",
+        "speaker": "Jack"
+      },
+      {
+        "en": "Bye, Jack! See you at three!",
+        "fr": "Salut, Jack ! A trois heures !",
+        "speaker": "Tom"
+      },
+      {
+        "en": "Tom finishes his homework at half past two. He calls Jack back and they meet at the park at three o'clock. They play football for two hours. It is a great afternoon!",
+        "fr": "Tom finit ses devoirs a deux heures et demie. Il rappelle Jack et ils se retrouvent au parc a trois heures. Ils jouent au football pendant deux heures. C'est un super apres-midi !"
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "phone",
+        "phonetic": "/foʊn/",
+        "type": "noun",
+        "definition_en": "un appareil utilise pour parler a quelqu'un qui est dans un autre endroit",
+        "definition_fr": "telephone",
+        "example": "My phone is on the table. Can you pass it to me?",
+        "level": "A1"
+      },
+      {
+        "word": "to call",
+        "phonetic": "/kɔːl/",
+        "type": "verb",
+        "definition_en": "telephoner a quelqu'un",
+        "definition_fr": "appeler (au telephone)",
+        "example": "I will call you tomorrow morning.",
+        "level": "A1"
+      },
+      {
+        "word": "message",
+        "phonetic": "/ˈmesɪdʒ/",
+        "type": "noun",
+        "definition_en": "une information ecrite ou parlee envoyee a quelqu'un",
+        "definition_fr": "message",
+        "example": "I sent you a message but you didn't answer.",
+        "level": "A1"
+      },
+      {
+        "word": "to speak",
+        "phonetic": "/spiːk/",
+        "type": "verb",
+        "definition_en": "parler, dire des mots",
+        "definition_fr": "parler",
+        "example": "Can I speak to the manager, please?",
+        "level": "A1"
+      },
+      {
+        "word": "to wait",
+        "phonetic": "/weɪt/",
+        "type": "verb",
+        "definition_en": "rester au meme endroit jusqu'a ce que quelque chose se passe",
+        "definition_fr": "attendre",
+        "example": "Please wait here. I'll be back in a minute.",
+        "level": "A1"
+      },
+      {
+        "word": "busy",
+        "phonetic": "/ˈbɪzi/",
+        "type": "adjective",
+        "definition_en": "qui a beaucoup de choses a faire",
+        "definition_fr": "occupe(e)",
+        "example": "Sorry, I'm busy right now. Can I call you later?",
+        "level": "A1"
+      },
+      {
+        "word": "later",
+        "phonetic": "/ˈleɪtər/",
+        "type": "adverb",
+        "definition_en": "a un moment dans le futur, pas maintenant",
+        "definition_fr": "plus tard",
+        "example": "I can't talk now. I'll call you later.",
+        "level": "A1"
+      },
+      {
+        "word": "sorry",
+        "phonetic": "/ˈsɒri/",
+        "type": "adjective",
+        "definition_en": "qui ressent du regret ou de la tristesse a propos de quelque chose",
+        "definition_fr": "desole(e)",
+        "example": "I'm sorry, I can't come to the party tonight.",
+        "level": "A1"
+      }
+    ],
+    "grammar_points": [
+      {
+        "title": "'Can I speak to...?' — Phone Language",
+        "explanation": "Au telephone, on utilise **'Can I speak to...?'** pour demander a parler a quelqu'un. On dit **'This is [name]'** pour s'identifier (pas 'I am [name]'). Ce sont des expressions figees utilisees au telephone en anglais.",
+        "examples": [
+          "Can I speak to Tom, please? (= Est-ce que je peux parler a Tom ?)",
+          "This is Jack. (= C'est Jack. / Jack a l'appareil.)",
+          "Who's calling, please? (= Qui est a l'appareil ?)",
+          "Hold on, please. (= Attendez, s'il vous plait.)"
+        ]
+      },
+      {
+        "title": "Present Continuous Introduction: 'I'm calling...', 'I'm doing...'",
+        "explanation": "Le **present continuous** decrit ce qui se passe **en ce moment**. On le forme avec **'am/is/are' + verbe-ing**. Comparez avec le present simple : 'I call Tom every day' (habitude) vs. 'I'm calling Tom now' (en cours maintenant).",
+        "examples": [
+          "I'm calling because I want to play football. (= right now)",
+          "I'm doing my homework. (= at this moment)",
+          "She's talking on the phone. (= right now)",
+          "Compare: I call my mum every day. (habit) vs. I'm calling my mum now. (right now)"
+        ]
+      }
+    ],
+    "expressions": [
+      {
+        "expression": "Can I speak to...?",
+        "meaning_fr": "Est-ce que je peux parler a... ?",
+        "example": "Can I speak to Mr Johnson, please?",
+        "register": "polite / neutral",
+        "note": "La facon standard de demander a parler a quelqu'un au telephone. Ajoutez toujours 'please'."
+      },
+      {
+        "expression": "Hold on, please.",
+        "meaning_fr": "Attendez / Patientez un instant, s'il vous plait.",
+        "example": "Hold on, please. I'll get her for you.",
+        "register": "neutral",
+        "note": "'Hold on' signifie 'attends un instant'. Tres courant au telephone."
+      },
+      {
+        "expression": "I'll call back later.",
+        "meaning_fr": "Je rappellerai plus tard.",
+        "example": "He's not here right now. I'll call back later.",
+        "register": "neutral",
+        "note": "'Call back' signifie rappeler quelqu'un. On peut aussi dire 'I'll call you back.'"
+      },
+      {
+        "expression": "Talk to you later!",
+        "meaning_fr": "A plus tard ! / On se parle plus tard !",
+        "example": "OK, I have to go now. Talk to you later!",
+        "register": "informal",
+        "note": "Une facon tres courante et amicale de terminer une conversation telephonique."
+      }
+    ]
+  },
+  "exercises": {
+    "written": [
+      {
+        "id": "w1",
+        "type": "multiple_choice",
+        "question": "Why does Jack call Tom?",
+        "options": [
+          "To do homework together",
+          "To play football in the park",
+          "To go to the cinema",
+          "To have dinner"
+        ],
+        "answer": 1,
+        "explanation": "Jack says 'I'm calling because I want to play football in the park.'"
+      },
+      {
+        "id": "w2",
+        "type": "multiple_choice",
+        "question": "Why can't Tom come right now?",
+        "options": [
+          "He is at the doctor's.",
+          "He is eating lunch.",
+          "He is doing his homework.",
+          "He is sleeping."
+        ],
+        "answer": 2,
+        "explanation": "Tom says 'I'm doing my homework. It's very long!'"
+      },
+      {
+        "id": "w3",
+        "type": "multiple_choice",
+        "question": "How do you identify yourself on the phone in English?",
+        "options": [
+          "I am Jack.",
+          "This is Jack.",
+          "My name Jack.",
+          "Jack is here."
+        ],
+        "answer": 1,
+        "explanation": "On the phone, we say 'This is [name]' (not 'I am [name]'). 'This is Jack' is the correct form."
+      },
+      {
+        "id": "w4",
+        "type": "fill_blank",
+        "sentence": "Can I ________ to Tom, please?",
+        "answer": "speak",
+        "hint": "This is the standard phone expression to ask for someone."
+      },
+      {
+        "id": "w5",
+        "type": "fill_blank",
+        "sentence": "I can't talk now. I ________ (do) my homework. I'll call you ________.",
+        "answer": "am doing / later",
+        "hint": "Use the present continuous for what is happening now. The second word means 'not now, after some time'."
+      },
+      {
+        "id": "w6",
+        "type": "translation",
+        "french": "Bonjour, c'est Jack. Est-ce que je peux parler a Tom ? — Attends un instant, s'il te plait.",
+        "suggested_answer": "Hello, this is Jack. Can I speak to Tom? — Hold on, please.",
+        "key_vocabulary": ["This is...", "Can I speak to...?", "Hold on, please"]
+      }
+    ],
+    "oral": [
+      {
+        "id": "o1",
+        "type": "read_aloud",
+        "instruction": "Read this phone conversation aloud. Use natural phone language.",
+        "text": "Jack: Hello, Mrs Parker. This is Jack. Can I speak to Tom, please?\nTom's mum: Hello, Jack. Hold on, please. I'll get him.\nTom: Hi Jack! How are you?\nJack: I'm calling because I want to play football. Do you want to come?",
+        "focus": "Use a friendly, polite tone. Practise the phone expressions: 'This is Jack', 'Can I speak to...', 'Hold on, please'.",
+        "phonetic_tips": ["phone: /foʊn/", "speak: /spiːk/", "message: /ˈmesɪdʒ/"]
+      },
+      {
+        "id": "o2",
+        "type": "answer_question",
+        "question": "You call a friend to invite them to the cinema. Your friend's dad answers. What do you say?",
+        "suggested_answer": "Hello, Mr Smith. This is [your name]. Can I speak to Sarah, please? ... Hi Sarah! I'm calling because I want to go to the cinema tonight. Do you want to come?",
+        "vocabulary_hints": ["This is...", "Can I speak to...?", "I'm calling because...", "Do you want to...?"],
+        "duration_seconds": 40
+      },
+      {
+        "id": "o3",
+        "type": "answer_question",
+        "question": "Your friend calls you, but you are busy. Explain what you are doing and suggest calling back later.",
+        "suggested_answer": "Hi! I'm sorry, I can't talk right now. I'm doing my homework. Can I call you back later? Maybe at five o'clock?",
+        "vocabulary_hints": ["I'm sorry", "I can't talk right now", "I'm doing...", "I'll call you back later"],
+        "duration_seconds": 30
+      }
+    ]
+  }
+}

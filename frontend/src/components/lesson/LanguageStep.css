@@ -1,0 +1,352 @@
+/* LanguageStep.css */
+.language-step { max-width: 75vw; margin: 0 auto; }
+
+.language-header { margin-bottom: 1.5rem; }
+.language-title  { font-size: 2.4rem; margin-bottom: 0.3rem; }
+.language-subtitle { font-size: 1.35rem; color: var(--text-secondary); }
+
+/* ─── Onglets ─────────────────────────────────────────────── */
+.lang-tabs {
+  display: flex;
+  gap: 0.5rem;
+  margin-bottom: 1.5rem;
+  background: var(--bg-secondary);
+  padding: 0.4rem;
+  border-radius: var(--radius-lg);
+  border: 1px solid var(--border);
+}
+
+.lang-tab-btn {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.4rem;
+  padding: 0.55rem 0.75rem;
+  border: none;
+  background: transparent;
+  border-radius: var(--radius-md);
+  font-family: var(--font-body);
+  font-size: 1.32rem;
+  font-weight: 600;
+  color: var(--text-secondary);
+  cursor: pointer;
+  transition: all var(--transition);
+}
+
+.lang-tab-btn:hover {
+  background: var(--bg-card);
+  color: var(--text-primary);
+}
+
+.lang-tab-btn.active {
+  background: var(--bg-card);
+  color: var(--accent-violet);
+  box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+}
+
+.tab-count {
+  background: var(--bg-elevated);
+  color: var(--text-muted);
+  font-size: 1.02rem;
+  font-family: var(--font-mono);
+  padding: 0.1rem 0.4rem;
+  border-radius: 999px;
+  min-width: 20px;
+  text-align: center;
+}
+
+.lang-tab-btn.active .tab-count {
+  background: rgba(124,111,208,0.2);
+  color: var(--accent-violet);
+}
+
+/* ─── Vocabulaire ─────────────────────────────────────────── */
+.vocab-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.vocab-card { padding: 1rem 1.25rem; }
+
+.vocab-card-top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 0.75rem;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.vocab-word-group {
+  display: flex;
+  align-items: baseline;
+  gap: 0.6rem;
+  flex-wrap: wrap;
+}
+
+.vocab-word {
+  font-family: var(--font-display);
+  font-size: 1.725rem;
+  font-weight: 600;
+  color: var(--accent-gold);
+}
+
+.vocab-type {
+  font-size: 1.08rem;
+  font-family: var(--font-mono);
+  color: var(--text-muted);
+  background: var(--bg-elevated);
+  padding: 0.1rem 0.4rem;
+  border-radius: var(--radius-sm);
+}
+
+.vocab-translation {
+  font-size: 1.35rem;
+  color: var(--text-primary);
+  margin-bottom: 0.6rem;
+}
+
+.vocab-note {
+  display: flex;
+  gap: 0.5rem;
+  font-size: 1.23rem;
+  color: var(--text-muted);
+  background: var(--bg-elevated);
+  padding: 0.5rem 0.75rem;
+  border-radius: var(--radius-sm);
+  margin-top: 0.6rem;
+  line-height: 1.5;
+}
+
+.def-lang {
+  font-family: var(--font-mono);
+  font-size: 0.975rem;
+  font-weight: 700;
+  padding: 0.1rem 0.35rem;
+  border-radius: 3px;
+  flex-shrink: 0;
+  background: rgba(124,111,208,0.15);
+  color: var(--accent-violet);
+}
+
+.def-lang.fr {
+  background: rgba(201,168,76,0.15);
+  color: var(--accent-gold);
+}
+
+.vocab-example {
+  font-size: 1.275rem;
+  color: var(--text-secondary);
+  padding-left: 0.75rem;
+  border-left: 2px solid var(--border);
+}
+
+.example-label {
+  font-weight: 600;
+  color: var(--text-muted);
+  margin-right: 0.3rem;
+  font-size: 1.2rem;
+}
+
+/* ─── Grammaire ───────────────────────────────────────────── */
+.grammar-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.grammar-card { padding: 0; overflow: hidden; }
+
+.grammar-card-header {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1rem 1.25rem;
+  background: none;
+  border: none;
+  cursor: pointer;
+  text-align: left;
+  transition: background var(--transition);
+  gap: 1rem;
+}
+
+.grammar-card-header:hover {
+  background: rgba(255,255,255,0.03);
+}
+
+.grammar-title-row {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  flex: 1;
+}
+
+.grammar-icon { font-size: 1.65rem; }
+
+.grammar-title {
+  font-size: 1.47rem;
+  font-weight: 600;
+  color: var(--text-primary);
+}
+
+.grammar-chevron {
+  color: var(--text-muted);
+  font-size: 1.05rem;
+  flex-shrink: 0;
+}
+
+.grammar-body {
+  padding: 0 1.25rem 1.25rem;
+  border-top: 1px solid var(--border);
+}
+
+.grammar-explanation {
+  font-size: 1.38rem;
+  line-height: 1.7;
+  color: var(--text-secondary);
+  margin: 0.75rem 0 1rem;
+}
+
+.grammar-explanation strong {
+  color: var(--accent-violet);
+  font-weight: 600;
+}
+
+.grammar-examples {
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+}
+
+.examples-label {
+  font-size: 1.17rem;
+  font-weight: 600;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  margin-bottom: 0.3rem;
+}
+
+.grammar-example {
+  display: flex;
+  gap: 0.6rem;
+  font-size: 1.32rem;
+  line-height: 1.5;
+  padding: 0.4rem 0.6rem;
+  border-radius: var(--radius-sm);
+  background: var(--bg-elevated);
+  color: var(--text-secondary);
+}
+
+.grammar-example.correct { background: var(--success-bg); }
+.grammar-example.wrong   { background: var(--error-bg); }
+
+.example-bullet {
+  color: var(--accent-gold);
+  flex-shrink: 0;
+  margin-top: 1px;
+}
+
+.grammar-example em { color: var(--accent-teal); font-style: italic; }
+
+:global(.ex-ok)  { color: var(--success); font-weight: 700; }
+:global(.ex-bad) { color: var(--error);   font-weight: 700; }
+
+/* ─── Expressions ─────────────────────────────────────────── */
+.expr-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.expr-card { padding: 1.1rem 1.25rem; }
+
+.expr-header {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-bottom: 0.6rem;
+}
+
+.expr-phrase {
+  font-family: var(--font-display);
+  font-size: 1.65rem;
+  font-weight: 600;
+  color: var(--accent-teal);
+  font-style: italic;
+}
+
+.expr-meaning {
+  display: flex;
+  gap: 0.6rem;
+  font-size: 1.35rem;
+  margin-bottom: 0.6rem;
+  align-items: baseline;
+}
+
+.expr-example {
+  font-size: 1.275rem;
+  color: var(--text-secondary);
+  padding-left: 0.75rem;
+  border-left: 2px solid var(--border);
+  margin-bottom: 0.6rem;
+}
+
+.expr-note {
+  display: flex;
+  gap: 0.5rem;
+  font-size: 1.23rem;
+  color: var(--text-muted);
+  background: var(--bg-elevated);
+  padding: 0.5rem 0.75rem;
+  border-radius: var(--radius-sm);
+  margin-top: 0.5rem;
+  line-height: 1.5;
+}
+
+/* ─── Vocabulaire personnalisé (mots recherchés) ──────────── */
+.custom-vocab-divider {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin: 1.25rem 0 0.5rem;
+  font-size: 1.23rem;
+  color: var(--text-muted);
+}
+
+.custom-vocab-divider::before,
+.custom-vocab-divider::after {
+  content: '';
+  flex: 1;
+  height: 1px;
+  background: var(--border);
+}
+
+.custom-vocab-divider span {
+  white-space: nowrap;
+}
+
+.custom-vocab-card {
+  border-left: 3px solid var(--accent-teal) !important;
+}
+
+.custom-vocab-badge {
+  font-size: 1.02rem;
+  padding: 0.15rem 0.5rem;
+  border-radius: 999px;
+  background: rgba(59, 184, 160, 0.12);
+  color: var(--accent-teal);
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+@media (max-width: 768px) {
+  .language-step { max-width: 95vw; }
+  .lang-tabs { flex-wrap: wrap; }
+  .lang-tab-btn { font-size: 0.8rem; padding: 0.4rem 0.6rem; }
+}

@@ -1,0 +1,298 @@
+{
+  "id": "20",
+  "unit": 3,
+  "unit_title": "Complex Issues & Nuanced Debates",
+  "title": "Democracy Under Pressure",
+  "level": "C1",
+  "type": "story",
+  "theme": "Politics, Democracy & Governance",
+  "reading_time": "6 min",
+  "content": {
+    "paragraphs": [
+      {
+        "en": "The standard defence of democracy is not that it produces good outcomes. It is that it produces correctable ones. An authoritarian government that governs well leaves no mechanism for the population to act when it governs badly. A democracy that governs badly can, at least in principle, be replaced. The argument is procedural rather than consequentialist: it is about the nature of the process, not the quality of its results.",
+        "fr": "La défense standard de la démocratie n'est pas qu'elle produit de bons résultats. C'est qu'elle en produit des corrigeables. Un gouvernement autoritaire qui gouverne bien ne laisse aucun mécanisme à la population pour agir quand il gouverne mal. Une démocratie qui gouverne mal peut, du moins en principe, être remplacée. L'argument est procédural plutôt que conséquentialiste : il s'agit de la nature du processus, pas de la qualité de ses résultats."
+      },
+      {
+        "en": "The difficulty is that this argument requires people to value the process even when the outcomes disappoint them — and that, increasingly, they seem unwilling or unable to do. Across many democracies, faith in institutions has declined sharply over the past two decades. Not faith in democracy as an abstract ideal, which remains high in surveys. But faith in the specific institutions — parliaments, courts, the press — through which democracy is actually practised.",
+        "fr": "La difficulté est que cet argument exige des gens qu'ils valorisent le processus même quand les résultats les déçoivent — et que, de plus en plus, ils semblent incapables ou peu enclins à le faire. Dans de nombreuses démocraties, la confiance dans les institutions a fortement décliné au cours des deux dernières décennies. Non pas la confiance en la démocratie comme idéal abstrait, qui reste élevée dans les sondages. Mais la confiance dans les institutions spécifiques — parlements, tribunaux, presse — à travers lesquelles la démocratie est réellement pratiquée."
+      },
+      {
+        "en": "This is a distinction worth pausing on. It is possible to believe strongly in democratic principles — the sovereignty of the people, the rule of law, equal and universal suffrage — while also believing that the specific institutions through which those principles are supposed to be realised have failed. And this is not an unreasonable position. Many democratic institutions have failed: they have been slow, corrupt, captured by narrow interests, or simply inadequate to the scale of the problems they face.",
+        "fr": "Il vaut la peine de s'arrêter sur cette distinction. Il est possible de croire fermement aux principes démocratiques — la souveraineté du peuple, l'état de droit, le suffrage universel et égal — tout en croyant également que les institutions spécifiques à travers lesquelles ces principes sont censés être réalisés ont échoué. Et ce n'est pas une position déraisonnable. De nombreuses institutions démocratiques ont échoué : elles ont été lentes, corrompues, captives d'intérêts étroits, ou simplement inadaptées à l'échelle des problèmes auxquels elles font face."
+      },
+      {
+        "en": "The danger lies in what fills the space when institutional trust collapses. History suggests it is rarely something better. Charismatic leaders who claim to speak directly for 'the people' tend to use that claim to bypass the very institutions — courts, free press, independent oversight — that check their power. The rhetoric of authentic democracy is, paradoxically, one of the most effective weapons against it.",
+        "fr": "Le danger réside dans ce qui remplit l'espace quand la confiance institutionnelle s'effondre. L'histoire suggère que c'est rarement quelque chose de mieux. Les leaders charismatiques qui prétendent parler directement au nom du « peuple » ont tendance à utiliser cette prétention pour contourner les institutions mêmes — tribunaux, presse libre, contrôle indépendant — qui limitent leur pouvoir. La rhétorique de la démocratie authentique est, paradoxalement, l'une des armes les plus efficaces contre elle."
+      },
+      {
+        "en": "What strikes me most about this moment is its structural similarity to other periods of democratic stress. The 1930s are the obvious comparison, and not a comforting one. But there are also significant differences: higher levels of education, a larger and more interconnected global civil society, and — perhaps most importantly — the lived memory of what the alternatives produced. Whether those differences are sufficient to prevent the worst is, genuinely, an open question.",
+        "fr": "Ce qui me frappe le plus dans ce moment, c'est sa similitude structurelle avec d'autres périodes de stress démocratique. Les années 1930 sont la comparaison évidente, et pas une réconfortante. Mais il y a aussi des différences significatives : des niveaux d'éducation plus élevés, une société civile mondiale plus grande et plus interconnectée, et — peut-être le plus important — le souvenir vivant de ce que les alternatives ont produit. Si ces différences sont suffisantes pour éviter le pire est, vraiment, une question ouverte."
+      },
+      {
+        "en": "The most honest thing I can say is this: democracy is not in danger because people have stopped believing in it. It is in danger because they have stopped believing it is possible to make it work. Recovering that belief — not through optimism, but through evidence of what has actually been achieved when people have organised, demanded and refused to accept that the system was beyond repair — is, I think, the central task.",
+        "fr": "La chose la plus honnête que je puisse dire est celle-ci : la démocratie n'est pas en danger parce que les gens ont cessé d'y croire. Elle est en danger parce qu'ils ont cessé de croire qu'il est possible de la faire fonctionner. Récupérer cette conviction — non pas par l'optimisme, mais par les preuves de ce qui a réellement été accompli quand les gens se sont organisés, ont exigé et refusé d'accepter que le système était irréparable — est, je crois, la tâche centrale."
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "procedural",
+        "phonetic": "/prəˈsiːdʒərəl/",
+        "type": "adjective",
+        "definition_en": "Relatif à une procédure ou un processus établi ; qui s'intéresse à la manière dont les choses sont faites plutôt qu'à ce qui est accompli",
+        "definition_fr": "procédural, relatif au processus",
+        "example": "The objection is procedural: not that the decision was wrong, but that the process was flawed.",
+        "level": "C1"
+      },
+      {
+        "word": "consequentialist",
+        "phonetic": "/ˌkɒnsɪˈkwenʃəlɪst/",
+        "type": "adjective (philosophy)",
+        "definition_en": "Qui juge les actions ou les systèmes selon leurs résultats et conséquences plutôt que selon la nature du processus",
+        "definition_fr": "conséquentialiste (qui juge selon les résultats)",
+        "example": "A consequentialist would support any system that produces the best outcomes, regardless of method.",
+        "level": "C1"
+      },
+      {
+        "word": "sovereignty",
+        "phonetic": "/ˈsɒvrɪnti/",
+        "type": "noun",
+        "definition_en": "Autorité suprême ; le droit de gouverner de manière indépendante ; en démocratie, le pouvoir détenu par le peuple",
+        "definition_fr": "souveraineté",
+        "example": "Parliamentary sovereignty is the cornerstone of the British constitutional system.",
+        "level": "C1"
+      },
+      {
+        "word": "suffrage",
+        "phonetic": "/ˈsʌfrɪdʒ/",
+        "type": "noun",
+        "definition_en": "Le droit de voter lors d'élections politiques",
+        "definition_fr": "suffrage, droit de vote",
+        "example": "Universal suffrage — the right of all adult citizens to vote — was not achieved in Britain until 1928.",
+        "level": "C1"
+      },
+      {
+        "word": "captured (by interests)",
+        "phonetic": "/ˈkæptʃəd/",
+        "type": "adjective (political science)",
+        "definition_en": "Dominé ou contrôlé par un groupe d'intérêts restreint plutôt que de servir le public au sens large",
+        "definition_fr": "capturé (par des intérêts particuliers), sous l'emprise de",
+        "example": "Critics argue that the regulator has been captured by the industries it is supposed to oversee.",
+        "level": "C1"
+      },
+      {
+        "word": "oversight",
+        "phonetic": "/ˈəʊvəsaɪt/",
+        "type": "noun",
+        "definition_en": "Le pouvoir ou le devoir de surveiller et de contrôler une institution ou une personne",
+        "definition_fr": "contrôle, surveillance, supervision",
+        "example": "Independent oversight of the police is essential in a democracy.",
+        "level": "C1"
+      },
+      {
+        "word": "paradoxically",
+        "phonetic": "/ˌpærəˈdɒksɪkli/",
+        "type": "adverb",
+        "definition_en": "D'une manière qui semble contradictoire mais peut révéler une vérité plus profonde",
+        "definition_fr": "paradoxalement",
+        "example": "Paradoxically, greater access to information has sometimes increased, not reduced, confusion.",
+        "level": "C1"
+      },
+      {
+        "word": "civil society",
+        "phonetic": "/ˈsɪvl səˈsaɪəti/",
+        "type": "noun (political science)",
+        "definition_en": "Le réseau d'organisations, de communautés et d'associations qui existent indépendamment du gouvernement et du marché",
+        "definition_fr": "société civile",
+        "example": "A healthy democracy requires a strong and independent civil society.",
+        "level": "C1"
+      },
+      {
+        "word": "interconnected",
+        "phonetic": "/ˌɪntəkəˈnektɪd/",
+        "type": "adjective",
+        "definition_en": "Mutuellement connecté ; lié dans un réseau complexe",
+        "definition_fr": "interconnecté, interdépendant",
+        "example": "In an interconnected world, a financial crisis in one country quickly spreads to others.",
+        "level": "B2"
+      },
+      {
+        "word": "beyond repair",
+        "phonetic": "/bɪˈjɒnd rɪˈpeər/",
+        "type": "idiom",
+        "definition_en": "Trop endommagé ou cassé pour être réparé",
+        "definition_fr": "irréparable, au-delà de toute réparation",
+        "example": "Refusing to accept that something is beyond repair is the first step to changing it.",
+        "level": "B2"
+      }
+    ],
+    "grammar_points": [
+      {
+        "title": "Concessive 'while also': acknowledging complexity without contradiction",
+        "explanation": "**'While also'** permet de maintenir simultanément deux positions apparemment contradictoires sans résoudre la tension. C'est essentiel pour une argumentation politique et philosophique nuancée.",
+        "examples": [
+          "'It is possible to believe in democratic principles **while also** believing that specific institutions have failed.'",
+          "'She supported the principle of free speech **while also** recognising its limits.'",
+          "'The policy is necessary **while also** being deeply unpopular.'",
+          "Compare: 'although' (more direct concession) vs. 'while also' (more balanced co-existence)"
+        ]
+      },
+      {
+        "title": "The structure 'not because X but because Y' — redirecting causation",
+        "explanation": "Cette construction est utilisée pour **corriger une explication populaire ou supposée** et la remplacer par une autre. C'est puissant en écriture analytique car cela démontre que l'auteur a réfléchi au-delà de l'évidence.",
+        "examples": [
+          "'Democracy is **not** in danger because people have stopped believing in it — it is in danger **because** they believe it can't be made to work.'",
+          "'She failed **not** because she lacked talent, **but** because the conditions were wrong.'",
+          "'The problem is **not** a lack of information **but** a lack of trust.'",
+          "Rhetorical tip: this structure signals analytical rigour and is highly effective in essays."
+        ]
+      },
+      {
+        "title": "'Whether X is... is genuinely an open question' — expressing epistemic humility",
+        "explanation": "Au niveau C1+, affirmer une certitude là où il n'y en a pas est considéré comme une faiblesse. L'**humilité épistémique** — reconnaître les limites de ce que nous savons — s'exprime à travers des formules spécifiques qui signalent l'honnêteté sans abandonner l'argument.",
+        "examples": [
+          "'Whether those differences are sufficient is, **genuinely**, an open question.'",
+          "'**It remains to be seen** whether the reform will hold.'",
+          "'**The evidence is inconclusive** on whether...'",
+          "'**It would be premature** to conclude that...'",
+          "These phrases allow you to maintain credibility by not overclaiming."
+        ]
+      }
+    ],
+    "expressions": [
+      {
+        "expression": "worth pausing on",
+        "meaning_fr": "qui mérite qu'on s'y arrête, qui vaut la peine d'être approfondi",
+        "example": "This is a distinction worth pausing on.",
+        "register": "formal / academic",
+        "note": "Utilisé pour signaler que le locuteur s'apprête à faire une distinction subtile mais importante. Courant dans les cours, les essais et l'écriture analytique."
+      },
+      {
+        "expression": "to fill the space",
+        "meaning_fr": "remplir le vide, occuper l'espace laissé",
+        "example": "The danger lies in what fills the space when institutional trust collapses.",
+        "register": "formal / analytical",
+        "note": "Une métaphore spatiale pour ce qui prend la relève quand une institution, une idéologie ou une personne quitte une position d'influence."
+      },
+      {
+        "expression": "an open question",
+        "meaning_fr": "une question ouverte, non résolue",
+        "example": "Whether these differences are sufficient to prevent the worst is, genuinely, an open question.",
+        "register": "formal / intellectual",
+        "note": "Signale qu'aucune réponse faisant autorité n'existe encore. Distinct d'une « question rhétorique » (qui implique une réponse évidente)."
+      },
+      {
+        "expression": "beyond repair",
+        "meaning_fr": "irréparable, au-delà de ce qui peut être réparé",
+        "example": "Recovering the belief that the system is not beyond repair is the central task.",
+        "register": "neutral / emphatic",
+        "note": "Couramment utilisé dans les contextes d'institutions, de relations ou d'objets extrêmement endommagés."
+      },
+      {
+        "expression": "paradoxically",
+        "meaning_fr": "paradoxalement, de façon paradoxale",
+        "example": "The rhetoric of authentic democracy is, paradoxically, one of the most effective weapons against it.",
+        "register": "formal / intellectual",
+        "note": "Signale une contradiction authentique qui révèle quelque chose de surprenant sur le fonctionnement des systèmes ou des concepts."
+      }
+    ]
+  },
+  "exercises": {
+    "written": [
+      {
+        "id": "w1",
+        "type": "multiple_choice",
+        "question": "What is the author's 'standard defence of democracy'?",
+        "options": [
+          "That it produces better outcomes than any other system.",
+          "That it produces correctable outcomes — failures can be replaced or reversed.",
+          "That it reflects the natural order of human society.",
+          "That it guarantees individual freedom and happiness."
+        ],
+        "answer": 1,
+        "explanation": "The text states: 'The standard defence of democracy is not that it produces good outcomes. It is that it produces correctable ones.'"
+      },
+      {
+        "id": "w2",
+        "type": "multiple_choice",
+        "question": "According to the author, why is democracy currently in danger?",
+        "options": [
+          "People have stopped believing in democratic principles.",
+          "External authoritarian powers are undermining elections.",
+          "People believe that democracy cannot be made to work in practice.",
+          "Young people are increasingly apathetic about politics."
+        ],
+        "answer": 2,
+        "explanation": "The final paragraph: 'democracy is not in danger because people have stopped believing in it. It is in danger because they have stopped believing it is possible to make it work.'"
+      },
+      {
+        "id": "w3",
+        "type": "fill_blank",
+        "sentence": "It is possible to support free trade ________ ________ recognising that it produces winners and losers.",
+        "answer": "while also",
+        "hint": "A connector used to acknowledge two coexisting, apparently contradictory positions."
+      },
+      {
+        "id": "w4",
+        "type": "fill_blank",
+        "sentence": "The argument is ________ — not about outcomes, but about the legitimacy of the process.",
+        "answer": "procedural",
+        "hint": "An adjective meaning 'concerned with process rather than results'."
+      },
+      {
+        "id": "w5",
+        "type": "fill_blank",
+        "sentence": "Whether the reform will succeed is, ________, an ________ question.",
+        "answer": "genuinely / open",
+        "hint": "An expression signalling that no authoritative answer exists."
+      },
+      {
+        "id": "w6",
+        "type": "translation",
+        "french": "La rhétorique de la démocratie authentique est, paradoxalement, l'une des armes les plus efficaces contre elle.",
+        "suggested_answer": "The rhetoric of authentic democracy is, paradoxically, one of the most effective weapons against it.",
+        "key_vocabulary": ["rhetoric", "paradoxically", "most effective weapons against"]
+      },
+      {
+        "id": "w7",
+        "type": "translation",
+        "french": "La démocratie n'est pas en danger parce que les gens ont cessé d'y croire — c'est parce qu'ils ne croient plus qu'elle peut fonctionner.",
+        "suggested_answer": "Democracy is not in danger because people have stopped believing in it — it is because they no longer believe it can work.",
+        "key_vocabulary": ["not because... — it is because", "stopped believing", "no longer believe it can work"]
+      },
+      {
+        "id": "w8",
+        "type": "translation",
+        "french": "Il vaut la peine de s'arrêter sur cette distinction entre croire aux principes et faire confiance aux institutions.",
+        "suggested_answer": "This distinction between believing in principles and trusting institutions is worth pausing on.",
+        "key_vocabulary": ["worth pausing on", "believing in principles", "trusting institutions"]
+      }
+    ],
+    "oral": [
+      {
+        "id": "o1",
+        "type": "read_aloud",
+        "instruction": "Read the final paragraph. This is the author's conclusion — measured, honest, and careful not to overclaim. The tone is serious but not despairing.",
+        "text": "The most honest thing I can say is this: democracy is not in danger because people have stopped believing in it. It is in danger because they have stopped believing it is possible to make it work. Recovering that belief — not through optimism, but through evidence of what has actually been achieved when people have organised, demanded and refused to accept that the system was beyond repair — is, I think, the central task.",
+        "focus": "The long parenthetical beginning 'not through optimism' should be read with slightly lower intensity — it qualifies the main claim. Return to full weight for the final words: 'the central task'.",
+        "phonetic_tips": ["democracy: /dɪˈmɒkrəsi/", "optimism: /ˈɒptɪmɪzəm/", "organised: /ˈɔːrɡənaɪzd/"]
+      },
+      {
+        "id": "o2",
+        "type": "answer_question",
+        "question": "Do you trust democratic institutions in your country? Give specific reasons for your view.",
+        "suggested_answer": "It's complicated. I trust some institutions more than others. The judiciary, for instance, has generally maintained its independence, and I find that reassuring. Parliament, I'm less sure about — it often seems captured by short-term electoral interests rather than focused on long-term public good. And the media landscape has become so fragmented that it's genuinely difficult to find trustworthy sources of information. I think I believe in the principles of democracy more than I trust the specific institutions at this moment. Which, as the article suggests, is actually the more important thing to preserve.",
+        "vocabulary_hints": ["maintained its independence", "captured by short-term electoral interests", "fragmented", "principles vs institutions"],
+        "duration_seconds": 90
+      },
+      {
+        "id": "o3",
+        "type": "answer_question",
+        "question": "Is democracy the best system of government, or simply the least bad? Are there circumstances in which it might fail?",
+        "suggested_answer": "I think 'least bad' is probably the more honest formulation, and Churchill said something similar. Democracy has real weaknesses: it's slow, it's vulnerable to manipulation, it tends to prioritise short-term popularity over long-term wisdom, and it requires a level of institutional trust and civic culture that isn't always present. What makes it defensible isn't its efficiency but exactly what the article identifies — its correctability. The question of whether it can fail is clearly yes, and it has, repeatedly. The conditions that tend to produce failure are fairly well understood: economic insecurity, institutional corruption, a polarised media, and leaders willing to exploit democratic rhetoric to undermine democratic norms. Whether we're currently accumulating those conditions is, as the author says, genuinely an open question.",
+        "vocabulary_hints": ["least bad formulation", "correctability", "economic insecurity", "institutional corruption", "undermine democratic norms"],
+        "duration_seconds": 120
+      }
+    ]
+  }
+}

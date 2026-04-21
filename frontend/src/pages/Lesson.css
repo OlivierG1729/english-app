@@ -1,0 +1,62 @@
+/* Lesson.css */
+.lesson-page {
+  display: flex;
+  flex-direction: column;
+  min-height: calc(100vh - 58px);  /* 58px = hauteur du header */
+}
+
+.lesson-loading,
+.lesson-error {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  padding: 3rem;
+  text-align: center;
+  color: var(--text-muted);
+}
+
+.lesson-error {
+  max-width: 480px;
+  margin: 3rem auto;
+}
+
+.lesson-error h3 { color: var(--error); }
+
+.lesson-content {
+  padding-top: 1.5rem;
+  padding-bottom: 4rem;
+}
+
+/* Bannière de complétion */
+.lesson-completed-banner {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  padding: 0.75rem 1.25rem;
+  background: var(--success-bg);
+  border: 1px solid rgba(76,175,125,0.3);
+  border-radius: var(--radius-lg);
+  margin-bottom: 1.5rem;
+  font-size: 0.9rem;
+  color: var(--text-secondary);
+  flex-wrap: wrap;
+}
+
+.completion-badge {
+  background: var(--success);
+  color: #fff;
+  padding: 0.2rem 0.6rem;
+  border-radius: var(--radius-sm);
+  font-size: 0.78rem;
+  font-weight: 700;
+  font-family: var(--font-mono);
+  flex-shrink: 0;
+}
+
+.lesson-completed-banner strong { color: var(--success); }
+
+.lesson-completed-banner .btn {
+  margin-left: auto;
+}

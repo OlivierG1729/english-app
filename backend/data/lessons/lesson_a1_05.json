@@ -1,0 +1,181 @@
+{
+  "id": "a1_05",
+  "unit": 6,
+  "unit_title": "First Steps",
+  "title": "My Room",
+  "level": "A1",
+  "type": "story",
+  "theme": "Home & Furniture",
+  "reading_time": "2 min",
+  "content": {
+    "paragraphs": [
+      {
+        "en": "This is my room. It is small but I like it. The walls are white.",
+        "fr": "Voici ma chambre. Elle est petite mais je l'aime bien. Les murs sont blancs."
+      },
+      {
+        "en": "There is a bed near the window. Next to the bed, there is a small desk. I do my homework at the desk.",
+        "fr": "Il y a un lit pres de la fenetre. A cote du lit, il y a un petit bureau. Je fais mes devoirs au bureau."
+      },
+      {
+        "en": "There is a lamp on the desk. The lamp is blue. There are two books on the desk too.",
+        "fr": "Il y a une lampe sur le bureau. La lampe est bleue. Il y a aussi deux livres sur le bureau."
+      },
+      {
+        "en": "I love my room. It is my favourite place in the house.",
+        "fr": "J'adore ma chambre. C'est mon endroit prefere dans la maison."
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "bed",
+        "phonetic": "/bɛd/",
+        "type": "noun",
+        "definition_en": "un meuble pour dormir",
+        "definition_fr": "lit",
+        "example": "I sleep in my bed.",
+        "level": "A1"
+      },
+      {
+        "word": "desk",
+        "phonetic": "/dɛsk/",
+        "type": "noun",
+        "definition_en": "une table utilisee pour ecrire ou travailler",
+        "definition_fr": "bureau (meuble)",
+        "example": "My computer is on the desk.",
+        "level": "A1"
+      },
+      {
+        "word": "window",
+        "phonetic": "/ˈwɪndoʊ/",
+        "type": "noun",
+        "definition_en": "une ouverture dans un mur avec du verre pour laisser entrer la lumiere",
+        "definition_fr": "fenetre",
+        "example": "I can see the garden from my window.",
+        "level": "A1"
+      },
+      {
+        "word": "wall",
+        "phonetic": "/wɔːl/",
+        "type": "noun",
+        "definition_en": "le cote d'une piece ou d'un batiment",
+        "definition_fr": "mur",
+        "example": "The walls are white.",
+        "level": "A1"
+      },
+      {
+        "word": "lamp",
+        "phonetic": "/læmp/",
+        "type": "noun",
+        "definition_en": "un objet qui donne de la lumiere",
+        "definition_fr": "lampe",
+        "example": "I turn on the lamp at night.",
+        "level": "A1"
+      },
+      {
+        "word": "small",
+        "phonetic": "/smɔːl/",
+        "type": "adjective",
+        "definition_en": "pas grand, de petite taille",
+        "definition_fr": "petit",
+        "example": "My room is small but nice.",
+        "level": "A1"
+      }
+    ],
+    "grammar_points": [
+      {
+        "title": "\"There is\" / \"There are\"",
+        "explanation": "Utilisez **\"There is\"** (il y a) devant **une seule chose** (singulier). Utilisez **\"There are\"** (il y a) devant **deux choses ou plus** (pluriel). En français, 'il y a' ne change pas, mais en anglais, si !",
+        "examples": [
+          "There is a bed in my room. = Il y a un lit dans ma chambre. (one bed)",
+          "There is a lamp on the desk. = Il y a une lampe sur le bureau. (one lamp)",
+          "There are two books on the desk. = Il y a deux livres sur le bureau. (two books)",
+          "There are three windows. = Il y a trois fenetres. (three windows)"
+        ]
+      }
+    ],
+    "expressions": [
+      {
+        "expression": "In my room...",
+        "meaning_fr": "Dans ma chambre...",
+        "example": "In my room, there is a big bed and a small desk.",
+        "register": "neutral",
+        "note": "Une façon simple de commencer à décrire ce qu'il y a dans un endroit."
+      },
+      {
+        "expression": "Next to...",
+        "meaning_fr": "A cote de...",
+        "example": "The lamp is next to the bed.",
+        "register": "neutral",
+        "note": "S'utilise pour dire où se trouve quelque chose. Autres mots utiles : 'on' (sur), 'near' (près de), 'under' (sous)."
+      }
+    ]
+  },
+  "exercises": {
+    "written": [
+      {
+        "id": "w1",
+        "type": "multiple_choice",
+        "question": "Which sentence is correct?",
+        "options": [
+          "There is two books on the desk.",
+          "There are two books on the desk.",
+          "There are a book on the desk."
+        ],
+        "answer": 1,
+        "explanation": "We use 'There are' before plural nouns (two books). 'There is' is for singular nouns."
+      },
+      {
+        "id": "w2",
+        "type": "multiple_choice",
+        "question": "What does 'next to' mean in French?",
+        "options": [
+          "sous",
+          "sur",
+          "a cote de"
+        ],
+        "answer": 2,
+        "explanation": "'Next to' means 'a cote de'. 'Sous' = under, 'sur' = on."
+      },
+      {
+        "id": "w3",
+        "type": "fill_blank",
+        "sentence": "There ________ a lamp on the desk.",
+        "answer": "is",
+        "hint": "'There is' for one thing, 'there are' for many things."
+      },
+      {
+        "id": "w4",
+        "type": "fill_blank",
+        "sentence": "The bed is near the ________.",
+        "answer": "window",
+        "hint": "The English word for 'fenetre'."
+      },
+      {
+        "id": "w5",
+        "type": "translation",
+        "french": "Il y a un lit et un bureau dans ma chambre.",
+        "suggested_answer": "There is a bed and a desk in my room.",
+        "key_vocabulary": ["there is", "bed", "desk", "room"]
+      }
+    ],
+    "oral": [
+      {
+        "id": "o1",
+        "type": "read_aloud",
+        "instruction": "Read these sentences aloud slowly and clearly.",
+        "text": "In my room, there is a bed and a desk. The lamp is next to the window.",
+        "focus": "Practice the 'th' sound in 'there' and 'the'. Speak slowly and clearly.",
+        "phonetic_tips": ["there: /ðɛr/", "window: /ˈwɪndoʊ/", "lamp: /læmp/"]
+      },
+      {
+        "id": "o2",
+        "type": "answer_question",
+        "question": "What is in your room? Describe two or three things.",
+        "suggested_answer": "In my room, there is a bed. There is a desk next to the window. There are books on the desk.",
+        "vocabulary_hints": ["In my room...", "There is...", "There are...", "next to"],
+        "duration_seconds": 30
+      }
+    ]
+  }
+}

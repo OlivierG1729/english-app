@@ -1,0 +1,334 @@
+{
+  "id": "16",
+  "unit": 2,
+  "unit_title": "Culture, Arts & Media",
+  "title": "The Music Business",
+  "level": "B2+",
+  "type": "dialogue",
+  "theme": "Arts, Industry & Creative Labour",
+  "reading_time": "6 min",
+  "content": {
+    "speakers": ["Journalist", "Leo (Independent Musician, 31)"],
+    "paragraphs": [
+      {
+        "speaker": "Journalist",
+        "en": "You've been making music professionally for about eight years now. How has the industry changed in that time?",
+        "fr": "Vous faites de la musique professionnellement depuis environ huit ans maintenant. Comment le secteur a-t-il changé pendant cette période ?"
+      },
+      {
+        "speaker": "Leo",
+        "en": "Almost beyond recognition. When I started, the dream was still getting signed to a label. Now most of my friends who are doing well are entirely independent. The gatekeepers have largely disappeared — which is liberating and terrifying in equal measure.",
+        "fr": "Presque au-delà de toute reconnaissance. Quand j'ai commencé, le rêve était encore de signer avec un label. Maintenant, la plupart de mes amis qui s'en sortent bien sont entièrement indépendants. Les gardiens du temple ont largement disparu — ce qui est à la fois libérateur et terrifiant à parts égales."
+      },
+      {
+        "speaker": "Journalist",
+        "en": "What do you mean by 'gatekeepers'?",
+        "fr": "Que voulez-vous dire par « gardiens du temple » ?"
+      },
+      {
+        "speaker": "Leo",
+        "en": "Record labels, radio programmers, music journalists with real influence — the people who decided what got heard and what didn't. The system was opaque and often unfair. But it did mean that if you got through the gate, you had significant backing. Now there's no gate — which means anyone can put music out, but it also means there's an almost infinite volume of music competing for a finite amount of attention.",
+        "fr": "Les maisons de disques, les directeurs de programmes radio, les journalistes musicaux ayant une vraie influence — les gens qui décidaient de ce qui était entendu et de ce qui ne l'était pas. Le système était opaque et souvent injuste. Mais cela signifiait que si vous passiez la porte, vous aviez un soutien significatif. Maintenant il n'y a plus de porte — ce qui signifie que tout le monde peut sortir de la musique, mais cela signifie aussi qu'il y a un volume presque infini de musique en compétition pour une quantité finie d'attention."
+      },
+      {
+        "speaker": "Journalist",
+        "en": "Is that a problem unique to music, or do you see it across the arts?",
+        "fr": "Est-ce un problème unique à la musique, ou est-ce que vous le voyez dans tout le milieu artistique ?"
+      },
+      {
+        "speaker": "Leo",
+        "en": "It's everywhere — film, literature, visual art. The democratisation of tools has been enormous. Anyone with a laptop can now make a professional-quality recording; anyone with a phone can publish a novel. That's genuinely wonderful. The problem is that attention hasn't democratised in the same way. There are still only twenty-four hours in a day and a limited number of things any individual can listen to, read or watch.",
+        "fr": "C'est partout — cinéma, littérature, arts visuels. La démocratisation des outils a été énorme. Avec un ordinateur portable, n'importe qui peut maintenant faire un enregistrement de qualité professionnelle ; avec un téléphone, n'importe qui peut publier un roman. C'est vraiment merveilleux. Le problème, c'est que l'attention ne s'est pas démocratisée de la même façon. Il y a toujours vingt-quatre heures dans une journée et un nombre limité de choses qu'un individu peut écouter, lire ou regarder."
+      },
+      {
+        "speaker": "Journalist",
+        "en": "How do you personally navigate that landscape?",
+        "fr": "Comment naviguez-vous personnellement dans ce paysage ?"
+      },
+      {
+        "speaker": "Leo",
+        "en": "Honestly? With a lot of trial and error. I release music directly, I build an audience slowly through live performance and social media, and I make money through a combination of streaming revenue — which is tiny — live shows, sync licensing, and teaching. The teaching is the only one that pays reliably. I'm not sure that's sustainable long-term.",
+        "fr": "Honnêtement ? Avec beaucoup de tâtonnements. Je sors de la musique directement, je construis un public lentement grâce aux concerts et aux réseaux sociaux, et je gagne de l'argent grâce à une combinaison de revenus de streaming — qui sont infimes — de concerts en direct, de licences de synchronisation et d'enseignement. L'enseignement est le seul qui paie de façon fiable. Je ne suis pas sûr que ce soit viable à long terme."
+      },
+      {
+        "speaker": "Journalist",
+        "en": "Sync licensing — can you explain that for people who don't know the term?",
+        "fr": "Les licences de synchronisation — pouvez-vous expliquer cela pour les personnes qui ne connaissent pas le terme ?"
+      },
+      {
+        "speaker": "Leo",
+        "en": "It's when your music gets used in a film, TV show, advert or video game. You licence the right to use it and receive a fee. For independent artists, it can be transformative — one well-placed sync can bring in more money than a year of streaming. The challenge is getting noticed by the people who make those decisions, which brings us back to the attention problem.",
+        "fr": "C'est quand votre musique est utilisée dans un film, une émission de télévision, une publicité ou un jeu vidéo. Vous licenciez le droit de l'utiliser et recevez des honoraires. Pour les artistes indépendants, cela peut être transformateur — une synchronisation bien placée peut rapporter plus d'argent qu'une année de streaming. Le défi est de se faire remarquer par les personnes qui prennent ces décisions, ce qui nous ramène au problème de l'attention."
+      },
+      {
+        "speaker": "Journalist",
+        "en": "If you could change one thing about the current system, what would it be?",
+        "fr": "Si vous pouviez changer une chose dans le système actuel, quelle serait-elle ?"
+      },
+      {
+        "speaker": "Leo",
+        "en": "The streaming royalty rates. I get paid a fraction of a penny per stream. That sounds absurd — and it is — but it's also the result of a negotiation that happened twenty years ago between platforms and major labels, and independent artists had essentially no seat at the table. The business model was built for volume, not for the artist. That needs to change, but I have absolutely no idea who has the power to change it.",
+        "fr": "Les taux de redevances du streaming. Je suis payé une fraction de centime par stream. Ça semble absurde — et ça l'est — mais c'est aussi le résultat d'une négociation qui s'est produite il y a vingt ans entre les plateformes et les grands labels, et les artistes indépendants n'avaient essentiellement aucune place à la table. Le modèle économique a été construit pour le volume, pas pour l'artiste. Ça doit changer, mais je n'ai absolument aucune idée de qui a le pouvoir de le changer."
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "gatekeeper",
+        "phonetic": "/ˈɡeɪtkiːpər/",
+        "type": "noun",
+        "definition_en": "Une personne ou une institution qui contrôle l'accès à quelque chose ; dans la culture, ceux qui décident de ce qui est publié, diffusé ou entendu",
+        "definition_fr": "gardien du temple, contrôleur d'accès",
+        "example": "Traditional publishers were the gatekeepers of literature — that role has been largely disrupted.",
+        "level": "C1"
+      },
+      {
+        "word": "opaque",
+        "phonetic": "/əʊˈpeɪk/",
+        "type": "adjective",
+        "definition_en": "Pas transparent ; difficile à comprendre ; pas clairement expliqué",
+        "definition_fr": "opaque, peu transparent, obscur",
+        "example": "The selection process was completely opaque — nobody understood how decisions were made.",
+        "level": "B2"
+      },
+      {
+        "word": "democratisation",
+        "phonetic": "/dɪˌmɒkrətaɪˈzeɪʃn/",
+        "type": "noun",
+        "definition_en": "Le processus qui rend quelque chose accessible à un éventail beaucoup plus large de personnes",
+        "definition_fr": "démocratisation (élargissement de l'accès)",
+        "example": "The democratisation of information through the internet has transformed journalism.",
+        "level": "C1"
+      },
+      {
+        "word": "finite",
+        "phonetic": "/ˈfaɪnaɪt/",
+        "type": "adjective",
+        "definition_en": "Ayant une limite ; qui n'est pas infini",
+        "definition_fr": "fini, limité",
+        "example": "Human attention is finite — we cannot process an infinite amount of information.",
+        "level": "B2"
+      },
+      {
+        "word": "sync licensing",
+        "phonetic": "/sɪŋk ˈlaɪsənsɪŋ/",
+        "type": "noun (compound, music industry)",
+        "definition_en": "Le processus d'octroi de licence pour l'utilisation de musique en synchronisation avec des médias visuels (films, télévision, publicités, jeux vidéo)",
+        "definition_fr": "licence de synchronisation (musique pour image)",
+        "example": "Sync licensing has become a vital revenue stream for independent musicians.",
+        "level": "B2"
+      },
+      {
+        "word": "streaming revenue",
+        "phonetic": "/ˈstriːmɪŋ ˈrevənjuː/",
+        "type": "noun (compound)",
+        "definition_en": "Argent gagné grâce à la diffusion de musique sur des plateformes de streaming comme Spotify ou Apple Music",
+        "definition_fr": "revenus de streaming",
+        "example": "For most independent artists, streaming revenue alone cannot sustain a career.",
+        "level": "B2"
+      },
+      {
+        "word": "royalty rates",
+        "phonetic": "/ˈrɔɪəlti reɪts/",
+        "type": "noun (plural, business)",
+        "definition_en": "Le pourcentage des revenus versé au créateur d'une oeuvre pour chaque utilisation ou vente",
+        "definition_fr": "taux de redevances",
+        "example": "Royalty rates for streaming are significantly lower than for physical sales.",
+        "level": "B2"
+      },
+      {
+        "word": "sustainable",
+        "phonetic": "/səˈsteɪnəbl/",
+        "type": "adjective",
+        "definition_en": "Qui peut être maintenu sur une longue période sans épuiser les ressources",
+        "definition_fr": "viable, durable, soutenable",
+        "example": "A career based entirely on live performances is not sustainable if you have a family.",
+        "level": "B2"
+      },
+      {
+        "word": "a seat at the table",
+        "phonetic": "/ə siːt ət ðə ˈteɪbl/",
+        "type": "idiom",
+        "definition_en": "Une place dans un processus de négociation ou de prise de décision ; être inclus dans les discussions clés",
+        "definition_fr": "une place à la table (des négociations), être représenté",
+        "example": "Workers need a seat at the table when decisions about automation are being made.",
+        "level": "B2"
+      },
+      {
+        "word": "trial and error",
+        "phonetic": "/ˈtraɪəl ənd ˈerər/",
+        "type": "noun (compound, idiom)",
+        "definition_en": "Une méthode pour trouver une solution en essayant différentes approches et en apprenant de ses échecs",
+        "definition_fr": "tâtonnements, essais et erreurs",
+        "example": "There's no formula — it's mostly trial and error.",
+        "level": "B2"
+      }
+    ],
+    "grammar_points": [
+      {
+        "title": "'Which means' — using relative clauses to draw consequences",
+        "explanation": "**'Which means (that)'** est un connecteur très courant en anglais parlé et écrit pour tirer une conséquence logique immédiate de l'affirmation précédente. C'est plus naturel et fluide que de commencer une nouvelle phrase par « Therefore » ou « As a result ».",
+        "examples": [
+          "'Anyone can put music out, **which means** there's an infinite volume competing for attention.'",
+          "'She was promoted, **which means** she'll have to relocate.'",
+          "'The deadline was moved forward, **which meant** working over the weekend.'",
+          "Note: 'which' here refers to the entire preceding clause, not a single noun."
+        ]
+      },
+      {
+        "title": "In equal measure — expressing balance between two opposing ideas",
+        "explanation": "**'In equal measure'** est une expression formelle utile pour dire que deux choses sont équilibrées — aucune ne l'emporte sur l'autre. C'est élégant et concis, courant dans le journalisme et le discours formel.",
+        "examples": [
+          "'Liberating and terrifying **in equal measure**.'",
+          "'The film was brilliant and infuriating **in equal measure**.'",
+          "'She admired and feared him **in equal measure**.'",
+          "Variation: 'in roughly equal parts', 'equally X and Y'"
+        ]
+      },
+      {
+        "title": "Past passive for background context: 'a negotiation that happened'",
+        "explanation": "L'utilisation de constructions passives pour décrire le **contexte historique** d'une situation actuelle est très courante en écriture analytique et journalistique. Cela maintient l'attention sur l'événement plutôt que sur qui l'a fait.",
+        "examples": [
+          "'The result of **a negotiation that happened** twenty years ago between platforms and labels.'",
+          "'The law **was written** before the internet existed.'",
+          "'These rules **were established** in an era when...'",
+          "'A system **designed for** volume, not for the artist.' (passive participle as modifier)"
+        ]
+      }
+    ],
+    "expressions": [
+      {
+        "expression": "almost beyond recognition",
+        "meaning_fr": "presque méconnaissable, au-delà de toute reconnaissance",
+        "example": "The industry has changed almost beyond recognition in ten years.",
+        "register": "neutral / emphatic",
+        "note": "Utilisé pour souligner à quel point un changement a été extrême. « The city had changed beyond all recognition. »"
+      },
+      {
+        "expression": "in equal measure",
+        "meaning_fr": "à parts égales, autant l'un que l'autre",
+        "example": "The disappearance of gatekeepers is liberating and terrifying in equal measure.",
+        "register": "formal / journalistic",
+        "note": "Signale un équilibre soigneux entre deux qualités ou émotions opposées."
+      },
+      {
+        "expression": "trial and error",
+        "meaning_fr": "par tâtonnements, en essayant et en se trompant",
+        "example": "There's no formula — it's mostly trial and error.",
+        "register": "neutral / practical",
+        "note": "Très courant en anglais pour tout processus d'apprentissage par l'expérimentation."
+      },
+      {
+        "expression": "a seat at the table",
+        "meaning_fr": "être représenté dans les décisions, avoir voix au chapitre",
+        "example": "Independent artists had no seat at the table when streaming royalties were negotiated.",
+        "register": "professional / political",
+        "note": "Utilisé dans les relations de travail, la politique et les affaires pour parler d'être inclus dans les négociations clés."
+      },
+      {
+        "expression": "well-placed",
+        "meaning_fr": "bien placé, au bon endroit au bon moment",
+        "example": "One well-placed sync can bring in more money than a year of streaming.",
+        "register": "neutral / professional",
+        "note": "Souvent utilisé pour décrire une opportunité, un investissement ou un contenu qui arrive exactement dans le bon contexte."
+      }
+    ]
+  },
+  "exercises": {
+    "written": [
+      {
+        "id": "w1",
+        "type": "multiple_choice",
+        "question": "What does Leo mean by 'the gatekeepers have largely disappeared'?",
+        "options": [
+          "Radio stations no longer exist.",
+          "Music critics have lost all credibility.",
+          "The powerful intermediaries who controlled access to audiences have been disintermediated by digital platforms.",
+          "Record labels have gone bankrupt."
+        ],
+        "answer": 2,
+        "explanation": "Leo defines gatekeepers as 'record labels, radio programmers, music journalists with real influence — the people who decided what got heard and what didn't.' Digital platforms have largely bypassed this system."
+      },
+      {
+        "id": "w2",
+        "type": "multiple_choice",
+        "question": "What is Leo's main complaint about streaming royalty rates?",
+        "options": [
+          "They are set too high, making music less accessible.",
+          "They vary unfairly between platforms.",
+          "They were set in negotiations that excluded independent artists and are too low.",
+          "They change too frequently for artists to plan around."
+        ],
+        "answer": 2,
+        "explanation": "Leo explains: 'a negotiation that happened twenty years ago between platforms and major labels, and independent artists had essentially no seat at the table.'"
+      },
+      {
+        "id": "w3",
+        "type": "fill_blank",
+        "sentence": "The new policy was liberating and frustrating ________ ________ ________.",
+        "answer": "in equal measure",
+        "hint": "An expression meaning 'equally, in the same proportion'."
+      },
+      {
+        "id": "w4",
+        "type": "fill_blank",
+        "sentence": "The technology has changed rapidly, ________ ________ traditional skills are now largely irrelevant.",
+        "answer": "which means",
+        "hint": "A connector used to draw a logical consequence from the previous clause."
+      },
+      {
+        "id": "w5",
+        "type": "fill_blank",
+        "sentence": "The workers had no ________ ________ ________ ________ during the initial contract negotiations.",
+        "answer": "seat at the table",
+        "hint": "An idiom meaning 'a place in the decision-making process'."
+      },
+      {
+        "id": "w6",
+        "type": "translation",
+        "french": "Le secteur a changé presque au-delà de toute reconnaissance en l'espace de dix ans.",
+        "suggested_answer": "The industry has changed almost beyond recognition in the space of ten years.",
+        "key_vocabulary": ["almost beyond recognition", "in the space of ten years"]
+      },
+      {
+        "id": "w7",
+        "type": "translation",
+        "french": "La démocratisation des outils n'a pas résolu le problème de l'attention, qui reste une ressource finie.",
+        "suggested_answer": "The democratisation of tools has not solved the problem of attention, which remains a finite resource.",
+        "key_vocabulary": ["democratisation of tools", "finite resource", "attention"]
+      },
+      {
+        "id": "w8",
+        "type": "translation",
+        "french": "C'est le résultat d'une négociation qui s'est déroulée il y a vingt ans et dans laquelle les artistes indépendants n'avaient aucune place.",
+        "suggested_answer": "It's the result of a negotiation that took place twenty years ago in which independent artists had no seat at the table.",
+        "key_vocabulary": ["the result of a negotiation", "took place twenty years ago", "no seat at the table"]
+      }
+    ],
+    "oral": [
+      {
+        "id": "o1",
+        "type": "read_aloud",
+        "instruction": "Read Leo's explanation of why democratisation of tools hasn't solved everything. The tone is thoughtful and slightly rueful — he acknowledges the good and the bad.",
+        "text": "The democratisation of tools has been enormous. Anyone with a laptop can now make a professional-quality recording; anyone with a phone can publish a novel. That's genuinely wonderful. The problem is that attention hasn't democratised in the same way. There are still only twenty-four hours in a day.",
+        "focus": "The short sentence 'That's genuinely wonderful' is a deliberate pause before the 'but'. Don't rush it — give it space. The final line is quietly devastating and should land simply.",
+        "phonetic_tips": ["democratisation: /dɪˌmɒkrətaɪˈzeɪʃn/", "professional-quality: compound stress", "genuinely: /ˈdʒenjuɪnli/"]
+      },
+      {
+        "id": "o2",
+        "type": "answer_question",
+        "question": "Is streaming good or bad for musicians? Consider both sides before giving your view.",
+        "suggested_answer": "I think it's genuinely mixed. On the positive side, streaming has made music more accessible than ever — listeners can explore any artist anywhere in the world for a flat monthly fee. It's been transformative for discovery and for smaller artists who would never have had distribution before. The problem is the economics. The royalty rates are so low that streaming is essentially non-viable as a primary income source for most artists. The money flows disproportionately to the biggest acts and to the platforms themselves. So my view is that streaming as a distribution model is good; streaming as a payment model is deeply flawed. The two things are often conflated, which makes the debate more confusing than it needs to be.",
+        "vocabulary_hints": ["genuinely mixed", "non-viable as a primary income source", "disproportionately", "as a distribution model", "conflated"],
+        "duration_seconds": 90
+      },
+      {
+        "id": "o3",
+        "type": "answer_question",
+        "question": "The 'attention economy' is a term used to describe how platforms compete for our limited attention. Do you think this is a problem? How does it affect the arts?",
+        "suggested_answer": "I think the attention economy is one of the defining challenges of the current moment, and its impact on the arts is profound and largely negative. When attention becomes the primary currency, everything gets optimised for capture rather than for quality. Films get louder, shorter, more stimulating. Music becomes more repetitive. Books become more plot-driven. The things that require patience — slow cinema, demanding literature, music that doesn't resolve quickly — struggle to find audiences. I'm not saying popular art is bad; I'm saying that the economics of the attention economy tend to marginalise anything that doesn't deliver an immediate reward. That impoverishes the range of what gets made.",
+        "vocabulary_hints": ["optimised for capture", "rather than for quality", "require patience", "marginalise", "impoverishes the range"],
+        "duration_seconds": 90
+      }
+    ]
+  }
+}

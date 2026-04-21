@@ -1,0 +1,266 @@
+{
+  "id": "a1_18",
+  "unit": 8,
+  "unit_title": "Getting Confident",
+  "title": "A Birthday Party",
+  "level": "A1",
+  "type": "story",
+  "theme": "Celebrations & Past Events",
+  "reading_time": "3 min",
+  "content": {
+    "paragraphs": [
+      {
+        "en": "Last Saturday was my friend Lily's birthday. She had a big party at her house. Her mum made a beautiful chocolate cake with ten candles on top.",
+        "fr": "Samedi dernier, c'etait l'anniversaire de mon amie Lily. Elle a fait une grande fete chez elle. Sa maman a fait un magnifique gateau au chocolat avec dix bougies dessus."
+      },
+      {
+        "en": "I went to the party with my brother. We gave Lily a present — a book about animals because she loves animals. She was very happy and said thank you many times.",
+        "fr": "Je suis alle(e) a la fete avec mon frere. Nous avons offert un cadeau a Lily — un livre sur les animaux parce qu'elle adore les animaux. Elle etait tres contente et a dit merci plein de fois."
+      },
+      {
+        "en": "Many guests came to the party. We danced to music and played games in the garden. Tom sang 'Happy Birthday' very loudly and everyone laughed.",
+        "fr": "Beaucoup d'invites sont venus a la fete. Nous avons danse sur de la musique et joue a des jeux dans le jardin. Tom a chante 'Joyeux anniversaire' tres fort et tout le monde a ri."
+      },
+      {
+        "en": "Then Lily blew out the candles on her cake. She made a wish but she did not tell us what it was. We all had a piece of cake. It was delicious!",
+        "fr": "Ensuite, Lily a souffle les bougies sur son gateau. Elle a fait un voeu mais elle ne nous a pas dit ce que c'etait. Nous avons tous eu un morceau de gateau. C'etait delicieux !"
+      },
+      {
+        "en": "Lily's dad put balloons everywhere — red, blue, yellow and green. At the end of the party, each guest took a balloon home. We had a great time!",
+        "fr": "Le papa de Lily a mis des ballons partout — rouges, bleus, jaunes et verts. A la fin de la fete, chaque invite a pris un ballon pour rentrer a la maison. Nous avons passe un super moment !"
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "birthday",
+        "phonetic": "/ˈbɜːrθdeɪ/",
+        "type": "noun",
+        "definition_en": "le jour chaque annee qui correspond a la date ou l'on est ne",
+        "definition_fr": "anniversaire",
+        "example": "Today is my birthday — I am ten years old!",
+        "level": "A1"
+      },
+      {
+        "word": "present",
+        "phonetic": "/ˈprezənt/",
+        "type": "noun",
+        "definition_en": "quelque chose que l'on offre a quelqu'un, surtout pour une occasion speciale",
+        "definition_fr": "cadeau",
+        "example": "I gave her a present for her birthday.",
+        "level": "A1"
+      },
+      {
+        "word": "candle",
+        "phonetic": "/ˈkændl/",
+        "type": "noun",
+        "definition_en": "un baton de cire avec une meche a l'interieur que l'on fait bruler pour donner de la lumiere",
+        "definition_fr": "bougie",
+        "example": "There were ten candles on the birthday cake.",
+        "level": "A1"
+      },
+      {
+        "word": "balloon",
+        "phonetic": "/bəˈluːn/",
+        "type": "noun",
+        "definition_en": "un petit sac en caoutchouc colore que l'on remplit d'air pour la decoration",
+        "definition_fr": "ballon (de baudruche)",
+        "example": "The room was full of colourful balloons.",
+        "level": "A1"
+      },
+      {
+        "word": "cake",
+        "phonetic": "/keɪk/",
+        "type": "noun",
+        "definition_en": "un aliment sucre fait avec de la farine, des oeufs, du beurre et du sucre, cuit au four",
+        "definition_fr": "gateau",
+        "example": "Mum made a chocolate cake for the party.",
+        "level": "A1"
+      },
+      {
+        "word": "sang",
+        "phonetic": "/sæŋ/",
+        "type": "verb (past)",
+        "definition_en": "passe de 'sing' — produire des sons musicaux avec sa voix",
+        "definition_fr": "a chante",
+        "example": "We sang 'Happy Birthday' together.",
+        "level": "A1"
+      },
+      {
+        "word": "danced",
+        "phonetic": "/dænst/",
+        "type": "verb (past)",
+        "definition_en": "passe de 'dance' — bouger son corps en rythme avec la musique",
+        "definition_fr": "a danse",
+        "example": "We danced to music all afternoon.",
+        "level": "A1"
+      },
+      {
+        "word": "invited",
+        "phonetic": "/ɪnˈvaɪtɪd/",
+        "type": "verb (past)",
+        "definition_en": "passe de 'invite' — demander a quelqu'un de venir a un evenement",
+        "definition_fr": "a invite",
+        "example": "Lily invited all her friends to the party.",
+        "level": "A1"
+      },
+      {
+        "word": "guest",
+        "phonetic": "/ɡɛst/",
+        "type": "noun",
+        "definition_en": "une personne qui est invitee a une fete ou un evenement",
+        "definition_fr": "invite(e)",
+        "example": "There were twenty guests at the party.",
+        "level": "A1"
+      }
+    ],
+    "grammar_points": [
+      {
+        "title": "Simple past: irregular verbs (had, went, came, gave, sang)",
+        "explanation": "Certains verbes anglais sont **irreguliers** au passe — ils ne suivent PAS la regle du -ed. Il faut les apprendre par coeur. Voici les plus courants : **have → had**, **go → went**, **come → came**, **give → gave**, **sing → sang**.",
+        "examples": [
+          "She had a big party. (have → had) = Elle a fait une grande fete.",
+          "I went to the party. (go → went) = Je suis alle(e) a la fete.",
+          "Many guests came. (come → came) = Beaucoup d'invites sont venus.",
+          "We gave her a present. (give → gave) = Nous lui avons offert un cadeau.",
+          "Tom sang 'Happy Birthday'. (sing → sang) = Tom a chante 'Joyeux anniversaire'."
+        ]
+      },
+      {
+        "title": "Past simple: negative and affirmative with irregular verbs",
+        "explanation": "Pour les phrases negatives au passe, on utilise **did not (didn't) + la forme de base** du verbe (PAS la forme du passe). C'est la meme chose pour les verbes reguliers et irreguliers.",
+        "examples": [
+          "She did not tell us. (NOT: She did not told us.) = Elle ne nous a pas dit.",
+          "I didn't go to school yesterday. = Je ne suis pas alle(e) a l'ecole hier.",
+          "They didn't sing. = Ils n'ont pas chante.",
+          "Note: In affirmative sentences, use the past form: She told us. I went. They sang."
+        ]
+      }
+    ],
+    "expressions": [
+      {
+        "expression": "Happy birthday!",
+        "meaning_fr": "Joyeux anniversaire !",
+        "example": "Happy birthday, Lily! Here is your present.",
+        "register": "neutral",
+        "note": "La phrase standard pour souhaiter un joyeux anniversaire en anglais."
+      },
+      {
+        "expression": "I got a...",
+        "meaning_fr": "J'ai recu un(e)... / J'ai eu un(e)...",
+        "example": "I got a new bike for my birthday!",
+        "register": "informal",
+        "note": "'Got' est le passe de 'get'. Tres courant en anglais parle pour parler de choses que l'on a recues."
+      },
+      {
+        "expression": "We had a great time",
+        "meaning_fr": "Nous avons passe un super moment",
+        "example": "The party was wonderful — we had a great time!",
+        "register": "informal",
+        "note": "Une expression tres courante pour dire qu'on a apprecie un evenement ou une experience."
+      },
+      {
+        "expression": "She made a wish",
+        "meaning_fr": "Elle a fait un voeu",
+        "example": "Lily blew out the candles and made a wish.",
+        "register": "neutral",
+        "note": "Dans la tradition anglaise, on fait un voeu avant de souffler les bougies d'anniversaire."
+      }
+    ]
+  },
+  "exercises": {
+    "written": [
+      {
+        "id": "w1",
+        "type": "multiple_choice",
+        "question": "What present did they give to Lily?",
+        "options": [
+          "A toy",
+          "A book about animals",
+          "A box of chocolates",
+          "A balloon"
+        ],
+        "answer": 1,
+        "explanation": "The story says 'We gave Lily a present — a book about animals.'"
+      },
+      {
+        "id": "w2",
+        "type": "multiple_choice",
+        "question": "Which is the correct past form of 'sing'?",
+        "options": [
+          "singed",
+          "sanged",
+          "sung",
+          "sang"
+        ],
+        "answer": 3,
+        "explanation": "'Sing' is an irregular verb. The simple past is 'sang'. ('Sung' is the past participle, used with 'have'.)"
+      },
+      {
+        "id": "w3",
+        "type": "multiple_choice",
+        "question": "Which sentence is correct?",
+        "options": [
+          "She didn't told us her wish.",
+          "She didn't tell us her wish.",
+          "She not told us her wish.",
+          "She didn't telled us her wish."
+        ],
+        "answer": 1,
+        "explanation": "In negative past sentences, use 'didn't + base form': didn't tell (NOT didn't told)."
+      },
+      {
+        "id": "w4",
+        "type": "fill_blank",
+        "sentence": "Many guests ________ (come) to the party.",
+        "answer": "came",
+        "hint": "The past tense of 'come' is irregular."
+      },
+      {
+        "id": "w5",
+        "type": "fill_blank",
+        "sentence": "We ________ (give) Lily a present for her birthday.",
+        "answer": "gave",
+        "hint": "The past tense of 'give' is irregular."
+      },
+      {
+        "id": "w6",
+        "type": "fill_blank",
+        "sentence": "She ________ (have) a big party at her house.",
+        "answer": "had",
+        "hint": "The past tense of 'have' is irregular."
+      },
+      {
+        "id": "w7",
+        "type": "translation",
+        "french": "Nous avons danse et joue a des jeux dans le jardin.",
+        "suggested_answer": "We danced and played games in the garden.",
+        "key_vocabulary": ["danced", "played", "games"]
+      },
+      {
+        "id": "w8",
+        "type": "translation",
+        "french": "Elle n'a pas dit son voeu. Nous avons passe un super moment !",
+        "suggested_answer": "She didn't tell us her wish. We had a great time!",
+        "key_vocabulary": ["didn't tell", "had a great time"]
+      }
+    ],
+    "oral": [
+      {
+        "id": "o1",
+        "type": "read_aloud",
+        "instruction": "Read these sentences aloud. Pay attention to the irregular past tense verbs.",
+        "text": "Last Saturday, I went to Lily's birthday party. We gave her a present and she was very happy. Tom sang 'Happy Birthday' and we all danced. We had a great time!",
+        "focus": "Focus on pronouncing the irregular verbs clearly: went /wɛnt/, gave /ɡeɪv/, sang /sæŋ/, had /hæd/.",
+        "phonetic_tips": ["went: /wɛnt/", "gave: /ɡeɪv/", "sang: /sæŋ/", "danced: /dænst/"]
+      },
+      {
+        "id": "o2",
+        "type": "answer_question",
+        "question": "Tell me about a birthday party you went to. What happened? What did you eat?",
+        "suggested_answer": "Last month, I went to my friend's birthday party. There were balloons and a big cake. We sang 'Happy Birthday' and danced. I gave my friend a book. We had a great time!",
+        "vocabulary_hints": ["I went to...", "There were...", "We sang...", "I gave...", "We had a great time"],
+        "duration_seconds": 45
+      }
+    ]
+  }
+}

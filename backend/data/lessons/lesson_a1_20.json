@@ -1,0 +1,285 @@
+{
+  "id": "a1_20",
+  "unit": 8,
+  "unit_title": "Getting Confident",
+  "title": "Cooking Together",
+  "level": "A1",
+  "type": "dialogue",
+  "theme": "Instructions & Recipes",
+  "reading_time": "3 min",
+  "content": {
+    "paragraphs": [
+      {
+        "en": "Today, we are going to make pancakes! Have you got the recipe, Sophie?",
+        "fr": "Aujourd'hui, nous allons faire des crepes ! Tu as la recette, Sophie ?",
+        "speaker": "Dad"
+      },
+      {
+        "en": "Yes, I have it here! First, we need flour, eggs, sugar and milk. I put everything on the table.",
+        "fr": "Oui, je l'ai ici ! D'abord, nous avons besoin de farine, d'oeufs, de sucre et de lait. J'ai tout mis sur la table.",
+        "speaker": "Sophie"
+      },
+      {
+        "en": "Perfect. First, put the flour in the bowl. Then, add two eggs and a little sugar. Be careful not to break the shells into the bowl!",
+        "fr": "Parfait. D'abord, mets la farine dans le saladier. Ensuite, ajoute deux oeufs et un peu de sucre. Fais attention a ne pas casser les coquilles dans le saladier !",
+        "speaker": "Dad"
+      },
+      {
+        "en": "OK! Now what? Do I mix everything together?",
+        "fr": "OK ! Et maintenant ? Je melange tout ensemble ?",
+        "speaker": "Sophie"
+      },
+      {
+        "en": "Yes, next, stir the mixture with a spoon. Pour a little milk and mix again. Don't forget to mix well — we don't want any lumps!",
+        "fr": "Oui, ensuite, remue le melange avec une cuillere. Verse un peu de lait et melange encore. N'oublie pas de bien melanger — on ne veut pas de grumeaux !",
+        "speaker": "Dad"
+      },
+      {
+        "en": "It looks good! What do we do next?",
+        "fr": "Ca a l'air bien ! Qu'est-ce qu'on fait ensuite ?",
+        "speaker": "Sophie"
+      },
+      {
+        "en": "Finally, we cook the pancakes in a pan on the oven. Pour a little mixture into the pan and wait. Be careful, the pan is very hot!",
+        "fr": "Enfin, nous faisons cuire les crepes dans une poele sur la cuisiniere. Verse un peu de melange dans la poele et attends. Fais attention, la poele est tres chaude !",
+        "speaker": "Dad"
+      },
+      {
+        "en": "Mmm, it smells delicious! I love cooking with you, Dad!",
+        "fr": "Mmm, ca sent delicieux ! J'adore cuisiner avec toi, Papa !",
+        "speaker": "Sophie"
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "flour",
+        "phonetic": "/flaʊər/",
+        "type": "noun",
+        "definition_en": "une poudre blanche faite a partir de ble, utilisee pour faire du pain et des gateaux",
+        "definition_fr": "farine",
+        "example": "Put the flour in a large bowl.",
+        "level": "A1"
+      },
+      {
+        "word": "egg",
+        "phonetic": "/ɛɡ/",
+        "type": "noun",
+        "definition_en": "un objet ovale produit par une poule, utilise en cuisine",
+        "definition_fr": "oeuf",
+        "example": "Add two eggs to the mixture.",
+        "level": "A1"
+      },
+      {
+        "word": "sugar",
+        "phonetic": "/ˈʃʊɡər/",
+        "type": "noun",
+        "definition_en": "une substance blanche et sucree utilisee dans les aliments et les boissons",
+        "definition_fr": "sucre",
+        "example": "Add a little sugar to the bowl.",
+        "level": "A1"
+      },
+      {
+        "word": "to mix",
+        "phonetic": "/mɪks/",
+        "type": "verb",
+        "definition_en": "combiner differentes choses ensemble",
+        "definition_fr": "melanger",
+        "example": "Mix the flour and the eggs together.",
+        "level": "A1"
+      },
+      {
+        "word": "to stir",
+        "phonetic": "/stɜːr/",
+        "type": "verb",
+        "definition_en": "deplacer quelque chose en faisant des cercles avec une cuillere",
+        "definition_fr": "remuer",
+        "example": "Stir the mixture with a spoon.",
+        "level": "A1"
+      },
+      {
+        "word": "oven",
+        "phonetic": "/ˈʌvən/",
+        "type": "noun",
+        "definition_en": "un appareil de cuisine utilise pour cuire ou faire cuire des aliments",
+        "definition_fr": "four / cuisiniere",
+        "example": "Cook the cake in the oven for 30 minutes.",
+        "level": "A1"
+      },
+      {
+        "word": "bowl",
+        "phonetic": "/boʊl/",
+        "type": "noun",
+        "definition_en": "un plat rond et creux utilise pour la nourriture",
+        "definition_fr": "saladier, bol",
+        "example": "Put the flour in a big bowl.",
+        "level": "A1"
+      },
+      {
+        "word": "to pour",
+        "phonetic": "/pɔːr/",
+        "type": "verb",
+        "definition_en": "faire couler un liquide depuis un recipient",
+        "definition_fr": "verser",
+        "example": "Pour the milk into the bowl slowly.",
+        "level": "A1"
+      },
+      {
+        "word": "recipe",
+        "phonetic": "/ˈrɛsɪpi/",
+        "type": "noun",
+        "definition_en": "un ensemble d'instructions pour preparer un plat",
+        "definition_fr": "recette",
+        "example": "This recipe is easy to follow.",
+        "level": "A1"
+      }
+    ],
+    "grammar_points": [
+      {
+        "title": "Imperatives for instructions",
+        "explanation": "Pour donner des instructions en anglais, on utilise la **forme de base du verbe** sans sujet. Pour les instructions negatives, on ajoute **'Don't'** avant le verbe. C'est la meme chose pour tout le monde (you, we, everyone).",
+        "examples": [
+          "Put the flour in the bowl. = Mets la farine dans le saladier.",
+          "Add two eggs. = Ajoute deux oeufs.",
+          "Don't forget to mix well! = N'oublie pas de bien melanger !",
+          "Be careful! = Fais attention ! (imperative of 'be')"
+        ]
+      },
+      {
+        "title": "Sequence words: first, then, next, finally",
+        "explanation": "Lorsqu'on donne des instructions ou qu'on raconte une histoire etape par etape, on utilise des **mots de sequence** pour indiquer l'ordre : **First** (d'abord), **Then** (ensuite), **Next** (apres / puis), **Finally** (enfin). Ils se placent generalement au debut de la phrase.",
+        "examples": [
+          "First, put the flour in a bowl. = D'abord, mets la farine dans un bol.",
+          "Then, add the eggs. = Ensuite, ajoute les oeufs.",
+          "Next, stir the mixture. = Apres, remue le melange.",
+          "Finally, cook the pancakes. = Enfin, fais cuire les crepes."
+        ]
+      }
+    ],
+    "expressions": [
+      {
+        "expression": "First, you need to...",
+        "meaning_fr": "D'abord, tu dois... / il faut...",
+        "example": "First, you need to put the flour in the bowl.",
+        "register": "neutral",
+        "note": "Une facon polie de commencer a donner des instructions. 'You need to' est plus doux que l'imperatif seul."
+      },
+      {
+        "expression": "Be careful!",
+        "meaning_fr": "Fais attention ! / Sois prudent(e) !",
+        "example": "Be careful — the pan is very hot!",
+        "register": "neutral",
+        "note": "S'utilise pour avertir quelqu'un d'un danger ou lui dire d'etre prudent."
+      },
+      {
+        "expression": "It smells delicious",
+        "meaning_fr": "Ca sent delicieux",
+        "example": "Mmm, the cake smells delicious!",
+        "register": "neutral",
+        "note": "'Smell' est ici un verbe d'etat (comme 'be'). On utilise un adjectif apres, pas un adverbe."
+      },
+      {
+        "expression": "Don't forget to...",
+        "meaning_fr": "N'oublie pas de...",
+        "example": "Don't forget to add the sugar!",
+        "register": "neutral",
+        "note": "Une facon courante de rappeler a quelqu'un de faire quelque chose."
+      }
+    ]
+  },
+  "exercises": {
+    "written": [
+      {
+        "id": "w1",
+        "type": "multiple_choice",
+        "question": "What is the correct order for making pancakes in the story?",
+        "options": [
+          "Cook, mix, add eggs, put flour",
+          "Put flour, add eggs and sugar, stir and pour milk, cook",
+          "Pour milk, add flour, stir, cook",
+          "Add sugar, put flour, pour milk, stir"
+        ],
+        "answer": 1,
+        "explanation": "The recipe follows these steps: put flour in bowl, add eggs and sugar, stir and pour milk, then cook."
+      },
+      {
+        "id": "w2",
+        "type": "multiple_choice",
+        "question": "Which sentence is a correct negative imperative?",
+        "options": [
+          "Not forget the sugar!",
+          "Don't forget the sugar!",
+          "Doesn't forget the sugar!",
+          "You not forget the sugar!"
+        ],
+        "answer": 1,
+        "explanation": "Negative imperatives use 'Don't + base form': Don't forget!"
+      },
+      {
+        "id": "w3",
+        "type": "multiple_choice",
+        "question": "What does 'stir' mean?",
+        "options": [
+          "To cut something into pieces",
+          "To move something in a circle with a spoon",
+          "To put something in the oven",
+          "To add water to something"
+        ],
+        "answer": 1,
+        "explanation": "'Stir' means to move something around in a circular way, usually with a spoon."
+      },
+      {
+        "id": "w4",
+        "type": "fill_blank",
+        "sentence": "________, put the flour in the bowl. ________, add the eggs.",
+        "answer": "First / Then",
+        "hint": "Use sequence words to show the order of steps."
+      },
+      {
+        "id": "w5",
+        "type": "fill_blank",
+        "sentence": "________ careful! The pan is very hot.",
+        "answer": "Be",
+        "hint": "Use the imperative form of the verb 'to be'."
+      },
+      {
+        "id": "w6",
+        "type": "fill_blank",
+        "sentence": "________ (not / forget) to add the milk!",
+        "answer": "Don't forget",
+        "hint": "Use the negative imperative: Don't + base form."
+      },
+      {
+        "id": "w7",
+        "type": "translation",
+        "french": "D'abord, melange la farine et les oeufs. Ensuite, verse le lait.",
+        "suggested_answer": "First, mix the flour and the eggs. Then, pour the milk.",
+        "key_vocabulary": ["first", "mix", "then", "pour"]
+      },
+      {
+        "id": "w8",
+        "type": "translation",
+        "french": "Fais attention ! N'oublie pas de remuer le melange.",
+        "suggested_answer": "Be careful! Don't forget to stir the mixture.",
+        "key_vocabulary": ["be careful", "don't forget", "stir"]
+      }
+    ],
+    "oral": [
+      {
+        "id": "o1",
+        "type": "read_aloud",
+        "instruction": "Read these instructions aloud as if you are teaching someone to cook.",
+        "text": "First, put the flour in the bowl. Then, add two eggs and a little sugar. Next, stir the mixture with a spoon. Finally, pour a little milk and mix again. Be careful not to break the shells!",
+        "focus": "Use a clear, confident voice for imperatives. Stress the sequence words: FIRST, THEN, NEXT, FINALLY.",
+        "phonetic_tips": ["flour: /flaʊər/ — rhymes with 'flower'", "pour: /pɔːr/", "stir: /stɜːr/"]
+      },
+      {
+        "id": "o2",
+        "type": "answer_question",
+        "question": "Can you explain a simple recipe? Use sequence words (first, then, next, finally).",
+        "suggested_answer": "I can make a sandwich. First, take two pieces of bread. Then, add butter and cheese. Next, put some tomato on top. Finally, close the sandwich and eat it!",
+        "vocabulary_hints": ["First...", "Then...", "Next...", "Finally...", "Add...", "Put..."],
+        "duration_seconds": 45
+      }
+    ]
+  }
+}

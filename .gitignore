@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.venv_win/
+*.db
+
+# Node
+node_modules/
+dist/
+
+# Audio files (generated, too large for git)
+backend/audio/*.mp3
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db

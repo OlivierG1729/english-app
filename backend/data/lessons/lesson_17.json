@@ -1,0 +1,308 @@
+{
+  "id": "17",
+  "unit": 3,
+  "unit_title": "Complex Issues & Nuanced Debates",
+  "title": "The Algorithm and the Muse",
+  "level": "C1",
+  "type": "story",
+  "theme": "Artificial Intelligence & Creativity",
+  "reading_time": "7 min",
+  "content": {
+    "paragraphs": [
+      {
+        "en": "When the first AI-generated novel won a prestigious literary prize, the backlash was swift and unsparing. Critics called it a gimmick, a symptom of cultural decline, a death knell for human creativity. The author — or rather, the prompt engineer who had guided the model through draft after draft — gave a nervous interview in which she repeatedly insisted she was not, in fact, a fraud.",
+        "fr": "Quand le premier roman généré par une IA remporta un prix littéraire prestigieux, le retour de bâton fut rapide et sans merci. Les critiques crièrent au gadget, au symptôme du déclin culturel, au glas de la créativité humaine. L'auteure — ou plutôt l'ingénieure de prompts qui avait guidé le modèle de brouillon en brouillon — donna une interview nerveuse au cours de laquelle elle ne cessa de répéter qu'elle n'était pas, en réalité, une imposteure."
+      },
+      {
+        "en": "The debate that followed was predictable in its contours but surprisingly fierce in its intensity. On one side stood the purists, who maintained that genuine creativity required lived experience, suffering, and the irreducible messiness of being human. On the other were the pragmatists, who pointed out that literary history was littered with ghost-written memoirs, dictated masterpieces, and collaborative fictions passed off as the singular vision of one towering genius.",
+        "fr": "Le débat qui suivit était prévisible dans ses grandes lignes, mais étonnamment vif dans son intensité. D'un côté se trouvaient les puristes, qui soutenaient que la véritable créativité nécessitait une expérience vécue, la souffrance, et le désordre irréductible d'être humain. De l'autre se trouvaient les pragmatiques, qui faisaient remarquer que l'histoire littéraire était jonchée de mémoires écrits par des nègres littéraires, de chefs-d'œuvre dictés, et de fictions collectives présentées comme la vision singulière d'un seul génie imposant."
+      },
+      {
+        "en": "What neither side seemed willing to confront was the deeper question lurking beneath the surface: not whether a machine could create, but whether the experience of art — of being moved, disturbed, or irrevocably changed by a story — was in any way diminished by knowing the source.",
+        "fr": "Ce qu'aucun des deux camps ne semblait prêt à affronter, c'était la question plus profonde qui se cachait en dessous : non pas si une machine pouvait créer, mais si l'expérience de l'art — d'être ému, troublé, ou irrémédiablement changé par une histoire — se trouvait en quoi que ce soit diminuée par la connaissance de sa source."
+      },
+      {
+        "en": "I found myself thinking about a concert I had attended years earlier, in which a young pianist played a Schubert sonata with such devastating precision that several people in the audience wept openly. Afterwards, we learnt that she had been profoundly deaf since birth. Did this revelation alter the music we had heard? The notes had not changed. The emotion they had provoked in us had not been retroactively dissolved. And yet something shifted — not in the music, but in the story we told ourselves about it.",
+        "fr": "Je me retrouvai à penser à un concert auquel j'avais assisté des années auparavant, dans lequel une jeune pianiste avait joué une sonate de Schubert avec une précision si bouleversante que plusieurs personnes dans le public pleurèrent ouvertement. Après le concert, nous apprîmes qu'elle était profondément sourde depuis la naissance. Cette révélation modifiait-elle la musique que nous avions entendue ? Les notes n'avaient pas changé. L'émotion qu'elles avaient provoquée en nous n'avait pas été rétroactivement dissoute. Et pourtant quelque chose s'était déplacé — non pas dans la musique, mais dans l'histoire que nous nous racontions à son sujet."
+      },
+      {
+        "en": "This, I suspect, is where the real crisis lies — not in the technology itself, but in our stubborn need for narrative. We want art to be the trace of a consciousness, a mind pressing itself against the world and leaving an imprint. The idea that a sufficiently sophisticated algorithm might produce the same imprint without the corresponding consciousness feels, to many people, like a forgery. A beautiful, technically perfect forgery, but a forgery nonetheless.",
+        "fr": "C'est là, je le soupçonne, que réside la véritable crise — non pas dans la technologie elle-même, mais dans notre besoin obstiné de récit. Nous voulons que l'art soit la trace d'une conscience, un esprit qui se presse contre le monde et y laisse une empreinte. L'idée qu'un algorithme suffisamment sophistiqué puisse produire la même empreinte sans la conscience correspondante donne à beaucoup l'impression d'un faux. Un faux magnifique, techniquement parfait, mais un faux néanmoins."
+      },
+      {
+        "en": "Perhaps the more interesting question is not whether we should permit AI to create, but what it reveals about us that we find the idea so threatening. The anxiety may not be about machines becoming too human. It may be the suspicion, quiet but insistent, that humans were always a little more mechanical than we liked to admit.",
+        "fr": "La question la plus intéressante n'est peut-être pas de savoir si nous devrions permettre à l'IA de créer, mais ce que cela révèle de nous que nous trouvions l'idée si menaçante. L'anxiété ne porte peut-être pas sur le fait que les machines deviennent trop humaines. Elle porte peut-être sur le soupçon, discret mais insistant, que les humains ont toujours été un peu plus mécaniques que nous aimions l'admettre."
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "backlash",
+        "phonetic": "/ˈbæklæʃ/",
+        "type": "noun",
+        "definition_en": "Une forte réaction négative de la part d'un grand nombre de personnes",
+        "definition_fr": "retour de bâton, réaction hostile",
+        "example": "The new policy provoked a massive backlash from the public.",
+        "level": "C1"
+      },
+      {
+        "word": "unsparing",
+        "phonetic": "/ʌnˈspeərɪŋ/",
+        "type": "adjective",
+        "definition_en": "Ne montrant aucune indulgence ni pitié ; d'une honnêteté brutale",
+        "definition_fr": "sans merci, impitoyable, sans concession",
+        "example": "The review was unsparing in its criticism of the director's choices.",
+        "level": "C1"
+      },
+      {
+        "word": "death knell",
+        "phonetic": "/ˈdeθ nel/",
+        "type": "noun (idiom)",
+        "definition_en": "Un événement ou une annonce qui signale la fin de quelque chose",
+        "definition_fr": "le glas, le signe annonciateur de la fin",
+        "example": "Many argued that streaming was the death knell of cinema.",
+        "level": "C1"
+      },
+      {
+        "word": "contours",
+        "phonetic": "/ˈkɒntʊərz/",
+        "type": "noun (plural)",
+        "definition_en": "La forme ou le contour général de quelque chose ; les caractéristiques principales d'une situation",
+        "definition_fr": "les grandes lignes, les contours",
+        "example": "He outlined the general contours of the argument without going into detail.",
+        "level": "C1"
+      },
+      {
+        "word": "irreducible",
+        "phonetic": "/ˌɪrɪˈdjuːsɪbl/",
+        "type": "adjective",
+        "definition_en": "Impossible à simplifier ou à réduire ; essentiel dans sa complexité",
+        "definition_fr": "irréductible, incompressible",
+        "example": "There is an irreducible complexity to human emotion that language struggles to capture.",
+        "level": "C2"
+      },
+      {
+        "word": "to lurk",
+        "phonetic": "/lɜːrk/",
+        "type": "verb",
+        "definition_en": "Être présent mais caché ; exister de manière subtile ou non reconnue",
+        "definition_fr": "se tapir, se cacher, rôder",
+        "example": "A dangerous assumption lurks beneath this argument.",
+        "level": "C1"
+      },
+      {
+        "word": "irrevocably",
+        "phonetic": "/ɪˈrevəkəbli/",
+        "type": "adverb",
+        "definition_en": "D'une manière qui ne peut être changée ou défaite",
+        "definition_fr": "irrévocablement, définitivement",
+        "example": "The accident irrevocably altered the course of his life.",
+        "level": "C1"
+      },
+      {
+        "word": "devastating",
+        "phonetic": "/ˈdevəsteɪtɪŋ/",
+        "type": "adjective",
+        "definition_en": "Causant de grands dégâts ou de la détresse ; (informel) d'une force impressionnante, saisissant",
+        "definition_fr": "dévastateur; (sens figuré) bouleversant, saisissant",
+        "example": "She played the final movement with devastating precision.",
+        "level": "B2"
+      },
+      {
+        "word": "retroactively",
+        "phonetic": "/ˌretrəʊˈæktɪvli/",
+        "type": "adverb",
+        "definition_en": "Avec effet à compter d'une date dans le passé",
+        "definition_fr": "rétroactivement",
+        "example": "The new law was applied retroactively to contracts signed three years earlier.",
+        "level": "C1"
+      },
+      {
+        "word": "forgery",
+        "phonetic": "/ˈfɔːrdʒəri/",
+        "type": "noun",
+        "definition_en": "Un faux document, une oeuvre d'art ou un objet contrefait",
+        "definition_fr": "un faux, une contrefaçon",
+        "example": "The painting turned out to be an elaborate forgery.",
+        "level": "B2"
+      },
+      {
+        "word": "stubborn",
+        "phonetic": "/ˈstʌbərn/",
+        "type": "adjective",
+        "definition_en": "Refusant de changer ; difficile à éliminer ou à traiter",
+        "definition_fr": "obstiné, tenace",
+        "example": "There is a stubborn belief in some circles that AI cannot be truly creative.",
+        "level": "B2"
+      }
+    ],
+    "grammar_points": [
+      {
+        "title": "Nominalization — turning verbs/adjectives into nouns for academic register",
+        "explanation": "L'anglais de registre soutenu, particulièrement dans les essais et la prose formelle, utilise souvent la **nominalisation** : la conversion d'un verbe ou d'un adjectif en groupe nominal. Cela rend l'écriture plus dense, précise et formelle. C'est une caractéristique clé de l'anglais écrit de niveau C1+.",
+        "examples": [
+          "Instead of: 'The public reacted strongly.' → 'The public's reaction was strong.'",
+          "Instead of: 'People need to tell stories.' → 'The human need for narrative...'",
+          "From the text: 'our stubborn *need* for narrative' (not 'we stubbornly *need*')",
+          "From the text: 'The *idea* that a machine might produce...' (not 'if a machine produced...')",
+          "Why it matters: nominalizations allow you to make complex ideas the subject of your sentence, giving them emphasis."
+        ]
+      },
+      {
+        "title": "Hedging and epistemic modality — sounding intellectually precise",
+        "explanation": "En anglais académique et intellectuel, les auteurs utilisent un **langage d'atténuation (hedging)** pour exprimer la probabilité, l'incertitude et la nuance plutôt que de faire des affirmations brutales. C'est une marque de l'écriture et de l'argumentation de niveau C1/C2.",
+        "examples": [
+          "'This, **I suspect**, is where the real crisis lies...' → personal, measured judgement",
+          "'**Perhaps** the more interesting question is...' → opens debate without closing it",
+          "'The anxiety **may not be** about machines... It **may be** the suspicion...' → careful hypothesis",
+          "Other hedging expressions: 'it seems that', 'one might argue', 'this suggests', 'arguably'"
+        ]
+      },
+      {
+        "title": "Inversion for emphasis in formal prose",
+        "explanation": "En anglais écrit formel, l'**inversion sujet-verbe** est parfois utilisée après des adverbes négatifs ou restrictifs pour créer de l'emphase. Vous rencontrerez cela souvent dans les textes littéraires et académiques.",
+        "examples": [
+          "Standard: 'Neither side was willing to confront this question.'",
+          "Inverted: '**What neither side seemed willing to confront** was the deeper question...'",
+          "Standard: 'We have rarely seen such a fierce debate.'",
+          "Inverted: '**Rarely have we seen** such a fierce debate.' (literary/formal)",
+          "This is a passive/advanced structure — perfect for C1 written production."
+        ]
+      }
+    ],
+    "expressions": [
+      {
+        "expression": "to be littered with",
+        "meaning_fr": "être jonché de, être plein de (souvent négatif)",
+        "example": "His academic career was littered with failed experiments and abandoned projects.",
+        "register": "neutral / slightly literary",
+        "note": "Implique souvent l'abondance, mais avec une connotation légèrement négative ou désordonnée."
+      },
+      {
+        "expression": "to pass something off as",
+        "meaning_fr": "faire passer quelque chose pour, présenter faussement comme",
+        "example": "He tried to pass off someone else's work as his own.",
+        "register": "neutral",
+        "note": "Implique la tromperie — présenter quelque chose comme ce qu'il n'est pas."
+      },
+      {
+        "expression": "to leave an imprint",
+        "meaning_fr": "laisser une empreinte, une marque durable",
+        "example": "Those years abroad left a deep imprint on the way she sees the world.",
+        "register": "formal / literary",
+        "note": "Usage métaphorique : l'« empreinte » est une marque durable sur la mémoire, l'identité ou la culture."
+      },
+      {
+        "expression": "quiet but insistent",
+        "meaning_fr": "discret mais persistant, sourd mais tenace",
+        "example": "There was a quiet but insistent feeling that something was wrong.",
+        "register": "literary / formal",
+        "note": "Une collocation puissante utilisée pour décrire des sentiments ou pensées tenaces et persistants."
+      },
+      {
+        "expression": "nonetheless / nevertheless",
+        "meaning_fr": "néanmoins, malgré tout",
+        "example": "The evidence was flimsy; the argument was compelling nonetheless.",
+        "register": "formal",
+        "note": "« Nonetheless » = malgré tout, quand même. Utilisé pour introduire une affirmation contrastante. Plus formel que « but » ou « still »."
+      }
+    ]
+  },
+  "exercises": {
+    "written": [
+      {
+        "id": "w1",
+        "type": "multiple_choice",
+        "question": "According to the author, what is the 'real crisis' around AI-generated art?",
+        "options": [
+          "The quality of AI art is not yet good enough to compete with human art.",
+          "AI art will make human artists unemployed.",
+          "Our need for art to come from a conscious mind, not just a technical process.",
+          "AI companies are profiting unfairly from human creativity."
+        ],
+        "answer": 2,
+        "explanation": "The author writes: 'the real crisis lies... in our stubborn need for narrative. We want art to be the trace of a consciousness.' This is the core argument."
+      },
+      {
+        "id": "w2",
+        "type": "multiple_choice",
+        "question": "What does the anecdote about the deaf pianist illustrate?",
+        "options": [
+          "That disabilities do not prevent artistic greatness.",
+          "That knowing the circumstances behind art changes how we experience it.",
+          "That deaf musicians are more emotionally powerful performers.",
+          "That audiences should not be told personal details about artists."
+        ],
+        "answer": 1,
+        "explanation": "The author uses the pianist to show that 'something shifted — not in the music, but in the story we told ourselves about it.' The music was unchanged, but our narrative about it changed."
+      },
+      {
+        "id": "w3",
+        "type": "fill_blank",
+        "sentence": "The new policy provoked a swift and ________ backlash from critics and the public alike.",
+        "answer": "unsparing",
+        "hint": "An adjective meaning 'without mercy or softening'."
+      },
+      {
+        "id": "w4",
+        "type": "fill_blank",
+        "sentence": "A troubling assumption ________ beneath this seemingly reasonable argument.",
+        "answer": "lurks",
+        "hint": "A verb meaning 'to be present but hidden'."
+      },
+      {
+        "id": "w5",
+        "type": "fill_blank",
+        "sentence": "________ the evidence was weak, the conclusion seemed intuitively right.",
+        "answer": "Nonetheless / Nevertheless",
+        "hint": "A formal connector meaning 'despite what was just said'."
+      },
+      {
+        "id": "w6",
+        "type": "translation",
+        "french": "Il est possible que notre besoin obstiné de récit soit au cœur de ce débat.",
+        "suggested_answer": "Our stubborn need for narrative may well be at the heart of this debate.",
+        "key_vocabulary": ["stubborn need", "narrative", "may well be", "at the heart of"]
+      },
+      {
+        "id": "w7",
+        "type": "translation",
+        "french": "L'histoire littéraire est jonchée d'œuvres présentées faussement comme le fruit d'un unique génie.",
+        "suggested_answer": "Literary history is littered with works passed off as the singular vision of one lone genius.",
+        "key_vocabulary": ["littered with", "passed off as", "singular vision"]
+      },
+      {
+        "id": "w8",
+        "type": "translation",
+        "french": "Cette expérience a laissé une empreinte irrévocable sur sa façon de concevoir la créativité.",
+        "suggested_answer": "That experience left an irrevocable imprint on the way she conceives of creativity.",
+        "key_vocabulary": ["irrevocable imprint", "the way she conceives of", "creativity"]
+      }
+    ],
+    "oral": [
+      {
+        "id": "o1",
+        "type": "read_aloud",
+        "instruction": "Read the following passage with the gravity and measured pace of an intellectual essay. Avoid rushing.",
+        "text": "Perhaps the more interesting question is not whether we should permit AI to create, but what it reveals about us that we find the idea so threatening. The anxiety may not be about machines becoming too human. It may be the suspicion, quiet but insistent, that humans were always a little more mechanical than we liked to admit.",
+        "focus": "Stress the key contrasts: 'not... but', 'machines' vs 'humans'. Take a natural pause after each comma.",
+        "phonetic_tips": ["suspicion: /səˈspɪʃn/", "insistent: /ɪnˈsɪstənt/", "mechanical: /mɪˈkænɪkl/"]
+      },
+      {
+        "id": "o2",
+        "type": "answer_question",
+        "question": "Do you think AI-generated art can be considered 'real' art? Give your opinion and support it with arguments.",
+        "suggested_answer": "I think the question of whether AI art is 'real' art ultimately comes down to how we define art itself. If art is about the emotional impact on the viewer, then a beautiful AI-generated painting is just as valid as a painting by Monet — it can move us, disturb us, change us. But if we believe art is inseparable from the consciousness that created it — the suffering, the intent, the lived experience — then AI art, however technically impressive, remains something of a sophisticated forgery. My instinct is that the debate itself is more revealing than its conclusion: our anxiety about AI creativity may be, as the author suggests, a quiet suspicion that human creativity was never quite as miraculous as we believed.",
+        "vocabulary_hints": ["ultimately", "comes down to", "inseparable from", "however technically impressive", "sophisticated forgery", "one might argue", "my instinct is that"],
+        "duration_seconds": 120
+      },
+      {
+        "id": "o3",
+        "type": "answer_question",
+        "question": "The author argues that the real threat of AI might be what it reveals about human nature. Do you agree? Develop your argument.",
+        "suggested_answer": "I find this the most provocative and uncomfortable part of the argument. The author is suggesting that our resistance to AI creativity is really a form of self-defence — a refusal to look too closely at the machinery of our own minds. If a sufficiently sophisticated algorithm can replicate the 'imprint' of consciousness without the consciousness itself, then we have to ask: what exactly distinguishes human thought from a very complex pattern-matching system? It's a deeply unsettling idea. Nonetheless, I'd push back slightly: the fact that a machine can produce something resembling thought doesn't necessarily mean that human thought is 'merely mechanical'. The question is not settled by resemblance alone.",
+        "vocabulary_hints": ["provocative", "self-defence", "resemblance", "nonetheless", "I'd push back", "not necessarily", "the question is not settled"],
+        "duration_seconds": 120
+      }
+    ]
+  }
+}

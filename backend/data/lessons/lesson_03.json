@@ -1,0 +1,303 @@
+{
+  "id": "03",
+  "unit": 1,
+  "unit_title": "Modern Life & Society",
+  "title": "A City Without Cars",
+  "level": "B2",
+  "type": "story",
+  "theme": "Urban Life & Environment",
+  "reading_time": "5 min",
+  "content": {
+    "paragraphs": [
+      {
+        "en": "The morning Marcus cycled to work for the first time, he almost turned back three times. He had owned a car for seventeen years. The idea of arriving at the office with his hair flattened and his shirt damp felt, frankly, undignified. But the new city congestion charges had made driving into the centre simply unaffordable, and the bus, he had decided long ago, was not for him.",
+        "fr": "Le matin où Marcus prit le vélo pour se rendre au travail pour la première fois, il faillit faire demi-tour à trois reprises. Il possédait une voiture depuis dix-sept ans. L'idée d'arriver au bureau avec les cheveux aplatis et la chemise humide lui semblait, franchement, indigne. Mais les nouveaux péages urbains avaient rendu la conduite en centre-ville tout simplement inabordable, et le bus, il l'avait décidé il y a longtemps, n'était pas pour lui."
+      },
+      {
+        "en": "What surprised him was the city he had never noticed. At traffic speed, London was a blur of facades and red lights. At cycling speed, it was something else entirely — a Victorian drinking fountain he had driven past a thousand times, a narrow alley opening onto a hidden courtyard, the smell of bread from a bakery he had never known existed two streets from his office.",
+        "fr": "Ce qui le surprit, c'était la ville qu'il n'avait jamais remarquée. À la vitesse de la circulation, Londres n'était qu'un flou de façades et de feux rouges. À la vitesse du vélo, c'était tout autre chose — une fontaine victorienne devant laquelle il était passé en voiture mille fois, une ruelle étroite s'ouvrant sur une cour cachée, l'odeur du pain d'une boulangerie dont il ignorait l'existence à deux rues de son bureau."
+      },
+      {
+        "en": "The city's new car-free zones had been controversial from the start. Shopkeepers had protested that deliveries would be impossible; residents complained about the inconvenience; taxi drivers blocked the streets in angry demonstrations. The council had held firm, pointing to air quality data that showed parts of the city regularly exceeding safe pollution limits by a factor of three.",
+        "fr": "Les nouvelles zones sans voitures de la ville avaient été controversées dès le départ. Les commerçants avaient protesté que les livraisons seraient impossibles ; les résidents se plaignaient de l'inconvénient ; les chauffeurs de taxi bloquaient les rues lors de manifestations en colère. Le conseil municipal avait tenu bon, s'appuyant sur des données de qualité de l'air qui montraient que certaines parties de la ville dépassaient régulièrement les limites de pollution sûres par un facteur de trois."
+      },
+      {
+        "en": "Six months in, the complaints had largely subsided. The high street, freed from the roar of engines, had become a place people actually wanted to linger in. Café terraces spilled out onto former parking spaces. Children played on the pedestrianised roads with a freedom that seemed almost anachronistic in a city that size. Property values near the car-free zones had, to nobody's great surprise, risen sharply.",
+        "fr": "Six mois plus tard, les plaintes s'étaient largement dissipées. La grande rue, libérée du rugissement des moteurs, était devenue un endroit où les gens voulaient réellement s'attarder. Les terrasses de cafés débordaient sur d'anciens parkings. Les enfants jouaient sur les rues piétonnes avec une liberté qui semblait presque anachronique dans une ville de cette taille. Les valeurs immobilières près des zones sans voitures avaient, sans grande surprise, fortement augmenté."
+      },
+      {
+        "en": "Marcus locked his bike to a post outside his office and checked his watch. Thirty-two minutes door to door — three minutes faster than on a good day by car, and considerably faster than on a bad one. He smoothed his hair, checked his shirt. Not as bad as he'd feared. He made a mental note to buy a better helmet.",
+        "fr": "Marcus attacha son vélo à un poteau devant son bureau et regarda sa montre. Trente-deux minutes de porte à porte — trois minutes de moins qu'un bon jour en voiture, et considérablement plus rapide qu'un mauvais jour. Il lissa ses cheveux, vérifia sa chemise. Pas aussi mal qu'il le craignait. Il prit mentalement note d'acheter un meilleur casque."
+      },
+      {
+        "en": "By the end of the month, he had stopped thinking about the car at all. He had begun to know the city in a way that, he realised, he never had before — not as a network of routes to be navigated, but as a place, with its own texture and rhythm and smell. He couldn't entirely explain why this felt like a gain rather than a loss. But it did.",
+        "fr": "À la fin du mois, il avait complètement cessé de penser à la voiture. Il avait commencé à connaître la ville d'une façon dont il réalisait ne l'avoir jamais connue auparavant — non pas comme un réseau d'itinéraires à naviguer, mais comme un lieu, avec sa propre texture, son rythme et son odeur. Il ne pouvait pas tout à fait expliquer pourquoi cela semblait être un gain plutôt qu'une perte. Mais c'était le cas."
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "congestion charge",
+        "phonetic": "/kənˈdʒestʃən tʃɑːrdʒ/",
+        "type": "noun (compound)",
+        "definition_en": "une taxe imposée aux conducteurs pour entrer dans une zone urbaine fréquentée, conçue pour réduire le trafic",
+        "definition_fr": "péage urbain, taxe pour circuler en centre-ville",
+        "example": "London introduced a congestion charge in 2003 to reduce traffic in the city centre.",
+        "level": "B2"
+      },
+      {
+        "word": "undignified",
+        "phonetic": "/ʌnˈdɪɡnɪfaɪd/",
+        "type": "adjective",
+        "definition_en": "manquant de dignité ; embarrassant ou inapproprié",
+        "definition_fr": "peu digne, indigne, peu élégant",
+        "example": "He found the whole situation rather undignified.",
+        "level": "B2"
+      },
+      {
+        "word": "a blur",
+        "phonetic": "/blɜːr/",
+        "type": "noun",
+        "definition_en": "quelque chose qui ne peut pas être vu ou rappelé clairement ; une impression indistincte",
+        "definition_fr": "un flou, une vision floue",
+        "example": "The last few weeks have been a blur — I can barely remember what happened.",
+        "level": "B2"
+      },
+      {
+        "word": "controversial",
+        "phonetic": "/ˌkɒntrəˈvɜːrʃl/",
+        "type": "adjective",
+        "definition_en": "provoquant le désaccord ou un vif débat public",
+        "definition_fr": "controversé, qui fait débat",
+        "example": "The new policy proved highly controversial.",
+        "level": "B2"
+      },
+      {
+        "word": "to hold firm",
+        "phonetic": "/həʊld fɜːrm/",
+        "type": "phrasal verb",
+        "definition_en": "refuser de changer de position malgré la pression",
+        "definition_fr": "tenir bon, ne pas céder",
+        "example": "Despite the protests, the government held firm on its decision.",
+        "level": "B2"
+      },
+      {
+        "word": "to subside",
+        "phonetic": "/səbˈsaɪd/",
+        "type": "verb",
+        "definition_en": "devenir moins intense ou actif ; se calmer, s'apaiser",
+        "definition_fr": "se calmer, s'apaiser, diminuer",
+        "example": "After a few days, the anger had largely subsided.",
+        "level": "C1"
+      },
+      {
+        "word": "to linger",
+        "phonetic": "/ˈlɪŋɡər/",
+        "type": "verb",
+        "definition_en": "rester dans un endroit plus longtemps que nécessaire, souvent parce que c'est agréable",
+        "definition_fr": "s'attarder, traîner (positivement)",
+        "example": "They lingered over coffee for hours, not wanting the evening to end.",
+        "level": "B2"
+      },
+      {
+        "word": "pedestrianised",
+        "phonetic": "/pəˈdestriənaɪzd/",
+        "type": "adjective",
+        "definition_en": "transformé en rue ou zone où les véhicules ne sont pas autorisés",
+        "definition_fr": "piétonisé, transformé en zone piétonne",
+        "example": "The pedestrianised city centre is now full of cafés and street musicians.",
+        "level": "B2"
+      },
+      {
+        "word": "anachronistic",
+        "phonetic": "/əˌnækrəˈnɪstɪk/",
+        "type": "adjective",
+        "definition_en": "appartenant à une époque différente, généralement antérieure, et donc déplacé",
+        "definition_fr": "anachronique, désuet, d'une autre époque",
+        "example": "Using a fax machine in 2025 feels decidedly anachronistic.",
+        "level": "C1"
+      },
+      {
+        "word": "texture",
+        "phonetic": "/ˈtekstʃər/",
+        "type": "noun (figurative)",
+        "definition_en": "la qualité ou le caractère distinctif de quelque chose, sa sensation et sa complexité",
+        "definition_fr": "texture, tissu (au sens figuré : la richesse, le grain d'une expérience)",
+        "example": "The city had a texture you could only appreciate on foot.",
+        "level": "C1"
+      }
+    ],
+    "grammar_points": [
+      {
+        "title": "Nominal relative clauses with 'what'",
+        "explanation": "En anglais, **'what'** peut jouer simultanément le rôle de pronom et de conjonction, remplaçant 'the thing(s) that'. Il est utilisé pour qu'une proposition fonctionne comme un nom (sujet, objet, complément). C'est très courant dans l'anglais écrit et parlé soutenu.",
+        "examples": [
+          "'**What** surprised him was the city he had never noticed.' = The thing that surprised him was...",
+          "'He couldn't explain **what** this felt like.' = He couldn't explain the thing/feeling it was.",
+          "'**What** she said made no sense.' = The thing she said made no sense.",
+          "Tip: Don't confuse with questions. 'What surprised you?' (question) vs 'What surprised me was...' (nominal clause)."
+        ]
+      },
+      {
+        "title": "Past perfect for background context",
+        "explanation": "Le **past perfect** (had + participe passé) est utilisé pour établir que quelque chose s'est passé *avant* le récit principal. Dans cette histoire, il pose l'historique de Marcus avant que son aventure à vélo ne commence.",
+        "examples": [
+          "'He **had owned** a car for seventeen years.' → established background fact",
+          "'He **had decided** long ago that the bus was not for him.' → prior decision",
+          "'...a bakery he **had never known** existed.' → prior ignorance",
+          "Rule: Use past perfect when you want to reach *back* from an already-past moment to an even earlier one."
+        ]
+      },
+      {
+        "title": "Intensifying with 'considerably', 'largely', 'sharply'",
+        "explanation": "Ces adverbes sont utilisés pour renforcer les comparaisons et les descriptions dans l'anglais formel et journalistique. Ils ajoutent de la précision sans être absolus, rendant les arguments plus mesurés et crédibles.",
+        "examples": [
+          "'**Considerably** faster than on a bad day.' → much, significantly faster",
+          "'The complaints had **largely** subsided.' → mostly, for the most part",
+          "'Property values had **sharply** risen.' → quickly and notably",
+          "Other useful intensifiers: 'significantly', 'markedly', 'substantially', 'dramatically'"
+        ]
+      }
+    ],
+    "expressions": [
+      {
+        "expression": "not for someone",
+        "meaning_fr": "pas pour quelqu'un, pas son truc",
+        "example": "He had decided long ago that the bus was not for him.",
+        "register": "informal / conversational",
+        "note": "Expression britannique très naturelle pour décliner poliment quelque chose. 'Classical music is not really for me' = je n'aime pas ça."
+      },
+      {
+        "expression": "to turn back",
+        "meaning_fr": "faire demi-tour, renoncer",
+        "example": "He almost turned back three times before reaching the office.",
+        "register": "neutral",
+        "note": "À la fois littéral (faire demi-tour) et figuré (abandonner un projet). 'There's no turning back now' = il est trop tard pour changer de cap."
+      },
+      {
+        "expression": "door to door",
+        "meaning_fr": "de porte à porte, du départ à l'arrivée",
+        "example": "Thirty-two minutes door to door — faster than by car.",
+        "register": "neutral / practical",
+        "note": "Utilisé pour décrire le temps de trajet total incluant toutes les étapes, du départ de la maison à l'arrivée à destination."
+      },
+      {
+        "expression": "to hold firm",
+        "meaning_fr": "tenir bon, ne pas céder à la pression",
+        "example": "Despite the protests, the council held firm on the car ban.",
+        "register": "neutral / formal",
+        "note": "Implique le maintien d'une position sous pression. Souvent utilisé en politique et en négociation."
+      },
+      {
+        "expression": "to make a mental note",
+        "meaning_fr": "prendre note mentalement, se promettre de",
+        "example": "He made a mental note to buy a better helmet.",
+        "register": "informal / universal",
+        "note": "Décider silencieusement de se souvenir de quelque chose. Très courant dans l'anglais de tous les jours."
+      }
+    ]
+  },
+  "exercises": {
+    "written": [
+      {
+        "id": "w1",
+        "type": "multiple_choice",
+        "question": "Why did Marcus start cycling to work?",
+        "options": [
+          "He wanted to get fit and lose weight.",
+          "The new congestion charges made driving too expensive.",
+          "His car had broken down and he couldn't afford repairs.",
+          "His company introduced a cycling incentive scheme."
+        ],
+        "answer": 1,
+        "explanation": "The text states 'the new city congestion charges had made driving into the centre simply unaffordable'."
+      },
+      {
+        "id": "w2",
+        "type": "multiple_choice",
+        "question": "What does 'the city held firm' mean in the context of the story?",
+        "options": [
+          "The city buildings were structurally strong.",
+          "The council refused to change its decision despite protests.",
+          "The city centre remained popular with shoppers.",
+          "The traffic remained heavy despite the new rules."
+        ],
+        "answer": 1,
+        "explanation": "'Held firm' = refused to back down. The council maintained its decision despite shopkeepers, residents and taxi drivers protesting."
+      },
+      {
+        "id": "w3",
+        "type": "multiple_choice",
+        "question": "Which of the following best describes the overall tone of the story?",
+        "options": [
+          "Critical of car-free policies as impractical and unpopular.",
+          "Neutral, presenting both sides without taking a position.",
+          "Gently positive about the unexpected benefits of changing habits.",
+          "Nostalgic for a time when cities were less congested."
+        ],
+        "answer": 2,
+        "explanation": "Marcus discovers unexpected pleasures through his new habit. The story presents change as a gain, not a loss."
+      },
+      {
+        "id": "w4",
+        "type": "fill_blank",
+        "sentence": "After the initial controversy, the complaints ________ once people saw the benefits of the car-free zone.",
+        "answer": "subsided / had subsided",
+        "hint": "A verb meaning 'to calm down, to diminish'."
+      },
+      {
+        "id": "w5",
+        "type": "fill_blank",
+        "sentence": "________ surprised her most was how quickly she adapted to working from home.",
+        "answer": "What",
+        "hint": "A nominal relative clause — think 'the thing that'."
+      },
+      {
+        "id": "w6",
+        "type": "fill_blank",
+        "sentence": "The journey took forty minutes ________ — quicker than she had expected.",
+        "answer": "door to door",
+        "hint": "An expression meaning from start to finish, including all stages of the journey."
+      },
+      {
+        "id": "w7",
+        "type": "translation",
+        "french": "Ce qui l'a le plus surpris, c'est la rapidité avec laquelle les gens se sont adaptés.",
+        "suggested_answer": "What surprised him most was how quickly people adapted.",
+        "key_vocabulary": ["What surprised him most", "how quickly", "adapted"]
+      },
+      {
+        "id": "w8",
+        "type": "translation",
+        "french": "Malgré les protestations, le conseil municipal a tenu bon et a maintenu l'interdiction.",
+        "suggested_answer": "Despite the protests, the city council held firm and maintained the ban.",
+        "key_vocabulary": ["Despite", "held firm", "maintained the ban"]
+      }
+    ],
+    "oral": [
+      {
+        "id": "o1",
+        "type": "read_aloud",
+        "instruction": "Read the following passage aloud. Focus on the rhythm of the list and the contrast between 'traffic speed' and 'cycling speed'.",
+        "text": "At traffic speed, London was a blur of facades and red lights. At cycling speed, it was something else entirely — a Victorian drinking fountain he had driven past a thousand times, a narrow alley opening onto a hidden courtyard, the smell of bread from a bakery he had never known existed.",
+        "focus": "The dash (—) signals a pause and a shift in tone. The list that follows should build gradually, with each item given equal weight.",
+        "phonetic_tips": ["facades: /fəˈsɑːdz/", "Victorian: /vɪkˈtɔːriən/", "courtyard: /ˈkɔːrtjɑːrd/"]
+      },
+      {
+        "id": "o2",
+        "type": "answer_question",
+        "question": "Have you ever changed a daily habit and discovered unexpected benefits? Describe the experience.",
+        "suggested_answer": "I actually stopped taking the metro to work for a month and started walking instead. Initially I thought it would be a waste of time, but what I discovered was that it gave me a kind of mental decompression that I hadn't had before. I started noticing things I had walked past a hundred times without seeing — a beautiful old building, a small market that opens on Tuesdays. I couldn't entirely explain why it changed my mood so much, but it did. I've kept doing it ever since.",
+        "vocabulary_hints": ["I hadn't had before", "noticing things I had walked past", "couldn't entirely explain", "ever since"],
+        "duration_seconds": 75
+      },
+      {
+        "id": "o3",
+        "type": "answer_question",
+        "question": "Should cities ban private cars from their centres? Give your opinion with arguments for and against.",
+        "suggested_answer": "I think car-free city centres are largely a positive development, though the transition needs to be handled carefully. On one hand, the benefits are clear: cleaner air, less noise, safer streets for pedestrians and cyclists. On the other hand, the concerns of shopkeepers and elderly residents are legitimate — not everyone can cycle, and deliveries still need to happen. What I'd argue is that a phased approach, with proper investment in public transport and cycling infrastructure, is more effective than an outright ban. The evidence from cities like Oslo and Amsterdam suggests that once people adjust, most of them prefer the change.",
+        "vocabulary_hints": ["largely a positive development", "the transition needs to be handled", "On one hand / On the other hand", "legitimate concerns", "a phased approach", "outright ban"],
+        "duration_seconds": 90
+      }
+    ]
+  }
+}

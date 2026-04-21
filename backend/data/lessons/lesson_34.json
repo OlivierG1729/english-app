@@ -1,0 +1,326 @@
+{
+  "id": "34",
+  "unit": 5,
+  "unit_title": "C1 Mastery & Consolidation",
+  "title": "Closing the Deal",
+  "level": "C1+",
+  "type": "dialogue",
+  "theme": "Business Negotiation, Strategy & Communication",
+  "reading_time": "6 min",
+  "content": {
+    "speakers": ["Sofia (Lead Negotiator, acquiring company)", "Richard (CEO, target company)", "Margot (Legal Counsel)"],
+    "paragraphs": [
+      {
+        "speaker": "Sofia",
+        "en": "Richard, thank you for making time. I want to be straightforward with you: we've come a long way from where we started eighteen months ago, and I think we're genuinely close. But there are two outstanding issues, and I'd like to address them directly rather than let them drift.",
+        "fr": "Richard, merci de me consacrer du temps. Je veux être directe avec vous : nous avons fait beaucoup de chemin depuis nos débuts il y a dix-huit mois, et je pense que nous sommes vraiment proches. Mais il y a deux points en suspens, et j'aimerais les aborder directement plutôt que de les laisser traîner."
+      },
+      {
+        "speaker": "Richard",
+        "en": "I appreciate the directness. You know my position: the valuation gap is the fundamental issue. Your offer reflects the company as it is today. My board believes — and I believe — that you're acquiring something with a trajectory that your current price doesn't adequately capture.",
+        "fr": "J'apprécie la franchise. Vous connaissez ma position : l'écart d'évaluation est la question fondamentale. Votre offre reflète l'entreprise telle qu'elle est aujourd'hui. Mon conseil croit — et je crois — que vous acquérez quelque chose avec une trajectoire que votre prix actuel ne capture pas de façon adéquate."
+      },
+      {
+        "speaker": "Sofia",
+        "en": "I understand that case, and I don't dismiss it. What I'd push back on is the certainty with which it's being made. We're being asked to pay today for outcomes that are, by your own projections, two to three years out — and projections at that horizon are notoriously unreliable. We're absorbing that risk. The earnout structure we proposed is precisely designed to give you upside if the trajectory materialises.",
+        "fr": "Je comprends cet argument, et je ne le rejette pas. Ce sur quoi je m'opposerais, c'est la certitude avec laquelle il est avancé. On nous demande de payer aujourd'hui pour des résultats qui, selon vos propres projections, se situeront dans deux à trois ans — et les projections à cet horizon sont notoirement peu fiables. Nous absorbons ce risque. La structure d'earnout que nous avons proposée est précisément conçue pour vous donner un potentiel de hausse si la trajectoire se concrétise."
+      },
+      {
+        "speaker": "Richard",
+        "en": "The earnout structure is where my board has significant reservations. An earnout gives us upside contingent on hitting targets — targets that will, post-acquisition, be determined by your organisation's priorities and resource allocation, not ours. We've seen this movie before: the earnout triggers don't get hit because the acquirer redirects the resources that would have generated the growth.",
+        "fr": "La structure d'earnout est là où mon conseil a des réserves significatives. Un earnout nous donne un potentiel de hausse conditionnel à l'atteinte d'objectifs — des objectifs qui, post-acquisition, seront déterminés par les priorités et l'allocation des ressources de votre organisation, pas les nôtres. Nous avons déjà vu ce film : les déclencheurs d'earnout ne sont pas atteints parce que l'acquéreur redirige les ressources qui auraient généré la croissance."
+      },
+      {
+        "speaker": "Sofia",
+        "en": "That's a legitimate concern, and it's one we anticipated. That's exactly why we built in the ring-fence provisions — the acquired entity retains its own P&L, its own headcount, and its own go-to-market strategy for the earnout period. We're not asking you to trust us blindly; we're offering structural protection.",
+        "fr": "C'est une préoccupation légitime, et c'est une que nous avions anticipée. C'est exactement pourquoi nous avons intégré les dispositions de cloisonnement — l'entité acquise conserve son propre compte de résultat, son propre effectif et sa propre stratégie de mise sur le marché pendant la période d'earnout. Nous ne vous demandons pas de nous faire confiance aveuglément ; nous offrons une protection structurelle."
+      },
+      {
+        "speaker": "Margot",
+        "en": "If I can come in here — the ring-fence provisions as currently drafted have some ambiguity around what constitutes 'material resource reallocation'. That's something we'd want to tighten considerably before we'd advise the board to sign off.",
+        "fr": "Si je puis intervenir ici — les dispositions de cloisonnement telles qu'actuellement rédigées ont une certaine ambiguïté quant à ce qui constitue une « réaffectation matérielle des ressources ». C'est quelque chose que nous voudrions considérablement resserrer avant de conseiller au conseil de signer."
+      },
+      {
+        "speaker": "Sofia",
+        "en": "That's a drafting point, and it's resolvable. What I'd ask is that we separate the conceptual from the contractual — are we aligned on the concept of structural protection, leaving the precise language to our lawyers to finalise?",
+        "fr": "C'est un point de rédaction, et c'est résolvable. Ce que je demanderais, c'est que nous séparions le conceptuel du contractuel — sommes-nous alignés sur le concept de protection structurelle, en laissant le langage précis à nos avocats pour finalisation ?"
+      },
+      {
+        "speaker": "Richard",
+        "en": "On the concept, yes — I can work with that. But I want to come back to the second outstanding issue: the retention packages for the senior team. These people have options. If the acquisition creates uncertainty about their future role, you'll lose them — and that significantly diminishes the value of what you're buying.",
+        "fr": "Sur le concept, oui — je peux travailler avec ça. Mais je veux revenir sur la deuxième question en suspens : les forfaits de rétention pour l'équipe dirigeante. Ces personnes ont des options. Si l'acquisition crée une incertitude sur leur rôle futur, vous les perdrez — et cela diminue considérablement la valeur de ce que vous achetez."
+      },
+      {
+        "speaker": "Sofia",
+        "en": "I agree with the principle. What I'd push back on is the quantum. What you've proposed would create significant internal equity issues for us — you'd be paying your leadership team more than equivalent roles in the parent. That's a retention risk for us as much as it's a solution for you.",
+        "fr": "Je suis d'accord sur le principe. Ce sur quoi je m'opposerais, c'est le montant. Ce que vous avez proposé créerait des problèmes significatifs d'équité interne pour nous — vous paieriez votre équipe de direction plus que des rôles équivalents dans la maison mère. C'est un risque de rétention pour nous autant que c'est une solution pour vous."
+      },
+      {
+        "speaker": "Richard",
+        "en": "Then let's find a structure that addresses both concerns. I'm not wedded to the specific numbers — I'm wedded to the outcome: key people stay, aligned incentives, long enough vesting to ensure continuity. If you can give me that outcome in a structure that works for your internal architecture, I suspect we have a deal.",
+        "fr": "Alors trouvons une structure qui répond aux deux préoccupations. Je ne tiens pas aux chiffres spécifiques — je tiens au résultat : les personnes clés restent, incitations alignées, acquisition assez longue pour assurer la continuité. Si vous pouvez me donner ce résultat dans une structure qui fonctionne pour votre architecture interne, je pense que nous avons un accord."
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "outstanding (issues)",
+        "phonetic": "/ˌaʊtˈstændɪŋ/",
+        "type": "adjective (business)",
+        "definition_en": "qui reste à traiter ; pas encore résolu",
+        "definition_fr": "en suspens, non résolu, restant à traiter",
+        "example": "There are two outstanding issues before we can finalise the agreement.",
+        "level": "B2"
+      },
+      {
+        "word": "valuation gap",
+        "phonetic": "/ˌvæljuˈeɪʃn ɡæp/",
+        "type": "noun (finance)",
+        "definition_en": "la différence entre le prix qu'un acheteur est prêt à payer et le prix attendu par le vendeur",
+        "definition_fr": "écart de valorisation",
+        "example": "The valuation gap remains the central obstacle to closing the deal.",
+        "level": "C1"
+      },
+      {
+        "word": "earnout",
+        "phonetic": "/ˈɜːrnaʊt/",
+        "type": "noun (finance/M&A)",
+        "definition_en": "une disposition contractuelle selon laquelle une partie du prix d'achat est conditionnelle aux performances futures",
+        "definition_fr": "complément de prix (conditionnel aux résultats futurs)",
+        "example": "An earnout bridges the valuation gap by tying part of the price to future results.",
+        "level": "C1"
+      },
+      {
+        "word": "ring-fence",
+        "phonetic": "/ˈrɪŋ fens/",
+        "type": "verb/noun (business/law)",
+        "definition_en": "protéger des actifs ou une unité commerciale contre leur utilisation à d'autres fins",
+        "definition_fr": "cloisonner, protéger (par des dispositions contractuelles)",
+        "example": "The ring-fence provisions ensure the acquired unit keeps its own budget.",
+        "level": "C1"
+      },
+      {
+        "word": "to sign off",
+        "phonetic": "/saɪn ɒf/",
+        "type": "phrasal verb (business)",
+        "definition_en": "donner une approbation ou un accord formel à quelque chose",
+        "definition_fr": "approuver, donner son feu vert, signer",
+        "example": "The board needs to sign off before any deal can be announced.",
+        "level": "B2"
+      },
+      {
+        "word": "go-to-market strategy",
+        "phonetic": "/ˈɡəʊ tə ˈmɑːrkɪt ˈstrætɪdʒi/",
+        "type": "noun (business)",
+        "definition_en": "le plan décrivant comment une entreprise atteindra ses clients cibles et obtiendra un avantage concurrentiel",
+        "definition_fr": "stratégie de mise sur le marché",
+        "example": "The ring-fence allows the acquired team to keep its own go-to-market strategy.",
+        "level": "C1"
+      },
+      {
+        "word": "retention package",
+        "phonetic": "/rɪˈtenʃn ˈpækɪdʒ/",
+        "type": "noun (HR/business)",
+        "definition_en": "incitations financières offertes aux employés clés pour les empêcher de partir après une acquisition",
+        "definition_fr": "forfait de rétention, package de fidélisation",
+        "example": "Generous retention packages are essential to prevent talent flight post-acquisition.",
+        "level": "C1"
+      },
+      {
+        "word": "quantum",
+        "phonetic": "/ˈkwɒntəm/",
+        "type": "noun (legal/financial)",
+        "definition_en": "le montant total ou la valeur, en particulier d'un paiement",
+        "definition_fr": "montant, quantum (terme juridique et financier)",
+        "example": "I agree with the principle; it's the quantum that concerns me.",
+        "level": "C1"
+      },
+      {
+        "word": "vesting",
+        "phonetic": "/ˈvestɪŋ/",
+        "type": "noun (HR/finance)",
+        "definition_en": "le processus par lequel un employé acquiert progressivement le droit à des avantages (comme des actions) au fil du temps",
+        "definition_fr": "acquisition des droits (sur des actions), vesting",
+        "example": "A four-year vesting period is standard for senior retention packages.",
+        "level": "C1"
+      },
+      {
+        "word": "to be wedded to",
+        "phonetic": "/ˈwedɪd tuː/",
+        "type": "idiom",
+        "definition_en": "être fermement attaché à une idée, une approche ou un résultat particulier",
+        "definition_fr": "être attaché à, tenir fermement à",
+        "example": "I'm not wedded to the specific numbers — I'm wedded to the outcome.",
+        "level": "B2"
+      }
+    ],
+    "grammar_points": [
+      {
+        "title": "'Let's separate the conceptual from the contractual' — nominalising adjectives for business precision",
+        "explanation": "En anglais des affaires et juridique, les **adjectifs nominalisés** (précédés de « the ») transforment des qualités abstraites en catégories précises. « The conceptual », « the contractual », « the structural » sont compacts et exacts.",
+        "examples": [
+          "'**The conceptual** from **the contractual**.'",
+          "'**The strategic** from **the operational**.'",
+          "'**The principle** from **the detail**.'",
+          "'**The substantive** from **the procedural**.'",
+          "This technique distinguishes different types or levels of an issue with maximum economy."
+        ]
+      },
+      {
+        "title": "'I agree with the principle. What I'd push back on is the quantum.' — two-move agreement/dissent",
+        "explanation": "Le mouvement **concéder puis contester** est central dans le langage de négociation professionnelle. Énoncez d'abord ce que vous acceptez ; puis précisez exactement où vous n'êtes pas d'accord. C'est plus productif qu'un désaccord global.",
+        "examples": [
+          "'**I agree with the principle**. What I'd push back on is the **quantum**.'",
+          "'**I can work with that concept**. What I'd want to clarify is the **mechanism**.'",
+          "'**On the timeline, we're aligned**. The **resource commitment** is where I have concerns.'",
+          "This structure signals good faith and focuses disagreement productively."
+        ]
+      },
+      {
+        "title": "'I suspect we have a deal' — confident hedging in closing language",
+        "explanation": "Les négociateurs professionnels utilisent un **langage confiant mais nuancé** pour signaler une convergence sans trop s'engager. « I suspect », « I believe », « I think we're close » créent tous un élan sans verrouiller les positions prématurément.",
+        "examples": [
+          "'**I suspect** we have a deal.'",
+          "'**I believe** we're very close.'",
+          "'**I think** this is workable.'",
+          "'**It seems to me** that the remaining issues are resolvable.'",
+          "These phrases advance the negotiation without removing leverage."
+        ]
+      }
+    ],
+    "expressions": [
+      {
+        "expression": "let them drift",
+        "meaning_fr": "les laisser traîner, les laisser s'enliser",
+        "example": "I want to address the outstanding issues directly rather than let them drift.",
+        "register": "professional / informal",
+        "note": "« Drift » dans un contexte de négociation signifie que les questions restent non résolues alors que les deux parties évitent de les soulever. Implique un retard passif plutôt qu'une impasse active."
+      },
+      {
+        "expression": "upside",
+        "meaning_fr": "potentiel de hausse, bénéfice potentiel",
+        "example": "The earnout gives you upside if the growth trajectory materialises.",
+        "register": "financial / business",
+        "note": "En finance, « upside » désigne le gain potentiel au-delà du cas de base. Son opposé est « downside » (perte potentielle). Courant dans les discussions de fusions-acquisitions et d'investissement."
+      },
+      {
+        "expression": "we've seen this movie before",
+        "meaning_fr": "on a déjà vu ce film, on connaît déjà la suite",
+        "example": "Earnout triggers don't get hit because acquirers redirect resources. We've seen this movie before.",
+        "register": "informal / business",
+        "note": "Un idiome expressif pour « c'est déjà arrivé et on sait comment ça finit ». Utilisé pour signaler un scepticisme fondé sur l'expérience passée."
+      },
+      {
+        "expression": "to sign off",
+        "meaning_fr": "approuver, donner son feu vert",
+        "example": "We'd want to tighten the language before advising the board to sign off.",
+        "register": "business / professional",
+        "note": "Donner une approbation ou un accord formel, souvent en tant que décideur final dans un processus."
+      },
+      {
+        "expression": "I'm not wedded to X — I'm wedded to the outcome",
+        "meaning_fr": "je ne tiens pas à X — je tiens au résultat",
+        "example": "I'm not wedded to the specific numbers — I'm wedded to the outcome.",
+        "register": "professional / negotiation",
+        "note": "Un signal de flexibilité puissant en négociation. Montrer sa volonté de varier le mécanisme tout en tenant ferme sur le principe crée de l'espace pour le compromis."
+      }
+    ]
+  },
+  "exercises": {
+    "written": [
+      {
+        "id": "w1",
+        "type": "multiple_choice",
+        "question": "Why does Richard's board have reservations about the earnout structure?",
+        "options": [
+          "They think earnouts are too complex to administer.",
+          "They fear the acquirer will redirect resources, preventing the targets from being hit.",
+          "They prefer a cash payment rather than a deferred structure.",
+          "They don't believe the growth projections are realistic."
+        ],
+        "answer": 1,
+        "explanation": "Richard says: 'The earnout triggers don't get hit because the acquirer redirects the resources that would have generated the growth.' This is the core concern."
+      },
+      {
+        "id": "w2",
+        "type": "multiple_choice",
+        "question": "What is Richard's final signal that a deal is within reach?",
+        "options": [
+          "He accepts Sofia's original offer.",
+          "He agrees to drop the retention package requirement.",
+          "He says he is wedded to the outcome rather than the specific numbers.",
+          "He instructs Margot to finalise the contract language."
+        ],
+        "answer": 2,
+        "explanation": "'I'm not wedded to the specific numbers — I'm wedded to the outcome.' This signals flexibility on mechanism while maintaining commitment to principle — a classic deal-closing move."
+      },
+      {
+        "id": "w3",
+        "type": "fill_blank",
+        "sentence": "I agree with the principle. What I'd ________ ________ ________ is the timeline.",
+        "answer": "push back on",
+        "hint": "The professional expression for politely contesting a specific point."
+      },
+      {
+        "id": "w4",
+        "type": "fill_blank",
+        "sentence": "There are two ________ issues we need to resolve before we can finalise the contract.",
+        "answer": "outstanding",
+        "hint": "An adjective meaning 'remaining to be dealt with'."
+      },
+      {
+        "id": "w5",
+        "type": "fill_blank",
+        "sentence": "I'm not ________ ________ the specific structure — I'm ________ ________ getting the right outcome.",
+        "answer": "wedded to / wedded to",
+        "hint": "An idiom meaning 'firmly committed to'."
+      },
+      {
+        "id": "w6",
+        "type": "translation",
+        "french": "Permettez-moi de séparer le conceptuel du contractuel — sommes-nous alignés sur le principe, indépendamment du langage précis ?",
+        "suggested_answer": "Let me separate the conceptual from the contractual — are we aligned on the principle, regardless of the precise language?",
+        "key_vocabulary": ["separate the conceptual from the contractual", "aligned on the principle"]
+      },
+      {
+        "id": "w7",
+        "type": "translation",
+        "french": "La structure de cloisonnement garantit que l'entité acquise conserve sa propre stratégie de mise sur le marché pendant la période d'earnout.",
+        "suggested_answer": "The ring-fence structure ensures the acquired entity retains its own go-to-market strategy during the earnout period.",
+        "key_vocabulary": ["ring-fence structure", "retains its own go-to-market strategy", "earnout period"]
+      },
+      {
+        "id": "w8",
+        "type": "translation",
+        "french": "Si vous pouvez me donner ce résultat dans une structure qui fonctionne pour votre organisation, je pense que nous avons un accord.",
+        "suggested_answer": "If you can give me that outcome in a structure that works for your organisation, I suspect we have a deal.",
+        "key_vocabulary": ["give me that outcome", "I suspect we have a deal"]
+      }
+    ],
+    "oral": [
+      {
+        "id": "o1",
+        "type": "read_aloud",
+        "instruction": "Read Richard's final speech. He is signalling flexibility and deal readiness without giving anything away. The tone should be warm, direct and forward-looking.",
+        "text": "I'm not wedded to the specific numbers — I'm wedded to the outcome: key people stay, aligned incentives, long enough vesting to ensure continuity. If you can give me that outcome in a structure that works for your internal architecture, I suspect we have a deal.",
+        "focus": "The list — 'key people stay, aligned incentives, long enough vesting' — are his non-negotiables. Give each one weight. 'I suspect we have a deal' should land with quiet confidence.",
+        "phonetic_tips": ["wedded: /ˈwedɪd/", "continuity: /ˌkɒntɪˈnjuːɪti/", "architecture: /ˈɑːrkɪtektʃər/"]
+      },
+      {
+        "id": "o2",
+        "type": "answer_question",
+        "question": "Role-play: you are negotiating the terms of a new job offer. The salary is lower than you hoped. How do you approach the conversation?",
+        "suggested_answer": "I'd start by expressing genuine enthusiasm for the role — I don't want them to think the conversation is adversarial. Then I'd be direct: 'I'm very excited about this opportunity, and I want to make it work. The salary is lower than my current expectations, and I'd like to discuss whether there's flexibility there.' If they push back on the base salary, I'd ask what other elements are moveable — bonus structure, equity, development budget, holiday allowance, remote working flexibility. My approach would be: I'm not wedded to any specific number, but I do want to close the overall package gap. And I'd be clear about my walk-away point without making it a threat.",
+        "vocabulary_hints": ["genuine enthusiasm", "not adversarial", "other elements are moveable", "close the package gap", "walk-away point"],
+        "duration_seconds": 90
+      },
+      {
+        "id": "o3",
+        "type": "answer_question",
+        "question": "What distinguishes a skilled negotiator from an average one? What principles would you prioritise?",
+        "suggested_answer": "I think the most important distinction is between position negotiation and interest negotiation. Average negotiators argue over positions — I want X, you want Y. Skilled negotiators try to understand the underlying interests that generated those positions, which often reveals solutions neither side had considered. A related principle is separating the people from the problem: the person across the table is not the obstacle, the gap in interests is. Maintaining a constructive relationship while vigorously pursuing your interests is hard but essential. I'd also emphasise preparation: knowing your BATNA — your best alternative to a negotiated agreement — before you sit down gives you clarity about when to push and when to walk away. Most negotiating failures are preparation failures.",
+        "vocabulary_hints": ["position vs interest negotiation", "underlying interests", "separating the people from the problem", "BATNA", "preparation failures"],
+        "duration_seconds": 90
+      }
+    ]
+  }
+}

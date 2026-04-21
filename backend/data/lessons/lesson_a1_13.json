@@ -1,0 +1,242 @@
+{
+  "id": "a1_13",
+  "unit": 7,
+  "unit_title": "Everyday Life",
+  "title": "A Busy Weekend",
+  "level": "A1",
+  "type": "story",
+  "theme": "Hobbies & Free Time",
+  "reading_time": "3 min",
+  "content": {
+    "paragraphs": [
+      {
+        "en": "My name is Emma. I love the weekend because I have free time. I always wake up late on Saturday — at nine o'clock! During the week, I wake up at seven.",
+        "fr": "Je m'appelle Emma. J'adore le week-end parce que j'ai du temps libre. Je me reveille toujours tard le samedi — a neuf heures ! Pendant la semaine, je me reveille a sept heures."
+      },
+      {
+        "en": "On Saturday morning, I often go swimming with my dad. We go to the swimming pool near our house. I swim for one hour. After that, I sometimes play football in the garden with my brother. He is very good at football.",
+        "fr": "Le samedi matin, je vais souvent nager avec mon papa. Nous allons a la piscine pres de chez nous. Je nage pendant une heure. Apres ca, je joue parfois au football dans le jardin avec mon frere. Il est tres bon au football."
+      },
+      {
+        "en": "In the afternoon, I like reading books. I often sit in the garden and read for a long time. My favourite books are about animals. Sometimes I do some drawing. I never draw people — only animals and flowers.",
+        "fr": "L'apres-midi, j'aime lire des livres. Je m'assieds souvent dans le jardin et je lis pendant longtemps. Mes livres preferes parlent d'animaux. Parfois je fais du dessin. Je ne dessine jamais de personnes — seulement des animaux et des fleurs."
+      },
+      {
+        "en": "On Sunday, my family often has a big lunch together. My mum makes pasta or chicken. After lunch, we sometimes go for a walk in the park. I always take my dog with me. His name is Biscuit and he loves the park.",
+        "fr": "Le dimanche, ma famille prend souvent un grand dejeuner ensemble. Ma maman fait des pates ou du poulet. Apres le dejeuner, nous allons parfois nous promener dans le parc. J'emmene toujours mon chien avec moi. Il s'appelle Biscuit et il adore le parc."
+      },
+      {
+        "en": "In my free time, I am interested in music too. I sometimes listen to music in my room. I never play an instrument, but I would like to learn the guitar. My weekends are always busy but I love them!",
+        "fr": "Pendant mon temps libre, je m'interesse aussi a la musique. J'ecoute parfois de la musique dans ma chambre. Je ne joue jamais d'un instrument, mais j'aimerais apprendre la guitare. Mes week-ends sont toujours charges mais je les adore !"
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "football",
+        "phonetic": "/ˈfʊtbɔːl/",
+        "type": "noun",
+        "definition_en": "un sport joue par deux equipes qui frappent un ballon avec les pieds (soccer en anglais americain)",
+        "definition_fr": "football",
+        "example": "I play football every Saturday with my friends.",
+        "level": "A1"
+      },
+      {
+        "word": "swimming",
+        "phonetic": "/ˈswɪmɪŋ/",
+        "type": "noun/gerund",
+        "definition_en": "l'activite de se deplacer dans l'eau avec son corps",
+        "definition_fr": "natation, nager",
+        "example": "I go swimming twice a week.",
+        "level": "A1"
+      },
+      {
+        "word": "drawing",
+        "phonetic": "/ˈdrɔːɪŋ/",
+        "type": "noun/gerund",
+        "definition_en": "faire des images avec un crayon ou un stylo",
+        "definition_fr": "dessin, dessiner",
+        "example": "Drawing is my favourite hobby. I draw every day.",
+        "level": "A1"
+      },
+      {
+        "word": "reading",
+        "phonetic": "/ˈriːdɪŋ/",
+        "type": "noun/gerund",
+        "definition_en": "l'activite de regarder et comprendre des mots ecrits",
+        "definition_fr": "lecture, lire",
+        "example": "I love reading books about animals.",
+        "level": "A1"
+      },
+      {
+        "word": "garden",
+        "phonetic": "/ˈɡɑːrdn/",
+        "type": "noun",
+        "definition_en": "un espace de terrain a cote d'une maison avec de l'herbe, des fleurs ou des plantes",
+        "definition_fr": "jardin",
+        "example": "We play in the garden after school.",
+        "level": "A1"
+      },
+      {
+        "word": "often",
+        "phonetic": "/ˈɒfn/",
+        "type": "adverb",
+        "definition_en": "de nombreuses fois, frequemment",
+        "definition_fr": "souvent",
+        "example": "I often go to the cinema on Saturdays.",
+        "level": "A1"
+      },
+      {
+        "word": "sometimes",
+        "phonetic": "/ˈsʌmtaɪmz/",
+        "type": "adverb",
+        "definition_en": "a certaines occasions, pas toujours",
+        "definition_fr": "parfois, quelquefois",
+        "example": "I sometimes eat pizza for dinner.",
+        "level": "A1"
+      },
+      {
+        "word": "never",
+        "phonetic": "/ˈnevər/",
+        "type": "adverb",
+        "definition_en": "a aucun moment, pas une seule fois",
+        "definition_fr": "jamais",
+        "example": "I never eat fish. I don't like it.",
+        "level": "A1"
+      }
+    ],
+    "grammar_points": [
+      {
+        "title": "Frequency Adverbs: always, often, sometimes, never",
+        "explanation": "Les adverbes de frequence nous disent **a quelle frequence** quelque chose se produit. L'ordre du plus au moins frequent est : **always** (100%) → **often** (70%) → **sometimes** (30%) → **never** (0%). Ils se placent **avant le verbe principal** mais **apres 'be'** : 'I always wake up late' mais 'I am always happy'.",
+        "examples": [
+          "I always wake up late on Saturday. (= every Saturday, 100%)",
+          "I often go swimming with my dad. (= many Saturdays)",
+          "I sometimes play football in the garden. (= some Saturdays)",
+          "I never draw people. (= 0%, not at any time)",
+          "Position: I often go (before the verb) / I am often tired (after 'be')"
+        ]
+      },
+      {
+        "title": "Present Simple for Habits and Routines",
+        "explanation": "On utilise le **present simple** pour parler des choses que l'on fait regulierement — nos habitudes et routines. On utilise souvent des adverbes de frequence et des expressions de temps comme 'every Saturday', 'on Sunday', 'in my free time'.",
+        "examples": [
+          "I go swimming every Saturday. (regular habit)",
+          "We have a big lunch on Sundays. (regular routine)",
+          "She reads books in her free time. (regular activity)"
+        ]
+      }
+    ],
+    "expressions": [
+      {
+        "expression": "In my free time, I...",
+        "meaning_fr": "Pendant mon temps libre, je...",
+        "example": "In my free time, I like reading and playing games.",
+        "register": "neutral",
+        "note": "Une expression tres utile pour presenter ses loisirs et centres d'interet."
+      },
+      {
+        "expression": "At the weekend, I...",
+        "meaning_fr": "Le week-end, je...",
+        "example": "At the weekend, I visit my grandparents.",
+        "register": "neutral",
+        "note": "L'anglais britannique dit 'at the weekend'. L'anglais americain dit 'on the weekend'. Les deux sont corrects."
+      },
+      {
+        "expression": "I'm interested in...",
+        "meaning_fr": "Je m'interesse a...",
+        "example": "I'm interested in music and art.",
+        "register": "neutral",
+        "note": "Utilisez 'interested in' + nom ou verbe en -ing : 'I'm interested in learning guitar.'"
+      }
+    ]
+  },
+  "exercises": {
+    "written": [
+      {
+        "id": "w1",
+        "type": "multiple_choice",
+        "question": "How often does Emma go swimming?",
+        "options": [
+          "Always",
+          "Often",
+          "Sometimes",
+          "Never"
+        ],
+        "answer": 1,
+        "explanation": "Emma says 'I often go swimming with my dad.'"
+      },
+      {
+        "id": "w2",
+        "type": "multiple_choice",
+        "question": "Where does the frequency adverb go in a sentence?",
+        "options": [
+          "At the end of the sentence",
+          "Before the main verb",
+          "At the beginning of the sentence"
+        ],
+        "answer": 1,
+        "explanation": "Frequency adverbs go before the main verb: 'I often go', 'She always reads'. But after 'be': 'I am always happy.'"
+      },
+      {
+        "id": "w3",
+        "type": "multiple_choice",
+        "question": "What does Emma never do?",
+        "options": [
+          "She never reads books.",
+          "She never goes to the park.",
+          "She never draws people.",
+          "She never listens to music."
+        ],
+        "answer": 2,
+        "explanation": "Emma says 'I never draw people — only animals and flowers.'"
+      },
+      {
+        "id": "w4",
+        "type": "fill_blank",
+        "sentence": "I ________ (always/sometimes/never) wake up at six o'clock on Sunday. I like to sleep late!",
+        "answer": "never",
+        "hint": "If Emma likes to sleep late on the weekend, she does NOT wake up at six."
+      },
+      {
+        "id": "w5",
+        "type": "fill_blank",
+        "sentence": "She ________ goes swimming on Saturday. She goes almost every week.",
+        "answer": "often",
+        "hint": "Choose the adverb that means 'many times but not always' (about 70%)."
+      },
+      {
+        "id": "w6",
+        "type": "translation",
+        "french": "Pendant mon temps libre, je joue parfois au football et je lis souvent des livres.",
+        "suggested_answer": "In my free time, I sometimes play football and I often read books.",
+        "key_vocabulary": ["In my free time", "sometimes", "often", "play football", "read books"]
+      }
+    ],
+    "oral": [
+      {
+        "id": "o1",
+        "type": "read_aloud",
+        "instruction": "Read this passage aloud. Stress the frequency adverbs.",
+        "text": "I always wake up late on Saturday. I often go swimming with my dad. I sometimes play football in the garden. I never draw people — only animals.",
+        "focus": "Stress the frequency adverbs: ALWAYS, OFTEN, SOMETIMES, NEVER. They are the key words in each sentence.",
+        "phonetic_tips": ["always: /ˈɔːlweɪz/", "often: /ˈɒfn/ (the 't' is silent)", "sometimes: /ˈsʌmtaɪmz/"]
+      },
+      {
+        "id": "o2",
+        "type": "answer_question",
+        "question": "What do you do at the weekend? Use frequency adverbs (always, often, sometimes, never) in your answer.",
+        "suggested_answer": "At the weekend, I always wake up late. I often play video games with my friends. I sometimes go to the cinema. I never do homework on Sunday!",
+        "vocabulary_hints": ["At the weekend...", "always", "often", "sometimes", "never", "In my free time..."],
+        "duration_seconds": 45
+      },
+      {
+        "id": "o3",
+        "type": "answer_question",
+        "question": "What are your hobbies? What are you interested in?",
+        "suggested_answer": "I'm interested in music and sports. In my free time, I often listen to music. I sometimes play football with my friends. I also like reading books about animals.",
+        "vocabulary_hints": ["I'm interested in...", "In my free time...", "I often...", "I sometimes..."],
+        "duration_seconds": 40
+      }
+    ]
+  }
+}

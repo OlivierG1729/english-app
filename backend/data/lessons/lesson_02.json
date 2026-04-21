@@ -1,0 +1,334 @@
+{
+  "id": "02",
+  "unit": 1,
+  "unit_title": "Modern Life & Society",
+  "title": "The Perfect Candidate",
+  "level": "B2",
+  "type": "dialogue",
+  "theme": "Work & Career",
+  "reading_time": "6 min",
+  "content": {
+    "speakers": ["Marcus (Interviewer)", "Claire (Candidate)"],
+    "paragraphs": [
+      {
+        "speaker": "Marcus",
+        "en": "Come in, take a seat. I'm Marcus, Head of Operations. Thanks for making the time — I know the commute from Bristol can be brutal.",
+        "fr": "Entrez, asseyez-vous. Je m'appelle Marcus, je suis directeur des opérations. Merci d'avoir trouvé le temps — je sais que le trajet depuis Bristol peut être éprouvant."
+      },
+      {
+        "speaker": "Claire",
+        "en": "It's no trouble at all, thank you for seeing me. I actually took the first train this morning to make sure I wasn't cutting it too fine.",
+        "fr": "Ça ne me dérange pas du tout, merci de me recevoir. J'ai pris le premier train ce matin pour m'assurer de ne pas être dans les dernières minutes."
+      },
+      {
+        "speaker": "Marcus",
+        "en": "Good thinking. Right, I've had a look at your CV and I have to say, your background in supply chain management is impressive. But tell me — why the sudden pivot towards the tech sector?",
+        "fr": "C'est sage. Bien, j'ai regardé votre CV et je dois dire que votre expérience en gestion de la chaîne d'approvisionnement est impressionnante. Mais dites-moi — pourquoi ce virage soudain vers le secteur technologique ?"
+      },
+      {
+        "speaker": "Claire",
+        "en": "That's a fair question. Honestly, I'd been finding the logistics industry increasingly rigid — same processes, little room for innovation. I wanted to be somewhere where I could actually build things from the ground up, rather than just maintaining existing systems.",
+        "fr": "C'est une bonne question. Honnêtement, je trouvais le secteur logistique de plus en plus rigide — les mêmes processus, peu de place pour l'innovation. Je voulais être dans un endroit où je pourrais vraiment construire des choses depuis le début, plutôt que de simplement maintenir des systèmes existants."
+      },
+      {
+        "speaker": "Marcus",
+        "en": "I can appreciate that. And you've done some upskilling in the meantime, I gather? The Python certification caught my eye.",
+        "fr": "Je comprends ça. Et vous vous êtes formée entre-temps, si je comprends bien ? La certification Python m'a attiré l'œil."
+      },
+      {
+        "speaker": "Claire",
+        "en": "Yes — I completed it over six months while holding down my previous job. It wasn't always easy to juggle both, but I was determined to prove to myself that I could make the transition.",
+        "fr": "Oui — je l'ai passée en six mois tout en conservant mon poste précédent. Ce n'était pas toujours facile de gérer les deux à la fois, mais j'étais déterminée à me prouver que je pouvais faire cette transition."
+      },
+      {
+        "speaker": "Marcus",
+        "en": "Tell me about a time you had to manage a serious setback at work. How did you handle it?",
+        "fr": "Parlez-moi d'une fois où vous avez dû gérer un sérieux revers au travail. Comment avez-vous géré ça ?"
+      },
+      {
+        "speaker": "Claire",
+        "en": "There was one situation that really tested me. Our main supplier pulled out at the last minute before a major product launch — leaving us holding a very short deadline and no backup plan. I had to think on my feet, get on the phone with three alternative suppliers simultaneously, and negotiate a deal within 48 hours. We pulled it off, just barely.",
+        "fr": "Il y a eu une situation qui m'a vraiment mise à l'épreuve. Notre principal fournisseur s'est retiré à la dernière minute avant un lancement de produit majeur — nous laissant avec un délai très court et aucun plan de secours. J'ai dû improviser, appeler trois fournisseurs alternatifs en même temps, et négocier un accord en 48 heures. On y est arrivés, de justesse."
+      },
+      {
+        "speaker": "Marcus",
+        "en": "Impressive. And how do you handle criticism? I should warn you — this team gives feedback pretty bluntly. We don't have time to sugarcoat things.",
+        "fr": "Impressionnant. Et comment gérez-vous les critiques ? Je dois vous prévenir — cette équipe donne son feedback de façon assez directe. On n'a pas le temps de tourner autour du pot."
+      },
+      {
+        "speaker": "Claire",
+        "en": "Honestly, I welcome it. I've always found vague feedback far more frustrating than direct criticism. If someone tells me clearly what isn't working, I can fix it. What I can't work with is ambiguity.",
+        "fr": "Honnêtement, je le recherche. J'ai toujours trouvé un feedback vague bien plus frustrant qu'une critique directe. Si quelqu'un me dit clairement ce qui ne fonctionne pas, je peux le corriger. Ce avec quoi je ne peux pas travailler, c'est l'ambiguïté."
+      },
+      {
+        "speaker": "Marcus",
+        "en": "Last question — where do you see yourself in five years?",
+        "fr": "Dernière question — où vous voyez-vous dans cinq ans ?"
+      },
+      {
+        "speaker": "Claire",
+        "en": "Leading a team, ideally. I don't want to be a senior individual contributor forever — I'm genuinely driven by the challenge of developing people and building something bigger than myself. I'd like to think that in five years, I'd have built a function here, not just filled a role.",
+        "fr": "À la tête d'une équipe, idéalement. Je ne veux pas rester indéfiniment une collaboratrice individuelle senior — ce qui me motive vraiment, c'est le défi de développer des personnes et de construire quelque chose de plus grand que moi. J'aimerais penser que dans cinq ans, j'aurais construit une fonction ici, pas seulement occupé un poste."
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "commute",
+        "phonetic": "/kəˈmjuːt/",
+        "type": "noun/verb",
+        "definition_en": "le trajet quotidien entre le domicile et le travail",
+        "definition_fr": "trajet domicile-travail, navette quotidienne",
+        "example": "The commute from Bristol to London takes about 90 minutes by train.",
+        "level": "B2"
+      },
+      {
+        "word": "brutal",
+        "phonetic": "/ˈbruːtl/",
+        "type": "adjective (informal)",
+        "definition_en": "très difficile, épuisant ou désagréable",
+        "definition_fr": "éprouvant, difficile, rude",
+        "example": "The traffic this morning was brutal — I sat in the same spot for 40 minutes.",
+        "level": "B2"
+      },
+      {
+        "word": "pivot",
+        "phonetic": "/ˈpɪvət/",
+        "type": "noun/verb",
+        "definition_en": "un changement de direction significatif, surtout dans la carrière ou les affaires",
+        "definition_fr": "virage, changement de cap",
+        "example": "After ten years in finance, she made a pivot to the creative industries.",
+        "level": "C1"
+      },
+      {
+        "word": "rigid",
+        "phonetic": "/ˈrɪdʒɪd/",
+        "type": "adjective",
+        "definition_en": "incapable de s'adapter ou de changer ; inflexible",
+        "definition_fr": "rigide, inflexible",
+        "example": "The management was too rigid to consider any new approaches.",
+        "level": "B2"
+      },
+      {
+        "word": "upskilling",
+        "phonetic": "/ˈʌpskɪlɪŋ/",
+        "type": "noun/gerund",
+        "definition_en": "acquisition de nouvelles compétences, surtout pour améliorer ses perspectives de carrière",
+        "definition_fr": "montée en compétences, formation professionnelle",
+        "example": "With AI transforming every sector, upskilling has become essential.",
+        "level": "C1"
+      },
+      {
+        "word": "to juggle",
+        "phonetic": "/ˈdʒʌɡl/",
+        "type": "verb",
+        "definition_en": "gérer plusieurs tâches ou responsabilités en même temps",
+        "definition_fr": "jongler avec, gérer simultanément",
+        "example": "She was juggling a full-time job, night classes, and two young children.",
+        "level": "B2"
+      },
+      {
+        "word": "setback",
+        "phonetic": "/ˈsetbæk/",
+        "type": "noun",
+        "definition_en": "un problème qui retarde ou empêche la progression",
+        "definition_fr": "revers, contretemps, coup dur",
+        "example": "Losing their main investor was a major setback for the startup.",
+        "level": "B2"
+      },
+      {
+        "word": "to pull out",
+        "phonetic": "/pʊl aʊt/",
+        "type": "phrasal verb",
+        "definition_en": "se retirer d'un accord ou d'une situation",
+        "definition_fr": "se retirer, renoncer à",
+        "example": "The investor pulled out of the deal at the last minute.",
+        "level": "B2"
+      },
+      {
+        "word": "bluntly",
+        "phonetic": "/ˈblʌntli/",
+        "type": "adverb",
+        "definition_en": "de manière directe et franche, sans adoucir le message",
+        "definition_fr": "franchement, sans détour, sans ménagement",
+        "example": "To put it bluntly, your presentation was not ready.",
+        "level": "B2"
+      },
+      {
+        "word": "ambiguity",
+        "phonetic": "/ˌæmbɪˈɡjuːɪti/",
+        "type": "noun",
+        "definition_en": "la qualité d'être ouvert à plus d'une interprétation ; manque de clarté",
+        "definition_fr": "ambiguïté, manque de clarté",
+        "example": "In a crisis, ambiguity is dangerous — people need clear instructions.",
+        "level": "C1"
+      }
+    ],
+    "grammar_points": [
+      {
+        "title": "Conditional modals for polite distancing: 'I'd' in formal speech",
+        "explanation": "En anglais professionnel britannique, utiliser **'I'd' (I would)** au lieu de 'I' ajoute une couche de politesse et de prudence. Cela montre que vous formulez une opinion réfléchie plutôt qu'une déclaration directe. Très utile en entretien et dans les présentations formelles.",
+        "examples": [
+          "'I'd like to think that in five years, I'd have built a function here.' (polite / thoughtful)",
+          "vs. 'I will build a function here.' (too assertive, potentially arrogant)",
+          "'I'd say the biggest challenge is communication.' → professional, measured",
+          "'I'd hope to be leading a team by then.' → expressing ambition humbly"
+        ]
+      },
+      {
+        "title": "Gerunds after prepositions",
+        "explanation": "En anglais, quand un **verbe suit une préposition**, il doit être à la **forme en -ing (gérondif)**. C'est une source d'erreurs très courante pour les francophones, qui pourraient être tentés d'utiliser un infinitif.",
+        "examples": [
+          "I was determined to prove myself... → infinitive after 'determined to' ✓",
+          "...rather than *maintaining* existing systems → gerund after 'than' ✓",
+          "without *seeing* the full picture / by *asking* the right questions",
+          "French trap: 'avant de faire' = 'before *doing*' (not 'before to do')"
+        ]
+      },
+      {
+        "title": "The STAR method in English: past tenses for professional storytelling",
+        "explanation": "Lorsqu'on répond à des questions d'entretien avec un exemple concret (Situation, Tâche, Action, Résultat), l'anglais utilise le **Simple Past** pour les actions terminées et le **Past Perfect** pour le contexte. Remarquez comment Claire structure sa réponse : elle pose le contexte au past perfect ('our supplier *had* pulled out') et raconte l'histoire au simple past.",
+        "examples": [
+          "'There was one situation that really tested me.' → sets the scene (simple past)",
+          "'Our main supplier pulled out at the last minute.' → the key event (simple past)",
+          "'I had to think on my feet.' → immediate reaction (simple past)",
+          "'We pulled it off, just barely.' → result (simple past)"
+        ]
+      }
+    ],
+    "expressions": [
+      {
+        "expression": "to cut it fine",
+        "meaning_fr": "arriver de justesse, être dans les dernières secondes",
+        "example": "I almost missed the train — I really cut it fine this time.",
+        "register": "informal",
+        "note": "Expression britannique. Similaire à 'just in time' mais avec plus de tension implicite."
+      },
+      {
+        "expression": "from the ground up",
+        "meaning_fr": "depuis le début, de zéro",
+        "example": "We built this company from the ground up — no investors, no safety net.",
+        "register": "neutral / professional",
+        "note": "Souligne que quelque chose a été construit entièrement à partir de zéro, sans rien de donné au préalable."
+      },
+      {
+        "expression": "to think on one's feet",
+        "meaning_fr": "improviser, réagir vite sans avoir le temps de se préparer",
+        "example": "Good teachers know how to think on their feet when a lesson goes off plan.",
+        "register": "informal / professional",
+        "note": "Implique une réflexion rapide et adaptative en temps réel, sans préparation."
+      },
+      {
+        "expression": "to sugarcoat (something)",
+        "meaning_fr": "édulcorer, atténuer une mauvaise nouvelle, tourner autour du pot",
+        "example": "I won't sugarcoat it — the results were disappointing.",
+        "register": "informal",
+        "note": "Souvent utilisé à la forme négative : 'I'm not going to sugarcoat this...' pour signaler une honnêteté brutale."
+      },
+      {
+        "expression": "to pull something off",
+        "meaning_fr": "réussir quelque chose de difficile ou d'improbable",
+        "example": "Nobody thought they could win, but they pulled it off.",
+        "register": "informal",
+        "note": "Implique la réussite de quelque chose d'impressionnant contre toute attente. 'We pulled it off, just barely.' = succès, mais de justesse."
+      }
+    ]
+  },
+  "exercises": {
+    "written": [
+      {
+        "id": "w1",
+        "type": "multiple_choice",
+        "question": "Why did Claire decide to change sectors?",
+        "options": [
+          "She was made redundant from her logistics job.",
+          "She found logistics too rigid with little room for innovation.",
+          "She had always dreamed of working in tech.",
+          "The salary in tech is significantly higher."
+        ],
+        "answer": 1,
+        "explanation": "Claire says she was 'finding the logistics industry increasingly rigid — same processes, little room for innovation'."
+      },
+      {
+        "id": "w2",
+        "type": "multiple_choice",
+        "question": "What does Marcus mean when he says the team 'doesn't sugarcoat things'?",
+        "options": [
+          "The team doesn't use sweet language.",
+          "The team avoids small talk.",
+          "The team gives feedback very directly, without softening it.",
+          "The team is not polite in meetings."
+        ],
+        "answer": 2,
+        "explanation": "'To sugarcoat' means to soften bad news. Marcus is warning Claire that feedback is blunt and direct."
+      },
+      {
+        "id": "w3",
+        "type": "fill_blank",
+        "sentence": "I've always found it hard to ________ my personal life and my professional ambitions.",
+        "answer": "juggle",
+        "hint": "Think of the verb meaning 'to manage multiple things at the same time'."
+      },
+      {
+        "id": "w4",
+        "type": "fill_blank",
+        "sentence": "She ________ of the project at the last minute, leaving the whole team in a difficult position.",
+        "answer": "pulled out",
+        "hint": "A phrasal verb meaning 'to withdraw'."
+      },
+      {
+        "id": "w5",
+        "type": "fill_blank",
+        "sentence": "To ________, the plan was poorly designed from the start.",
+        "answer": "put it bluntly",
+        "hint": "A common expression used to introduce a frank, direct opinion."
+      },
+      {
+        "id": "w6",
+        "type": "translation",
+        "french": "Je ne vais pas édulcorer les choses : le projet a été un échec total.",
+        "suggested_answer": "I'm not going to sugarcoat it: the project was a complete failure.",
+        "key_vocabulary": ["sugarcoat", "complete failure"]
+      },
+      {
+        "id": "w7",
+        "type": "translation",
+        "french": "Elle a dû improviser lorsque le principal fournisseur s'est retiré à la dernière minute.",
+        "suggested_answer": "She had to think on her feet when the main supplier pulled out at the last minute.",
+        "key_vocabulary": ["think on one's feet", "pull out", "at the last minute"]
+      },
+      {
+        "id": "w8",
+        "type": "translation",
+        "french": "Personne ne pensait qu'ils y arriveraient, mais ils ont réussi, de justesse.",
+        "suggested_answer": "Nobody thought they could pull it off, but they managed it, just barely.",
+        "key_vocabulary": ["pull it off", "just barely", "nobody thought"]
+      }
+    ],
+    "oral": [
+      {
+        "id": "o1",
+        "type": "read_aloud",
+        "instruction": "Read Claire's final answer aloud as naturally as possible, as if you were in a real interview.",
+        "text": "Leading a team, ideally. I don't want to be a senior individual contributor forever — I'm genuinely driven by the challenge of developing people and building something bigger than myself. I'd like to think that in five years, I'd have built a function here, not just filled a role.",
+        "focus": "Pay attention to the rhythm of the contrast: 'not just filled a role' should have emphasis on 'built' and 'filled'.",
+        "phonetic_tips": ["genuinely: /ˈdʒenjuɪnli/", "contributor: /kənˈtrɪbjətər/", "ideally: /aɪˈdiːəli/"]
+      },
+      {
+        "id": "o2",
+        "type": "answer_question",
+        "question": "Tell me about a time you had to handle a stressful or unexpected situation. Use the STAR method.",
+        "suggested_answer": "There was a situation that really tested me during my final year of studies. Our group project supervisor pulled out two weeks before the deadline without any explanation, leaving us without a mentor. I had to think on my feet: I reached out to two other professors, explained the situation clearly, and found a replacement within three days. We submitted on time, and actually received one of the highest marks in the cohort.",
+        "vocabulary_hints": ["a situation that tested me", "pulled out", "think on my feet", "reached out", "within three days"],
+        "duration_seconds": 90
+      },
+      {
+        "id": "o3",
+        "type": "answer_question",
+        "question": "How do you personally respond to criticism at work or school? Be honest and use vocabulary from this lesson.",
+        "suggested_answer": "I think I generally handle criticism well, though it depends on how it's delivered. I genuinely prefer blunt, direct feedback to vague comments — ambiguity is far more frustrating than honesty. I've been known to get slightly defensive initially, but I've learnt to sit with criticism and reflect on it before reacting. I'd rather someone didn't sugarcoat things — I can handle the truth.",
+        "vocabulary_hints": ["blunt / bluntly", "ambiguity", "sugarcoat", "I'd rather", "to sit with something"],
+        "duration_seconds": 75
+      }
+    ]
+  }
+}

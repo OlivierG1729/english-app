@@ -1,0 +1,285 @@
+{
+  "id": "a1_15",
+  "unit": 7,
+  "unit_title": "Everyday Life",
+  "title": "Let's Go Shopping!",
+  "level": "A1",
+  "type": "dialogue",
+  "theme": "Clothes & Sizes",
+  "reading_time": "3 min",
+  "content": {
+    "paragraphs": [
+      {
+        "en": "Lucy and her mum go to a clothes shop in town. Lucy needs a new shirt for school and a dress for her cousin's birthday party. The shop is big and there are many nice clothes.",
+        "fr": "Lucy et sa maman vont dans un magasin de vetements en ville. Lucy a besoin d'une nouvelle chemise pour l'ecole et d'une robe pour l'anniversaire de sa cousine. Le magasin est grand et il y a beaucoup de beaux vetements."
+      },
+      {
+        "en": "Hello! Can I help you?",
+        "fr": "Bonjour ! Je peux vous aider ?",
+        "speaker": "Shop assistant"
+      },
+      {
+        "en": "Yes, please. I'm looking for a shirt. Do you have this shirt in a small size?",
+        "fr": "Oui, s'il vous plait. Je cherche une chemise. Avez-vous cette chemise en petite taille ?",
+        "speaker": "Lucy"
+      },
+      {
+        "en": "Let me check. Yes, we have it in small and medium. What colour do you want?",
+        "fr": "Laissez-moi verifier. Oui, nous l'avons en petit et en moyen. Quelle couleur voulez-vous ?",
+        "speaker": "Shop assistant"
+      },
+      {
+        "en": "I like the blue one. Can I try this on, please?",
+        "fr": "J'aime la bleue. Est-ce que je peux l'essayer, s'il vous plait ?",
+        "speaker": "Lucy"
+      },
+      {
+        "en": "Of course! The changing rooms are over there.",
+        "fr": "Bien sur ! Les cabines d'essayage sont la-bas.",
+        "speaker": "Shop assistant"
+      },
+      {
+        "en": "Lucy tries on the blue shirt. She comes back to show her mum.",
+        "fr": "Lucy essaie la chemise bleue. Elle revient pour la montrer a sa maman."
+      },
+      {
+        "en": "How is it, darling? Does it fit?",
+        "fr": "Comment c'est, ma cherie ? Ca te va ?",
+        "speaker": "Mum"
+      },
+      {
+        "en": "It's too big, Mum. Do you have it in a smaller size?",
+        "fr": "C'est trop grand, Maman. L'avez-vous dans une taille plus petite ?",
+        "speaker": "Lucy"
+      },
+      {
+        "en": "I'm sorry, we don't have a smaller size in blue. But we have this one in white. It's the same style.",
+        "fr": "Je suis desolee, nous n'avons pas de taille plus petite en bleu. Mais nous avons celle-ci en blanc. C'est le meme style.",
+        "speaker": "Shop assistant"
+      },
+      {
+        "en": "OK, I'll take the white one. And I also need a dress. I like that red dress over there. How much is it?",
+        "fr": "D'accord, je prends la blanche. Et j'ai aussi besoin d'une robe. J'aime cette robe rouge la-bas. Combien coute-t-elle ?",
+        "speaker": "Lucy"
+      },
+      {
+        "en": "That dress is twenty-five pounds. Would you like to try it on?",
+        "fr": "Cette robe coute vingt-cinq livres. Voulez-vous l'essayer ?",
+        "speaker": "Shop assistant"
+      },
+      {
+        "en": "Yes, please! Lucy tries on the red dress. It fits perfectly. She is very happy with her new clothes.",
+        "fr": "Oui, s'il vous plait ! Lucy essaie la robe rouge. Elle lui va parfaitement. Elle est tres contente de ses nouveaux vetements."
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "shirt",
+        "phonetic": "/ʃɜːrt/",
+        "type": "noun",
+        "definition_en": "un vetement pour le haut du corps avec des manches et des boutons",
+        "definition_fr": "chemise",
+        "example": "He wears a white shirt to school every day.",
+        "level": "A1"
+      },
+      {
+        "word": "trousers",
+        "phonetic": "/ˈtraʊzərz/",
+        "type": "noun (plural)",
+        "definition_en": "un vetement qui couvre chaque jambe separement",
+        "definition_fr": "pantalon",
+        "example": "I need a new pair of trousers for work.",
+        "level": "A1"
+      },
+      {
+        "word": "dress",
+        "phonetic": "/dres/",
+        "type": "noun",
+        "definition_en": "un vetement pour les femmes ou les filles qui couvre le corps et une partie des jambes",
+        "definition_fr": "robe",
+        "example": "She is wearing a beautiful red dress.",
+        "level": "A1"
+      },
+      {
+        "word": "size",
+        "phonetic": "/saɪz/",
+        "type": "noun",
+        "definition_en": "a quel point quelque chose est grand ou petit",
+        "definition_fr": "taille",
+        "example": "What size do you wear? — I wear a medium.",
+        "level": "A1"
+      },
+      {
+        "word": "small",
+        "phonetic": "/smɔːl/",
+        "type": "adjective",
+        "definition_en": "pas grand, de petite taille",
+        "definition_fr": "petit(e)",
+        "example": "This shirt is too small for me. I need a medium.",
+        "level": "A1"
+      },
+      {
+        "word": "medium",
+        "phonetic": "/ˈmiːdiəm/",
+        "type": "adjective",
+        "definition_en": "entre petit et grand en taille",
+        "definition_fr": "moyen(ne)",
+        "example": "I usually wear a medium size.",
+        "level": "A1"
+      },
+      {
+        "word": "large",
+        "phonetic": "/lɑːrdʒ/",
+        "type": "adjective",
+        "definition_en": "grand en taille",
+        "definition_fr": "grand(e)",
+        "example": "Do you have this in large? The medium is too small.",
+        "level": "A1"
+      },
+      {
+        "word": "to try (on)",
+        "phonetic": "/traɪ/",
+        "type": "verb",
+        "definition_en": "mettre un vetement pour voir s'il va bien",
+        "definition_fr": "essayer (un vetement)",
+        "example": "Can I try on these trousers, please?",
+        "level": "A1"
+      }
+    ],
+    "grammar_points": [
+      {
+        "title": "'Can I try this on?' — Polite Requests with 'Can I...?'",
+        "explanation": "On utilise **'Can I...?'** pour faire des demandes polies dans les magasins et les situations quotidiennes. Apres 'Can I', on utilise la base verbale. **'Try on'** est un verbe a particule — quand on utilise un pronom, il se place au milieu : 'try **it** on' (pas 'try on it').",
+        "examples": [
+          "Can I try this on? (= Est-ce que je peux essayer ceci ?)",
+          "Can I try it on? (pronoun goes in the middle)",
+          "Can I have a bag, please?",
+          "Can I see that dress?"
+        ]
+      },
+      {
+        "title": "Demonstratives: this / that / these / those",
+        "explanation": "On utilise **this** (singulier, proche) et **these** (pluriel, proche) pour les choses pres de nous. On utilise **that** (singulier, loin) et **those** (pluriel, loin) pour les choses plus eloignees.",
+        "examples": [
+          "I like this shirt. (= the shirt I am holding / near me)",
+          "I like that dress over there. (= the dress far from me)",
+          "These shoes are nice. (= shoes near me, plural)",
+          "Those trousers are expensive. (= trousers far from me, plural)"
+        ]
+      }
+    ],
+    "expressions": [
+      {
+        "expression": "Can I try this on?",
+        "meaning_fr": "Est-ce que je peux essayer ceci ?",
+        "example": "I like this jacket. Can I try it on?",
+        "register": "polite / neutral",
+        "note": "L'expression essentielle pour faire du shopping de vetements. Retenez : 'try it on' (pas 'try on it')."
+      },
+      {
+        "expression": "It's too big / too small",
+        "meaning_fr": "C'est trop grand / trop petit",
+        "example": "This shirt is too big. Do you have a smaller one?",
+        "register": "neutral",
+        "note": "'Too' signifie plus que ce qui est souhaitable. Il a un sens negatif."
+      },
+      {
+        "expression": "Do you have it in...?",
+        "meaning_fr": "L'avez-vous en... ?",
+        "example": "I like this dress. Do you have it in blue?",
+        "register": "polite / neutral",
+        "note": "S'utilise pour demander une taille ou une couleur differente : 'Do you have it in medium?' ou 'Do you have it in red?'"
+      }
+    ]
+  },
+  "exercises": {
+    "written": [
+      {
+        "id": "w1",
+        "type": "multiple_choice",
+        "question": "Why does Lucy want a new dress?",
+        "options": [
+          "For school",
+          "For her cousin's birthday party",
+          "For a concert",
+          "For a holiday"
+        ],
+        "answer": 1,
+        "explanation": "The text says 'Lucy needs a dress for her cousin's birthday party.'"
+      },
+      {
+        "id": "w2",
+        "type": "multiple_choice",
+        "question": "What is the problem with the blue shirt?",
+        "options": [
+          "It is too small.",
+          "It is too expensive.",
+          "It is too big.",
+          "Lucy doesn't like the colour."
+        ],
+        "answer": 2,
+        "explanation": "Lucy says 'It's too big, Mum.'"
+      },
+      {
+        "id": "w3",
+        "type": "multiple_choice",
+        "question": "Complete: 'I like _____ dress over there.'",
+        "options": [
+          "this",
+          "that",
+          "these",
+          "those"
+        ],
+        "answer": 1,
+        "explanation": "'Over there' means the dress is far away, so we use 'that' (singular, far)."
+      },
+      {
+        "id": "w4",
+        "type": "fill_blank",
+        "sentence": "Can I try ________ on, please? (this shirt)",
+        "answer": "it",
+        "hint": "When we use a pronoun with 'try on', the pronoun goes in the middle: try __ on."
+      },
+      {
+        "id": "w5",
+        "type": "fill_blank",
+        "sentence": "This shirt is too ________. Do you have it in a ________ size?",
+        "answer": "big / smaller",
+        "hint": "Lucy's shirt doesn't fit because it is not the right size."
+      },
+      {
+        "id": "w6",
+        "type": "translation",
+        "french": "Est-ce que je peux essayer cette robe ? — Bien sur ! Les cabines d'essayage sont la-bas.",
+        "suggested_answer": "Can I try this dress on? — Of course! The changing rooms are over there.",
+        "key_vocabulary": ["Can I try... on?", "Of course", "changing rooms", "over there"]
+      }
+    ],
+    "oral": [
+      {
+        "id": "o1",
+        "type": "read_aloud",
+        "instruction": "Read this shopping dialogue aloud. Use a polite, friendly tone.",
+        "text": "Lucy: Can I try this on, please?\nShop assistant: Of course! The changing rooms are over there.\nLucy: It's too big. Do you have it in a smaller size?\nShop assistant: I'm sorry, we don't have a smaller size in blue.",
+        "focus": "Use rising intonation for questions and a polite, friendly tone throughout. Practise 'Can I try this on?'",
+        "phonetic_tips": ["trousers: /ˈtraʊzərz/", "shirt: /ʃɜːrt/", "size: /saɪz/"]
+      },
+      {
+        "id": "o2",
+        "type": "answer_question",
+        "question": "You are in a clothes shop. Ask for a shirt in your size, try it on, and say if it fits or not.",
+        "suggested_answer": "Hello, I'm looking for a shirt. Do you have this shirt in a medium? Can I try it on, please? It fits perfectly! How much is it?",
+        "vocabulary_hints": ["I'm looking for...", "Do you have it in...?", "Can I try it on?", "It's too big/small", "It fits"],
+        "duration_seconds": 40
+      },
+      {
+        "id": "o3",
+        "type": "answer_question",
+        "question": "What clothes are you wearing today? Describe them using colours and sizes.",
+        "suggested_answer": "Today I am wearing a blue shirt and black trousers. My shirt is a medium size. I am also wearing white shoes. I like comfortable clothes.",
+        "vocabulary_hints": ["I am wearing...", "shirt", "trousers", "dress", "small/medium/large"],
+        "duration_seconds": 30
+      }
+    ]
+  }
+}

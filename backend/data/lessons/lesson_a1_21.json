@@ -1,0 +1,270 @@
+{
+  "id": "a1_21",
+  "unit": 8,
+  "unit_title": "Getting Confident",
+  "title": "A Day at the Zoo",
+  "level": "A1",
+  "type": "story",
+  "theme": "Animals & Comparatives",
+  "reading_time": "3 min",
+  "content": {
+    "paragraphs": [
+      {
+        "en": "Yesterday, our class went to the zoo. It was a sunny day and we were all very excited. The teacher said we could take notes about the animals.",
+        "fr": "Hier, notre classe est allee au zoo. C'etait une journee ensoleillee et nous etions tous tres enthousiastes. La maitresse a dit que nous pouvions prendre des notes sur les animaux."
+      },
+      {
+        "en": "First, we saw the elephants. They were the biggest animals in the zoo! The baby elephant was smaller than its mother, but it was still very big. It was playing with water.",
+        "fr": "D'abord, nous avons vu les elephants. C'etaient les plus gros animaux du zoo ! Le bebe elephant etait plus petit que sa mere, mais il etait quand meme tres gros. Il jouait avec de l'eau."
+      },
+      {
+        "en": "Then, we visited the monkeys. They were faster than the elephants and very funny. One monkey was eating a banana and another was climbing a tree. Everyone laughed.",
+        "fr": "Ensuite, nous avons rendu visite aux singes. Ils etaient plus rapides que les elephants et tres droles. Un singe mangeait une banane et un autre grimpait a un arbre. Tout le monde a ri."
+      },
+      {
+        "en": "The giraffes were the tallest animals. They were taller than the trees! My friend said that the giraffe was the most beautiful animal in the zoo. I thought the penguins were more interesting.",
+        "fr": "Les girafes etaient les animaux les plus grands. Elles etaient plus grandes que les arbres ! Mon ami a dit que la girafe etait le plus bel animal du zoo. Moi, je trouvais que les manchots etaient plus interessants."
+      },
+      {
+        "en": "The penguins were my favourite. They were smaller than all the other animals but they were so funny! They walked in a funny way and swam very fast. Look at that — a penguin is faster in water than on land!",
+        "fr": "Les manchots etaient mes preferes. Ils etaient plus petits que tous les autres animaux mais ils etaient tellement droles ! Ils marchaient d'une facon amusante et nageaient tres vite. Regardez ca — un manchot est plus rapide dans l'eau que sur terre !"
+      },
+      {
+        "en": "At the end of the day, the teacher asked us: 'Which animal did you like the most?' I said the penguin was the best. It was the most exciting day of the year!",
+        "fr": "A la fin de la journee, la maitresse nous a demande : 'Quel animal avez-vous prefere ?' J'ai dit que le manchot etait le meilleur. C'etait la journee la plus passionnante de l'annee !"
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "elephant",
+        "phonetic": "/ˈɛlɪfənt/",
+        "type": "noun",
+        "definition_en": "un tres grand animal gris avec un long nez appele une trompe",
+        "definition_fr": "elephant",
+        "example": "The elephant was the biggest animal in the zoo.",
+        "level": "A1"
+      },
+      {
+        "word": "monkey",
+        "phonetic": "/ˈmʌŋki/",
+        "type": "noun",
+        "definition_en": "un petit animal avec une longue queue qui vit dans les arbres",
+        "definition_fr": "singe",
+        "example": "The monkey was climbing a tree.",
+        "level": "A1"
+      },
+      {
+        "word": "giraffe",
+        "phonetic": "/dʒɪˈrɑːf/",
+        "type": "noun",
+        "definition_en": "un animal africain tres grand avec un long cou et des taches",
+        "definition_fr": "girafe",
+        "example": "The giraffe was taller than the tree!",
+        "level": "A1"
+      },
+      {
+        "word": "penguin",
+        "phonetic": "/ˈpɛŋɡwɪn/",
+        "type": "noun",
+        "definition_en": "un oiseau noir et blanc qui ne peut pas voler mais qui nage tres bien",
+        "definition_fr": "manchot, pingouin",
+        "example": "The penguins walked in a funny way.",
+        "level": "A1"
+      },
+      {
+        "word": "bigger",
+        "phonetic": "/ˈbɪɡər/",
+        "type": "adjective (comparative)",
+        "definition_en": "forme comparative de 'big' — plus grand en taille",
+        "definition_fr": "plus gros / plus grand",
+        "example": "The elephant is bigger than the monkey.",
+        "level": "A1"
+      },
+      {
+        "word": "smaller",
+        "phonetic": "/ˈsmɔːlər/",
+        "type": "adjective (comparative)",
+        "definition_en": "forme comparative de 'small' — plus petit en taille",
+        "definition_fr": "plus petit",
+        "example": "The baby elephant was smaller than its mother.",
+        "level": "A1"
+      },
+      {
+        "word": "faster",
+        "phonetic": "/ˈfæstər/",
+        "type": "adjective (comparative)",
+        "definition_en": "forme comparative de 'fast' — plus rapide en vitesse",
+        "definition_fr": "plus rapide",
+        "example": "The monkey was faster than the elephant.",
+        "level": "A1"
+      },
+      {
+        "word": "taller",
+        "phonetic": "/ˈtɔːlər/",
+        "type": "adjective (comparative)",
+        "definition_en": "forme comparative de 'tall' — plus grand en hauteur",
+        "definition_fr": "plus grand (en taille)",
+        "example": "The giraffe was taller than the trees.",
+        "level": "A1"
+      },
+      {
+        "word": "wild",
+        "phonetic": "/waɪld/",
+        "type": "adjective",
+        "definition_en": "qui vit dans la nature, pas garde par les gens",
+        "definition_fr": "sauvage",
+        "example": "In the wild, elephants live in Africa and Asia.",
+        "level": "A1"
+      }
+    ],
+    "grammar_points": [
+      {
+        "title": "Comparatives: -er than / more ... than",
+        "explanation": "Pour comparer deux choses en anglais : pour les **adjectifs courts** (1 syllabe, ou 2 syllabes finissant par -y), on ajoute **-er + than**. Pour les **adjectifs plus longs** (2+ syllabes), on utilise **more + adjectif + than**. On double la consonne finale si l'adjectif se termine par une voyelle + une consonne (big → bigger).",
+        "examples": [
+          "The elephant is bigger than the monkey. = L'elephant est plus gros que le singe.",
+          "The giraffe is taller than the tree. = La girafe est plus grande que l'arbre.",
+          "The monkey is faster than the elephant. = Le singe est plus rapide que l'elephant.",
+          "The penguin is more interesting than the giraffe. = Le manchot est plus interessant que la girafe."
+        ]
+      },
+      {
+        "title": "Superlatives: the -est / the most",
+        "explanation": "Pour dire que quelque chose est le numero un d'un groupe, on utilise **the + adjectif-est** (adjectifs courts) ou **the most + adjectif** (adjectifs longs). Cela correspond a 'le/la plus...' en francais.",
+        "examples": [
+          "The elephant was the biggest animal. = L'elephant etait le plus gros animal.",
+          "The giraffe was the tallest animal. = La girafe etait le plus grand animal.",
+          "It was the most exciting day! = C'etait la journee la plus passionnante !",
+          "The penguin was the best. (good → the best) = Le manchot etait le meilleur."
+        ]
+      }
+    ],
+    "expressions": [
+      {
+        "expression": "It's bigger than...",
+        "meaning_fr": "C'est plus gros/grand que...",
+        "example": "The elephant is bigger than the monkey.",
+        "register": "neutral",
+        "note": "La structure de base pour comparer deux choses. On change l'adjectif pour comparer differentes qualites."
+      },
+      {
+        "expression": "The most interesting...",
+        "meaning_fr": "Le/la plus interessant(e)...",
+        "example": "I think penguins are the most interesting animals.",
+        "register": "neutral",
+        "note": "On utilise 'the most' avec les adjectifs longs pour former le superlatif."
+      },
+      {
+        "expression": "Look at that!",
+        "meaning_fr": "Regarde ca !",
+        "example": "Look at that! The monkey is climbing the tree!",
+        "register": "informal",
+        "note": "S'utilise pour attirer l'attention de quelqu'un sur quelque chose de surprenant ou d'interessant."
+      }
+    ]
+  },
+  "exercises": {
+    "written": [
+      {
+        "id": "w1",
+        "type": "multiple_choice",
+        "question": "Which animal was the tallest in the zoo?",
+        "options": [
+          "The elephant",
+          "The monkey",
+          "The giraffe",
+          "The penguin"
+        ],
+        "answer": 2,
+        "explanation": "The story says 'The giraffes were the tallest animals.'"
+      },
+      {
+        "id": "w2",
+        "type": "multiple_choice",
+        "question": "Which is the correct comparative form?",
+        "options": [
+          "The elephant is more big than the monkey.",
+          "The elephant is bigger than the monkey.",
+          "The elephant is most big than the monkey.",
+          "The elephant is biger than the monkey."
+        ],
+        "answer": 1,
+        "explanation": "'Big' is a short adjective. We double the consonant and add -er: bigger. NOT 'more big'."
+      },
+      {
+        "id": "w3",
+        "type": "multiple_choice",
+        "question": "How do you say 'le plus bel animal' in English?",
+        "options": [
+          "The beautifulest animal",
+          "The most beautiful animal",
+          "The more beautiful animal",
+          "The beautifuller animal"
+        ],
+        "answer": 1,
+        "explanation": "'Beautiful' is a long adjective (3 syllables), so we use 'the most beautiful'."
+      },
+      {
+        "id": "w4",
+        "type": "fill_blank",
+        "sentence": "The giraffe is ________ (tall) than the elephant.",
+        "answer": "taller",
+        "hint": "Short adjective: add -er."
+      },
+      {
+        "id": "w5",
+        "type": "fill_blank",
+        "sentence": "The penguin is ________ (small) than the monkey.",
+        "answer": "smaller",
+        "hint": "Short adjective: add -er."
+      },
+      {
+        "id": "w6",
+        "type": "fill_blank",
+        "sentence": "The elephant was ________ (big) animal in the zoo.",
+        "answer": "the biggest",
+        "hint": "Superlative: the + adjective-est. Don't forget to double the 'g'!"
+      },
+      {
+        "id": "w7",
+        "type": "translation",
+        "french": "Le singe est plus rapide que l'elephant.",
+        "suggested_answer": "The monkey is faster than the elephant.",
+        "key_vocabulary": ["faster", "than"]
+      },
+      {
+        "id": "w8",
+        "type": "translation",
+        "french": "C'etait la journee la plus passionnante de l'annee !",
+        "suggested_answer": "It was the most exciting day of the year!",
+        "key_vocabulary": ["the most exciting", "of the year"]
+      }
+    ],
+    "oral": [
+      {
+        "id": "o1",
+        "type": "read_aloud",
+        "instruction": "Read these sentences aloud. Pay attention to the comparative and superlative forms.",
+        "text": "The elephant was the biggest animal in the zoo. The giraffe was taller than the trees. The monkeys were faster than the elephants. The penguin was the most interesting animal.",
+        "focus": "Stress the comparative words: BIGgest, TALLer, FASTer, MOST interesting.",
+        "phonetic_tips": ["bigger: /ˈbɪɡər/", "tallest: /ˈtɔːlɪst/", "interesting: /ˈɪntrəstɪŋ/"]
+      },
+      {
+        "id": "o2",
+        "type": "answer_question",
+        "question": "Compare two animals you know. Which one is bigger? Which one is faster? Which is your favourite?",
+        "suggested_answer": "A dog is smaller than a horse, but a dog is faster than a cat. I think dogs are the most friendly animals. My favourite animal is the dog because it is the best friend of people.",
+        "vocabulary_hints": ["...is bigger than...", "...is faster than...", "the most...", "my favourite is..."],
+        "duration_seconds": 45
+      },
+      {
+        "id": "o3",
+        "type": "answer_question",
+        "question": "What is the biggest animal in the world? What is the smallest?",
+        "suggested_answer": "The biggest animal in the world is the blue whale. It is bigger than an elephant! The smallest animal is very difficult to say, but ants are very small. An ant is smaller than a finger!",
+        "vocabulary_hints": ["the biggest", "the smallest", "bigger than", "smaller than"],
+        "duration_seconds": 45
+      }
+    ]
+  }
+}

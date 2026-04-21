@@ -1,0 +1,262 @@
+{
+  "id": "a1_23",
+  "unit": 8,
+  "unit_title": "Getting Confident",
+  "title": "My Favourite Film",
+  "level": "A1",
+  "type": "story",
+  "theme": "Entertainment & Opinions",
+  "reading_time": "3 min",
+  "content": {
+    "paragraphs": [
+      {
+        "en": "My favourite film is 'Finding Nemo'. I think it is the best animated film ever! I watched it for the first time when I was five years old, and I still love it today.",
+        "fr": "Mon film prefere, c'est 'Le Monde de Nemo'. Je pense que c'est le meilleur film d'animation de tous les temps ! Je l'ai regarde pour la premiere fois quand j'avais cinq ans, et je l'adore encore aujourd'hui."
+      },
+      {
+        "en": "The film is about a little fish called Nemo. One day, Nemo gets lost in the big ocean. His father, Marlin, is very worried and goes on a long journey to find him.",
+        "fr": "Le film parle d'un petit poisson qui s'appelle Nemo. Un jour, Nemo se perd dans le grand ocean. Son pere, Marlin, est tres inquiet et part pour un long voyage pour le retrouver."
+      },
+      {
+        "en": "I think the film is very funny because there is a fish called Dory who forgets everything. She is my favourite character. In my opinion, she is the funniest character in the film.",
+        "fr": "Je trouve que le film est tres drole parce qu'il y a un poisson qui s'appelle Dory et qui oublie tout. C'est mon personnage prefere. A mon avis, c'est le personnage le plus drole du film."
+      },
+      {
+        "en": "Some scenes are a little scary, especially when the sharks appear. But the film is not really scary because it is for children. I prefer funny films to scary films.",
+        "fr": "Certaines scenes font un peu peur, surtout quand les requins apparaissent. Mais le film ne fait pas vraiment peur parce que c'est pour les enfants. Je prefere les films droles aux films qui font peur."
+      },
+      {
+        "en": "The film is not boring at all. It is exciting from the beginning to the end. I recommend it to everyone because it teaches us about family, courage and friendship.",
+        "fr": "Le film n'est pas du tout ennuyeux. Il est passionnant du debut a la fin. Je le recommande a tout le monde parce qu'il nous apprend des choses sur la famille, le courage et l'amitie."
+      },
+      {
+        "en": "I watched the film again last weekend with my little brother. He loved it too! I think everyone should watch this film at least once.",
+        "fr": "J'ai regarde le film encore une fois le week-end dernier avec mon petit frere. Il a adore aussi ! Je pense que tout le monde devrait regarder ce film au moins une fois."
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "film",
+        "phonetic": "/fɪlm/",
+        "type": "noun",
+        "definition_en": "une histoire montree en images animees, regardee au cinema ou sur un ecran",
+        "definition_fr": "film",
+        "example": "We watched a film at the cinema last night.",
+        "level": "A1"
+      },
+      {
+        "word": "actor",
+        "phonetic": "/ˈæktər/",
+        "type": "noun",
+        "definition_en": "une personne qui joue dans des films, des pieces de theatre ou a la television",
+        "definition_fr": "acteur / actrice",
+        "example": "Who is your favourite actor?",
+        "level": "A1"
+      },
+      {
+        "word": "scene",
+        "phonetic": "/siːn/",
+        "type": "noun",
+        "definition_en": "une partie d'un film ou d'une piece de theatre",
+        "definition_fr": "scene",
+        "example": "The funniest scene is when Dory speaks to the whale.",
+        "level": "A1"
+      },
+      {
+        "word": "funny",
+        "phonetic": "/ˈfʌni/",
+        "type": "adjective",
+        "definition_en": "qui fait rire",
+        "definition_fr": "drole, amusant(e)",
+        "example": "The film is very funny — I laughed a lot!",
+        "level": "A1"
+      },
+      {
+        "word": "scary",
+        "phonetic": "/ˈskɛri/",
+        "type": "adjective",
+        "definition_en": "qui fait peur",
+        "definition_fr": "effrayant(e), qui fait peur",
+        "example": "The scene with the sharks is a little scary.",
+        "level": "A1"
+      },
+      {
+        "word": "boring",
+        "phonetic": "/ˈbɔːrɪŋ/",
+        "type": "adjective",
+        "definition_en": "pas interessant ni passionnant",
+        "definition_fr": "ennuyeux / ennuyeuse",
+        "example": "The film was boring — nothing happened!",
+        "level": "A1"
+      },
+      {
+        "word": "exciting",
+        "phonetic": "/ɪkˈsaɪtɪŋ/",
+        "type": "adjective",
+        "definition_en": "qui rend tres interesse et enthousiaste",
+        "definition_fr": "passionnant(e), palpitant(e)",
+        "example": "The film was exciting from the beginning to the end.",
+        "level": "A1"
+      },
+      {
+        "word": "to prefer",
+        "phonetic": "/prɪˈfɜːr/",
+        "type": "verb",
+        "definition_en": "aimer une chose plus qu'une autre",
+        "definition_fr": "preferer",
+        "example": "I prefer funny films to scary films.",
+        "level": "A1"
+      },
+      {
+        "word": "to recommend",
+        "phonetic": "/ˌrɛkəˈmɛnd/",
+        "type": "verb",
+        "definition_en": "suggerer quelque chose a quelqu'un parce qu'on pense que c'est bien",
+        "definition_fr": "recommander",
+        "example": "I recommend this film — it is really good!",
+        "level": "A1"
+      }
+    ],
+    "grammar_points": [
+      {
+        "title": "Giving opinions: 'I think...', 'In my opinion...'",
+        "explanation": "Pour partager votre opinion en anglais, vous pouvez dire **'I think (that)...'** ou **'In my opinion...'**. Ce sont des facons polies d'exprimer ce que vous pensez. 'I think' est plus courant dans le langage de tous les jours.",
+        "examples": [
+          "I think it is a great film. = Je pense que c'est un super film.",
+          "In my opinion, Dory is the funniest character. = A mon avis, Dory est le personnage le plus drole.",
+          "I think everyone should watch it. = Je pense que tout le monde devrait le regarder.",
+          "I don't think it is boring. = Je ne pense pas que ce soit ennuyeux."
+        ]
+      },
+      {
+        "title": "Using 'because' to give reasons",
+        "explanation": "**'Because'** (parce que) relie une affirmation a une raison. Cela repond a la question 'Why?'. La raison vient apres 'because'.",
+        "examples": [
+          "I like this film because it is funny. = J'aime ce film parce qu'il est drole.",
+          "I recommend it because it teaches about friendship. = Je le recommande parce qu'il apprend l'amitie.",
+          "The scene is scary because of the sharks. = La scene est effrayante a cause des requins.",
+          "Why do you like it? — Because it is exciting! = Pourquoi tu l'aimes ? — Parce que c'est passionnant !"
+        ]
+      }
+    ],
+    "expressions": [
+      {
+        "expression": "My favourite film is...",
+        "meaning_fr": "Mon film prefere, c'est...",
+        "example": "My favourite film is 'Finding Nemo'.",
+        "register": "neutral",
+        "note": "La facon standard de parler de ce que l'on prefere. On peut remplacer 'film' par 'book', 'song', 'food', etc."
+      },
+      {
+        "expression": "I think it's...",
+        "meaning_fr": "Je pense que c'est... / Je trouve que c'est...",
+        "example": "I think it's the best animated film ever!",
+        "register": "neutral",
+        "note": "Une facon simple et polie de donner son avis sur quelque chose."
+      },
+      {
+        "expression": "I recommend it",
+        "meaning_fr": "Je le recommande",
+        "example": "The film is great — I recommend it to everyone!",
+        "register": "neutral",
+        "note": "S'utilise quand on veut suggerer quelque chose de bien a d'autres personnes."
+      }
+    ]
+  },
+  "exercises": {
+    "written": [
+      {
+        "id": "w1",
+        "type": "multiple_choice",
+        "question": "Why does the narrator like the film?",
+        "options": [
+          "Because it is very scary",
+          "Because it is funny and teaches about family",
+          "Because the actors are famous",
+          "Because it is very long"
+        ],
+        "answer": 1,
+        "explanation": "The narrator says the film is funny and 'teaches us about family, courage and friendship.'"
+      },
+      {
+        "id": "w2",
+        "type": "multiple_choice",
+        "question": "Which sentence correctly gives an opinion?",
+        "options": [
+          "I think is a good film.",
+          "I think it is a good film.",
+          "I think it a good film.",
+          "I think it are a good film."
+        ],
+        "answer": 1,
+        "explanation": "The correct structure is: I think + subject + verb: 'I think it is a good film.'"
+      },
+      {
+        "id": "w3",
+        "type": "multiple_choice",
+        "question": "What does 'I recommend it' mean?",
+        "options": [
+          "I don't like it",
+          "I suggest you should watch/try it",
+          "I remember it",
+          "I want to watch it again"
+        ],
+        "answer": 1,
+        "explanation": "'Recommend' means to suggest something because you think it is good."
+      },
+      {
+        "id": "w4",
+        "type": "fill_blank",
+        "sentence": "I like this film ________ it is very funny.",
+        "answer": "because",
+        "hint": "Use the word that gives a reason (parce que)."
+      },
+      {
+        "id": "w5",
+        "type": "fill_blank",
+        "sentence": "________ my opinion, it is the best film ever.",
+        "answer": "In",
+        "hint": "Complete the expression: '__ my opinion' (a mon avis)."
+      },
+      {
+        "id": "w6",
+        "type": "fill_blank",
+        "sentence": "I ________ funny films to scary films.",
+        "answer": "prefer",
+        "hint": "The verb that means 'aimer mieux' or 'preferer'."
+      },
+      {
+        "id": "w7",
+        "type": "translation",
+        "french": "Je pense que c'est un film tres drole. Je le recommande !",
+        "suggested_answer": "I think it is a very funny film. I recommend it!",
+        "key_vocabulary": ["I think", "funny", "I recommend"]
+      },
+      {
+        "id": "w8",
+        "type": "translation",
+        "french": "Je prefere les films droles parce qu'ils me font rire.",
+        "suggested_answer": "I prefer funny films because they make me laugh.",
+        "key_vocabulary": ["prefer", "funny", "because", "make me laugh"]
+      }
+    ],
+    "oral": [
+      {
+        "id": "o1",
+        "type": "read_aloud",
+        "instruction": "Read this passage aloud. Express your opinions with natural intonation.",
+        "text": "My favourite film is 'Finding Nemo'. I think it is very funny because there is a fish called Dory who forgets everything. In my opinion, it is the best animated film. I recommend it to everyone!",
+        "focus": "Stress the opinion words: 'I THINK', 'in my OPINION', 'I RECOMMEND'. Show enthusiasm when you say 'the BEST'.",
+        "phonetic_tips": ["favourite: /ˈfeɪvərɪt/", "opinion: /əˈpɪnjən/", "recommend: /ˌrɛkəˈmɛnd/"]
+      },
+      {
+        "id": "o2",
+        "type": "answer_question",
+        "question": "What is your favourite film? Why do you like it? Do you recommend it?",
+        "suggested_answer": "My favourite film is 'Toy Story'. I think it is very funny and exciting. I like it because the characters are interesting. In my opinion, it is a great film for everyone. I recommend it because it makes you laugh and cry!",
+        "vocabulary_hints": ["My favourite film is...", "I think it is...", "I like it because...", "I recommend it"],
+        "duration_seconds": 60
+      }
+    ]
+  }
+}

@@ -1,0 +1,310 @@
+{
+  "id": "30",
+  "unit": 4,
+  "unit_title": "Advanced Discourse & Argumentation",
+  "title": "The Right to Die",
+  "level": "C1",
+  "type": "dialogue",
+  "theme": "Medical Ethics, Autonomy & End of Life",
+  "reading_time": "6 min",
+  "content": {
+    "speakers": ["Interviewer", "Dr Helena Vance (Palliative Care Physician)", "Professor James Adeyemi (Medical Ethicist)"],
+    "paragraphs": [
+      {
+        "speaker": "Interviewer",
+        "en": "Assisted dying is legal in several jurisdictions and is being debated in many more. Dr Vance, you work with dying patients every day. What's your position?",
+        "fr": "L'aide à mourir est légale dans plusieurs juridictions et est débattue dans beaucoup d'autres. Docteure Vance, vous travaillez avec des patients mourants chaque jour. Quelle est votre position ?"
+      },
+      {
+        "speaker": "Dr Helena Vance",
+        "en": "I hold the position cautiously and with awareness of my own potential blind spots. I am broadly supportive of assisted dying legislation — with robust safeguards — because I have sat at bedsides where the suffering was prolonged in ways that served no therapeutic purpose, and where the patient's clearly expressed wish was for it to end. The principle of patient autonomy that underlies modern medicine is, in my view, incomplete if it doesn't extend to the end of life.",
+        "fr": "Je tiens cette position prudemment et en consciente de mes propres angles morts potentiels. Je suis globalement favorable à la législation sur l'aide à mourir — avec des garanties solides — parce que je me suis assise à des chevets où la souffrance était prolongée d'une façon qui ne servait aucun but thérapeutique, et où le souhait clairement exprimé du patient était que cela se termine. Le principe d'autonomie du patient qui sous-tend la médecine moderne est, à mon avis, incomplet s'il ne s'étend pas jusqu'à la fin de la vie."
+      },
+      {
+        "speaker": "Professor James Adeyemi",
+        "en": "I want to engage seriously with that position rather than simply repeat the standard religious objections, which I find less compelling. My concern is more structural. Every assisted dying regime that has been studied closely has shown evidence of what we call 'extension creep' — a gradual broadening of the criteria over time, whether through judicial interpretation or legislative amendment. What starts as a provision for terminally ill adults in unbearable physical pain has, in several jurisdictions, extended to include psychological suffering, non-terminal conditions, and in some cases, the elderly who describe themselves as 'tired of life'.",
+        "fr": "Je veux m'engager sérieusement avec cette position plutôt que de simplement répéter les objections religieuses standard, que je trouve moins convaincantes. Ma préoccupation est plus structurelle. Tout régime d'aide à mourir qui a été étudié de près a montré des preuves de ce que nous appelons « extension rampante » — un élargissement progressif des critères au fil du temps, que ce soit par interprétation judiciaire ou amendement législatif. Ce qui commence comme une disposition pour les adultes en phase terminale souffrant d'une douleur physique insupportable s'est, dans plusieurs juridictions, étendu pour inclure la souffrance psychologique, les conditions non terminales et dans certains cas, les personnes âgées qui se décrivent comme « fatiguées de vivre »."
+      },
+      {
+        "speaker": "Dr Helena Vance",
+        "en": "The 'extension creep' concern is real, and I don't dismiss it. But I'd argue the logic runs in both directions. The fact that a principle can be extended doesn't mean it shouldn't be applied in the clear cases where it plainly applies. The question is whether adequate safeguards can be designed to prevent inappropriate extension — and the evidence from jurisdictions that have managed this carefully is that they can.",
+        "fr": "La préoccupation d'« extension rampante » est réelle, et je ne la rejette pas. Mais j'avancerais que la logique va dans les deux sens. Le fait qu'un principe puisse être étendu ne signifie pas qu'il ne devrait pas être appliqué dans les cas clairs où il s'applique manifestement. La question est de savoir si des garanties adéquates peuvent être conçues pour empêcher une extension inappropriée — et les preuves des juridictions qui ont géré cela soigneusement montrent qu'elles peuvent."
+      },
+      {
+        "speaker": "Professor James Adeyemi",
+        "en": "I'm not convinced by the 'adequate safeguards' argument, because I think there is a deeper problem. The request to die is not produced in a vacuum. It is produced within a system of unequal care — where access to palliative services is not evenly distributed, where some patients lack family support, where some communities historically have very good reasons to distrust medical institutions. For someone in that position, is the request for assisted dying a genuine exercise of autonomy, or is it the rational response to inadequate alternatives?",
+        "fr": "Je ne suis pas convaincu par l'argument des « garanties adéquates », parce que je pense qu'il y a un problème plus profond. La demande de mourir n'est pas produite dans un vide. Elle est produite au sein d'un système de soins inégal — où l'accès aux services palliatifs n'est pas réparti équitablement, où certains patients manquent de soutien familial, où certaines communautés ont historiquement de très bonnes raisons de se méfier des institutions médicales. Pour quelqu'un dans cette position, la demande d'aide à mourir est-elle un véritable exercice de l'autonomie, ou est-elle la réponse rationnelle à des alternatives inadéquates ?"
+      },
+      {
+        "speaker": "Dr Helena Vance",
+        "en": "That argument proves too much. By that logic, we should never act on any expressed preference by a patient in an imperfect system, because we can always question whether the preference is genuinely autonomous. Every medical decision is made within conditions of inequality. The solution is to improve those conditions, not to deny autonomy to those who are already in them.",
+        "fr": "Cet argument prouve trop. Par cette logique, nous ne devrions jamais agir sur aucune préférence exprimée par un patient dans un système imparfait, parce que nous pouvons toujours remettre en question si la préférence est véritablement autonome. Chaque décision médicale est prise dans des conditions d'inégalité. La solution est d'améliorer ces conditions, pas de nier l'autonomie à ceux qui s'y trouvent déjà."
+      },
+      {
+        "speaker": "Professor James Adeyemi",
+        "en": "I think that's a fair challenge, and I want to be honest: I'm not certain of my own position here. This is one of those questions where I hold my views provisionally and with genuine uncertainty. What I am confident of is that the pace of legislative change has outrun the quality of our ethical reasoning — that we are making these decisions faster than we are thinking through their implications.",
+        "fr": "Je pense que c'est un défi juste, et je veux être honnête : je ne suis pas certain de ma propre position ici. C'est une de ces questions où je tiens mes vues provisoirement et avec une véritable incertitude. Ce dont je suis convaincu, c'est que le rythme des changements législatifs a dépassé la qualité de notre raisonnement éthique — que nous prenons ces décisions plus vite que nous ne réfléchissons à leurs implications."
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "palliative care",
+        "phonetic": "/ˈpæliətɪv keər/",
+        "type": "noun (medical)",
+        "definition_en": "Soins médicaux axés sur le soulagement de la douleur et l'amélioration de la qualité de vie des patients en phase terminale, plutôt que sur la guérison de la maladie",
+        "definition_fr": "soins palliatifs",
+        "example": "High-quality palliative care can often address the symptoms that drive requests for assisted dying.",
+        "level": "B2"
+      },
+      {
+        "word": "patient autonomy",
+        "phonetic": "/ˈpeɪʃnt ɔːˈtɒnəmi/",
+        "type": "noun (medical ethics)",
+        "definition_en": "Le principe selon lequel les patients ont le droit de prendre des décisions éclairées concernant leurs propres soins médicaux",
+        "definition_fr": "autonomie du patient",
+        "example": "Patient autonomy is a cornerstone of modern medical ethics.",
+        "level": "C1"
+      },
+      {
+        "word": "extension creep",
+        "phonetic": "/ɪkˈstenʃn kriːp/",
+        "type": "noun phrase (law/ethics)",
+        "definition_en": "L'élargissement progressif du champ d'application d'une loi ou d'une politique au-delà de son intention initiale",
+        "definition_fr": "élargissement progressif (des critères), glissement",
+        "example": "Extension creep in assisted dying legislation is documented across multiple jurisdictions.",
+        "level": "C1"
+      },
+      {
+        "word": "safeguards",
+        "phonetic": "/ˈseɪfɡɑːrdz/",
+        "type": "noun (plural)",
+        "definition_en": "Protections juridiques ou procédurales conçues pour empêcher les abus d'un système",
+        "definition_fr": "garanties, protections",
+        "example": "Robust safeguards are essential in any assisted dying framework.",
+        "level": "B2"
+      },
+      {
+        "word": "terminally ill",
+        "phonetic": "/ˈtɜːrmɪnəli ɪl/",
+        "type": "adjective phrase",
+        "definition_en": "Atteint d'une maladie ou d'un état qui ne peut être guéri et qui causera éventuellement la mort",
+        "definition_fr": "en phase terminale",
+        "example": "Most assisted dying laws are initially limited to terminally ill adults.",
+        "level": "B2"
+      },
+      {
+        "word": "provisionally",
+        "phonetic": "/prəˈvɪʒənəli/",
+        "type": "adverb",
+        "definition_en": "Temporairement, sous réserve de révision ; pas définitivement établi",
+        "definition_fr": "provisoirement, à titre provisoire",
+        "example": "I hold this view provisionally — the evidence may change my mind.",
+        "level": "C1"
+      },
+      {
+        "word": "blind spot",
+        "phonetic": "/ˈblaɪnd spɒt/",
+        "type": "noun",
+        "definition_en": "Un domaine où le jugement est faillible ou où l'on ne parvient pas à voir quelque chose d'important",
+        "definition_fr": "angle mort (figuré), point aveugle",
+        "example": "Working closely with dying patients may create blind spots about the value of extending life.",
+        "level": "B2"
+      },
+      {
+        "word": "unbearable",
+        "phonetic": "/ʌnˈbeərəbl/",
+        "type": "adjective",
+        "definition_en": "Trop extrême pour être toléré",
+        "definition_fr": "insupportable, intolérable",
+        "example": "The legislation requires that suffering be described as unbearable, which is itself difficult to define.",
+        "level": "B2"
+      },
+      {
+        "word": "to prove too much",
+        "phonetic": "/pruːv tuː mʌtʃ/",
+        "type": "verb phrase (logic/debate)",
+        "definition_en": "Formuler un argument si large ou si fort qu'il invalide aussi des positions que l'auteur de l'argument veut défendre",
+        "definition_fr": "prouver trop, aller trop loin dans la démonstration",
+        "example": "The argument that we can't trust any preferences expressed under imperfect conditions proves too much.",
+        "level": "C1"
+      },
+      {
+        "word": "to outrun",
+        "phonetic": "/ˌaʊtˈrʌn/",
+        "type": "verb",
+        "definition_en": "Aller plus vite ou plus loin que quelque chose d'autre ; dépasser",
+        "definition_fr": "dépasser, aller plus vite que",
+        "example": "Technological change has outrun our ethical frameworks for regulating it.",
+        "level": "B2"
+      }
+    ],
+    "grammar_points": [
+      {
+        "title": "'That argument proves too much' — identifying the overreach in an opponent's logic",
+        "explanation": "Dire qu'un argument 'proves too much' signifie qu'il est si large qu'il interdirait ou invaliderait aussi des choses que l'auteur de l'argument ne veut clairement pas interdire. C'est un outil logique de précision.",
+        "examples": [
+          "'**That argument proves too much.** By that logic, we should never act on any patient preference.'",
+          "'**That proves too much** — it would also rule out X, which we clearly want to permit.'",
+          "'**If that argument were valid**, it would imply Y, which nobody believes.'",
+          "This is one of the most elegant moves in philosophical debate."
+        ]
+      },
+      {
+        "title": "'I hold this view provisionally' — intellectual honesty formulas at C1",
+        "explanation": "Au plus haut niveau d'argumentation, **admettre l'incertitude** est un signe de force, pas de faiblesse. Les expressions qui signalent une croyance provisoire sont essentielles pour un discours honnête et crédible.",
+        "examples": [
+          "'I hold my views **provisionally** and with genuine uncertainty.'",
+          "'This is one of those questions where **I am not certain** of my own position.'",
+          "'I find the argument compelling, **though I am open to persuasion**.'",
+          "'**I want to be honest**: I don't think I fully understand this yet.'",
+          "These phrases make your positions more credible, not less."
+        ]
+      },
+      {
+        "title": "Concessive 'even' for extreme cases: 'even the elderly who describe themselves as tired of life'",
+        "explanation": "Utiliser **'even'** avant un cas extrême ou surprenant signale que la situation est allée plus loin que prévu. C'est utilisé pour rendre l'ampleur d'une évolution frappante.",
+        "examples": [
+          "'**Even** the elderly who describe themselves as 'tired of life'.'",
+          "'The criteria have expanded to include **even** non-terminal conditions.'",
+          "'**Even** patients with no immediate medical need.'",
+          "Tip: 'even' here does not judge — it signals scale, leaving the judgement to the reader."
+        ]
+      }
+    ],
+    "expressions": [
+      {
+        "expression": "with awareness of one's blind spots",
+        "meaning_fr": "en consciente de ses angles morts",
+        "example": "I hold this position cautiously and with awareness of my own potential blind spots.",
+        "register": "reflective / formal",
+        "note": "Signale l'honnêteté intellectuelle — reconnaître que son expérience professionnelle peut biaiser son jugement."
+      },
+      {
+        "expression": "the logic runs in both directions",
+        "meaning_fr": "la logique va dans les deux sens",
+        "example": "The extension creep concern is real, but the logic runs in both directions.",
+        "register": "formal / analytical",
+        "note": "Utilisé pour montrer que si un argument peut être étendu dans un sens, le principe opposé peut être étendu de la même manière — rendant l'argument moins décisif."
+      },
+      {
+        "expression": "produced in a vacuum",
+        "meaning_fr": "produit dans un vide, sans contexte",
+        "example": "The request to die is not produced in a vacuum — it is produced within a system of unequal care.",
+        "register": "analytical / formal",
+        "note": "Utilisé pour insister sur le fait qu'un choix ou une décision a un contexte qui affecte sa signification et sa validité. 'No policy is made in a vacuum.'"
+      },
+      {
+        "expression": "the pace of change has outrun the quality of reasoning",
+        "meaning_fr": "le rythme du changement a dépassé la qualité de la réflexion",
+        "example": "We are making these decisions faster than we are thinking through their implications.",
+        "register": "formal / critical",
+        "note": "Une critique réfléchie des mouvements de réforme qui privilégient la rapidité au détriment de la délibération."
+      },
+      {
+        "expression": "to deny autonomy",
+        "meaning_fr": "nier l'autonomie, refuser le droit à l'autodétermination",
+        "example": "The solution is to improve conditions, not to deny autonomy to those already in them.",
+        "register": "formal / ethical",
+        "note": "Concept central en éthique médicale et en philosophie des droits. 'Deny autonomy' = traiter quelqu'un comme incapable de prendre des décisions valides pour lui-même."
+      }
+    ]
+  },
+  "exercises": {
+    "written": [
+      {
+        "id": "w1",
+        "type": "multiple_choice",
+        "question": "What is Professor Adeyemi's 'structural concern' about assisted dying?",
+        "options": [
+          "It conflicts with religious principles about the sanctity of life.",
+          "Criteria for eligibility consistently expand over time beyond original intent.",
+          "Doctors cannot be trusted to implement it fairly.",
+          "The cost to the healthcare system is too high."
+        ],
+        "answer": 1,
+        "explanation": "'Extension creep — a gradual broadening of the criteria over time... What starts as a provision for terminally ill adults... has extended to include psychological suffering, non-terminal conditions, and the elderly who describe themselves as tired of life.'"
+      },
+      {
+        "id": "w2",
+        "type": "multiple_choice",
+        "question": "What does Dr Vance mean when she says Adeyemi's argument 'proves too much'?",
+        "options": [
+          "His evidence is too strong to be challenged.",
+          "His argument is so broad it would also invalidate decisions made in all imperfect systems, which is unacceptable.",
+          "He has provided more examples than necessary.",
+          "He has misunderstood the legal definition of autonomy."
+        ],
+        "answer": 1,
+        "explanation": "'By that logic, we should never act on any expressed preference by a patient in an imperfect system, because we can always question whether the preference is genuinely autonomous' — which is an absurd conclusion."
+      },
+      {
+        "id": "w3",
+        "type": "fill_blank",
+        "sentence": "I ________ this view ________ — I am genuinely open to persuasion by better evidence.",
+        "answer": "hold / provisionally",
+        "hint": "An expression for a belief that is sincere but not final."
+      },
+      {
+        "id": "w4",
+        "type": "fill_blank",
+        "sentence": "Technology has ________ our ethical frameworks for governing it.",
+        "answer": "outrun",
+        "hint": "A verb meaning 'to go faster or further than something else'."
+      },
+      {
+        "id": "w5",
+        "type": "fill_blank",
+        "sentence": "No medical decision is ________ ________ ________ — all are made within conditions of inequality.",
+        "answer": "made in a vacuum",
+        "hint": "An expression meaning 'without context or external pressures'."
+      },
+      {
+        "id": "w6",
+        "type": "translation",
+        "french": "Le principe d'autonomie du patient est incomplet s'il ne s'étend pas jusqu'aux décisions de fin de vie.",
+        "suggested_answer": "The principle of patient autonomy is incomplete if it doesn't extend to end-of-life decisions.",
+        "key_vocabulary": ["principle of patient autonomy", "incomplete if it doesn't extend to"]
+      },
+      {
+        "id": "w7",
+        "type": "translation",
+        "french": "La demande de mourir n'est pas produite dans un vide — elle est produite au sein d'un système de soins profondément inégal.",
+        "suggested_answer": "The request to die is not produced in a vacuum — it is produced within a profoundly unequal system of care.",
+        "key_vocabulary": ["not produced in a vacuum", "within a profoundly unequal system of care"]
+      },
+      {
+        "id": "w8",
+        "type": "translation",
+        "french": "C'est une de ces questions où je tiens mes positions provisoirement et avec une incertitude sincère.",
+        "suggested_answer": "This is one of those questions where I hold my positions provisionally and with genuine uncertainty.",
+        "key_vocabulary": ["one of those questions where", "provisionally", "genuine uncertainty"]
+      }
+    ],
+    "oral": [
+      {
+        "id": "o1",
+        "type": "read_aloud",
+        "instruction": "Read Professor Adeyemi's final admission of uncertainty. This is rare and powerful — a philosopher admitting he doesn't fully know. Deliver it with genuine thoughtfulness, not false modesty.",
+        "text": "I want to be honest: I'm not certain of my own position here. This is one of those questions where I hold my views provisionally and with genuine uncertainty. What I am confident of is that the pace of legislative change has outrun the quality of our ethical reasoning — that we are making these decisions faster than we are thinking through their implications.",
+        "focus": "The contrast between 'not certain of my own position' and 'what I am confident of' is the structural pivot. Give both equal weight.",
+        "phonetic_tips": ["provisionally: /prəˈvɪʒənəli/", "legislative: /ˈledʒɪslətɪv/", "implications: /ˌɪmplɪˈkeɪʃnz/"]
+      },
+      {
+        "id": "o2",
+        "type": "answer_question",
+        "question": "Should assisted dying be legal? What safeguards, if any, would make it acceptable to you?",
+        "suggested_answer": "My view is that it should be legal, but that the design of the legal framework matters enormously. The safeguards I'd consider essential: a confirmed terminal diagnosis with a limited life expectancy — I'd be cautious about extending to psychological suffering; multiple independent medical opinions; a mandatory waiting period to allow for reflection and to rule out that the request is driven by a treatable depression; and active monitoring for signs of extension creep, with automatic legislative review after five years. What I find unconvincing is the argument that we shouldn't legislate at all because the criteria are hard to define. That's true of many medical and legal frameworks we already accept. The question is whether we can design this one well enough, not whether perfection is achievable.",
+        "vocabulary_hints": ["the design matters enormously", "multiple independent medical opinions", "treatable depression", "extension creep", "perfection is achievable"],
+        "duration_seconds": 120
+      },
+      {
+        "id": "o3",
+        "type": "answer_question",
+        "question": "Is there a tension between respecting patient autonomy and protecting vulnerable people from choosing death under pressure? How would you resolve it?",
+        "suggested_answer": "Yes, there is a genuine tension, and I don't think it can be fully resolved — only managed. The autonomy principle is real and important: we accept that people can make life-threatening decisions in many other contexts — refusing treatment, extreme sports, unhealthy lifestyles. Rejecting a terminally ill person's clearly expressed and persistent wish to end their suffering on the grounds that they might be under pressure is a significant infringement of their self-determination. But the vulnerability concern is also real: we know that some people requesting death are responding to a lack of care, social isolation, or depression rather than an irreversible assessment of their situation. The way I'd manage this tension is through rigorous assessment focused not on what the person says but on whether the conditions that would make the request coerced — inadequate care, financial pressure, family burden — have been addressed.",
+        "vocabulary_hints": ["genuine tension, managed not resolved", "life-threatening decisions in other contexts", "infringement of self-determination", "rigorous assessment", "conditions that would make the request coerced"],
+        "duration_seconds": 120
+      }
+    ]
+  }
+}

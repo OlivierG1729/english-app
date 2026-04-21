@@ -1,0 +1,190 @@
+{
+  "id": "a1_06",
+  "unit": 6,
+  "unit_title": "First Steps",
+  "title": "What Time Is It?",
+  "level": "A1",
+  "type": "dialogue",
+  "theme": "Time & Daily Routine",
+  "reading_time": "2 min",
+  "content": {
+    "paragraphs": [
+      {
+        "en": "Mum, what time is it?",
+        "fr": "Maman, quelle heure est-il ?",
+        "speaker": "Ben"
+      },
+      {
+        "en": "It is seven o'clock. Time to get up! You have school this morning.",
+        "fr": "Il est sept heures. C'est l'heure de se lever ! Tu as ecole ce matin.",
+        "speaker": "Mum"
+      },
+      {
+        "en": "OK! I get up at seven. I eat breakfast at half past seven. Then I go to school.",
+        "fr": "D'accord ! Je me leve a sept heures. Je prends le petit-dejeuner a sept heures et demie. Puis je vais a l'ecole.",
+        "speaker": "Ben"
+      },
+      {
+        "en": "What time do you eat lunch?",
+        "fr": "A quelle heure manges-tu le dejeuner ?",
+        "speaker": "Mum"
+      },
+      {
+        "en": "I eat lunch at twelve o'clock. In the evening, I do my homework and I go to bed early.",
+        "fr": "Je mange le dejeuner a midi. Le soir, je fais mes devoirs et je me couche tot.",
+        "speaker": "Ben"
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "morning",
+        "phonetic": "/ˈmɔːrnɪŋ/",
+        "type": "noun",
+        "definition_en": "la premiere partie de la journee, avant midi",
+        "definition_fr": "matin",
+        "example": "I go to school in the morning.",
+        "level": "A1"
+      },
+      {
+        "word": "school",
+        "phonetic": "/skuːl/",
+        "type": "noun",
+        "definition_en": "un endroit ou les enfants apprennent",
+        "definition_fr": "ecole",
+        "example": "I like my school.",
+        "level": "A1"
+      },
+      {
+        "word": "lunch",
+        "phonetic": "/lʌntʃ/",
+        "type": "noun",
+        "definition_en": "le repas que l'on mange au milieu de la journee",
+        "definition_fr": "dejeuner",
+        "example": "I eat lunch at noon.",
+        "level": "A1"
+      },
+      {
+        "word": "evening",
+        "phonetic": "/ˈiːvnɪŋ/",
+        "type": "noun",
+        "definition_en": "la partie de la journee entre l'apres-midi et la nuit",
+        "definition_fr": "soir",
+        "example": "In the evening, I watch TV.",
+        "level": "A1"
+      },
+      {
+        "word": "clock",
+        "phonetic": "/klɒk/",
+        "type": "noun",
+        "definition_en": "un objet qui indique l'heure",
+        "definition_fr": "horloge, pendule",
+        "example": "The clock says it is three o'clock.",
+        "level": "A1"
+      },
+      {
+        "word": "early",
+        "phonetic": "/ˈɜːrli/",
+        "type": "adverb",
+        "definition_en": "avant l'heure habituelle ou prevue",
+        "definition_fr": "tot",
+        "example": "I go to bed early on school days.",
+        "level": "A1"
+      }
+    ],
+    "grammar_points": [
+      {
+        "title": "Present simple: I get up, I go, I eat",
+        "explanation": "Le **present simple** s'utilise pour parler de ce que l'on fait tous les jours (habitudes et routines). Avec **I, you, we, they**, le verbe ne change pas. En français, cela correspond à 'je me lève', 'je vais', 'je mange'.",
+        "examples": [
+          "I get up at seven. = Je me leve a sept heures.",
+          "I go to school. = Je vais a l'ecole.",
+          "I eat lunch at noon. = Je mange le dejeuner a midi.",
+          "I do my homework. = Je fais mes devoirs."
+        ]
+      }
+    ],
+    "expressions": [
+      {
+        "expression": "What time is it?",
+        "meaning_fr": "Quelle heure est-il ?",
+        "example": "Excuse me, what time is it? It's three o'clock.",
+        "register": "neutral",
+        "note": "La façon standard de demander l'heure. Réponse : 'It's ... o'clock'."
+      },
+      {
+        "expression": "It's ... o'clock",
+        "meaning_fr": "Il est ... heures",
+        "example": "It's seven o'clock. Time for school!",
+        "register": "neutral",
+        "note": "S'utilise pour dire l'heure exacte. 'O'clock' ne s'emploie que pour les heures pleines (7:00, pas 7:30)."
+      }
+    ]
+  },
+  "exercises": {
+    "written": [
+      {
+        "id": "w1",
+        "type": "multiple_choice",
+        "question": "How do you say 'Quelle heure est-il ?' in English?",
+        "options": [
+          "How time is it?",
+          "What time is it?",
+          "Where time is it?"
+        ],
+        "answer": 1,
+        "explanation": "The correct form is 'What time is it?' using 'what' (not 'how' or 'where')."
+      },
+      {
+        "id": "w2",
+        "type": "multiple_choice",
+        "question": "Which sentence describes a daily routine?",
+        "options": [
+          "I am eating lunch now.",
+          "I ate lunch yesterday.",
+          "I eat lunch at twelve o'clock."
+        ],
+        "answer": 2,
+        "explanation": "'I eat lunch at twelve o'clock' uses the present simple, which describes a regular habit."
+      },
+      {
+        "id": "w3",
+        "type": "fill_blank",
+        "sentence": "I ________ up at seven o'clock every morning.",
+        "answer": "get",
+        "hint": "The verb for 'se lever' in English: to get up."
+      },
+      {
+        "id": "w4",
+        "type": "fill_blank",
+        "sentence": "In the ________, I do my homework.",
+        "answer": "evening",
+        "hint": "The English word for 'soir'."
+      },
+      {
+        "id": "w5",
+        "type": "translation",
+        "french": "Je vais a l'ecole le matin. Je mange le dejeuner a midi.",
+        "suggested_answer": "I go to school in the morning. I eat lunch at twelve o'clock.",
+        "key_vocabulary": ["I go to school", "morning", "I eat lunch", "twelve o'clock"]
+      }
+    ],
+    "oral": [
+      {
+        "id": "o1",
+        "type": "read_aloud",
+        "instruction": "Read these sentences aloud slowly and clearly.",
+        "text": "I get up at seven o'clock. I go to school in the morning. I eat lunch at noon.",
+        "focus": "Practice the rhythm of each sentence. Stress the time words: 'seven', 'morning', 'noon'.",
+        "phonetic_tips": ["morning: /ˈmɔːrnɪŋ/", "school: /skuːl/", "o'clock: /əˈklɒk/"]
+      },
+      {
+        "id": "o2",
+        "type": "answer_question",
+        "question": "What time do you get up? What do you do in the morning?",
+        "suggested_answer": "I get up at seven o'clock. In the morning, I eat breakfast and I go to school.",
+        "vocabulary_hints": ["I get up at...", "In the morning...", "I eat...", "I go to..."],
+        "duration_seconds": 30
+      }
+    ]
+  }
+}

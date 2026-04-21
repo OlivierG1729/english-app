@@ -1,0 +1,335 @@
+{
+  "id": "09",
+  "unit": 2,
+  "unit_title": "Culture, Arts & Media",
+  "title": "Behind the Camera",
+  "level": "B2+",
+  "type": "dialogue",
+  "theme": "Cinema & Criticism",
+  "reading_time": "6 min",
+  "content": {
+    "speakers": ["Interviewer", "Yara (Film Director)"],
+    "paragraphs": [
+      {
+        "speaker": "Interviewer",
+        "en": "Your new film has been described as 'deeply uncomfortable' by several critics. Does that bother you?",
+        "fr": "Votre nouveau film a été décrit comme « profondément inconfortable » par plusieurs critiques. Est-ce que ça vous dérange ?"
+      },
+      {
+        "speaker": "Yara",
+        "en": "On the contrary. If a film makes you comfortable, it's probably not doing its job. I want the audience to be unsettled — not in a gratuitous way, but in a way that makes them sit with something they'd rather not look at.",
+        "fr": "Au contraire. Si un film vous met à l'aise, il ne fait probablement pas son travail. Je veux que le public soit troublé — pas de façon gratuite, mais d'une façon qui le pousse à s'asseoir avec quelque chose qu'il préférerait ne pas regarder."
+      },
+      {
+        "speaker": "Interviewer",
+        "en": "The film deals with collective memory — specifically, how communities remember, or choose not to remember, difficult events. What drew you to that subject?",
+        "fr": "Le film traite de la mémoire collective — plus précisément, de la façon dont les communautés se souviennent, ou choisissent de ne pas se souvenir, d'événements difficiles. Qu'est-ce qui vous a attirée vers ce sujet ?"
+      },
+      {
+        "speaker": "Yara",
+        "en": "I grew up in a family that never talked about certain things. And I noticed that the silence was itself a kind of communication — it shaped us just as powerfully as any story would have. When you're a child, you don't understand the silence. You just absorb it. That stayed with me.",
+        "fr": "J'ai grandi dans une famille qui ne parlait jamais de certaines choses. Et j'ai remarqué que le silence était lui-même une forme de communication — il nous façonnait aussi puissamment que n'importe quelle histoire l'aurait fait. Quand on est enfant, on ne comprend pas le silence. On l'absorbe simplement. Ça m'est resté."
+      },
+      {
+        "speaker": "Interviewer",
+        "en": "There's a particular scene — the one in the archive room — that several reviewers have called the emotional centrepiece of the film. Can you talk about how that came about?",
+        "fr": "Il y a une scène particulière — celle dans la salle d'archives — que plusieurs critiques ont qualifiée de cœur émotionnel du film. Pouvez-vous parler de la façon dont elle est née ?"
+      },
+      {
+        "speaker": "Yara",
+        "en": "That scene was written in a single afternoon, which almost never happens. I had been struggling with the second act for weeks — I knew what needed to happen dramatically, but I couldn't find the right container for it. Then I was in an actual archive, doing research, and I watched an archivist handle a photograph that was falling apart. She was so careful with it. And I thought: that's it. That's the scene. The tenderness of handling something fragile that might not survive.",
+        "fr": "Cette scène a été écrite en un seul après-midi, ce qui n'arrive presque jamais. Je me débattais avec le deuxième acte depuis des semaines — je savais ce qui devait se passer dramatiquement, mais je ne trouvais pas le bon cadre. Puis j'étais dans de vraies archives, en train de faire des recherches, et j'ai regardé une archiviste manipuler une photographie qui tombait en morceaux. Elle en prenait tellement soin. Et j'ai pensé : c'est ça. C'est la scène. La tendresse de tenir quelque chose de fragile qui pourrait ne pas survivre."
+      },
+      {
+        "speaker": "Interviewer",
+        "en": "You shot the film without any artificial lighting in most scenes. That must have created significant challenges.",
+        "fr": "Vous avez tourné le film sans éclairage artificiel dans la plupart des scènes. Ça a dû créer des défis importants."
+      },
+      {
+        "speaker": "Yara",
+        "en": "Enormous challenges, and enormous gifts. Natural light is unpredictable and honest — it doesn't flatter, it reveals. There are shots in this film that we could never have planned; they happened because the light did something extraordinary at exactly the right moment. You have to be willing to let go of control to get those moments.",
+        "fr": "Des défis énormes, et des dons énormes. La lumière naturelle est imprévisible et honnête — elle ne flatte pas, elle révèle. Il y a des plans dans ce film que nous n'aurions jamais pu planifier ; ils se sont produits parce que la lumière a fait quelque chose d'extraordinaire exactement au bon moment. Il faut être prêt à lâcher le contrôle pour obtenir ces moments."
+      },
+      {
+        "speaker": "Interviewer",
+        "en": "Some critics have argued that the film is too slow — that it tests the audience's patience.",
+        "fr": "Certains critiques ont soutenu que le film est trop lent — qu'il met à l'épreuve la patience du public."
+      },
+      {
+        "speaker": "Yara",
+        "en": "I'd push back on that a little. 'Slow' is often a synonym for 'it made me feel something I wasn't expecting and I wasn't sure I wanted to feel it'. We've been trained to consume images very fast. A film that slows you down is asking you to work differently. I think that's worth defending.",
+        "fr": "Je m'y opposerais un peu. « Lent » est souvent un synonyme de « ça m'a fait ressentir quelque chose que je n'attendais pas et je n'étais pas sûr de vouloir le ressentir ». On nous a entraînés à consommer des images très vite. Un film qui vous ralentit vous demande de travailler différemment. Je pense que ça vaut la peine d'être défendu."
+      },
+      {
+        "speaker": "Interviewer",
+        "en": "What do you hope audiences take away from it?",
+        "fr": "Qu'espérez-vous que le public en retire ?"
+      },
+      {
+        "speaker": "Yara",
+        "en": "A question, not an answer. I'm deeply suspicious of films that explain themselves. The best art opens something up and then leaves you alone with it. I want people to leave the cinema and find themselves thinking about it three days later, not sure why.",
+        "fr": "Une question, pas une réponse. Je me méfie profondément des films qui s'expliquent. Le meilleur art ouvre quelque chose et vous laisse ensuite seul avec ça. Je veux que les gens quittent le cinéma et se retrouvent à y penser trois jours plus tard, sans savoir pourquoi."
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "gratuitous",
+        "phonetic": "/ɡrəˈtjuːɪtəs/",
+        "type": "adjective",
+        "definition_en": "injustifié ; sans raison valable ; fait sans justification, faisant souvent référence à un contenu choquant",
+        "definition_fr": "gratuit, injustifié, sans raison valable",
+        "example": "The violence in the film felt gratuitous rather than serving the narrative.",
+        "level": "C1"
+      },
+      {
+        "word": "to unsettle",
+        "phonetic": "/ʌnˈsetl/",
+        "type": "verb",
+        "definition_en": "mettre quelqu'un mal à l'aise, le troubler ou le déstabiliser",
+        "definition_fr": "troubler, perturber, déstabiliser",
+        "example": "The documentary was designed to unsettle viewers and challenge their assumptions.",
+        "level": "B2"
+      },
+      {
+        "word": "collective memory",
+        "phonetic": "/kəˈlektɪv ˈmeməri/",
+        "type": "noun (compound)",
+        "definition_en": "l'ensemble partagé d'informations et de souvenirs détenus par un groupe social",
+        "definition_fr": "mémoire collective",
+        "example": "Monuments and museums play a key role in shaping collective memory.",
+        "level": "C1"
+      },
+      {
+        "word": "centrepiece",
+        "phonetic": "/ˈsentəpiːs/",
+        "type": "noun",
+        "definition_en": "la partie la plus importante ou impressionnante de quelque chose",
+        "definition_fr": "pièce maîtresse, élément central",
+        "example": "The trial scene is the centrepiece of the film.",
+        "level": "B2"
+      },
+      {
+        "word": "to struggle with",
+        "phonetic": "/ˈstrʌɡl wɪð/",
+        "type": "phrasal verb",
+        "definition_en": "avoir du mal avec quelque chose ; essayer fort mais avec difficulté",
+        "definition_fr": "avoir du mal avec, se débattre avec, peiner sur",
+        "example": "She had been struggling with the final chapter for months.",
+        "level": "B2"
+      },
+      {
+        "word": "tenderness",
+        "phonetic": "/ˈtendənəs/",
+        "type": "noun",
+        "definition_en": "douceur et soin ; chaleur émotionnelle et sensibilité",
+        "definition_fr": "tendresse, douceur, délicatesse",
+        "example": "There was a tenderness in how she described her childhood home.",
+        "level": "B2"
+      },
+      {
+        "word": "to flatter",
+        "phonetic": "/ˈflætər/",
+        "type": "verb",
+        "definition_en": "faire paraître quelque chose plus beau ou plus attrayant que ce qu'il est vraiment",
+        "definition_fr": "flatter, embellir, avantager",
+        "example": "Studio lighting tends to flatter faces; natural light is more revealing.",
+        "level": "B2"
+      },
+      {
+        "word": "to push back on",
+        "phonetic": "/pʊʃ bæk ɒn/",
+        "type": "phrasal verb",
+        "definition_en": "résister ou exprimer son désaccord avec une affirmation ou une opinion ; argumenter contre",
+        "definition_fr": "s'opposer à, résister à, remettre en question",
+        "example": "I'd push back on that argument — I don't think the evidence supports it.",
+        "level": "B2"
+      },
+      {
+        "word": "suspicious of",
+        "phonetic": "/səˈspɪʃəs əv/",
+        "type": "adjective + preposition",
+        "definition_en": "ressentir du doute ou de la méfiance envers quelque chose",
+        "definition_fr": "méfiant envers, sceptique à l'égard de",
+        "example": "She was deeply suspicious of any explanation that seemed too neat.",
+        "level": "B2"
+      },
+      {
+        "word": "to take away (from)",
+        "phonetic": "/teɪk əˈweɪ/",
+        "type": "phrasal verb",
+        "definition_en": "apprendre, recevoir ou tirer quelque chose d'une expérience",
+        "definition_fr": "retirer (quelque chose d'une expérience), emporter",
+        "example": "What did you take away from the conference?",
+        "level": "B2"
+      }
+    ],
+    "grammar_points": [
+      {
+        "title": "Inversion for emphasis: 'Not in a gratuitous way, but in a way that...'",
+        "explanation": "**Antéposer** une phrase négative crée de l'emphase et de la sophistication. En plaçant la nuance en premier, le locuteur contrôle exactement comment l'idée est comprise. C'est une caractéristique de l'anglais parlé soigné et cultivé.",
+        "examples": [
+          "'Not in a **gratuitous** way, but in a way that makes you think.' → distinction made upfront",
+          "'Not because she was afraid, but because she was wise.'",
+          "'Not what I expected — quite the opposite.'",
+          "This structure is excellent for nuanced arguments in interviews, essays and debates."
+        ]
+      },
+      {
+        "title": "Nominal that-clause as subject: 'That the silence shaped us'",
+        "explanation": "Une **proposition en 'that'** peut fonctionner comme sujet d'une phrase, en particulier après des verbes comme 'notice', 'realise', 'find'. C'est plus formel que d'utiliser 'it' comme sujet factice.",
+        "examples": [
+          "'I noticed **that the silence was itself a communication**.' → formal, literary",
+          "'**That she had succeeded** surprised everyone.' → that-clause as subject (very formal)",
+          "'The fact **that he said nothing** spoke volumes.' → softened with 'the fact'",
+          "Tip: 'The fact that...' is a useful bridge between informal and formal registers."
+        ]
+      },
+      {
+        "title": "'I'd push back on that' — disagreeing politely but firmly in English",
+        "explanation": "Dans l'anglais professionnel et académique, le désaccord est rarement brutal. Un ensemble de **phrases de désaccord diplomatiques** vous permet de contester une idée sans être agressif. Celles-ci sont essentielles pour la production orale au niveau C1.",
+        "examples": [
+          "'**I'd push back on that** a little.' → gentle resistance",
+          "'**I'm not sure I'd agree** with that entirely.'",
+          "'**That's one way of looking at it**, but...'",
+          "'**I take your point**, but I'd argue that...'",
+          "'**With respect**, I think that analysis misses something important.'"
+        ]
+      }
+    ],
+    "expressions": [
+      {
+        "expression": "on the contrary",
+        "meaning_fr": "au contraire",
+        "example": "Does that bother you? On the contrary — it's exactly what I was hoping for.",
+        "register": "formal / neutral",
+        "note": "Plus fort et plus formel que 'no, actually'. Utilisé pour introduire un renversement complet de ce qui était supposé."
+      },
+      {
+        "expression": "to sit with something",
+        "meaning_fr": "s'asseoir avec quelque chose, apprivoiser, laisser mûrir",
+        "example": "I want the audience to sit with something uncomfortable.",
+        "register": "reflective / informal",
+        "note": "Utilisé au sens figuré pour signifier 'rester avec un sentiment ou une idée difficile sans le résoudre immédiatement'. Très courant dans les contextes psychologiques et artistiques."
+      },
+      {
+        "expression": "that stayed with me",
+        "meaning_fr": "ça m'est resté, ça m'a marqué",
+        "example": "I saw a documentary about it when I was twelve, and that stayed with me.",
+        "register": "neutral / personal",
+        "note": "Une façon naturelle de décrire une impression émotionnelle ou intellectuelle durable."
+      },
+      {
+        "expression": "to let go of control",
+        "meaning_fr": "lâcher le contrôle, accepter l'imprévu",
+        "example": "You have to be willing to let go of control to get those moments.",
+        "register": "neutral",
+        "note": "Utilisé littéralement (relâcher la prise) ou au figuré (accepter l'incertitude). Courant dans les contextes créatifs, psychologiques et de management."
+      },
+      {
+        "expression": "to take away (from an experience)",
+        "meaning_fr": "retirer, emporter (quelque chose d'une expérience)",
+        "example": "What do you hope audiences take away from it?",
+        "register": "neutral / professional",
+        "note": "Très courant dans l'anglais professionnel. 'Key takeaway' = la leçon ou le message principal d'une réunion, conférence, film, etc."
+      }
+    ]
+  },
+  "exercises": {
+    "written": [
+      {
+        "id": "w1",
+        "type": "multiple_choice",
+        "question": "According to Yara, why is it a good sign when a film makes the audience uncomfortable?",
+        "options": [
+          "It means the film has been well marketed.",
+          "It means the film is doing its job of confronting difficult truths.",
+          "It means the film will win awards.",
+          "It means the director has pushed technical boundaries."
+        ],
+        "answer": 1,
+        "explanation": "Yara says: 'If a film makes you comfortable, it's probably not doing its job.' Discomfort is the intended effect."
+      },
+      {
+        "id": "w2",
+        "type": "multiple_choice",
+        "question": "How does Yara respond to the criticism that the film is 'too slow'?",
+        "options": [
+          "She accepts the criticism and says she would edit the film differently now.",
+          "She argues that 'slow' often means the film provoked feelings the viewer wasn't prepared for.",
+          "She says the film was deliberately made slow to challenge younger audiences.",
+          "She dismisses the criticism as coming from people who don't understand cinema."
+        ],
+        "answer": 1,
+        "explanation": "Yara says 'slow' is often a synonym for 'it made me feel something I wasn't expecting', and argues that films asking the viewer to work differently are worth defending."
+      },
+      {
+        "id": "w3",
+        "type": "fill_blank",
+        "sentence": "She had been ________ the problem for weeks before a solution finally emerged.",
+        "answer": "struggling with",
+        "hint": "A phrasal verb meaning 'to have great difficulty with something'."
+      },
+      {
+        "id": "w4",
+        "type": "fill_blank",
+        "sentence": "I'd ________ that interpretation — the data doesn't support it.",
+        "answer": "push back on",
+        "hint": "A professional expression for politely disagreeing with a claim."
+      },
+      {
+        "id": "w5",
+        "type": "fill_blank",
+        "sentence": "She was deeply ________ any approach that promised quick results.",
+        "answer": "suspicious of",
+        "hint": "Adjective + preposition meaning 'distrustful of'."
+      },
+      {
+        "id": "w6",
+        "type": "translation",
+        "french": "Je me méfie profondément des films qui s'expliquent eux-mêmes.",
+        "suggested_answer": "I'm deeply suspicious of films that explain themselves.",
+        "key_vocabulary": ["deeply suspicious of", "explain themselves"]
+      },
+      {
+        "id": "w7",
+        "type": "translation",
+        "french": "Ce n'était pas ce à quoi je m'attendais — au contraire, c'était l'exact opposé.",
+        "suggested_answer": "It wasn't what I had expected — on the contrary, it was the exact opposite.",
+        "key_vocabulary": ["on the contrary", "exact opposite", "past perfect: had expected"]
+      },
+      {
+        "id": "w8",
+        "type": "translation",
+        "french": "Qu'est-ce que vous avez retiré de cette expérience ?",
+        "suggested_answer": "What did you take away from that experience?",
+        "key_vocabulary": ["take away from", "experience"]
+      }
+    ],
+    "oral": [
+      {
+        "id": "o1",
+        "type": "read_aloud",
+        "instruction": "Read Yara's long answer about natural light aloud. The tone is passionate and thoughtful — she is someone who has clearly thought deeply about this.",
+        "text": "Enormous challenges, and enormous gifts. Natural light is unpredictable and honest — it doesn't flatter, it reveals. There are shots in this film that we could never have planned; they happened because the light did something extraordinary at exactly the right moment. You have to be willing to let go of control to get those moments.",
+        "focus": "The contrast 'it doesn't flatter, it reveals' is a rhetorical parallel. Give both words equal weight. Pause after the semicolon in the long sentence.",
+        "phonetic_tips": ["unpredictable: /ˌʌnprɪˈdɪktəbl/", "extraordinary: /ɪkˈstrɔːrdnri/", "willing: /ˈwɪlɪŋ/"]
+      },
+      {
+        "id": "o2",
+        "type": "answer_question",
+        "question": "Describe a film, book, or piece of art that made you uncomfortable but stayed with you. What made it memorable?",
+        "suggested_answer": "A film that really stayed with me was 'Caché' by Michael Haneke. It's deeply uncomfortable in exactly the way Yara describes — it confronts you with the idea of collective guilt and historical denial, and it never explains itself or resolves the tension neatly. I remember sitting with it for days afterwards, not quite sure what it was asking of me. I think what made it memorable was precisely that refusal to give easy answers. It opened something up and left me alone with it.",
+        "vocabulary_hints": ["stayed with me", "confronts you with", "collective guilt", "sitting with it", "refusal to give easy answers"],
+        "duration_seconds": 75
+      },
+      {
+        "id": "o3",
+        "type": "answer_question",
+        "question": "Do you think art has a responsibility to be comfortable and accessible, or to challenge and disturb? Defend your view.",
+        "suggested_answer": "I'd argue that art has no single responsibility — different works serve different purposes, and both comfort and challenge are legitimate. The danger is when comfort becomes the only goal. If art is only ever pleasant and affirming, it loses its capacity to change how we see the world. That said, I'd push back on the idea that all great art must be difficult. A beautifully crafted, accessible piece of music or literature that moves people without disturbing them is also doing something valuable. What matters, I think, is intention and honesty. Art that avoids difficulty because the creator is afraid of the reaction is different from art that is gentle because gentleness is what the work requires.",
+        "vocabulary_hints": ["different works serve different purposes", "I'd push back on the idea that", "avoids difficulty", "the work requires"],
+        "duration_seconds": 90
+      }
+    ]
+  }
+}

@@ -1,0 +1,304 @@
+{
+  "id": "37",
+  "unit": 5,
+  "unit_title": "C1 Mastery & Consolidation",
+  "title": "Science in Plain English",
+  "level": "C1+",
+  "type": "dialogue",
+  "theme": "Scientific Communication, Public Engagement & Trust",
+  "reading_time": "6 min",
+  "content": {
+    "speakers": ["Host", "Dr Yemi Adebayo (Epidemiologist)", "Clare Sutton (Science Journalist)"],
+    "paragraphs": [
+      {
+        "speaker": "Host",
+        "en": "The COVID pandemic exposed significant tensions between scientific communication and public trust. What went wrong, and what lessons have been learned?",
+        "fr": "La pandémie de COVID a mis en lumière de tensions significatives entre la communication scientifique et la confiance du public. Qu'est-ce qui a mal tourné, et quelles leçons ont été tirées ?"
+      },
+      {
+        "speaker": "Dr Yemi Adebayo",
+        "en": "I'd resist the framing that something simply 'went wrong'. A lot went right, by any historical standard — vaccines were developed and deployed faster than anyone had thought possible. But the communication challenges were real and partly self-inflicted. When scientists made confident pronouncements early in the pandemic that turned out to be wrong — on transmission outdoors, on surface contamination, on the effectiveness of different interventions — the corrections were handled badly. They were presented as policy reversals rather than as the normal process of updating in response to new evidence. That eroded trust in ways that took years to recover.",
+        "fr": "Je résisterais au cadrage que quelque chose a simplement « mal tourné ». Beaucoup a bien marché, selon tout standard historique — les vaccins ont été développés et déployés plus vite que quiconque ne l'avait cru possible. Mais les défis de communication étaient réels et en partie auto-infligés. Quand les scientifiques ont fait des déclarations confiantes en début de pandémie qui se sont révélées erronées — sur la transmission en extérieur, sur la contamination de surface, sur l'efficacité de différentes interventions — les corrections ont été mal gérées. Elles ont été présentées comme des revirements de politique plutôt que comme le processus normal de mise à jour en réponse aux nouvelles preuves. Cela a érodé la confiance d'une façon qui a pris des années à récupérer."
+      },
+      {
+        "speaker": "Clare Sutton",
+        "en": "And that's a communication failure that media and journalists have to take responsibility for as well. The format of daily briefings — 'The Science says this today' — was always going to struggle to convey the necessarily provisional nature of scientific knowledge. Journalism is structurally predisposed to the clean headline. 'Scientists update position in light of new data' is not a compelling news story. 'Government U-turn' is. The incentives pushed coverage towards a narrative of inconsistency and incompetence that wasn't always fair.",
+        "fr": "Et c'est un échec de communication dont les médias et les journalistes doivent aussi assumer la responsabilité. Le format des séances d'information quotidiennes — « La science dit ceci aujourd'hui » — allait toujours avoir du mal à transmettre la nature nécessairement provisoire du savoir scientifique. Le journalisme est structurellement prédisposé au titre accrocheur. « Les scientifiques mettent à jour leur position à la lumière de nouvelles données » n'est pas un article de presse convaincant. « Revirement du gouvernement » en est un. Les incitations ont poussé la couverture vers un récit d'incohérence et d'incompétence qui n'était pas toujours juste."
+      },
+      {
+        "speaker": "Dr Yemi Adebayo",
+        "en": "There's a deeper issue, though, which is the relationship between scientific advice and political decision-making. Scientists kept being put in the position of making what were essentially political choices — about the balance between protecting health and protecting livelihoods — while being presented as making purely scientific determinations. Science can tell you the relative risk of different interventions. It cannot tell you which risks a society should accept. Those are value judgements that belong to politicians and, ultimately, to the public.",
+        "fr": "Il y a un problème plus profond, cependant, qui est la relation entre le conseil scientifique et la prise de décision politique. Les scientifiques ont sans cesse été mis dans la position de prendre ce qui étaient essentiellement des choix politiques — sur l'équilibre entre la protection de la santé et la protection des moyens de subsistance — tout en étant présentés comme faisant des déterminations purement scientifiques. La science peut vous dire le risque relatif de différentes interventions. Elle ne peut pas vous dire quels risques une société devrait accepter. Ce sont des jugements de valeur qui appartiennent aux politiciens et, en fin de compte, au public."
+      },
+      {
+        "speaker": "Clare Sutton",
+        "en": "That distinction is vital and it was consistently blurred. 'The science' became a political shield — a way of presenting contested value judgements as technical necessities that admitted no legitimate disagreement. The effect was both to misrepresent science and to infantilise the public — to suggest that they were incapable of engaging with genuine uncertainty and competing values.",
+        "fr": "Cette distinction est vitale et elle a été constamment brouillée. « La science » est devenue un bouclier politique — un moyen de présenter des jugements de valeur contestés comme des nécessités techniques n'admettant aucun désaccord légitime. L'effet a été à la fois de mal représenter la science et d'infantiliser le public — de suggérer qu'il était incapable de s'engager avec une véritable incertitude et des valeurs concurrentes."
+      },
+      {
+        "speaker": "Dr Yemi Adebayo",
+        "en": "What should change? I'd say three things. First, scientists need to communicate uncertainty as a feature, not a bug — to explain what changing advice means and why it's a sign of the method working, not failing. Second, we need clearer institutional separation between scientific advisory functions and political communication — so that the public can distinguish between 'this is what the evidence currently shows' and 'this is the government's policy'. Third, we need to treat the public as adults who are capable of handling complex information, rather than simplifying to the point where the simplification becomes its own form of misinformation.",
+        "fr": "Que devrait-il changer ? Je dirais trois choses. Premièrement, les scientifiques doivent communiquer l'incertitude comme une caractéristique, pas un défaut — expliquer ce que signifie un avis qui change et pourquoi c'est le signe que la méthode fonctionne, pas qu'elle échoue. Deuxièmement, nous avons besoin d'une séparation institutionnelle plus claire entre les fonctions de conseil scientifique et la communication politique — pour que le public puisse distinguer entre « voici ce que montre actuellement les preuves » et « voici la politique du gouvernement ». Troisièmement, nous devons traiter le public comme des adultes capables de gérer des informations complexes, plutôt que de simplifier au point où la simplification devient sa propre forme de désinformation."
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "self-inflicted",
+        "phonetic": "/ˌself ɪnˈflɪktɪd/",
+        "type": "adjective",
+        "definition_en": "causé par ses propres actions plutôt que par des forces extérieures",
+        "definition_fr": "auto-infligé, causé par soi-même",
+        "example": "Some of the trust failures during the pandemic were self-inflicted.",
+        "level": "B2"
+      },
+      {
+        "word": "provisional",
+        "phonetic": "/prəˈvɪʒənl/",
+        "type": "adjective",
+        "definition_en": "temporaire et susceptible de changer ; pas encore confirmé ou finalisé",
+        "definition_fr": "provisoire, temporaire",
+        "example": "Scientific knowledge is necessarily provisional — it is always subject to revision.",
+        "level": "B2"
+      },
+      {
+        "word": "predisposed",
+        "phonetic": "/ˌpriːdɪˈspəʊzd/",
+        "type": "adjective",
+        "definition_en": "enclin ou rendu susceptible à quelque chose par avance",
+        "definition_fr": "prédisposé, enclin à",
+        "example": "Journalism is structurally predisposed to the dramatic headline.",
+        "level": "C1"
+      },
+      {
+        "word": "to infantilise",
+        "phonetic": "/ɪnˈfæntɪlaɪz/",
+        "type": "verb",
+        "definition_en": "traiter quelqu'un comme s'il était un enfant ; nier la capacité de jugement mature de quelqu'un",
+        "definition_fr": "infantiliser",
+        "example": "Simplifying science to the point of distortion infantilises the public.",
+        "level": "C1"
+      },
+      {
+        "word": "blurred",
+        "phonetic": "/blɜːrd/",
+        "type": "adjective",
+        "definition_en": "rendu flou ou indistinct ; confus",
+        "definition_fr": "flou, brouillé, mal défini",
+        "example": "The distinction between scientific advice and political decision was consistently blurred.",
+        "level": "B2"
+      },
+      {
+        "word": "institutional separation",
+        "phonetic": "/ˌɪnstɪˈtjuːʃənl ˌsepəˈreɪʃn/",
+        "type": "noun phrase",
+        "definition_en": "une division structurelle entre différents types de fonctions gouvernementales ou consultatives",
+        "definition_fr": "séparation institutionnelle",
+        "example": "Institutional separation between scientific advice and political communication protects both.",
+        "level": "C1"
+      },
+      {
+        "word": "advisory function",
+        "phonetic": "/ədˈvaɪzəri ˈfʌŋkʃn/",
+        "type": "noun phrase",
+        "definition_en": "le rôle de fournir des conseils d'experts aux décideurs sans prendre les décisions soi-même",
+        "definition_fr": "fonction consultative, rôle de conseil",
+        "example": "Scientists should have an advisory function, not a decision-making one.",
+        "level": "C1"
+      },
+      {
+        "word": "value judgement",
+        "phonetic": "/ˈvæljuː ˈdʒʌdʒmənt/",
+        "type": "noun phrase",
+        "definition_en": "une évaluation fondée sur des valeurs et des priorités plutôt que sur des critères purement factuels ou techniques",
+        "definition_fr": "jugement de valeur",
+        "example": "Which risks a society should accept is a value judgement, not a scientific question.",
+        "level": "B2"
+      },
+      {
+        "word": "contested",
+        "phonetic": "/kənˈtestɪd/",
+        "type": "adjective",
+        "definition_en": "disputé ; sujet à désaccord",
+        "definition_fr": "contesté, disputé",
+        "example": "Presenting contested value judgements as scientific necessities is dishonest.",
+        "level": "B2"
+      },
+      {
+        "word": "U-turn",
+        "phonetic": "/ˈjuː tɜːrn/",
+        "type": "noun (politics/journalism)",
+        "definition_en": "un revirement complet d'une politique ou position précédemment déclarée",
+        "definition_fr": "volte-face, revirement à 180 degrés",
+        "example": "'Government U-turn' is a compelling headline; 'evidence-based update' is not.",
+        "level": "B2"
+      }
+    ],
+    "grammar_points": [
+      {
+        "title": "'Journalism is structurally predisposed to' — using 'structurally' to identify systemic causes",
+        "explanation": "L'adverbe **« structurally »** (ou « institutionally », « systemically ») signale qu'une tendance provient de la conception ou des incitations d'un système, et non de mauvais choix individuels. C'est une distinction cruciale dans l'argumentation analytique.",
+        "examples": [
+          "'Journalism is **structurally** predisposed to the dramatic headline.'",
+          "'The funding system **structurally** favours applied over basic research.'",
+          "'Electoral systems can be **institutionally** biased towards incumbents.'",
+          "This adverb shifts blame from individuals to systems, which often produces better analysis."
+        ]
+      },
+      {
+        "title": "'Science can tell you X. It cannot tell you Y.' — separating domains",
+        "explanation": "Cette **déclaration parallèle** sépare le domaine de la science empirique du jugement normatif. C'est un mouvement fondamental dans les débats sur la science et la politique, et elle utilise une structure parallèle positive/négative pour l'emphase.",
+        "examples": [
+          "'Science **can** tell you the relative risk. It **cannot** tell you which risk to accept.'",
+          "'Data **can** show you what is happening. It **cannot** tell you what you should do.'",
+          "'Medicine **can** extend life. It **cannot** tell you whether to.'",
+          "The structure creates a clean, memorable statement of a complex philosophical point."
+        ]
+      },
+      {
+        "title": "'To the point where the simplification becomes its own form of X'",
+        "explanation": "Cette construction décrit **un excès quantitatif qui produit un changement qualitatif** — simplifier tellement qu'on a créé un problème d'un autre type. C'est précis et analytiquement sophistiqué.",
+        "examples": [
+          "'Simplifying **to the point where** the simplification becomes its own form of misinformation.'",
+          "'Hedging **to the point where** the statement communicates nothing.'",
+          "'Compressing an argument **to the point where** it caricatures the position it describes.'",
+          "The phrase 'to the point where' signals a threshold being crossed."
+        ]
+      }
+    ],
+    "expressions": [
+      {
+        "expression": "to resist the framing",
+        "meaning_fr": "résister au cadrage, remettre en question la façon dont la question est posée",
+        "example": "I'd resist the framing that something simply 'went wrong'.",
+        "register": "formal / debate",
+        "note": "Un mouvement d'ouverture sophistiqué : avant de répondre, remettre en question la présupposition intégrée dans la question."
+      },
+      {
+        "expression": "a feature, not a bug",
+        "meaning_fr": "une caractéristique, pas un défaut",
+        "example": "Scientists need to communicate uncertainty as a feature, not a bug.",
+        "register": "informal / tech origin",
+        "note": "Vient du développement logiciel : un « bug » est une erreur non intentionnelle ; une « feature » est un élément de conception délibéré. Utilisé pour recadrer quelque chose qui ressemble à un défaut comme un aspect positif."
+      },
+      {
+        "expression": "a political shield",
+        "meaning_fr": "un bouclier politique",
+        "example": "'The science' became a political shield for presenting value judgements as technical necessities.",
+        "register": "analytical / political",
+        "note": "Décrit l'utilisation de quelque chose — expertise, données, consensus — de manière défensive pour dévier la critique ou la responsabilité."
+      },
+      {
+        "expression": "treated as adults",
+        "meaning_fr": "traités comme des adultes",
+        "example": "We need to treat the public as adults capable of handling complex information.",
+        "register": "neutral / advocacy",
+        "note": "Une expression courante dans les débats sur la communication publique — implique le respect de la capacité des citoyens à s'engager avec du matériel difficile sans simplification excessive."
+      },
+      {
+        "expression": "policy reversal vs evidence-based update",
+        "meaning_fr": "revirement de politique vs mise à jour fondée sur les preuves",
+        "example": "Corrections were presented as policy reversals rather than normal evidence-based updates.",
+        "register": "analytical / scientific communication",
+        "note": "Une distinction cruciale en communication scientifique : la première signale un échec ; la seconde signale l'intégrité scientifique."
+      }
+    ]
+  },
+  "exercises": {
+    "written": [
+      {
+        "id": "w1",
+        "type": "multiple_choice",
+        "question": "According to Dr Adebayo, what was the key communication failure during the pandemic?",
+        "options": [
+          "Scientists refused to appear in public briefings.",
+          "Scientific updates were framed as policy U-turns rather than normal evidence-based revisions.",
+          "The vaccines were approved too quickly to allow proper communication.",
+          "Scientists gave different advice in different countries."
+        ],
+        "answer": 1,
+        "explanation": "'The corrections were handled badly. They were presented as policy reversals rather than as the normal process of updating in response to new evidence.'"
+      },
+      {
+        "id": "w2",
+        "type": "multiple_choice",
+        "question": "What distinction does Clare say was 'consistently blurred'?",
+        "options": [
+          "Between different scientific models of the virus.",
+          "Between laboratory science and clinical medicine.",
+          "Between scientific evidence and political value judgements about risk.",
+          "Between national and international scientific advice."
+        ],
+        "answer": 2,
+        "explanation": "'The science became a political shield — a way of presenting contested value judgements as technical necessities.'"
+      },
+      {
+        "id": "w3",
+        "type": "fill_blank",
+        "sentence": "Science ________ ________ you the relative risks. It ________ ________ ________ you which risks to accept.",
+        "answer": "can tell / cannot tell",
+        "hint": "A parallel positive/negative declaration separating scientific and normative domains."
+      },
+      {
+        "id": "w4",
+        "type": "fill_blank",
+        "sentence": "She ________ the framing of the question before answering it.",
+        "answer": "resisted",
+        "hint": "A verb meaning 'to challenge the assumptions embedded in the way a question is posed'."
+      },
+      {
+        "id": "w5",
+        "type": "fill_blank",
+        "sentence": "The coverage had simplified the story ________ ________ ________ the simplification itself had become misleading.",
+        "answer": "to the point where",
+        "hint": "A phrase indicating that a threshold had been crossed — too much simplification."
+      },
+      {
+        "id": "w6",
+        "type": "translation",
+        "french": "Les corrections ont été présentées comme des revirements de politique plutôt que comme le processus normal de mise à jour en réponse aux nouvelles preuves.",
+        "suggested_answer": "The corrections were presented as policy reversals rather than as the normal process of updating in response to new evidence.",
+        "key_vocabulary": ["presented as policy reversals", "rather than", "normal process of updating in response to"]
+      },
+      {
+        "id": "w7",
+        "type": "translation",
+        "french": "Nous devons traiter le public comme des adultes capables de gérer des informations complexes et une véritable incertitude.",
+        "suggested_answer": "We need to treat the public as adults capable of handling complex information and genuine uncertainty.",
+        "key_vocabulary": ["treat the public as adults", "capable of handling", "genuine uncertainty"]
+      },
+      {
+        "id": "w8",
+        "type": "translation",
+        "french": "Les scientifiques doivent communiquer l'incertitude comme une caractéristique de leur méthode, et non comme un défaut.",
+        "suggested_answer": "Scientists need to communicate uncertainty as a feature of their method, not as a bug.",
+        "key_vocabulary": ["communicate uncertainty", "as a feature", "not a bug"]
+      }
+    ],
+    "oral": [
+      {
+        "id": "o1",
+        "type": "read_aloud",
+        "instruction": "Read Dr Adebayo's three-point prescription. Deliver the three recommendations with structure — slight pause before each number, equal weight to each point.",
+        "text": "What should change? I'd say three things. First, scientists need to communicate uncertainty as a feature, not a bug. Second, we need clearer institutional separation between scientific advisory functions and political communication. Third, we need to treat the public as adults who are capable of handling complex information, rather than simplifying to the point where the simplification becomes its own form of misinformation.",
+        "focus": "The third point is the longest and has the most complex internal structure. Don't rush the final clause.",
+        "phonetic_tips": ["institutional: /ˌɪnstɪˈtjuːʃənl/", "separation: /ˌsepəˈreɪʃn/", "misinformation: /ˌmɪsɪnfəˈmeɪʃn/"]
+      },
+      {
+        "id": "o2",
+        "type": "answer_question",
+        "question": "How should scientists communicate when the evidence is genuinely uncertain? What language and framing would you recommend?",
+        "suggested_answer": "I think the key is to model good epistemic practice publicly — showing what scientists actually do, not just reporting their conclusions. Practically, this means using language that distinguishes between different degrees of confidence: 'We're very confident that X', 'the current evidence suggests Y', 'we can't rule out Z but it remains unlikely'. The analogy I find useful is weather forecasting: forecasters say '70% chance of rain' rather than 'it will rain' or 'we don't know'. People have learnt to handle probabilistic predictions in that context. The same is possible for science communication more broadly. What doesn't work is either false certainty — presenting things as settled when they aren't — or excessive hedging that leaves audiences with no actionable information.",
+        "vocabulary_hints": ["model good epistemic practice", "distinguish between degrees of confidence", "probabilistic predictions", "false certainty vs excessive hedging", "actionable information"],
+        "duration_seconds": 90
+      },
+      {
+        "id": "o3",
+        "type": "answer_question",
+        "question": "Who is responsible for scientific literacy in a democracy — scientists, journalists, educators, or citizens themselves?",
+        "suggested_answer": "All of them, in different ways — but if I had to prioritise, I'd focus on institutions rather than individuals. The question isn't really whether individual scientists communicate well or whether individual citizens are curious enough. It's whether the systems we've built make good science communication likely. That means: science journalism that has the resources and training to report accurately on uncertainty; education systems that teach how to evaluate evidence rather than just memorise facts; scientific advisory bodies with genuine independence from political communication. Individual responsibility matters, but structural incentives are usually more powerful than appeals to it. The most effective intervention is usually changing what the system rewards.",
+        "vocabulary_hints": ["structural incentives vs individual responsibility", "evaluate evidence rather than memorise facts", "genuine independence", "changing what the system rewards"],
+        "duration_seconds": 90
+      }
+    ]
+  }
+}

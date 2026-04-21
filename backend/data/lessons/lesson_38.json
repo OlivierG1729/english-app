@@ -1,0 +1,319 @@
+{
+  "id": "38",
+  "unit": 5,
+  "unit_title": "C1 Mastery & Consolidation",
+  "title": "The Verdict",
+  "level": "C1+",
+  "type": "dialogue",
+  "theme": "Justice, Doubt & Moral Uncertainty",
+  "reading_time": "6 min",
+  "content": {
+    "speakers": ["Juror 4 (Elena)", "Juror 7 (Dennis)", "Juror 11 (Priya)"],
+    "paragraphs": [
+      {
+        "speaker": "Elena",
+        "en": "I'm still not comfortable. We've been deliberating for three days, and I understand everyone wants to go home. But the standard isn't what's probable — it's beyond reasonable doubt. And I still have a reasonable doubt.",
+        "fr": "Je ne suis toujours pas à l'aise. Nous délibérons depuis trois jours, et je comprends que tout le monde veuille rentrer à la maison. Mais le critère n'est pas ce qui est probable — c'est au-delà de tout doute raisonnable. Et j'ai encore un doute raisonnable."
+      },
+      {
+        "speaker": "Dennis",
+        "en": "Elena, at some point reasonable doubt shades into permanent scepticism, and that isn't what the standard requires either. The prosecution has presented a coherent narrative supported by three independent witnesses and forensic evidence. The defence hasn't offered an alternative account — just raised a series of what-ifs. What exactly is the nature of your doubt?",
+        "fr": "Elena, à un moment donné, le doute raisonnable se transforme en scepticisme permanent, et ce n'est pas ce que le critère exige non plus. L'accusation a présenté un récit cohérent soutenu par trois témoins indépendants et des preuves médico-légales. La défense n'a pas offert de compte rendu alternatif — juste soulevé une série de et-si. Quelle est exactement la nature de votre doute ?"
+      },
+      {
+        "speaker": "Elena",
+        "en": "The eyewitness testimony. We know — it's well established in the research — that eyewitness testimony is the least reliable form of evidence. It's the single biggest contributor to wrongful convictions in countries where exonerations have been studied. One of the three witnesses saw the defendant from forty metres away, in poor lighting, under considerable stress. The second identified him only from a photo array compiled by investigators with a known interest in a conviction. These aren't what-ifs — these are documented vulnerabilities in the prosecution's case.",
+        "fr": "Le témoignage de témoin oculaire. Nous savons — c'est bien établi dans la recherche — que le témoignage de témoin oculaire est la forme de preuve la moins fiable. C'est le plus grand contributeur aux condamnations injustifiées dans les pays où les réhabilitations ont été étudiées. L'un des trois témoins a vu l'accusé à quarante mètres de distance, sous un faible éclairage, dans un état de stress considérable. Le second l'a identifié uniquement à partir d'un tableau de photos compilé par des enquêteurs ayant un intérêt connu dans une condamnation. Ce ne sont pas des et-si — ce sont des vulnérabilités documentées dans la cause de l'accusation."
+      },
+      {
+        "speaker": "Priya",
+        "en": "That's a fair point on the eyewitnesses, Elena, but I want to push back gently on the forensic evidence. The phone data places him in that vicinity at the relevant time. That's not eyewitness testimony — that's metadata from an independent source.",
+        "fr": "C'est un point valable sur les témoins oculaires, Elena, mais je veux m'opposer doucement sur les preuves médico-légales. Les données du téléphone le placent dans cette zone au moment pertinent. Ce n'est pas un témoignage de témoin oculaire — ce sont des métadonnées d'une source indépendante."
+      },
+      {
+        "speaker": "Elena",
+        "en": "I don't dispute the phone data. What I'm asking is whether the phone data, combined with compromised eyewitness testimony, meets the standard. Placing someone in a vicinity isn't the same as placing them at a scene. The forensic evidence establishes opportunity. It doesn't establish agency.",
+        "fr": "Je ne conteste pas les données du téléphone. Ce que je demande, c'est si les données du téléphone, combinées à un témoignage de témoin oculaire compromis, satisfont au critère. Placer quelqu'un dans une zone n'est pas la même chose que le placer sur une scène. Les preuves médico-légales établissent l'opportunité. Elles n'établissent pas l'agentivité."
+      },
+      {
+        "speaker": "Dennis",
+        "en": "So your position is that the combination of phone location data, three eyewitness identifications — however you qualify them — and the absence of any plausible alibi, is insufficient to convict beyond reasonable doubt?",
+        "fr": "Votre position est donc que la combinaison des données de localisation du téléphone, trois identifications de témoins oculaires — même si vous les qualifiez — et l'absence de tout alibi plausible, est insuffisante pour condamner au-delà de tout doute raisonnable ?"
+      },
+      {
+        "speaker": "Elena",
+        "en": "I'm saying I'm not certain. And I'm not required to be, but the question is whether my uncertainty is reasonable. I think it is. The research on wrongful convictions makes me fundamentally cautious about confident verdicts built substantially on eyewitness identification. We're not sending someone to prison for a year. We're looking at a mandatory minimum of fourteen years.",
+        "fr": "Je dis que je ne suis pas certaine. Et je ne suis pas obligée de l'être, mais la question est de savoir si mon incertitude est raisonnable. Je pense qu'elle l'est. La recherche sur les condamnations injustifiées me rend fondamentalement prudente quant aux verdicts confiants basés essentiellement sur l'identification par témoin oculaire. Nous n'envoyons pas quelqu'un en prison pour un an. Nous parlons d'un minimum obligatoire de quatorze ans."
+      },
+      {
+        "speaker": "Priya",
+        "en": "I hear that, Elena. And the weight of that should sit heavily. But I want to ask the other question: the victim's family has waited three years for this trial. If we acquit, and the defendant did commit this crime, that is also a profound injustice. There is no path here that avoids the possibility of being wrong.",
+        "fr": "Je vous entends, Elena. Et le poids de cela devrait peser lourdement. Mais je veux poser l'autre question : la famille de la victime attend ce procès depuis trois ans. Si nous acquittons, et que le défendeur a bien commis ce crime, c'est aussi une injustice profonde. Il n'y a pas de chemin ici qui évite la possibilité d'avoir tort."
+      },
+      {
+        "speaker": "Elena",
+        "en": "You're right. There is no clean path. What the standard does — what 'beyond reasonable doubt' does — is to specify which kind of error we as a society have decided is worse. It is better that ten guilty people go free than that one innocent person is convicted. That's not a statement about this case. It's the foundational premise of the system we're operating within.",
+        "fr": "Vous avez raison. Il n'y a pas de chemin propre. Ce que le critère fait — ce que « au-delà de tout doute raisonnable » fait — c'est de spécifier quelle sorte d'erreur nous, en tant que société, avons décidé est pire. Il vaut mieux que dix personnes coupables soient libres que qu'une personne innocente soit condamnée. Ce n'est pas une déclaration sur ce cas. C'est la prémisse fondamentale du système dans lequel nous opérons."
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "beyond reasonable doubt",
+        "phonetic": "/bɪˈjɒnd ˈriːznəbl daʊt/",
+        "type": "legal standard",
+        "definition_en": "le critère de preuve le plus élevé requis en droit pénal — le jury doit être sûr, pas simplement penser que c'est probable",
+        "definition_fr": "au-delà de tout doute raisonnable",
+        "example": "The jury must be satisfied beyond reasonable doubt before convicting.",
+        "level": "C1"
+      },
+      {
+        "word": "wrongful conviction",
+        "phonetic": "/ˈrɒŋfl kənˈvɪkʃn/",
+        "type": "noun phrase (law)",
+        "definition_en": "une condamnation pénale d'une personne qui est en réalité innocente",
+        "definition_fr": "condamnation injustifiée, erreur judiciaire",
+        "example": "Research into wrongful convictions highlights the unreliability of eyewitness testimony.",
+        "level": "C1"
+      },
+      {
+        "word": "exoneration",
+        "phonetic": "/ɪɡˌzɒnəˈreɪʃn/",
+        "type": "noun",
+        "definition_en": "la levée officielle de la culpabilité ou de la responsabilité pénale d'une personne",
+        "definition_fr": "réhabilitation, exonération",
+        "example": "DNA evidence has led to the exoneration of hundreds of wrongfully convicted individuals.",
+        "level": "C1"
+      },
+      {
+        "word": "photo array",
+        "phonetic": "/ˈfəʊtəʊ əˈreɪ/",
+        "type": "noun (law enforcement)",
+        "definition_en": "un ensemble de photographies présentées à un témoin pour identifier un suspect",
+        "definition_fr": "planche photographique, présentation de photos",
+        "example": "The photo array was compiled by investigators who knew who their primary suspect was.",
+        "level": "C1"
+      },
+      {
+        "word": "vicinity",
+        "phonetic": "/vɪˈsɪnɪti/",
+        "type": "noun",
+        "definition_en": "la zone proche ou entourant un lieu particulier",
+        "definition_fr": "proximité, voisinage, environs",
+        "example": "The phone data places him in the vicinity, but not at the specific location.",
+        "level": "B2"
+      },
+      {
+        "word": "agency",
+        "phonetic": "/ˈeɪdʒənsi/",
+        "type": "noun (philosophical/legal)",
+        "definition_en": "la capacité d'agir de manière indépendante et de faire des choix libres ; ici, la participation active à un acte spécifique",
+        "definition_fr": "agentivité, capacité d'agir, implication active",
+        "example": "The evidence establishes opportunity, not agency — he may have been there, but did he act?",
+        "level": "C1"
+      },
+      {
+        "word": "mandatory minimum",
+        "phonetic": "/ˈmændətəri ˈmɪnɪməm/",
+        "type": "noun phrase (law)",
+        "definition_en": "la peine minimale qu'un juge est tenu par la loi d'imposer pour une infraction spécifique",
+        "definition_fr": "peine minimale obligatoire",
+        "example": "The mandatory minimum for this offence is fourteen years.",
+        "level": "C1"
+      },
+      {
+        "word": "acquit",
+        "phonetic": "/əˈkwɪt/",
+        "type": "verb (law)",
+        "definition_en": "déclarer formellement quelqu'un non coupable d'une accusation pénale",
+        "definition_fr": "acquitter",
+        "example": "If the jury is not satisfied beyond reasonable doubt, they must acquit.",
+        "level": "B2"
+      },
+      {
+        "word": "foundational premise",
+        "phonetic": "/faʊnˈdeɪʃənl ˈpremɪs/",
+        "type": "noun phrase",
+        "definition_en": "une hypothèse de base sur laquelle repose un système de raisonnement ou un ensemble de croyances",
+        "definition_fr": "prémisse fondamentale",
+        "example": "The presumption of innocence is the foundational premise of criminal justice.",
+        "level": "C1"
+      },
+      {
+        "word": "coherent narrative",
+        "phonetic": "/kəʊˈhɪərənt ˈnærətɪv/",
+        "type": "noun phrase",
+        "definition_en": "un récit ou une histoire logiquement cohérent(e) qui tient sans contradiction interne",
+        "definition_fr": "récit cohérent",
+        "example": "The prosecution presented a coherent narrative — but coherence is not the same as truth.",
+        "level": "B2"
+      }
+    ],
+    "grammar_points": [
+      {
+        "title": "'At some point X shades into Y' — describing gradations and threshold effects",
+        "explanation": "**« Shades into »** décrit comment une qualité se transforme graduellement en une autre, rendant la frontière floue. Cela implique un continuum plutôt qu'une distinction nette.",
+        "examples": [
+          "'Reasonable doubt **shades into** permanent scepticism at some point.'",
+          "'Caution **shades into** paralysis when taken too far.'",
+          "'Critical thinking **shades into** cynicism if it never finds anything trustworthy.'",
+          "The phrase is more precise than 'becomes', because it captures gradual transition."
+        ]
+      },
+      {
+        "title": "'That's not a statement about X. That's Y.' — separating particular from general",
+        "explanation": "Cette structure distingue entre une **application spécifique** et le **principe général** qui la fonde. C'est un mouvement précis dans l'argumentation juridique et philosophique.",
+        "examples": [
+          "'**That's not a statement about** this case. **That's** the foundational premise of the system.'",
+          "'**I'm not saying** he did it. **I'm saying** the evidence doesn't prove it.'",
+          "'**This isn't** about personalities. **It's about** the process.'",
+          "Separating 'this case' from 'the principle' prevents conflation."
+        ]
+      },
+      {
+        "title": "'There is no path here that avoids the possibility of being wrong' — acknowledging irreducible moral risk",
+        "explanation": "Au niveau C1+, un raisonnement moral mature reconnaît qu'**aucune option n'est sans risque**, et que le choix se fait entre différents types d'erreur. Cette structure est essentielle pour une argumentation éthique nuancée.",
+        "examples": [
+          "'There is **no path** here that **avoids the possibility** of being wrong.'",
+          "'There is **no decision** that carries **no risk**.'",
+          "'Whatever we choose, **someone will be harmed**.'",
+          "Forcing this acknowledgement makes the argument more honest and more persuasive."
+        ]
+      }
+    ],
+    "expressions": [
+      {
+        "expression": "reasonable doubt",
+        "meaning_fr": "doute raisonnable",
+        "example": "The standard is beyond reasonable doubt — not beyond all conceivable doubt.",
+        "register": "legal / formal",
+        "note": "L'un des critères les plus importants en droit. « Reasonable » est crucial : un doute doit être fondé sur la raison et les preuves, pas sur la simple possibilité ou la spéculation."
+      },
+      {
+        "expression": "to establish opportunity vs agency",
+        "meaning_fr": "établir l'opportunité vs l'agentivité (l'implication active)",
+        "example": "The evidence establishes opportunity — he was there. It doesn't establish agency — that he acted.",
+        "register": "legal / analytical",
+        "note": "Une distinction juridique cruciale. Être présent sur une scène (opportunité) ne prouve pas la participation active (agentivité). Les deux doivent être établis pour une condamnation."
+      },
+      {
+        "expression": "it is better that ten guilty go free than one innocent be convicted",
+        "meaning_fr": "mieux vaut laisser dix coupables libres que condamner un innocent",
+        "example": "The standard exists because society has decided which error is worse.",
+        "register": "legal / philosophical",
+        "note": "Associé au juriste anglais William Blackstone (1765). Souvent appelé « le ratio de Blackstone ». Le nombre exact varie (5, 10, 100) mais le principe reste le même."
+      },
+      {
+        "expression": "the weight of that should sit heavily",
+        "meaning_fr": "le poids de cela devrait peser lourdement",
+        "example": "We're looking at fourteen years minimum. The weight of that should sit heavily.",
+        "register": "reflective / moral",
+        "note": "Utilisé pour rappeler à quelqu'un la gravité morale d'une décision. « Sit heavily » implique un fardeau qui est ressenti, pas seulement reconnu intellectuellement."
+      },
+      {
+        "expression": "documented vulnerabilities",
+        "meaning_fr": "vulnérabilités documentées, faiblesses établies par la recherche",
+        "example": "These aren't what-ifs — they're documented vulnerabilities in the prosecution's case.",
+        "register": "legal / analytical",
+        "note": "Utilisé pour ancrer un argument sceptique dans les preuves plutôt que dans la simple spéculation. « Documented » signale que la préoccupation a un soutien empirique."
+      }
+    ]
+  },
+  "exercises": {
+    "written": [
+      {
+        "id": "w1",
+        "type": "multiple_choice",
+        "question": "What is Elena's core argument for maintaining her not-guilty position?",
+        "options": [
+          "She believes the defendant is innocent.",
+          "She doesn't trust the prosecution's lawyers.",
+          "The eyewitness testimony has documented vulnerabilities that create a reasonable doubt.",
+          "She wants to delay the verdict to allow more evidence."
+        ],
+        "answer": 2,
+        "explanation": "Elena argues that eyewitness testimony is the least reliable form of evidence, and identifies specific vulnerabilities in the prosecution's witnesses — distance, lighting, stress, and a potentially biased photo array."
+      },
+      {
+        "id": "w2",
+        "type": "multiple_choice",
+        "question": "What is the significance of Elena's final statement about 'ten guilty people going free'?",
+        "options": [
+          "She is arguing that the defendant is guilty.",
+          "She is explaining the foundational principle that specifies which type of error the legal standard is designed to prevent.",
+          "She is being irrational under the pressure of deliberation.",
+          "She is arguing that the acquittal rate should be higher."
+        ],
+        "answer": 1,
+        "explanation": "'What the standard does... is to specify which kind of error we as a society have decided is worse. It is better that ten guilty go free than one innocent be convicted. That's the foundational premise of the system we're operating within.'"
+      },
+      {
+        "id": "w3",
+        "type": "fill_blank",
+        "sentence": "At some point, healthy scepticism ________ ________ ________ paralysing indecision.",
+        "answer": "shades into",
+        "hint": "A phrase meaning 'gradually transitions into'."
+      },
+      {
+        "id": "w4",
+        "type": "fill_blank",
+        "sentence": "The evidence establishes ________ — he was in the area. It doesn't establish that he was the perpetrator.",
+        "answer": "opportunity",
+        "hint": "A legal concept meaning 'the possibility to have committed the act' — distinct from active participation."
+      },
+      {
+        "id": "w5",
+        "type": "fill_blank",
+        "sentence": "There is no ________ here that entirely avoids the risk of ________ ________.",
+        "answer": "path / being wrong",
+        "hint": "A phrase acknowledging irreducible moral risk in difficult decisions."
+      },
+      {
+        "id": "w6",
+        "type": "translation",
+        "french": "Les preuves établissent l'opportunité — il était dans les environs. Elles n'établissent pas l'agentivité — qu'il ait agi.",
+        "suggested_answer": "The evidence establishes opportunity — he was in the vicinity. It doesn't establish agency — that he acted.",
+        "key_vocabulary": ["establishes opportunity", "in the vicinity", "doesn't establish agency"]
+      },
+      {
+        "id": "w7",
+        "type": "translation",
+        "french": "Il vaut mieux laisser dix personnes coupables libres qu'une innocente soit condamnée. Ce n'est pas une déclaration sur ce cas — c'est la prémisse fondamentale du système.",
+        "suggested_answer": "It is better that ten guilty people go free than that one innocent person is convicted. That's not a statement about this case — it's the foundational premise of the system.",
+        "key_vocabulary": ["ten guilty go free", "not a statement about this case", "foundational premise of the system"]
+      },
+      {
+        "id": "w8",
+        "type": "translation",
+        "french": "Il n'y a pas de chemin qui évite la possibilité d'avoir tort. La question est de savoir quelle sorte d'erreur nous avons décidé est pire.",
+        "suggested_answer": "There is no path that avoids the possibility of being wrong. The question is which kind of error we have decided is worse.",
+        "key_vocabulary": ["no path that avoids the possibility of being wrong", "which kind of error is worse"]
+      }
+    ],
+    "oral": [
+      {
+        "id": "o1",
+        "type": "read_aloud",
+        "instruction": "Read Elena's final speech. She is not emotional — she is precise and principled. The tone should be measured and resolute.",
+        "text": "What the standard does — what 'beyond reasonable doubt' does — is to specify which kind of error we as a society have decided is worse. It is better that ten guilty people go free than that one innocent person is convicted. That's not a statement about this case. It's the foundational premise of the system we're operating within.",
+        "focus": "The dashes around 'what beyond reasonable doubt does' create a self-interruption for emphasis. The final two short sentences should be delivered separately, with a pause between them.",
+        "phonetic_tips": ["reasonable: /ˈriːznəbl/", "foundational: /faʊnˈdeɪʃənl/", "convicted: /kənˈvɪktɪd/"]
+      },
+      {
+        "id": "o2",
+        "type": "answer_question",
+        "question": "Do you think the 'beyond reasonable doubt' standard is set at the right level? Could it be too high or too low?",
+        "suggested_answer": "The standard is a deliberately difficult one, and I think the principle behind it is right — in a system with asymmetric consequences, where conviction means serious incarceration, erring towards acquittal is the appropriate response to uncertainty. The question of whether it's calibrated correctly is more empirical than philosophical. If a significant proportion of acquittals are genuinely guilty people, we might say the standard is too high and is failing victims. If a significant proportion of convictions are later overturned, we'd say it's being applied too loosely. The data on wrongful convictions suggests the practical problem is not that the standard is too high, but that it's inconsistently applied — jury instructions are often unclear, and juries may not actually apply it rigorously in cases where they are confident without the evidence warranting that confidence.",
+        "vocabulary_hints": ["asymmetric consequences", "erring towards acquittal", "empirical rather than philosophical", "inconsistently applied", "jury instructions"],
+        "duration_seconds": 90
+      },
+      {
+        "id": "o3",
+        "type": "answer_question",
+        "question": "Elena mentions research showing eyewitness testimony is unreliable. How should findings from psychology and neuroscience influence legal procedure?",
+        "suggested_answer": "Significantly, in my view, and it's already happening in some jurisdictions. The research on eyewitness memory is extensive and robust — memory is reconstructive, not reproductive; it is shaped by post-event information, by stress, by the assumptions of questioners. The implications for legal procedure are fairly clear: blind photo arrays, where the administrator doesn't know who the suspect is; written instructions to witnesses about the possibility that the perpetrator isn't in the lineup; and — most importantly — judicial instructions to juries that explain the research rather than simply telling them to 'consider the witness's credibility'. Where I'd be cautious is in assuming that scientific findings translate cleanly into legal rules. The law has to balance efficiency with accuracy, and the right balance requires deliberation beyond what science alone can settle.",
+        "vocabulary_hints": ["reconstructive not reproductive", "blind photo arrays", "judicial instructions to juries", "translate cleanly into legal rules", "balance efficiency with accuracy"],
+        "duration_seconds": 120
+      }
+    ]
+  }
+}

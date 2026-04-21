@@ -1,0 +1,162 @@
+/* Header.css */
+.app-header {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  background: rgba(14, 17, 23, 0.92);
+  backdrop-filter: blur(12px);
+  border-bottom: 1px solid var(--border);
+}
+
+.header-inner {
+  max-width: 2400px;
+  margin: 0 auto;
+  padding: 0.75rem 1.5rem;
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+}
+
+.header-logo {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  text-decoration: none;
+  flex-shrink: 0;
+}
+
+.header-logo-icon {
+  font-size: 1.5rem;
+}
+
+.header-logo-text {
+  display: flex;
+  flex-direction: column;
+  line-height: 1.1;
+}
+
+.header-title {
+  font-family: var(--font-display);
+  font-size: 1.6rem;
+  font-weight: 700;
+  color: var(--text-primary);
+}
+
+.header-subtitle {
+  font-family: var(--font-mono);
+  font-size: 0.65rem;
+  color: var(--accent-gold);
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+/* Barre de progression */
+.header-progress {
+  flex: 1;
+  max-width: 300px;
+  margin-left: auto;
+}
+
+.header-progress-label {
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.72rem;
+  color: var(--text-muted);
+  margin-bottom: 0.3rem;
+  font-family: var(--font-mono);
+}
+
+.header-progress-pct {
+  color: var(--accent-gold);
+  font-weight: 600;
+}
+
+.header-progress-track {
+  height: 4px;
+  background: var(--bg-elevated);
+  border-radius: 2px;
+  overflow: hidden;
+}
+
+.header-progress-fill {
+  height: 100%;
+  background: linear-gradient(90deg, var(--accent-violet), var(--accent-teal));
+  border-radius: 2px;
+  transition: width 0.8s ease;
+}
+
+.header-back-btn {
+  flex-shrink: 0;
+  font-size: 0.85rem;
+}
+
+/* ─── Toggle thème ─────────────────────────────────────────── */
+.theme-toggle {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  cursor: pointer;
+  flex-shrink: 0;
+  user-select: none;
+}
+
+.theme-toggle-label {
+  font-size: 1.2rem;
+}
+
+.toggle-track {
+  width: 44px;
+  height: 24px;
+  border-radius: 12px;
+  background: linear-gradient(135deg, #d4c5a0, #e8dcc8);
+  position: relative;
+  transition: background 0.3s ease;
+  border: 1px solid rgba(0,0,0,0.1);
+}
+
+.toggle-track.dark {
+  background: linear-gradient(135deg, #2a3045, #3a4565);
+  border-color: rgba(255,255,255,0.1);
+}
+
+.toggle-thumb {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background: #fff;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+  position: absolute;
+  top: 1px;
+  left: 1px;
+  transition: transform 0.3s ease;
+}
+
+.toggle-track.dark .toggle-thumb {
+  transform: translateX(20px);
+  background: #1a1f2e;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.4);
+}
+
+@media (max-width: 768px) {
+  .header-inner {
+    padding: 0.5rem 0.75rem;
+    gap: 0.75rem;
+  }
+  .header-title {
+    font-size: 1.2rem;
+  }
+  .header-progress {
+    max-width: 200px;
+  }
+}
+
+@media (max-width: 480px) {
+  .header-progress { display: none; }
+  .header-inner { gap: 0.5rem; }
+  .header-title { font-size: 1rem; }
+  .header-subtitle { font-size: 0.55rem; }
+  .theme-toggle-label { font-size: 1rem; }
+  .toggle-track { width: 36px; height: 20px; }
+  .toggle-thumb { width: 16px; height: 16px; }
+  .toggle-track.dark .toggle-thumb { transform: translateX(16px); }
+}

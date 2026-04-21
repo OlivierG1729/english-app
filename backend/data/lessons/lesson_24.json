@@ -1,0 +1,316 @@
+{
+  "id": "24",
+  "unit": 3,
+  "unit_title": "Complex Issues & Nuanced Debates",
+  "title": "The Surveillance Question",
+  "level": "C1",
+  "type": "dialogue",
+  "theme": "Privacy, Technology & State Power",
+  "reading_time": "6 min",
+  "content": {
+    "speakers": ["Host", "Celine (Civil Liberties Lawyer)", "Marcus (Former Intelligence Analyst)"],
+    "paragraphs": [
+      {
+        "speaker": "Host",
+        "en": "Mass surveillance by governments is now a documented fact rather than a conspiracy theory, following the Snowden revelations and others. Has that changed the debate?",
+        "fr": "La surveillance de masse par les gouvernements est désormais un fait documenté plutôt qu'une théorie du complot, suite aux révélations Snowden et d'autres. Cela a-t-il changé le débat ?"
+      },
+      {
+        "speaker": "Celine",
+        "en": "It should have changed it more than it did. The extraordinary thing about the Snowden revelations is how quickly they were absorbed and normalised. There was a brief period of public outrage, some legislative adjustments in a few jurisdictions, and then... not much. The surveillance continued. The companies continued to cooperate. The public largely moved on.",
+        "fr": "Elles auraient dû le changer davantage qu'elles ne l'ont fait. Ce qui est extraordinaire dans les révélations Snowden, c'est la rapidité avec laquelle elles ont été absorbées et normalisées. Il y a eu une brève période d'indignation publique, quelques ajustements législatifs dans quelques juridictions, et puis... pas grand-chose. La surveillance a continué. Les entreprises ont continué à coopérer. Le public est largement passé à autre chose."
+      },
+      {
+        "speaker": "Marcus",
+        "en": "I'd offer a different reading. The surveillance infrastructure that was revealed was largely built after 9/11, in response to a genuine and urgent threat. The question isn't whether states should have the capability to monitor communications — they clearly need to — but where the oversight mechanisms are and whether they're functioning. The problem with what Snowden revealed was not that surveillance existed but that it was operating without adequate judicial oversight.",
+        "fr": "Je proposerais une lecture différente. L'infrastructure de surveillance qui a été révélée a été largement construite après le 11 septembre, en réponse à une menace réelle et urgente. La question n'est pas de savoir si les États devraient avoir la capacité de surveiller les communications — ils en ont clairement besoin — mais où sont les mécanismes de contrôle et s'ils fonctionnent. Le problème avec ce que Snowden a révélé n'était pas que la surveillance existait, mais qu'elle fonctionnait sans contrôle judiciaire adéquat."
+      },
+      {
+        "speaker": "Celine",
+        "en": "That framing concedes too much, in my view. The argument that we need mass surveillance infrastructure to counter terrorism has been used for forty years to justify capabilities that go far beyond anything a genuine counterterrorism operation requires. The metadata collection alone — who calls whom, when, how often — reveals the complete social graph of an individual. You don't need to read the content of messages to know that someone is having an affair, or attending a protest, or contacting a lawyer.",
+        "fr": "Ce cadrage concède trop, à mon avis. L'argument selon lequel nous avons besoin d'une infrastructure de surveillance de masse pour lutter contre le terrorisme est utilisé depuis quarante ans pour justifier des capacités qui vont bien au-delà de ce que nécessite une véritable opération antiterroriste. La collecte de métadonnées seule — qui appelle qui, quand, à quelle fréquence — révèle le graphe social complet d'un individu. On n'a pas besoin de lire le contenu des messages pour savoir que quelqu'un a une liaison, ou participe à une manifestation, ou contacte un avocat."
+      },
+      {
+        "speaker": "Marcus",
+        "en": "I'm not defending the absence of oversight — I think adequate oversight is essential. But I'd challenge the premise that all surveillance is equally problematic. There's a meaningful distinction between targeted surveillance of specific individuals on the basis of specific evidence — which I think is legitimate — and bulk collection of data on entire populations, which is much harder to defend.",
+        "fr": "Je ne défends pas l'absence de contrôle — je pense qu'un contrôle adéquat est essentiel. Mais je remettrais en question la prémisse selon laquelle toute surveillance est également problématique. Il y a une distinction significative entre la surveillance ciblée d'individus spécifiques sur la base de preuves spécifiques — ce qui me semble légitime — et la collecte massive de données sur des populations entières, ce qui est beaucoup plus difficile à défendre."
+      },
+      {
+        "speaker": "Celine",
+        "en": "I'd agree with that distinction in principle. The difficulty is that bulk collection is presented as the precondition for targeted surveillance — you need the haystack before you can find the needle. Once the infrastructure exists, it is almost impossible to keep it narrowly targeted, because the temptation and the capability to expand its use are both always present.",
+        "fr": "Je suis d'accord avec cette distinction en principe. La difficulté est que la collecte massive est présentée comme la condition préalable à la surveillance ciblée — il faut la meule de foin avant de pouvoir trouver l'aiguille. Une fois que l'infrastructure existe, il est presque impossible de la maintenir étroitement ciblée, car la tentation et la capacité d'élargir son utilisation sont toujours présentes."
+      },
+      {
+        "speaker": "Marcus",
+        "en": "That's a real risk, and the history of intelligence agencies suggests you're right to be sceptical about self-restraint. But the alternative — no capability at all — has its own costs. The question is not whether to have a knife, but who holds it and under what conditions.",
+        "fr": "C'est un risque réel, et l'histoire des agences de renseignement suggère que vous avez raison d'être sceptique quant à la maîtrise de soi. Mais l'alternative — aucune capacité du tout — a ses propres coûts. La question n'est pas de savoir s'il faut avoir un couteau, mais qui le tient et dans quelles conditions."
+      },
+      {
+        "speaker": "Celine",
+        "en": "I'd accept the knife metaphor, with one addition: in most democracies, we've handed the knife to institutions and then watched the oversight mechanisms slowly atrophy through a combination of secrecy, complexity and public indifference. Restoring those mechanisms requires treating privacy not as a preference but as a right — one that the state must actively justify infringing, not one that individuals must justify claiming.",
+        "fr": "J'accepterais la métaphore du couteau, avec un ajout : dans la plupart des démocraties, nous avons confié le couteau à des institutions et avons ensuite regardé les mécanismes de contrôle s'atrophier progressivement en raison d'une combinaison de secret, de complexité et d'indifférence du public. Restaurer ces mécanismes exige de traiter la vie privée non pas comme une préférence mais comme un droit — un droit que l'État doit activement justifier d'enfreindre, et non un droit que les individus doivent justifier de revendiquer."
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "oversight",
+        "phonetic": "/ˈəʊvəsaɪt/",
+        "type": "noun",
+        "definition_en": "Supervision et contrôle d'une institution ou d'un processus pour s'assurer qu'il fonctionne légalement et de manière appropriée",
+        "definition_fr": "contrôle, supervision, surveillance (institutionnelle)",
+        "example": "Independent judicial oversight of intelligence agencies is a cornerstone of democratic accountability.",
+        "level": "C1"
+      },
+      {
+        "word": "metadata",
+        "phonetic": "/ˈmetədeɪtə/",
+        "type": "noun",
+        "definition_en": "Données qui décrivent d'autres données — par exemple quand, où et à qui un message a été envoyé, pas son contenu",
+        "definition_fr": "métadonnées",
+        "example": "Metadata reveals patterns of behaviour even without access to the content of communications.",
+        "level": "B2"
+      },
+      {
+        "word": "to concede",
+        "phonetic": "/kənˈsiːd/",
+        "type": "verb",
+        "definition_en": "Admettre que quelque chose est vrai, surtout à contrecœur ; abandonner une position ou un point",
+        "definition_fr": "concéder, admettre (un point)",
+        "example": "I concede that the policy has produced some benefits, though not the ones intended.",
+        "level": "B2"
+      },
+      {
+        "word": "bulk collection",
+        "phonetic": "/bʌlk kəˈlekʃn/",
+        "type": "noun (intelligence jargon)",
+        "definition_en": "La collecte massive de données sur des populations entières, par opposition à la surveillance ciblée d'individus spécifiques",
+        "definition_fr": "collecte de masse (de données)",
+        "example": "Bulk collection of internet communications was at the heart of the Snowden revelations.",
+        "level": "C1"
+      },
+      {
+        "word": "to atrophy",
+        "phonetic": "/ˈætrəfi/",
+        "type": "verb",
+        "definition_en": "S'affaiblir et dépérir par manque d'utilisation ou de soin",
+        "definition_fr": "s'atrophier, dépérir, se dégrader faute d'être exercé",
+        "example": "Without active use, democratic institutions can atrophy over time.",
+        "level": "C1"
+      },
+      {
+        "word": "self-restraint",
+        "phonetic": "/self rɪˈstreɪnt/",
+        "type": "noun",
+        "definition_en": "La capacité de limiter volontairement son propre pouvoir ou comportement",
+        "definition_fr": "autodiscipline, maîtrise de soi, retenue",
+        "example": "History gives us little reason to expect self-restraint from unchecked institutions.",
+        "level": "B2"
+      },
+      {
+        "word": "to infringe",
+        "phonetic": "/ɪnˈfrɪndʒ/",
+        "type": "verb",
+        "definition_en": "Enfreindre ou violer activement un droit, une règle ou un accord",
+        "definition_fr": "enfreindre, porter atteinte à, violer",
+        "example": "The law was found to infringe the right to privacy.",
+        "level": "C1"
+      },
+      {
+        "word": "premise",
+        "phonetic": "/ˈpremɪs/",
+        "type": "noun",
+        "definition_en": "Un énoncé ou une hypothèse à partir duquel une conclusion est tirée ; la base d'un argument",
+        "definition_fr": "prémisse, postulat, hypothèse de base",
+        "example": "I'd challenge the premise that more data always leads to better security.",
+        "level": "C1"
+      },
+      {
+        "word": "normalised",
+        "phonetic": "/ˈnɔːməlaɪzd/",
+        "type": "adjective",
+        "definition_en": "Rendu normal ou acceptable en apparence, surtout quelque chose qui était auparavant considéré comme choquant",
+        "definition_fr": "normalisé, banalisé",
+        "example": "The constant tracking of location data has been rapidly normalised.",
+        "level": "B2"
+      },
+      {
+        "word": "indifference",
+        "phonetic": "/ɪnˈdɪfrəns/",
+        "type": "noun",
+        "definition_en": "Manque d'intérêt, de préoccupation ou de sympathie",
+        "definition_fr": "indifférence",
+        "example": "Public indifference to surveillance is itself a product of its invisibility.",
+        "level": "B2"
+      }
+    ],
+    "grammar_points": [
+      {
+        "title": "'That framing concedes too much' — critiquing an opponent's conceptual framework",
+        "explanation": "Dans un débat sophistiqué, on peut contester non seulement ce que quelqu'un dit mais **la façon dont il a cadré la question** — la structure conceptuelle qu'il a utilisée. Des expressions comme 'that framing', 'that premise' et 'that characterisation' sont des outils essentiels.",
+        "examples": [
+          "'**That framing** concedes too much, in my view.'",
+          "'I'd challenge **the premise** that all surveillance is equally problematic.'",
+          "'**The question as you've posed it** assumes X, but I'd argue the real question is Y.'",
+          "'**That characterisation** is useful but incomplete.'",
+          "These moves signal analytical depth and are essential at C1 in academic and professional debate."
+        ]
+      },
+      {
+        "title": "'I'd agree with that distinction in principle' — qualified agreement",
+        "explanation": "Au niveau C1, **l'accord partiel** est plus puissant que l'accord total ou le rejet total. 'In principle' signale que vous acceptez un cadre tout en vous réservant le droit de questionner son application.",
+        "examples": [
+          "'I'd **agree with that distinction in principle**. The difficulty is...'",
+          "'**That's a fair point**, as far as it goes.'",
+          "'**In theory, yes**. In practice, however...'",
+          "'**I take your point**, but the implementation raises concerns.'",
+          "These formulas allow you to advance the debate rather than simply defending your position."
+        ]
+      },
+      {
+        "title": "'Not one that individuals must justify claiming' — passive gerund for rights language",
+        "explanation": "Dans le discours sur les droits, l'anglais utilise un schéma spécifique : **'X that someone must justify doing'** — construction passive + gérondif + complément d'objet. Cela capture précisément qui porte le fardeau de la justification.",
+        "examples": [
+          "'A right that the **state must justify infringing**, not one that **individuals must justify claiming**.'",
+          "'Detention is something that **authorities must justify imposing**, not something that **citizens must justify resisting**.'",
+          "'Privacy is something to be **actively protected**, not merely **passively assumed**.'",
+          "This structure is essential in legal English and human rights discourse."
+        ]
+      }
+    ],
+    "expressions": [
+      {
+        "expression": "to challenge a premise",
+        "meaning_fr": "remettre en question une prémisse, contester les fondements d'un argument",
+        "example": "I'd challenge the premise that surveillance is necessary for security.",
+        "register": "formal / academic debate",
+        "note": "Attaque non pas la conclusion mais l'hypothèse sur laquelle un argument est construit. Plus sophistiqué que simplement être en désaccord."
+      },
+      {
+        "expression": "the haystack / the needle",
+        "meaning_fr": "la meule de foin / l'aiguille",
+        "example": "Bulk collection is presented as the precondition for targeted surveillance — you need the haystack to find the needle.",
+        "register": "informal / metaphorical",
+        "note": "L'expression 'needle in a haystack' = quelque chose d'extrêmement difficile à trouver. Ici, elle est adaptée : la meule de foin (données de masse) est présentée comme nécessaire pour trouver l'aiguille (le suspect)."
+      },
+      {
+        "expression": "to move on",
+        "meaning_fr": "passer à autre chose, tourner la page",
+        "example": "After the initial outrage, the public largely moved on.",
+        "register": "neutral / informal",
+        "note": "Cesser de prêter attention à quelque chose ou de s'en inquiéter. Souvent légèrement péjoratif quand utilisé pour décrire l'oubli collectif d'un problème important."
+      },
+      {
+        "expression": "who holds it and under what conditions",
+        "meaning_fr": "qui le détient et dans quelles conditions",
+        "example": "The question is not whether to have a knife, but who holds it and under what conditions.",
+        "register": "analytical / metaphorical",
+        "note": "Une formule pour recadrer un débat binaire ('should we have X?') en une question de gouvernance plus nuancée ('how should X be controlled?')."
+      },
+      {
+        "expression": "atrophy through neglect",
+        "meaning_fr": "s'atrophier par négligence, dépérir faute d'entretien",
+        "example": "Oversight mechanisms atrophy through a combination of secrecy, complexity and indifference.",
+        "register": "formal / analytical",
+        "note": "Vient de la biologie (atrophie musculaire). Utilisé métaphoriquement pour les institutions, droits, habitudes ou compétences qui s'affaiblissent par manque d'usage."
+      }
+    ]
+  },
+  "exercises": {
+    "written": [
+      {
+        "id": "w1",
+        "type": "multiple_choice",
+        "question": "What is Celine's main criticism of Marcus's 'oversight' framing?",
+        "options": [
+          "She believes judicial oversight is unnecessary.",
+          "She argues that the framing concedes too much by accepting surveillance infrastructure as legitimate.",
+          "She thinks oversight bodies are already functioning well.",
+          "She denies that the Snowden revelations were accurate."
+        ],
+        "answer": 1,
+        "explanation": "Celine says 'that framing concedes too much' — she objects to accepting the need for mass surveillance infrastructure in the first place, not merely arguing for better oversight."
+      },
+      {
+        "id": "w2",
+        "type": "multiple_choice",
+        "question": "What does Celine mean by 'treating privacy as a right, not a preference'?",
+        "options": [
+          "Privacy should be a guaranteed service provided by the state.",
+          "The state should have to justify intruding on privacy, not citizens justify claiming it.",
+          "Privacy laws should be written into every constitution.",
+          "Individuals should pay less attention to social media."
+        ],
+        "answer": 1,
+        "explanation": "Celine's final statement: 'a right that the state must actively justify infringing, not one that individuals must justify claiming' — the burden of justification should be on the state, not the citizen."
+      },
+      {
+        "id": "w3",
+        "type": "fill_blank",
+        "sentence": "I'd ________ the ________ that economic growth always reduces inequality.",
+        "answer": "challenge / premise",
+        "hint": "Two-word expression for contesting the fundamental assumption of an argument."
+      },
+      {
+        "id": "w4",
+        "type": "fill_blank",
+        "sentence": "I'd agree with that distinction ________ ________ — the difficulty is the implementation.",
+        "answer": "in principle",
+        "hint": "An expression signalling qualified agreement — accepting the idea while questioning its application."
+      },
+      {
+        "id": "w5",
+        "type": "fill_blank",
+        "sentence": "Institutions that are not actively maintained tend to ________ through a combination of neglect and complexity.",
+        "answer": "atrophy",
+        "hint": "A verb meaning 'to weaken and waste away through lack of use'."
+      },
+      {
+        "id": "w6",
+        "type": "translation",
+        "french": "Ce cadrage concède trop à mon avis — la question n'est pas de savoir si la surveillance ciblée est légitime, mais si la collecte de masse peut jamais être justifiée.",
+        "suggested_answer": "That framing concedes too much, in my view — the question is not whether targeted surveillance is legitimate, but whether bulk collection can ever be justified.",
+        "key_vocabulary": ["That framing concedes too much", "targeted surveillance vs bulk collection"]
+      },
+      {
+        "id": "w7",
+        "type": "translation",
+        "french": "La question n'est pas de savoir s'il faut avoir cet outil, mais qui le détient et dans quelles conditions.",
+        "suggested_answer": "The question is not whether to have this tool, but who holds it and under what conditions.",
+        "key_vocabulary": ["not whether to... but who holds it and under what conditions"]
+      },
+      {
+        "id": "w8",
+        "type": "translation",
+        "french": "La vie privée est un droit que l'État doit justifier d'enfreindre, et non quelque chose que les individus doivent justifier de revendiquer.",
+        "suggested_answer": "Privacy is a right that the state must justify infringing, not something that individuals must justify claiming.",
+        "key_vocabulary": ["a right that the state must justify infringing", "not something that individuals must justify claiming"]
+      }
+    ],
+    "oral": [
+      {
+        "id": "o1",
+        "type": "read_aloud",
+        "instruction": "Read Celine's final speech. This is the conclusion of a sophisticated legal argument — precise, principled, and deliberately constructed.",
+        "text": "Restoring those mechanisms requires treating privacy not as a preference but as a right — one that the state must actively justify infringing, not one that individuals must justify claiming.",
+        "focus": "The contrast 'not as a preference but as a right' is the pivot. The two parallel clauses after the dash are constructed symmetrically — give them equal weight.",
+        "phonetic_tips": ["mechanisms: /ˈmekənɪzəmz/", "infringing: /ɪnˈfrɪndʒɪŋ/", "actively: stress on AC"]
+      },
+      {
+        "id": "o2",
+        "type": "answer_question",
+        "question": "Do you have concerns about your digital privacy? What trade-offs are you personally willing to make?",
+        "suggested_answer": "Honestly, I think most people — including me — have accepted a level of surveillance that we would have found alarming ten years ago, largely because it's invisible and the services it enables feel valuable. I use a smartphone, I use search engines, I use social media. All of those involve significant data collection. The trade-off I've implicitly made is convenience for privacy, and I'm not sure it was a fully informed choice. What concerns me most isn't the data itself but who might access it and under what circumstances. The issue isn't that Google knows where I go — it's that a government, or a future government, might be able to use that information against me in ways I haven't anticipated.",
+        "vocabulary_hints": ["invisible surveillance", "implicitly made", "fully informed choice", "under what circumstances", "in ways I haven't anticipated"],
+        "duration_seconds": 90
+      },
+      {
+        "id": "o3",
+        "type": "answer_question",
+        "question": "Is mass surveillance a necessary evil, or is it simply incompatible with a free society? Is the security/liberty trade-off real?",
+        "suggested_answer": "I think the trade-off is real but it's often presented as more binary than it is. The genuine question is not 'surveillance or no surveillance' but what oversight mechanisms make it compatible with democratic rights. The problem is that the trade-off is never presented honestly to the public — security agencies present surveillance as necessary without disclosing the scale or the alternatives, which makes informed democratic debate impossible. If the trade-off is real, citizens should at least be able to decide how to make it. What we have instead is a system in which the trade-off was made on our behalf, in secret, by people with an institutional interest in maximising their own surveillance capabilities. That's not a trade-off — it's an appropriation.",
+        "vocabulary_hints": ["binary trade-off", "oversight mechanisms", "informed democratic debate", "institutional interest in maximising", "appropriation"],
+        "duration_seconds": 120
+      }
+    ]
+  }
+}

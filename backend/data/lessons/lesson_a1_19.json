@@ -1,0 +1,281 @@
+{
+  "id": "a1_19",
+  "unit": 8,
+  "unit_title": "Getting Confident",
+  "title": "The New Student",
+  "level": "A1",
+  "type": "dialogue",
+  "theme": "Meeting People & Past",
+  "reading_time": "3 min",
+  "content": {
+    "paragraphs": [
+      {
+        "en": "Good morning, everyone! This is Maya. She is a new student in our class. Maya, please tell us about yourself.",
+        "fr": "Bonjour a tous ! Voici Maya. C'est une nouvelle eleve dans notre classe. Maya, s'il te plait, parle-nous de toi.",
+        "speaker": "Teacher"
+      },
+      {
+        "en": "Hello! My name is Maya. I moved here last month with my family. Before, I lived in Canada. I spoke English and French there.",
+        "fr": "Bonjour ! Je m'appelle Maya. J'ai demenage ici le mois dernier avec ma famille. Avant, j'habitais au Canada. Je parlais anglais et francais la-bas.",
+        "speaker": "Maya"
+      },
+      {
+        "en": "That's cool! Where did you live in Canada? Did you like it there?",
+        "fr": "C'est cool ! Ou est-ce que tu habitais au Canada ? Tu aimais la-bas ?",
+        "speaker": "Liam"
+      },
+      {
+        "en": "I lived in Montreal. Yes, I liked it a lot! But my dad got a new job here, so we moved. It was very different at first.",
+        "fr": "J'habitais a Montreal. Oui, j'aimais beaucoup ! Mais mon papa a eu un nouveau travail ici, alors nous avons demenage. C'etait tres different au debut.",
+        "speaker": "Maya"
+      },
+      {
+        "en": "Were you worried about the new school? I was worried when I changed schools too.",
+        "fr": "Tu etais inquiete pour la nouvelle ecole ? Moi aussi j'etais inquiet quand j'ai change d'ecole.",
+        "speaker": "Liam"
+      },
+      {
+        "en": "Yes, I was a little worried. But everyone here is very friendly and welcoming. I feel much better now. Thank you!",
+        "fr": "Oui, j'etais un peu inquiete. Mais tout le monde ici est tres gentil et accueillant. Je me sens beaucoup mieux maintenant. Merci !",
+        "speaker": "Maya"
+      },
+      {
+        "en": "Welcome to our class, Maya! Don't worry, you are going to love it here. We are happy to have you!",
+        "fr": "Bienvenue dans notre classe, Maya ! Ne t'inquiete pas, tu vas adorer ici. Nous sommes contents de t'avoir !",
+        "speaker": "Teacher"
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "moved",
+        "phonetic": "/muːvd/",
+        "type": "verb (past)",
+        "definition_en": "passe de 'move' — aller vivre dans un autre endroit",
+        "definition_fr": "a demenage",
+        "example": "We moved to a new city last year.",
+        "level": "A1"
+      },
+      {
+        "word": "before",
+        "phonetic": "/bɪˈfɔːr/",
+        "type": "adverb",
+        "definition_en": "a un moment plus tot, dans le passe",
+        "definition_fr": "avant, auparavant",
+        "example": "Before, I lived in Canada.",
+        "level": "A1"
+      },
+      {
+        "word": "country",
+        "phonetic": "/ˈkʌntri/",
+        "type": "noun",
+        "definition_en": "un territoire avec son propre gouvernement, comme la France ou le Canada",
+        "definition_fr": "pays",
+        "example": "Canada is a very big country.",
+        "level": "A1"
+      },
+      {
+        "word": "lived",
+        "phonetic": "/lɪvd/",
+        "type": "verb (past)",
+        "definition_en": "passe de 'live' — avoir sa maison dans un endroit",
+        "definition_fr": "a habite, habitait",
+        "example": "I lived in Montreal for five years.",
+        "level": "A1"
+      },
+      {
+        "word": "spoke",
+        "phonetic": "/spoʊk/",
+        "type": "verb (past)",
+        "definition_en": "passe de 'speak' — utiliser une langue ou parler",
+        "definition_fr": "a parle, parlait",
+        "example": "She spoke French and English in Canada.",
+        "level": "A1"
+      },
+      {
+        "word": "different",
+        "phonetic": "/ˈdɪfərənt/",
+        "type": "adjective",
+        "definition_en": "pas pareil qu'une autre chose ou personne",
+        "definition_fr": "different(e)",
+        "example": "The new school was very different from my old one.",
+        "level": "A1"
+      },
+      {
+        "word": "worried",
+        "phonetic": "/ˈwʌrid/",
+        "type": "adjective",
+        "definition_en": "qui se sent anxieux ou preoccupe par quelque chose",
+        "definition_fr": "inquiet / inquiete",
+        "example": "I was worried about the exam.",
+        "level": "A1"
+      },
+      {
+        "word": "friendly",
+        "phonetic": "/ˈfrɛndli/",
+        "type": "adjective",
+        "definition_en": "gentil et agreable avec les autres",
+        "definition_fr": "gentil(le), amical(e)",
+        "example": "The people here are very friendly.",
+        "level": "A1"
+      },
+      {
+        "word": "welcome",
+        "phonetic": "/ˈwɛlkəm/",
+        "type": "adjective / noun",
+        "definition_en": "recu avec plaisir ; une salutation pour quelqu'un qui arrive",
+        "definition_fr": "bienvenu(e) ; accueil",
+        "example": "Welcome to our school!",
+        "level": "A1"
+      }
+    ],
+    "grammar_points": [
+      {
+        "title": "Past simple questions with 'did'",
+        "explanation": "Pour poser des questions au passe, on utilise **Did + sujet + forme de base** du verbe (PAS la forme du passe). 'Did' est le meme pour tous les sujets. Pour les questions en 'Wh-', on met le mot interrogatif en premier : **Where did you live?**",
+        "examples": [
+          "Did you like it? = Est-ce que tu aimais ? (NOT: Did you liked it?)",
+          "Where did you live? = Ou est-ce que tu habitais ?",
+          "Did she speak French? = Est-ce qu'elle parlait francais ?",
+          "What did you do there? = Qu'est-ce que tu faisais la-bas ?"
+        ]
+      },
+      {
+        "title": "Past simple of 'be' in questions",
+        "explanation": "Pour les questions avec 'was/were', on **inverse simplement le sujet et le verbe** : Was she worried? Were they happy? On n'utilise PAS 'did' avec 'was/were'.",
+        "examples": [
+          "Were you worried? = Tu etais inquiet(e) ? (NOT: Did you be worried?)",
+          "Was it different? = C'etait different ?",
+          "Was she happy? = Elle etait contente ?",
+          "Where were you yesterday? = Ou etais-tu hier ?"
+        ]
+      }
+    ],
+    "expressions": [
+      {
+        "expression": "Where are you from?",
+        "meaning_fr": "D'ou viens-tu ? / D'ou venez-vous ?",
+        "example": "Where are you from? — I'm from Canada.",
+        "register": "neutral",
+        "note": "La facon la plus courante de demander a quelqu'un d'ou il vient (pays ou ville)."
+      },
+      {
+        "expression": "I used to live in...",
+        "meaning_fr": "J'habitais a... / Je vivais a... (avant)",
+        "example": "I used to live in Montreal, but now I live here.",
+        "register": "neutral",
+        "note": "'Used to' decrit quelque chose qui etait vrai dans le passe mais qui ne l'est plus maintenant. Cette forme n'existe qu'au passe."
+      },
+      {
+        "expression": "Don't worry",
+        "meaning_fr": "Ne t'inquiete pas / Ne vous inquietez pas",
+        "example": "Don't worry, everything will be fine!",
+        "register": "informal",
+        "note": "S'utilise pour rassurer quelqu'un qui est anxieux ou nerveux."
+      }
+    ]
+  },
+  "exercises": {
+    "written": [
+      {
+        "id": "w1",
+        "type": "multiple_choice",
+        "question": "Where did Maya live before?",
+        "options": [
+          "She lived in France.",
+          "She lived in the USA.",
+          "She lived in Canada.",
+          "She lived in England."
+        ],
+        "answer": 2,
+        "explanation": "Maya says 'Before, I lived in Canada.'"
+      },
+      {
+        "id": "w2",
+        "type": "multiple_choice",
+        "question": "Which question is correct?",
+        "options": [
+          "Where did you lived?",
+          "Where you did live?",
+          "Where did you live?",
+          "Where did you lives?"
+        ],
+        "answer": 2,
+        "explanation": "Past simple questions use: Did + subject + base form. So: 'Where did you live?' (NOT 'lived')."
+      },
+      {
+        "id": "w3",
+        "type": "multiple_choice",
+        "question": "How do you ask 'Tu etais inquiet(e) ?' in English?",
+        "options": [
+          "Did you were worried?",
+          "Were you worried?",
+          "Was you worried?",
+          "Did you worried?"
+        ],
+        "answer": 1,
+        "explanation": "With 'be', we don't use 'did'. We reverse subject and verb: 'Were you worried?'"
+      },
+      {
+        "id": "w4",
+        "type": "fill_blank",
+        "sentence": "________ you like your old school? — Yes, I liked it a lot.",
+        "answer": "Did",
+        "hint": "Use the helping verb for past simple questions."
+      },
+      {
+        "id": "w5",
+        "type": "fill_blank",
+        "sentence": "Where ________ she live before? — She lived in Montreal.",
+        "answer": "did",
+        "hint": "Use the helping verb for past simple questions with 'Wh-' words."
+      },
+      {
+        "id": "w6",
+        "type": "fill_blank",
+        "sentence": "________ you worried about the new school? — Yes, I was a little worried.",
+        "answer": "Were",
+        "hint": "With 'be' in the past, just reverse the subject and verb. 'You' uses which form of 'be'?"
+      },
+      {
+        "id": "w7",
+        "type": "translation",
+        "french": "Ou est-ce que tu habitais avant ? J'habitais au Canada.",
+        "suggested_answer": "Where did you live before? I lived in Canada.",
+        "key_vocabulary": ["where did", "live", "before"]
+      },
+      {
+        "id": "w8",
+        "type": "translation",
+        "french": "Est-ce que tu aimais ton ancienne ecole ?",
+        "suggested_answer": "Did you like your old school?",
+        "key_vocabulary": ["did", "like", "old school"]
+      }
+    ],
+    "oral": [
+      {
+        "id": "o1",
+        "type": "read_aloud",
+        "instruction": "Read this dialogue aloud. Try to use natural intonation for questions.",
+        "text": "Where did you live before? — I lived in Montreal. Did you like it there? — Yes, I liked it a lot! Were you worried about the new school? — Yes, a little, but everyone is very friendly.",
+        "focus": "Questions go UP in intonation at the end: 'Did you LIKE it?' Questions with Wh- words go DOWN: 'WHERE did you live?'",
+        "phonetic_tips": ["worried: /ˈwʌrid/", "friendly: /ˈfrɛndli/", "Montreal: /ˌmʌntriˈɔːl/"]
+      },
+      {
+        "id": "o2",
+        "type": "answer_question",
+        "question": "Imagine you are a new student. Where did you live before? Did you like your old school?",
+        "suggested_answer": "Before, I lived in Paris. I liked my old school a lot because my friends were there. I was a little worried about the new school, but the teacher was very friendly.",
+        "vocabulary_hints": ["I lived in...", "I liked...", "I was worried", "friendly"],
+        "duration_seconds": 45
+      },
+      {
+        "id": "o3",
+        "type": "answer_question",
+        "question": "Ask me three questions about my past using 'did' or 'was/were'.",
+        "suggested_answer": "Where did you live before? Did you like your old school? Were you happy there?",
+        "vocabulary_hints": ["Where did you...?", "Did you...?", "Were you...?"],
+        "duration_seconds": 30
+      }
+    ]
+  }
+}

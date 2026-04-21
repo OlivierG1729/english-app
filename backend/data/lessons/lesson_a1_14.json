@@ -1,0 +1,270 @@
+{
+  "id": "a1_14",
+  "unit": 7,
+  "unit_title": "Everyday Life",
+  "title": "At the Doctor's",
+  "level": "A1",
+  "type": "dialogue",
+  "theme": "Health & Body Parts",
+  "reading_time": "3 min",
+  "content": {
+    "paragraphs": [
+      {
+        "en": "Ben does not feel well today. He has a headache and his stomach hurts. His mum takes him to the doctor. They sit in the waiting room for ten minutes.",
+        "fr": "Ben ne se sent pas bien aujourd'hui. Il a mal a la tete et il a mal au ventre. Sa maman l'emmene chez le medecin. Ils s'assoient dans la salle d'attente pendant dix minutes."
+      },
+      {
+        "en": "Hello Ben. Come in and sit down. What's the matter?",
+        "fr": "Bonjour Ben. Entre et assieds-toi. Qu'est-ce qui ne va pas ?",
+        "speaker": "Doctor"
+      },
+      {
+        "en": "I don't feel well, doctor. I have a headache and my stomach hurts.",
+        "fr": "Je ne me sens pas bien, docteur. J'ai mal a la tete et j'ai mal au ventre.",
+        "speaker": "Ben"
+      },
+      {
+        "en": "I see. Do you have a fever? Do you feel hot?",
+        "fr": "Je vois. Est-ce que tu as de la fievre ? Tu te sens chaud ?",
+        "speaker": "Doctor"
+      },
+      {
+        "en": "Yes, I think so. I feel very hot and very tired. I also have a cough.",
+        "fr": "Oui, je crois. Je me sens tres chaud et tres fatigue. J'ai aussi de la toux.",
+        "speaker": "Ben"
+      },
+      {
+        "en": "Let me check. Yes, you have a small fever. It's not too bad. When did the pain start?",
+        "fr": "Laisse-moi verifier. Oui, tu as un peu de fievre. Ce n'est pas trop grave. Quand la douleur a-t-elle commence ?",
+        "speaker": "Doctor"
+      },
+      {
+        "en": "Yesterday evening. I had a big headache and I couldn't sleep well.",
+        "fr": "Hier soir. J'avais un gros mal de tete et je n'arrivais pas bien a dormir.",
+        "speaker": "Ben"
+      },
+      {
+        "en": "OK. You should rest at home for two days. You should drink a lot of water and take this medicine three times a day. You should not go to school tomorrow.",
+        "fr": "D'accord. Tu devrais te reposer a la maison pendant deux jours. Tu devrais boire beaucoup d'eau et prendre ce medicament trois fois par jour. Tu ne devrais pas aller a l'ecole demain.",
+        "speaker": "Doctor"
+      },
+      {
+        "en": "Thank you, doctor. I will rest.",
+        "fr": "Merci, docteur. Je vais me reposer.",
+        "speaker": "Ben"
+      },
+      {
+        "en": "Ben's mum takes him home. He rests on the sofa, drinks some water, and takes his medicine. After two days, Ben feels much better. His headache is gone and his stomach does not hurt any more.",
+        "fr": "La maman de Ben le ramene a la maison. Il se repose sur le canape, boit de l'eau et prend son medicament. Apres deux jours, Ben se sent beaucoup mieux. Son mal de tete a disparu et il n'a plus mal au ventre."
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "headache",
+        "phonetic": "/ˈhedeɪk/",
+        "type": "noun",
+        "definition_en": "une douleur dans la tete",
+        "definition_fr": "mal de tete",
+        "example": "I have a terrible headache. I need to rest.",
+        "level": "A1"
+      },
+      {
+        "word": "stomach",
+        "phonetic": "/ˈstʌmək/",
+        "type": "noun",
+        "definition_en": "la partie du corps ou va la nourriture quand on mange",
+        "definition_fr": "estomac, ventre",
+        "example": "My stomach hurts after eating too much.",
+        "level": "A1"
+      },
+      {
+        "word": "cough",
+        "phonetic": "/kɒf/",
+        "type": "noun/verb",
+        "definition_en": "expulser de l'air de sa gorge avec un bruit soudain",
+        "definition_fr": "toux / tousser",
+        "example": "She has a bad cough. She coughs all night.",
+        "level": "A1"
+      },
+      {
+        "word": "medicine",
+        "phonetic": "/ˈmedsɪn/",
+        "type": "noun",
+        "definition_en": "quelque chose que l'on prend pour se sentir mieux quand on est malade",
+        "definition_fr": "medicament",
+        "example": "Take this medicine twice a day after meals.",
+        "level": "A1"
+      },
+      {
+        "word": "tired",
+        "phonetic": "/taɪərd/",
+        "type": "adjective",
+        "definition_en": "qui a besoin de repos ou de sommeil",
+        "definition_fr": "fatigue(e)",
+        "example": "I am very tired. I want to go to bed.",
+        "level": "A1"
+      },
+      {
+        "word": "fever",
+        "phonetic": "/ˈfiːvər/",
+        "type": "noun",
+        "definition_en": "une temperature du corps elevee quand on est malade",
+        "definition_fr": "fievre",
+        "example": "He has a fever. His temperature is 39 degrees.",
+        "level": "A1"
+      },
+      {
+        "word": "rest",
+        "phonetic": "/rest/",
+        "type": "verb/noun",
+        "definition_en": "se detendre ou dormir pour aller mieux",
+        "definition_fr": "se reposer / repos",
+        "example": "You should rest in bed for a few days.",
+        "level": "A1"
+      },
+      {
+        "word": "pain",
+        "phonetic": "/peɪn/",
+        "type": "noun",
+        "definition_en": "une sensation de souffrance physique causee par une maladie ou une blessure",
+        "definition_fr": "douleur",
+        "example": "I have a pain in my back. It really hurts.",
+        "level": "A1"
+      }
+    ],
+    "grammar_points": [
+      {
+        "title": "'My ... hurts' and 'I have a...'",
+        "explanation": "Pour parler de problemes de sante, on utilise deux structures : **'My [body part] hurts'** (= j'ai mal a...) et **'I have a [symptom]'** (= j'ai un/une...). 'Hurts' utilise la 3e personne du singulier car la partie du corps est le sujet.",
+        "examples": [
+          "My head hurts. = I have a headache. (J'ai mal a la tete.)",
+          "My stomach hurts. (J'ai mal au ventre.)",
+          "I have a fever. (J'ai de la fievre.)",
+          "I have a cough. (J'ai de la toux.)"
+        ]
+      },
+      {
+        "title": "'You should...' for Advice",
+        "explanation": "On utilise **'should'** pour donner des conseils. Cela signifie 'c'est une bonne idee de...'. Apres 'should', on utilise la base verbale (sans 'to'). La forme negative est **'should not'** ou **'shouldn't'**.",
+        "examples": [
+          "You should rest at home. (= it's a good idea to rest)",
+          "You should drink a lot of water.",
+          "You should not go to school tomorrow. (= it's a bad idea)",
+          "You shouldn't eat too much sugar."
+        ]
+      }
+    ],
+    "expressions": [
+      {
+        "expression": "What's the matter?",
+        "meaning_fr": "Qu'est-ce qui ne va pas ? / Quel est le probleme ?",
+        "example": "You look sad. What's the matter?",
+        "register": "neutral",
+        "note": "Une facon tres courante de demander a quelqu'un ce qui ne va pas. On dit aussi : 'What's wrong?'"
+      },
+      {
+        "expression": "I don't feel well.",
+        "meaning_fr": "Je ne me sens pas bien.",
+        "example": "I don't feel well. I think I have a fever.",
+        "register": "neutral",
+        "note": "La facon la plus courante de dire que l'on est malade. On dit aussi : 'I feel sick.'"
+      },
+      {
+        "expression": "You should rest.",
+        "meaning_fr": "Tu devrais te reposer.",
+        "example": "You look tired. You should rest for a while.",
+        "register": "neutral",
+        "note": "'Should' s'utilise pour donner un conseil amical, pas un ordre strict."
+      }
+    ]
+  },
+  "exercises": {
+    "written": [
+      {
+        "id": "w1",
+        "type": "multiple_choice",
+        "question": "What is wrong with Ben?",
+        "options": [
+          "He has a headache and a cough.",
+          "He has a headache, a stomach pain, a fever and a cough.",
+          "He only has a fever.",
+          "He has a broken arm."
+        ],
+        "answer": 1,
+        "explanation": "Ben says he has a headache, his stomach hurts, he feels hot (fever), and he has a cough."
+      },
+      {
+        "id": "w2",
+        "type": "multiple_choice",
+        "question": "What does the doctor tell Ben to do?",
+        "options": [
+          "Go to school tomorrow.",
+          "Rest at home and take medicine.",
+          "Go to the hospital.",
+          "Play outside."
+        ],
+        "answer": 1,
+        "explanation": "The doctor says 'You should rest at home for two days' and 'take this medicine three times a day.'"
+      },
+      {
+        "id": "w3",
+        "type": "multiple_choice",
+        "question": "Complete: 'You _____ drink a lot of water.'",
+        "options": [
+          "should to",
+          "should",
+          "should drinking"
+        ],
+        "answer": 1,
+        "explanation": "After 'should', we use the base form of the verb: 'should drink' (not 'should to drink')."
+      },
+      {
+        "id": "w4",
+        "type": "fill_blank",
+        "sentence": "My stomach ________. I think I ate too much.",
+        "answer": "hurts",
+        "hint": "'My stomach' is like 'it' — use the 3rd person singular."
+      },
+      {
+        "id": "w5",
+        "type": "fill_blank",
+        "sentence": "I don't feel well. I have a ________ and a ________.",
+        "answer": "headache / fever",
+        "hint": "Choose two health problems from the vocabulary of this lesson."
+      },
+      {
+        "id": "w6",
+        "type": "translation",
+        "french": "Qu'est-ce qui ne va pas ? — J'ai mal a la tete et je suis tres fatigue. — Tu devrais te reposer.",
+        "suggested_answer": "What's the matter? — I have a headache and I am very tired. — You should rest.",
+        "key_vocabulary": ["What's the matter?", "headache", "tired", "You should rest"]
+      }
+    ],
+    "oral": [
+      {
+        "id": "o1",
+        "type": "read_aloud",
+        "instruction": "Read this dialogue aloud. Try to sound ill when you are Ben!",
+        "text": "Doctor: What's the matter?\nBen: I don't feel well. I have a headache and my stomach hurts.\nDoctor: You should rest at home and take this medicine three times a day.",
+        "focus": "Use a questioning tone for the doctor and a weak, tired tone for Ben. Practise the pronunciation of 'headache' and 'stomach'.",
+        "phonetic_tips": ["headache: /ˈhedeɪk/", "stomach: /ˈstʌmək/", "medicine: /ˈmedsɪn/"]
+      },
+      {
+        "id": "o2",
+        "type": "answer_question",
+        "question": "You go to the doctor. You have a cough and you feel tired. Explain your symptoms and listen to the advice.",
+        "suggested_answer": "I don't feel well, doctor. I have a bad cough and I am very tired. My head hurts too. I think I have a fever.",
+        "vocabulary_hints": ["I don't feel well", "I have a...", "My ... hurts", "I think I have..."],
+        "duration_seconds": 30
+      },
+      {
+        "id": "o3",
+        "type": "answer_question",
+        "question": "Your friend is ill. Give him or her three pieces of advice using 'You should...'",
+        "suggested_answer": "You should stay in bed and rest. You should drink a lot of water and hot tea. You should take some medicine. You should not go to school tomorrow.",
+        "vocabulary_hints": ["You should...", "rest", "drink water", "take medicine", "You should not..."],
+        "duration_seconds": 30
+      }
+    ]
+  }
+}

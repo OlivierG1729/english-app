@@ -1,0 +1,247 @@
+{
+  "id": "a1_09",
+  "unit": 7,
+  "unit_title": "Everyday Life",
+  "title": "My School Day",
+  "level": "A1",
+  "type": "story",
+  "theme": "School & Subjects",
+  "reading_time": "3 min",
+  "content": {
+    "paragraphs": [
+      {
+        "en": "My name is Tom. I am twelve years old. I go to school every day from Monday to Friday. My school is not far from my house. I walk to school with my friend Lucy.",
+        "fr": "Je m'appelle Tom. J'ai douze ans. Je vais a l'ecole tous les jours du lundi au vendredi. Mon ecole n'est pas loin de ma maison. Je marche jusqu'a l'ecole avec mon amie Lucy."
+      },
+      {
+        "en": "School starts at half past eight. My first lesson is maths. I like maths because the teacher is very nice. She teaches us numbers and shapes. After maths, we have English. English is my favourite subject.",
+        "fr": "L'ecole commence a huit heures et demie. Mon premier cours est les maths. J'aime les maths parce que la professeure est tres gentille. Elle nous apprend les nombres et les formes. Apres les maths, nous avons anglais. L'anglais est ma matiere preferee."
+      },
+      {
+        "en": "At half past ten, it is time for a break. I play in the playground with my friends. We eat a snack and we talk about our favourite games. The break is only fifteen minutes, but it is fun.",
+        "fr": "A dix heures et demie, c'est l'heure de la pause. Je joue dans la cour de recreation avec mes amis. Nous mangeons un gouter et nous parlons de nos jeux preferes. La pause ne dure que quinze minutes, mais c'est amusant."
+      },
+      {
+        "en": "In the afternoon, we have science and art. I like art because I can draw and paint. My teacher, Mr Brown, always says I am good at drawing. He likes my pictures very much.",
+        "fr": "L'apres-midi, nous avons sciences et arts plastiques. J'aime les arts plastiques parce que je peux dessiner et peindre. Mon professeur, M. Brown, dit toujours que je suis bon en dessin. Il aime beaucoup mes dessins."
+      },
+      {
+        "en": "After school, I go home and do my homework. Sometimes it is easy, sometimes it is difficult. After my homework, I play with my dog in the garden. I love my school day!",
+        "fr": "Apres l'ecole, je rentre a la maison et je fais mes devoirs. Parfois c'est facile, parfois c'est difficile. Apres mes devoirs, je joue avec mon chien dans le jardin. J'adore ma journee d'ecole !"
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "classroom",
+        "phonetic": "/ˈklɑːsruːm/",
+        "type": "noun",
+        "definition_en": "une salle dans une ecole ou les eleves ont cours",
+        "definition_fr": "salle de classe",
+        "example": "There are twenty desks in our classroom.",
+        "level": "A1"
+      },
+      {
+        "word": "teacher",
+        "phonetic": "/ˈtiːtʃər/",
+        "type": "noun",
+        "definition_en": "une personne qui enseigne aux eleves a l'ecole",
+        "definition_fr": "professeur, enseignant(e)",
+        "example": "My teacher is very kind and helpful.",
+        "level": "A1"
+      },
+      {
+        "word": "maths",
+        "phonetic": "/mæθs/",
+        "type": "noun",
+        "definition_en": "l'etude des nombres, des formes et des quantites",
+        "definition_fr": "mathematiques",
+        "example": "We have maths every Monday morning.",
+        "level": "A1"
+      },
+      {
+        "word": "English",
+        "phonetic": "/ˈɪŋɡlɪʃ/",
+        "type": "noun",
+        "definition_en": "la langue parlee en Angleterre, aux Etats-Unis, etc.",
+        "definition_fr": "anglais (la langue)",
+        "example": "I study English at school three times a week.",
+        "level": "A1"
+      },
+      {
+        "word": "break",
+        "phonetic": "/breɪk/",
+        "type": "noun",
+        "definition_en": "une courte periode de repos entre les cours",
+        "definition_fr": "pause, recreation",
+        "example": "We have a break at ten o'clock.",
+        "level": "A1"
+      },
+      {
+        "word": "homework",
+        "phonetic": "/ˈhoʊmwɜːrk/",
+        "type": "noun",
+        "definition_en": "du travail qu'un professeur donne aux eleves a faire a la maison",
+        "definition_fr": "devoirs (a la maison)",
+        "example": "I do my homework every evening after dinner.",
+        "level": "A1"
+      },
+      {
+        "word": "favourite",
+        "phonetic": "/ˈfeɪvərɪt/",
+        "type": "adjective",
+        "definition_en": "celui ou celle que l'on aime le plus",
+        "definition_fr": "prefere(e), favori(te)",
+        "example": "Blue is my favourite colour.",
+        "level": "A1"
+      },
+      {
+        "word": "lesson",
+        "phonetic": "/ˈlesn/",
+        "type": "noun",
+        "definition_en": "une periode de temps pendant laquelle un professeur enseigne aux eleves",
+        "definition_fr": "cours, lecon",
+        "example": "Our English lesson is at nine o'clock.",
+        "level": "A1"
+      }
+    ],
+    "grammar_points": [
+      {
+        "title": "Present Simple - 3rd Person Singular",
+        "explanation": "En anglais, quand on parle de **he**, **she** ou **it** au present simple, on ajoute **-s** ou **-es** au verbe. Par exemple : 'I teach' mais 'She teach**es**'. 'I like' mais 'He like**s**'. C'est different du francais ou les terminaisons des verbes changent pour chaque personne.",
+        "examples": [
+          "She teaches us maths. (teach → teaches)",
+          "He likes my pictures. (like → likes)",
+          "Tom walks to school. (walk → walks)",
+          "The school starts at half past eight. (start → starts)"
+        ]
+      },
+      {
+        "title": "Telling the Time with 'half past' and 'o'clock'",
+        "explanation": "En anglais, on dit **'o'clock'** pour les heures exactes et **'half past'** pour trente minutes apres l'heure. Par exemple : 'eight o'clock' = 8:00, 'half past eight' = 8:30.",
+        "examples": [
+          "School starts at half past eight. (= 8:30)",
+          "We have a break at half past ten. (= 10:30)",
+          "I wake up at seven o'clock. (= 7:00)"
+        ]
+      }
+    ],
+    "expressions": [
+      {
+        "expression": "My favourite subject is...",
+        "meaning_fr": "Ma matiere preferee est...",
+        "example": "My favourite subject is English because I love reading.",
+        "register": "neutral",
+        "note": "Une facon tres courante de parler de ce que l'on prefere a l'ecole."
+      },
+      {
+        "expression": "After school, I...",
+        "meaning_fr": "Apres l'ecole, je...",
+        "example": "After school, I play football with my friends.",
+        "register": "neutral",
+        "note": "S'utilise pour decrire ce que l'on fait quand la journee d'ecole est terminee."
+      },
+      {
+        "expression": "It's time for...",
+        "meaning_fr": "C'est l'heure de...",
+        "example": "It's time for lunch! Let's go to the canteen.",
+        "register": "neutral",
+        "note": "S'utilise pour dire que quelque chose devrait se passer maintenant."
+      },
+      {
+        "expression": "I am good at...",
+        "meaning_fr": "Je suis bon/bonne en...",
+        "example": "I am good at drawing, but I am not good at singing.",
+        "register": "neutral",
+        "note": "Utilisez 'good at' + nom ou verbe en -ing pour parler de vos capacites."
+      }
+    ]
+  },
+  "exercises": {
+    "written": [
+      {
+        "id": "w1",
+        "type": "multiple_choice",
+        "question": "What is Tom's favourite subject?",
+        "options": [
+          "Maths",
+          "English",
+          "Art"
+        ],
+        "answer": 1,
+        "explanation": "Tom says 'English is my favourite subject' in the second paragraph."
+      },
+      {
+        "id": "w2",
+        "type": "multiple_choice",
+        "question": "Complete: 'She _____ us maths every day.'",
+        "options": [
+          "teach",
+          "teachs",
+          "teaches"
+        ],
+        "answer": 2,
+        "explanation": "With 'she' (3rd person singular), we add -es to verbs ending in -ch: teach → teaches."
+      },
+      {
+        "id": "w3",
+        "type": "multiple_choice",
+        "question": "What does Tom do after school?",
+        "options": [
+          "He plays football.",
+          "He does his homework.",
+          "He watches television.",
+          "He goes to the park."
+        ],
+        "answer": 1,
+        "explanation": "Tom says 'After school, I go home and do my homework.'"
+      },
+      {
+        "id": "w4",
+        "type": "fill_blank",
+        "sentence": "My teacher ________ (like) my drawings very much.",
+        "answer": "likes",
+        "hint": "Remember to add -s for he/she/it in the present simple."
+      },
+      {
+        "id": "w5",
+        "type": "fill_blank",
+        "sentence": "School ________ (start) at half past eight every morning.",
+        "answer": "starts",
+        "hint": "'School' is like 'it' — use the 3rd person singular form."
+      },
+      {
+        "id": "w6",
+        "type": "translation",
+        "french": "Ma matiere preferee est l'anglais. Mon professeur est tres gentille.",
+        "suggested_answer": "My favourite subject is English. My teacher is very nice.",
+        "key_vocabulary": ["favourite subject", "teacher", "nice"]
+      }
+    ],
+    "oral": [
+      {
+        "id": "o1",
+        "type": "read_aloud",
+        "instruction": "Read this passage aloud slowly and clearly.",
+        "text": "School starts at half past eight. My first lesson is maths. I like maths because the teacher is very nice. She teaches us numbers and shapes.",
+        "focus": "Pay attention to the 's' sound at the end of 'starts', 'teaches' and 'shapes'. Pronounce each word clearly.",
+        "phonetic_tips": ["teaches: /ˈtiːtʃɪz/", "favourite: /ˈfeɪvərɪt/", "lesson: /ˈlesn/"]
+      },
+      {
+        "id": "o2",
+        "type": "answer_question",
+        "question": "What is your favourite subject at school? What time does your school start?",
+        "suggested_answer": "My favourite subject is English. I like it because the teacher is very nice. My school starts at eight o'clock in the morning.",
+        "vocabulary_hints": ["My favourite subject is...", "I like it because...", "My school starts at..."],
+        "duration_seconds": 30
+      },
+      {
+        "id": "o3",
+        "type": "answer_question",
+        "question": "Describe your school day. What do you do in the morning and in the afternoon?",
+        "suggested_answer": "In the morning, I have maths and English. At half past ten, we have a break. In the afternoon, I have science and art. After school, I do my homework.",
+        "vocabulary_hints": ["In the morning...", "In the afternoon...", "After school..."],
+        "duration_seconds": 45
+      }
+    ]
+  }
+}

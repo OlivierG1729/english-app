@@ -1,0 +1,138 @@
+/* StepNav.css */
+.step-nav {
+  background: var(--bg-secondary);
+  border-bottom: 1px solid var(--border);
+  padding: 0.75rem 1.5rem;
+  overflow-x: auto;
+}
+
+.step-nav-inner {
+  display: flex;
+  align-items: center;
+  gap: 0;
+  max-width: 75vw;
+  margin: 0 auto;
+}
+
+.step-btn {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 0.4rem 0.75rem;
+  border-radius: var(--radius-md);
+  transition: background var(--transition);
+  flex: 1;
+  min-width: 0;
+  position: relative;
+}
+
+.step-btn:hover:not(:disabled) {
+  background: var(--bg-card);
+}
+
+.step-btn.active {
+  background: var(--bg-card);
+}
+
+.step-btn:disabled {
+  cursor: not-allowed;
+  opacity: 0.35;
+}
+
+/* Trait de connexion */
+.step-connector {
+  position: absolute;
+  left: -8px;
+  width: 16px;
+  height: 2px;
+  background: var(--border);
+  top: 50%;
+  transform: translateY(-50%);
+  z-index: 0;
+}
+.step-connector.reached {
+  background: var(--accent-violet);
+}
+
+/* Cercle de l'étape */
+.step-circle {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  background: var(--bg-elevated);
+  border: 2px solid var(--border);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  font-size: 1.275rem;
+  transition: all var(--transition);
+  z-index: 1;
+  position: relative;
+}
+
+.step-btn.active .step-circle {
+  border-color: var(--accent-violet);
+  background: rgba(124,111,208,0.15);
+  box-shadow: 0 0 0 3px rgba(124,111,208,0.2);
+}
+
+.step-btn.complete .step-circle {
+  border-color: var(--success);
+  background: rgba(76,175,125,0.12);
+}
+
+.step-check {
+  color: var(--success);
+  font-size: 1.2rem;
+  font-weight: 700;
+}
+
+/* Labels */
+.step-label {
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  overflow: hidden;
+}
+
+.step-num {
+  font-family: var(--font-mono);
+  font-size: 0.9rem;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  white-space: nowrap;
+}
+
+.step-name {
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: var(--text-secondary);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.step-btn.active .step-name {
+  color: var(--accent-violet);
+}
+
+.step-btn.complete .step-name {
+  color: var(--success);
+}
+
+@media (max-width: 768px) {
+  .step-nav-inner { max-width: 95vw; }
+  .step-name { font-size: 0.85rem; }
+  .step-num  { font-size: 0.7rem; }
+}
+
+@media (max-width: 480px) {
+  .step-name { display: none; }
+  .step-num  { display: none; }
+  .step-btn  { flex: none; padding: 0.4rem; }
+}
