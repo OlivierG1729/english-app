@@ -9,7 +9,7 @@ Voix utilisée : en-GB-SoniaNeural (voix britannique naturelle, parfaite pour B2
 Alternative américaine : en-US-JennyNeural
 """
 
-from fastapi import APIRouter, HTTPException, BackgroundTasks
+from fastapi import APIRouter, HTTPException
 import os
 import json
 import asyncio
@@ -99,13 +99,11 @@ async def get_audio_status(lesson_id: str):
 @router.post("/{lesson_id}/generate")
 async def generate_audio(
     lesson_id: str,
-    background_tasks: BackgroundTasks,
     voice: str = TTS_VOICE,
     rate: str = TTS_RATE
 ):
     """
-    Lance la génération audio en arrière-plan.
-    Retourne immédiatement — le frontend peut polling le status.
+    Génère l'audio de manière synchrone et retourne l'URL une fois terminé.
     """
     audio_path = os.path.join(AUDIO_DIR, f"lesson_{lesson_id}.mp3")
 
@@ -116,13 +114,18 @@ async def generate_audio(
             "audio_url": f"/audio/lesson_{lesson_id}.mp3"
         }
 
-    # Lance la génération en arrière-plan
-    background_tasks.add_task(_generate_audio_file, lesson_id, voice, rate)
-
-    return {
-        "status": "generating",
-        "message": f"Génération audio en cours pour la leçon {lesson_id}. Vérifiez le status dans quelques secondes."
-    }
+    # Génération synchrone — attend la fin avant de répondre
+    try:
+        await _generate_audio_file(lesson_id, voice, rate)
+        return {
+            "status": "ready",
+            "audio_url": f"/audio/lesson_{lesson_id}.mp3"
+        }
+    except Exception as e:
+        return {
+            "status": "error",
+            "message": str(e)
+        }
 
 
 @router.get("/voices")

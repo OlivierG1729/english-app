@@ -73,18 +73,22 @@ export default function ListenStep({ lesson, onComplete, onWordTranslated }: Lis
   async function handleGenerateAudio() {
     setAudioStatus('generating')
     try {
-      await api.generateAudio(lesson.id)
-      // Polling toutes les 2s jusqu'à disponibilité
-      const poll = setInterval(async () => {
+      const result = await api.generateAudio(lesson.id)
+      if (result.audio_url) {
+        setAudioUrl(result.audio_url)
+        setAudioStatus('available')
+      } else if (result.status === 'error') {
+        setAudioStatus('error')
+      } else {
+        // Fallback : vérifier le statut
         const status = await api.getAudioStatus(lesson.id)
         if (status.audio_available && status.audio_url) {
-          clearInterval(poll)
           setAudioUrl(status.audio_url)
           setAudioStatus('available')
+        } else {
+          setAudioStatus('error')
         }
-      }, 2000)
-      // Arrête le polling après 60s max
-      setTimeout(() => clearInterval(poll), 60000)
+      }
     } catch {
       setAudioStatus('error')
     }
