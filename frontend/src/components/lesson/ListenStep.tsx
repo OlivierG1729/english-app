@@ -39,7 +39,8 @@ export default function ListenStep({ lesson, onComplete, onWordTranslated }: Lis
   // Met à jour l'audio quand l'URL change
   useEffect(() => {
     if (!audioUrl) return
-    const audio = new Audio(audioUrl)
+    const apiBase = import.meta.env.VITE_API_URL || ''
+    const audio = new Audio(`${apiBase}${audioUrl}`)
     audioRef.current = audio
 
     audio.onloadedmetadata = () => setDuration(audio.duration)

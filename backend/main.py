@@ -1,13 +1,7 @@
 """
 English Learning App — FastAPI Backend
 ========================================
-Sert :
-  - les leçons (JSON statiques)
-  - le curriculum (liste des leçons)
-  - la progression de l'utilisateur (SQLite)
-  - la génération/service des fichiers audio TTS
-
-Port : 8000
+Sert les lecons, le curriculum, la progression, l'audio TTS et la traduction.
 """
 
 from fastapi import FastAPI
@@ -24,22 +18,24 @@ from routes.translate import router as translate_router
 # ─── Application ──────────────────────────────────────────────
 app = FastAPI(
     title="English Learning App API",
-    description="Backend for B2→C1 English learning application",
+    description="Backend for English learning application (A1 to C1)",
     version="1.0.0"
 )
 
 # ─── CORS ─────────────────────────────────────────────────────
-# Autorise les requêtes depuis le frontend React (port 5173 par défaut Vite)
+# En production, autorise le frontend Vercel et toute origine
+ALLOWED_ORIGINS = os.getenv("ALLOWED_ORIGINS", "http://localhost:5173,http://127.0.0.1:5173,http://localhost:3000").split(",")
+
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:5173", "http://127.0.0.1:5173", "http://localhost:3000"],
+    allow_origins=ALLOWED_ORIGINS,
+    allow_origin_regex=r"https://.*\.vercel\.app",
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
 )
 
 # ─── Fichiers audio statiques ──────────────────────────────────
-# Les MP3 générés par edge-tts sont servis directement depuis /audio/
 AUDIO_DIR = os.path.join(os.path.dirname(__file__), "audio")
 os.makedirs(AUDIO_DIR, exist_ok=True)
 app.mount("/audio", StaticFiles(directory=AUDIO_DIR), name="audio")
@@ -53,10 +49,10 @@ app.include_router(translate_router, prefix="/api/translate", tags=["Translate"]
 # ─── Startup ──────────────────────────────────────────────────
 @app.on_event("startup")
 async def startup_event():
-    """Initialise la base de données SQLite au démarrage."""
     init_db()
-    print("[OK] Database initialized")
-    print("[OK] English Learning App backend running on http://localhost:9000")
+    port = os.getenv("PORT", "9000")
+    print(f"[OK] Database initialized")
+    print(f"[OK] English Learning App backend running on port {port}")
 
 @app.get("/")
 async def root():

@@ -5,7 +5,10 @@
 
 import type { Lesson, Curriculum, LessonProgress, GlobalStats } from '../types'
 
-const BASE = '/api'
+// En dev : '/api' (proxy Vite vers localhost:9000)
+// En prod : 'https://xxx.onrender.com/api' (variable d'environnement VITE_API_URL)
+const API_URL = import.meta.env.VITE_API_URL || ''
+const BASE = `${API_URL}/api`
 
 // ─── Helper ────────────────────────────────────────────────────
 async function fetchJSON<T>(url: string, options?: RequestInit): Promise<T> {
